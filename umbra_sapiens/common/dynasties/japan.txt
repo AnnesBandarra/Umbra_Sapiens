@@ -1,4 +1,5 @@
 27000 = {
+	used_for_random=no
 	name="Yamato"
 	culture = japanese
 	used_for_random = no
@@ -15,6 +16,7 @@
 	}
 }
 27001 = {
+	used_for_random=no
 	name="Fujiwara"
 	culture = japanese
 	used_for_random = no
@@ -31,6 +33,7 @@
 	}
 }
 27002 = {
+	used_for_random=no
 	name="Minamoto"
 	culture = japanese
 	used_for_random = no
@@ -47,6 +50,7 @@
 	}
 }
 27003 = {
+	used_for_random=no
 	name="Taira"
 	culture = japanese
 	used_for_random = no
@@ -63,6 +67,7 @@
 	}
 }
 27004 = {
+	used_for_random=no
 	name="Tachibana"
 	culture = japanese
 	used_for_random=no
@@ -79,6 +84,7 @@
 	}
 }
 27005 = {
+	used_for_random=no
 	name="Saga=Minamoto"
 	culture = japanese
 	used_for_random=no
@@ -95,6 +101,7 @@
 	}
 }
 27006 = {
+	used_for_random=no
 	name="Seiwa-Minamoto"
 	culture = japanese
 	used_for_random=no
@@ -213,8 +220,10 @@
     culture= japanese
 }
 28278 = {
+	used_for_random=no
     name="Oe"
     culture= japanese
+	religion="nihon_shinto"
 }
 28279 = {
     name="Otomo"
@@ -387,8 +396,10 @@
 }
 
 28317 = {
+	used_for_random=no
     name="Hosokawa"
     culture= japanese
+	religion="nihon_shinto"
 }
 
 28318 = {
@@ -466,8 +477,10 @@
     culture= japanese
 }
 28334 = {
+	used_for_random=no
     name="Kikuchi"
-    culture= japanese
+    culture="japanese"
+	religion="nihon_shinto"
 }
 28335 = {
     name="Kira"
@@ -516,6 +529,7 @@
 28346 = {
     name="Kujo"
     culture= japanese
+	religion="nihon_shinto"
 }
 28347 = {
     name="Kuzuyama"
@@ -544,6 +558,7 @@
 28353 = {
     name="Matsudaira"
     culture= japanese
+	religion="nihon_shinto"
 }
 28354 = {
     name="Matsumae"
@@ -610,8 +625,10 @@
     culture= japanese
 }
 28370 = {
+	used_for_random=no
     name="Nijo"
     culture= japanese
+	religion="nihon_shinto"
 }
 28371 = {
     name="Nitta"
@@ -641,13 +658,11 @@
     name="Ogasawara"
     culture= japanese
 }
-28378 = {
-    name="Otomo"
-    culture= japanese
-}
 28379 = {
+	used_for_random=no
     name="Ouchi"
     culture= japanese
+	religion="nihon_shinto"
 }
 28380 = {
     name="Rokkaku"
@@ -756,6 +771,7 @@
 28406 = {
     name="Takatsukasa"
     culture= japanese
+	religion="nihon_shinto"
 }
 28407 = {
     name="Takeda"
@@ -1132,4 +1148,128 @@
 28500 = {
 	name="Eiso"
 	culture = ryukyuan
+}
+28501 = {
+	used_for_random=no
+	name="Yoshimine"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28502 = {
+	used_for_random=no
+	name="Ariwara"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28503 = {
+	used_for_random=no
+	name="Mune"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28504 = {
+	used_for_random=no
+	name="Sada"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28505 = {
+	name="Shigemizu"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28506 = {
+	used_for_random=no
+	name="In"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28507 = {
+	used_for_random=no
+	name="Fushimi"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28508 = {
+	used_for_random=no
+	name="Fujiwara Nan-ke"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28509 = {
+	used_for_random=no
+	name="Fujiwara Hok-ke"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28510 = {
+	used_for_random=no
+	name="Fujiwara Shiki-ke"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28511 = {
+	used_for_random=no
+	name="Fujiwara Kyō-ke"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28512 = {
+	used_for_random=no
+	name="Kato"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28515 = {
+	used_for_random=no
+	name="Nakahara"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28516 = {
+	name="Jiujo"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28517 = {
+	used_for_random=no
+	name="Awataguchi"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28518 = {
+	used_for_random=no
+	name="Muromachi"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28519 = {
+	used_for_random=no
+	name="Matsudono"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28520 = {
+	used_for_random=no
+	name="Tsukinowa"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28521 = {
+	used_for_random=no
+	name="Imagoji"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28522 = {
+	used_for_random=no
+	name="Tominoji"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28523 = {
+	used_for_random=no
+	name="Tosa"
+	culture = japanese
+	religion = "nihon_shinto"
 }

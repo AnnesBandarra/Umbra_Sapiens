@@ -45,14 +45,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = anglican
-			religion = reformed
-			religion = hussite
-			religion = anabaptist
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = anabaptist
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
 			}
 			}
 			}
@@ -97,12 +99,14 @@ province_event = {
 				OR = {
 				religion = hussite
 				religion = anabaptist
-				religion = anglican
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -153,14 +157,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = anglican
-			religion = reformed
-			religion = hussite
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
 			}
 			}
 			}
@@ -261,14 +267,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = anglican
-			religion = anabaptist
-			religion = hussite
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
 			}
 			}
 			}
@@ -313,12 +321,14 @@ province_event = {
 				OR = {
 				religion = hussite
 				religion = anabaptist
-				religion = anglican
 				religion = lutheran
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -366,14 +376,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = anglican
-			religion = anabaptist
-			religion = reformed
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
 			}
 			}
 			}
@@ -416,14 +428,16 @@ province_event = {
 			trigger = {
 				FROM = {
 				OR = {
-				religion = lutheran
 				religion = anabaptist
-				religion = anglican
+				religion = lutheran
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -451,7 +465,7 @@ province_event = {
 	}
 	
 	mean_time_to_happen = {
-		years = 20
+		years = 40
 			modifier = {
 			factor = 20
 			culture = polish
@@ -474,14 +488,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = hussite
-			religion = anabaptist
-			religion = reformed
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
 			}
 			}
 			}
@@ -529,6 +545,8 @@ province_event = {
 				religion = lutheran
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
@@ -963,15 +981,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.8
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -1215,15 +1235,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.9
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -1260,96 +1282,11 @@ narrative_event = {
 		name = major_protestant_reformer
 		}
 		set_global_flag = anglican_work
-		22 = { religion = anglican }
+		22 = { 
+			religion = puritan 
+		}
 		73 = {
-		religion = anglican 
-		create_character = {
-		random_traits = yes
-		name = "Thomas"
-		dynasty = 1010043028
-		religion = anglican
-		culture = english
-		female = no
-		age = 51
-		attributes = {
-        learning = 20
-		}
-		 add_trait = stubborn
-		add_trait = zealous
-		add_trait = scholar
-		add_trait = theologian
-		add_trait = brave
-		}
-		create_character = {
-		random_traits = yes
-		name = "Thomas"
-		dynasty = 1010043029
-		religion = anglican
-		culture = english
-		female = no
-		age = 49
-		attributes = {
-        learning = 18
-		}
-		add_trait = zealous
-		add_trait = theologian
-		}
-		create_character = {
-		random_traits = yes
-		name = "Hugh"
-		dynasty = 1010043030
-		religion = anglican
-		culture = english
-		female = no
-		age = 50
-		attributes = {
-        learning = 16
-		}
-		add_trait = zealous
-		add_trait = theologian
-		}
-		create_character = {
-		random_traits = yes
-		name = "William"
-		dynasty = 1010043031
-		religion = anglican
-		culture = english
-		female = no
-		age = 30
-		attributes = {
-        learning = 17
-		}
-		add_trait = zealous
-		add_trait = theologian
-		}
-		create_character = {
-		random_traits = yes
-		name = "Matthew"
-		dynasty = 1010043032
-		religion = anglican
-		culture = english
-		female = no
-		age = 30
-		attributes = {
-        learning = 17
-		}
-		add_trait = zealous
-		add_trait = theologian
-		}
-		create_character = {
-		random_traits = yes
-		name = "Richard"
-		dynasty = 3
-		religion = anglican
-		culture = english
-		female = no
-		age = 17
-		attributes = {
-        learning = 16
-		}
-		add_trait = zealous
-		add_trait = theologian
-		}
+			religion = puritan 
 		}
 		}
 
@@ -1372,15 +1309,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.10
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -1685,15 +1624,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.11
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -1788,14 +1729,16 @@ province_event = {
 				FROM = {
 				OR = {
 				religion = hussite
-				religion = lutheran
-				religion = anglican
-				religion = reformed
 				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -1871,15 +1814,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.13
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -1942,15 +1887,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.14
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2013,15 +1960,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.15
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2248,15 +2197,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.16
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2393,15 +2344,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.18
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2506,9 +2459,12 @@ province_event = {
 				religion = lutheran
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
-				religion = anglican
+				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -2600,15 +2556,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.20
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2658,14 +2616,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = hussite
-			religion = anabaptist
-			religion = reformed
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = arminian
+				religion = methodist
+				religion = anglican
 			}
 			}
 			}
@@ -2713,9 +2673,12 @@ province_event = {
 				religion = lutheran
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
 				religion = arminian
-				religion = anglican
 				religion = methodist
+				religion = anglican
 				}
 			}
 		}
@@ -2807,15 +2770,17 @@ narrative_event = {
 			text = EVTOPTCreformationevents.22
 			trigger = {
 				OR = {
-				religion = lutheran
-				religion = anabaptist
-				religion = reformed
 				religion = hussite
-				religion = anglican
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
 				religion = baptist
 				religion = arminian
 				religion = methodist
+				religion = anglican
 				}
 		}
 	}
@@ -2865,14 +2830,16 @@ province_event = {
 				factor = 0.8
 			top_liege  = {
 			OR = {
-			religion = hussite
-			religion = anabaptist
-			religion = reformed
-			religion = lutheran
-			religion = unitarian
-			religion = baptist
-			religion = arminian
-			religion = methodist
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = anglican
 			}
 			}
 			}
@@ -2920,15 +2887,359 @@ province_event = {
 				religion = lutheran
 				religion = reformed
 				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = baptist
 				religion = arminian
 				religion = anglican
-				religion = methodist
 				}
 			}
 		}
 	}
 	ROOT = {
 		religion = methodist
+		}
+}
+}
+province_event = {
+	id = reformationevents.24
+	title = EVTNAMEreformationevents.24
+	desc = EVTDESCreformationeventsR.24
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = anglican_work
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = puritan
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = puritan
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.24
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.24
+			trigger = {
+				FROM = {
+				religion = puritan
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.24
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = puritan
+		}
+}
+}
+province_event = {
+	id = reformationevents.25
+	title = EVTNAMEreformationevents.25
+	desc = EVTDESCreformationeventsR.25
+	  picture = GFX_evt_beatification
+	trigger = {
+		has_global_flag = baptist_work
+		NOT = { 
+				region = world_europe
+		} 
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = baptist
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = puritan
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = quaker
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.25
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.25
+			trigger = {
+				FROM = {
+				religion = baptist
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.25
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = quaker
+				religion = arminian
+				religion = methodist
+				religion = anglican
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = baptist
+		}
+}
+}
+province_event = {
+	id = reformationevents.26
+	title = EVTNAMEreformationevents.26
+	desc = EVTDESCreformationeventsR.26
+	  picture = GFX_evt_beatification
+	trigger = {
+		year = 1641
+		NOT = { 
+				region = world_europe
+		} 
+		OR = {
+		religion = catholic
+		religion = lollard
+		religion = waldensian
+		}
+		any_neighbor_province = {
+		religion = quaker
+		}
+	}
+	
+	mean_time_to_happen = {
+		years = 20
+			modifier = {
+			factor = 20
+			culture = polish
+			}
+			modifier = {
+			factor = 20
+			culture = irish
+			}
+			modifier = {
+			factor = 10
+			region = world_catholic
+			}
+			modifier = {
+				factor = 0.6
+			top_liege  = {
+			religion = quaker
+			}
+			}
+			modifier = {
+				factor = 0.8
+			top_liege  = {
+			OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
+			}
+			}
+			}
+		#Authority of Catholicism
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 2
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+	}
+	
+	option = {
+		name = {
+			text = EVTOPTAreformationevents.26
+			trigger = {
+				FROM = {
+				religion = catholic
+				}
+			}
+		}
+		name = {
+			text = EVTOPTBreformationevents.26
+			trigger = {
+				FROM = {
+				religion = quaker
+				}
+			}
+		}
+		name = {
+			text = EVTOPTCreformationevents.26
+			trigger = {
+				FROM = {
+				OR = {
+				religion = hussite
+				religion = anabaptist
+				religion = lutheran
+				religion = reformed
+				religion = unitarian
+				religion = puritan
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				religion = anglican
+				}
+			}
+		}
+	}
+	ROOT = {
+		religion = quaker
 		}
 }
 }

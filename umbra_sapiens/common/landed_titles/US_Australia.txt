@@ -1139,14 +1139,6 @@ e_australia = {
 				b_yagalingu-i = {
 				}
 			}
-			c_yambina = {
-
-				color={ 135 166 111 }
-				color2={ 255 255 255 }
-
-				b_yambina-i = {
-				}
-			}
 		}
 		d_garawa = { 
 
@@ -1888,6 +1880,14 @@ e_australia = {
 				color2={ 255 255 255 }
 
 				b_miyan-i = {
+				}
+		}
+		c_yambina = {
+
+				color={ 249 180 170 }
+				color2={ 255 255 255 }
+
+				b_yambina-i = {
 				}
 		}
 		c_wangan = {

@@ -4,7 +4,7 @@
 }
 1009990275 = {
 	name="Galtanar"
-	culture=caran
+	culture="caran"
 }
 1009990276 = {
 	name="Tummamna"

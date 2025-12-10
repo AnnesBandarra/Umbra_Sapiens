@@ -29,6 +29,9 @@
 1451.8.30={ 
 	holder=397516
 }
+1500.1.1={ 
+	holder=401384
+}
 1524.6.15={
 	holder=397403	#Pedro de Alvarado
 	liege="e_espana_burgona"

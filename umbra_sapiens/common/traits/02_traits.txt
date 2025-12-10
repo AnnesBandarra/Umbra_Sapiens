@@ -8379,13 +8379,12 @@ kuge = {
 	culture_group = far_east
 	} 
 	}
-	random = no
-	customizer = no
 	same_opinion = 25
 	vassal_opinion = 10
 	caste_tier = 3
 	monthly_character_prestige = 0.5
 	ruler_designer_cost = 25
+	random = no
 }
 thien_thai_buddhist = {
 	opposites = {

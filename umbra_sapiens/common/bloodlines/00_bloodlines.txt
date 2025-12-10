@@ -775,7 +775,10 @@ yamato = {
 	picture = GFX_bloodlines_symbol_lion
 	flags = { historical_bloodline }
 	active = {
-		dynasty = 1000027000
+		OR={
+		dynasty = 27000
+		dynasty = 28507
+		}
 		religion = nihon_shinto
 	}
 }

@@ -191,7 +191,13 @@ holder=453400	#Laurence Hastings, 1st Earl of Pembroke
 1348.8.30 = {
 holder=383514	#John Hastings, 2nd Earl of Pembroke
 }
+1375.4.16 = {
+holder=383515	#John Hastings, 3rd Earl of Pembroke
+}
 1389.12.30 = {
+holder=372760 #Richard II
+}
+1390.10.3 = {
 holder=372786	#Humphrey, Duke of Gloucester
 }
 1447.2.23 = {

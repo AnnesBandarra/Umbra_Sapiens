@@ -12,6 +12,6 @@ religion = mayan
 
 # History
 1536.6.27={
-	religion=castholic
+	religion=catholic
 	b_chortli-iii = city
 }

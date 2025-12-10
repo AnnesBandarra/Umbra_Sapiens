@@ -136,7 +136,7 @@
 	holder=388068	#Min Nemi
 }
 1409.1.1={
-	holder=388080	#Letya Zeya Thingyan
+	holder=401383	#Letya Zeya Thingyan
 }
 1412.1.1={
 	holder=388069	#Thinkhaya I

@@ -11632,7 +11632,7 @@
 }
 1010045331={
 	name="Azcapotzalca"
-	culture=zapoteca
+	culture=zacatecan
 	religion=southwest_pagan
 }
 1010045332={
@@ -11659,4 +11659,9 @@
 	name="van Leyden"
 	culture="dutch" 
 	religion="anabaptist"
+}
+1010045337={
+	name="Letya"
+	religion="buddhist"
+	culture="bamar"
 }

@@ -70,6 +70,7 @@ mesoamerican = {
 		
 		#from_dynasty_prefix = "of "
 		founder_named_dynasties = yes
+		horde = yes
 		dukes_called_kings = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
@@ -770,6 +771,7 @@ hokan_group = {
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
 		dukes_called_kings = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -816,6 +818,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -866,6 +869,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -910,6 +914,7 @@ hokan_group = {
 		
 	from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -959,6 +964,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -1005,6 +1011,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -1059,6 +1066,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -1113,6 +1121,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -1167,6 +1176,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -1221,6 +1231,7 @@ hokan_group = {
 		
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
 		pat_grf_name_chance = 50
 		mat_grf_name_chance = 0
@@ -2638,6 +2649,7 @@ sivullirmiut = {
 
 		from_dynasty_prefix = ""
 		dynasty_title_names = yes
+		horde = yes
 		prefix = no
 
 		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.

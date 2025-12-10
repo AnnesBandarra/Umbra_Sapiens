@@ -134,5 +134,5 @@ holder=462162
 	holder=372416	#Ernest of Bavaria (1581–1612)
 }
 1612.2.17 = {
-	holder=372628	#Ferdinand of Bavaria (1612–1650)
+	holder=372629	#Ferdinand of Bavaria (1612–1650)
 }

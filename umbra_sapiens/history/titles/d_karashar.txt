@@ -79,7 +79,7 @@
 	holder = 166794
 }
 1332.1.1={
-	holder = 242165
+	holder = 401382
 }
 1347.1.1={
 	liege=k_zhetysu

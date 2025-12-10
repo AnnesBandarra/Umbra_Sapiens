@@ -194,7 +194,9 @@ targetted_decisions = {
 				religion = lollard
 				religion = lutheran
 				religion = hussite
+				religion = puritan
 				religion = anglican
+				religion = quaker
 				religion = reformed
 				religion = anabaptist
 				religion = unitarian
@@ -331,7 +333,327 @@ targetted_decisions = {
 			}
 		}
 	}
-	convert_to_anglican = {
+	convert_to_baptist = {
+		only_playable = yes
+		filter = self
+		
+		ai_target_filter = self
+		potential = {
+			has_global_flag = baptist_work
+			NOT = { 
+				region = world_europe
+			} 
+			OR = {
+			religion = anglican
+			religion = lollard
+			religion = waldensian
+			}
+			capital_scope = {
+				OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = puritan
+				religion = anglican
+				religion = quaker
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+			controls_religion = no
+			holy_order = no
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = baptist
+			piety = 100
+			religion_authority = {
+				modifier = ruler_converted_from
+			}
+			custom_tooltip = { text = local_religion_conversion_tooltip }
+			hidden_tooltip = {
+				any_realm_province = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = baptist
+				}
+				any_realm_character = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = baptist
+				}
+			}
+			hidden_tooltip = {
+				religion_authority = {
+					modifier = ruler_converted_to
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			#Title
+			modifier = {
+				factor = 1.5
+			tier = BARON
+			}
+			modifier = {
+				factor = 1.2
+			tier = COUNT
+			}
+			modifier = {
+				factor = 1
+			tier = DUKE
+			}
+			modifier = {
+				factor = 0.8
+			tier = KING
+			}
+			modifier = {
+				factor = 0.5
+			tier = EMPEROR
+			}
+			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.5
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.05
+				FROM = { trait = cynical }
+			}
+		}
+	}
+	convert_to_quaker = {
+		only_playable = yes
+		filter = self
+		
+		ai_target_filter = self
+		potential = {
+			year=1641
+			NOT = { 
+				region = world_europe
+			}
+			OR = {
+			religion = anglican
+			religion = lollard
+			religion = waldensian
+			}
+			capital_scope = {
+				OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = puritan
+				religion = anglican
+				religion = quaker
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+			controls_religion = no
+			holy_order = no
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = quaker
+			piety = 100
+			religion_authority = {
+				modifier = ruler_converted_from
+			}
+			custom_tooltip = { text = local_religion_conversion_tooltip }
+			hidden_tooltip = {
+				any_realm_province = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = quaker
+				}
+				any_realm_character = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = quaker
+				}
+			}
+			hidden_tooltip = {
+				religion_authority = {
+					modifier = ruler_converted_to
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			#Title
+			modifier = {
+				factor = 1.5
+			tier = BARON
+			}
+			modifier = {
+				factor = 1.2
+			tier = COUNT
+			}
+			modifier = {
+				factor = 1
+			tier = DUKE
+			}
+			modifier = {
+				factor = 0.8
+			tier = KING
+			}
+			modifier = {
+				factor = 0.5
+			tier = EMPEROR
+			}
+			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.5
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.05
+				FROM = { trait = cynical }
+			}
+		}
+	}
+	convert_to_puritan = {
 		only_playable = yes
 		
 		filter = self
@@ -357,7 +679,183 @@ targetted_decisions = {
 				religion = lollard
 				religion = lutheran
 				religion = hussite
+				religion = puritan
 				religion = anglican
+				religion = quaker
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			}
+			controls_religion = no
+			holy_order = no
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = puritan
+			piety = 100
+			religion_authority = {
+				modifier = ruler_converted_from
+			}
+			custom_tooltip = { text = local_religion_conversion_tooltip }
+			hidden_tooltip = {
+				any_realm_province = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = puritan
+				}
+				any_realm_character = {
+				  limit = { 
+				  OR = {
+				  religion = lollard 
+				  religion = waldensian
+				  }
+				  }
+					religion = puritan
+				}
+			}
+			hidden_tooltip = {
+				religion_authority = {
+					modifier = ruler_converted_to
+				}
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				OR={
+				has_landed_title = k_england
+				has_landed_title = e_great_britain
+				has_landed_title = e_union_jack
+				has_landed_title = e_britannia
+				}
+			}
+			#Title
+			modifier = {
+				factor = 1.5
+			tier = BARON
+			}
+			modifier = {
+				factor = 1.2
+			tier = COUNT
+			}
+			modifier = {
+				factor = 1
+			tier = DUKE
+			}
+			modifier = {
+				factor = 0.8
+			tier = KING
+			}
+			modifier = {
+				factor = 0.5
+			tier = EMPEROR
+			}
+			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+						OR = {
+						religion = lollard
+						religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.5
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.05
+				FROM = { trait = cynical }
+			}
+		}
+	}
+	convert_to_anglican = {
+		only_playable = yes
+		
+		filter = self
+		ai_target_filter = self
+		ai = no
+		
+		potential = {
+			has_global_flag = church_of_england
+			is_playable = yes
+			is_nomadic = no
+			OR = {
+			culture = english
+			culture = saxon
+			}
+			OR = {
+			religion = waldensian
+			religion = lollard
+			religion = catholic
+			}
+			capital_scope = {
+				OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = puritan
+				religion = anglican
+				religion = quaker
 				religion = reformed
 				religion = anabaptist
 				religion = unitarian
@@ -494,6 +992,7 @@ targetted_decisions = {
 			}
 		}
 	}
+	
 	convert_to_reformed = {
 		only_playable = yes
 		
@@ -529,7 +1028,9 @@ targetted_decisions = {
 				religion = lollard
 				religion = lutheran
 				religion = hussite
+				religion = puritan
 				religion = anglican
+				religion = quaker
 				religion = reformed
 				religion = anabaptist
 				religion = unitarian
@@ -695,7 +1196,9 @@ targetted_decisions = {
 				religion = lollard
 				religion = lutheran
 				religion = hussite
+				religion = puritan
 				religion = anglican
+				religion = quaker
 				religion = reformed
 				religion = anabaptist
 				religion = unitarian
@@ -854,7 +1357,9 @@ targetted_decisions = {
 				religion = lollard
 				religion = lutheran
 				religion = hussite
+				religion = puritan
 				religion = anglican
+				religion = quaker
 				religion = reformed
 				religion = anabaptist
 				religion = unitarian
@@ -992,6 +1497,256 @@ targetted_decisions = {
 		}
 	}
 	#profess a faith
+	profess_to_quaker = {
+		filter = self
+		ai_target_filter = self
+		
+		potential = {
+			is_adult = yes
+			is_ruler = no
+			year = 1641
+			NOT = { 
+				region = world_europe
+			} 
+			OR = {
+			religion = puritan
+			religion = anglican
+			religion = lollard
+			religion = waldensian
+			}
+			capital_scope = {
+				OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = puritan
+				religion = anglican
+				religion = quaker
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			controls_religion = no
+			holy_order = no
+		}
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = quaker
+			piety = 25
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+						OR = {
+						religion = lollard
+						religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.8
+				FROM = { is_lowborn = no }
+			}
+			modifier = {
+				factor = 0.2
+				FROM = { is_heir = yes }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = cynical }
+			}
+			modifier = {
+				factor = 0.01
+				is_female = yes
+				spouse = { religion = catholic }
+			}
+		}
+	}
+	profess_to_baptist = {
+		filter = self
+		ai_target_filter = self
+		
+		potential = {
+			is_adult = yes
+			is_ruler = no
+			has_global_flag = baptist_work
+			NOT = { 
+				region = world_europe
+			} 
+			OR = {
+			religion = puritan
+			religion = anglican
+			religion = lollard
+			religion = waldensian
+			}
+			capital_scope = {
+				OR = {
+				religion = waldensian
+				religion = lollard
+				religion = lutheran
+				religion = hussite
+				religion = puritan
+				religion = anglican
+				religion = quaker
+				religion = reformed
+				religion = anabaptist
+				religion = unitarian
+				religion = baptist
+				religion = arminian
+				religion = methodist
+				}
+			controls_religion = no
+			holy_order = no
+		}
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = baptist
+			piety = 25
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+						OR = {
+						religion = lollard
+						religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.8
+				FROM = { is_lowborn = no }
+			}
+			modifier = {
+				factor = 0.2
+				FROM = { is_heir = yes }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = cynical }
+			}
+			modifier = {
+				factor = 0.01
+				is_female = yes
+				spouse = { religion = catholic }
+			}
+		}
+	}
 	profess_to_unitarian = {
 		filter = self
 		ai_target_filter = self
@@ -1212,7 +1967,7 @@ targetted_decisions = {
 		
 		potential = {
 			is_adult = yes
-			has_global_flag = anglican_work
+			has_global_flag = church_of_england
 			is_ruler = no
 			OR = {
 			culture = english
@@ -1240,6 +1995,125 @@ targetted_decisions = {
 		ai_will_do = {
 			factor = 1
 			#Authority of Catholicism
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic
+			religion_authority >= 0.75	
+			}
+			}
+			modifier = {
+				factor = 0.5
+			AND = {
+			religion = catholic	
+			religion_authority >= 0.100
+			}
+			}
+			#Speed it up
+			modifier = {
+				factor = 5
+				FROM = { trait = excommunicated }
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = zealous
+						OR = {
+						religion = lollard
+						religion = waldensian
+						}
+						}
+			}
+			modifier = {
+				factor = 5
+				FROM = { trait = erudite }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = brave }
+			}
+			modifier = {
+				factor = 1.5
+				FROM = { trait = ambitious }
+			}
+			modifier = {
+				factor = 1.1
+				FROM = { trait = arbitrary }
+			}
+			#Slow it down
+			modifier = {
+				factor = 0.8
+				FROM = { is_lowborn = no }
+			}
+			modifier = {
+				factor = 0.2
+				FROM = { is_heir = yes }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = zealous
+						religion = catholic
+						}
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = content }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = { trait = cynical }
+			}
+			modifier = {
+				factor = 0.01
+				FROM = {
+				is_female = yes
+				spouse = { religion = catholic }
+				}
+			}
+		}
+	}
+	profess_to_puritan = {
+		filter = self
+		ai_target_filter = self
+		
+		potential = {
+			is_adult = yes
+			has_global_flag = anglican_work
+			is_ruler = no
+			OR = {
+			culture = english
+			culture = saxon
+			}
+			OR = {
+			religion = waldensian
+			religion = lollard
+			religion = catholic
+			}
+			controls_religion = no
+			holy_order = no
+		}
+		allow = {
+			NOT = { trait = zealous }
+			capital_scope = { ROOTs_religion_is_playable_trigger = yes }
+		}
+		effect = {
+			religion = puritan
+			piety = 25
+		}
+		revoke_allowed = {
+			always = no
+		}
+		ai_will_do = {
+			factor = 1
+			#Authority of Catholicism
+			modifier = {
+				factor = 0
+				OR={
+				has_landed_title = k_england
+				has_landed_title = e_great_britain
+				has_landed_title = e_union_jack
+				has_landed_title = e_britannia
+				}
+			}
 			modifier = {
 				factor = 0.5
 			AND = {

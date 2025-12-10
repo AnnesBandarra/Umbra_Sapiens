@@ -1,0 +1,135 @@
+decisions = {
+	create_church_of_england = {
+		only_independent = yes
+		is_high_prio = yes
+		ai_check_interval = 60
+		
+		potential = {
+			has_global_flag = anglican_work
+			NOT = {
+				has_global_flag = church_of_england
+			}
+			religion="catholic"
+			capital_scope = {
+				religion="catholic"
+			}
+		}
+		allow = {
+			is_adult = yes
+			independent = yes
+			war = no
+			NOT = { trait = incapable }
+		}
+		effect = {
+			any_close_relative={
+				limit={
+					religion="catholic"
+					NOT={ trait=zealous  }
+				}
+				religion=anglican
+			}
+			any_courtier={
+				limit={
+					religion="catholic"
+					NOT={ trait=zealous  }
+				}
+				religion=anglican
+			}
+		religion=anglican
+		capital_scope = {
+		religion=anglican
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043028
+		religion = anglican
+		culture = english
+		female = no
+		age = 51
+		attributes = {
+        learning = 20
+		}
+		add_trait = stubborn
+		add_trait = zealous
+		add_trait = scholar
+		add_trait = theologian
+		add_trait = brave
+		}
+		create_character = {
+		random_traits = yes
+		name = "Thomas"
+		dynasty = 1010043029
+		religion = anglican
+		culture = english
+		female = no
+		age = 49
+		attributes = {
+        learning = 18
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Hugh"
+		dynasty = 1010043030
+		religion = anglican
+		culture = english
+		female = no
+		age = 50
+		attributes = {
+        learning = 16
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "William"
+		dynasty = 1010043031
+		religion = anglican
+		culture = english
+		female = no
+		age = 30
+		attributes = {
+        learning = 17
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Matthew"
+		dynasty = 1010043032
+		religion = anglican
+		culture = english
+		female = no
+		age = 30
+		attributes = {
+        learning = 17
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		create_character = {
+		random_traits = yes
+		name = "Richard"
+		dynasty = 3
+		religion = anglican
+		culture = english
+		female = no
+		age = 17
+		attributes = {
+        learning = 16
+		}
+		add_trait = zealous
+		add_trait = theologian
+		}
+		}
+			set_global_flag=church_of_england
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+}

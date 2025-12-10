@@ -337,20 +337,32 @@ convert_to_anabaptist;Become an Anabaptist;Become an Anabaptist;Become an Anabap
 convert_to_anabaptist_desc;Integrate the Reformation by joining the Anabaptist Church;Integrate the Reformation by joining the Anabaptist Church;Integrate the Reformation by joining the Anabaptist Church;;Integrate the Reformation by joining the Anabaptist Church;;;;;;;;;x
 convert_to_anglican;Become an Anglican;Become an Anglican;Become an Anglican;;Become an Anglican;;;;;;;;;x
 convert_to_anglican_desc;Integrate the Reformation by joining the Anglican Church;Integrate the Reformation by joining the Anglican Church;Integrate the Reformation by joining the Anglican Church;;Integrate the Reformation by joining the Anglican Church;;;;;;;;;x
+convert_to_puritan;Become a Puritan;Become a Puritan;Become a Puritan;;Become a Puritan;;;;;;;;;x
+convert_to_puritan_desc;Integrate the Reformation by joining the Puritan Church;Integrate the Reformation by joining the Puritan Church;Integrate the Reformation by joining the Puritan Church;;Integrate the Reformation by joining the Puritan Church;;;;;;;;;x
+convert_to_quaker;Become a Quaker;Become a Quaker;Become a Quaker;;Become a Quaker;;;;;;;;;x
+convert_to_quaker_desc;Integrate the Reformation by joining the Quaker Church;Integrate the Reformation by joining the Quaker Church;Integrate the Reformation by joining the Quaker Church;;Integrate the Reformation by joining the Quaker Church;;;;;;;;;x
 convert_to_lutheran;Become a Lutheran;Become a Lutheran;Become a Lutheran;;Become a Lutheran;;;;;;;;;x
 convert_to_lutheran_desc;Integrate the Reformation by joining the Lutheran Church;Integrate the Reformation by joining the Lutheran Church;Integrate the Reformation by joining the Lutheran Church;;Integrate the Reformation by joining the Lutheran Church;;;;;;;;;x
 convert_to_reformed;Become Reformed;Become Reformed;Become Reformed;;Become Reformed;;;;;;;;;x
 convert_to_reformed_desc;Integrate the Reformation by joining the Reformed Church;Integrate the Reformation by joining the Reformed Church;Integrate the Reformation by joining the Reformed Church;;Integrate the Reformation by joining the Reformed Church;;;;;;;;;x
+convert_to_baptist;Become Baptist;Become Baptist;Become Baptist;;Become Baptist;;;;;;;;;x
+convert_to_baptist_desc;Integrate the Reformation by joining the Baptist Church;Integrate the Reformation by joining the Baptist Church;Integrate the Reformation by joining the Baptist Church;;Integrate the Reformation by joining the Baptist Church;;;;;;;;;x
 profess_to_hussite;Become a Hussite;Become a Hussite;Become a Hussite;;Become a Hussite;;;;;;;;;x
 profess_to_hussite_desc;Integrate the Reformation by joining the Hussite Church;Integrate the Reformation by joining the Hussite Church;Integrate the Reformation by joining the Hussite Church;;Integrate the Reformation by joining the Hussite Church;;;;;;;;;x
 profess_to_anabaptist;Become an Anabaptist;Become an Anabaptist;Become an Anabaptist;;Become an Anabaptist;;;;;;;;;x
 profess_to_anabaptist_desc;Integrate the Reformation by joining the Anabaptist Church;Integrate the Reformation by joining the Anabaptist Church;Integrate the Reformation by joining the Anabaptist Church;;Integrate the Reformation by joining the Anabaptist Church;;;;;;;;;x
 profess_to_anglican;Become an Anglican;Become an Anglican;Become an Anglican;;Become an Anglican;;;;;;;;;x
 profess_to_anglican_desc;Integrate the Reformation by joining the Anglican Church;Integrate the Reformation by joining the Anglican Church;Integrate the Reformation by joining the Anglican Church;;Integrate the Reformation by joining the Anglican Church;;;;;;;;;x
+profess_to_puritan;Become a Puritan;Become a Puritan;Become a Puritan;;Become a Puritan;;;;;;;;;x
+profess_to_puritan_desc;Integrate the Reformation by joining the Puritan Church;Integrate the Reformation by joining the Puritan Church;Integrate the Reformation by joining the Puritan Church;;Integrate the Reformation by joining the Puritan Church;;;;;;;;;x
+profess_to_quaker;Become a Quaker;Become a Quaker;Become a Quaker;;Become a Quaker;;;;;;;;;x
+profess_to_quaker_desc;Integrate the Reformation by joining the Quaker Church;Integrate the Reformation by joining the Quaker Church;Integrate the Reformation by joining the Quaker Church;;Integrate the Reformation by joining the Quaker Church;;;;;;;;;x
 profess_to_lutheran;Become a Lutheran;Become a Lutheran;Become a Lutheran;;Become a Lutheran;;;;;;;;;x
 profess_to_lutheran_desc;Integrate the Reformation by joining the Lutheran Church;Integrate the Reformation by joining the Lutheran Church;Integrate the Reformation by joining the Lutheran Church;;Integrate the Reformation by joining the Lutheran Church;;;;;;;;;x
 profess_to_reformed;Become Reformed;Become Reformed;Become Reformed;;Become Reformed;;;;;;;;;x
 profess_to_reformed_desc;Integrate the Reformation by joining the Reformed Church;Integrate the Reformation by joining the Reformed Church;Integrate the Reformation by joining the Reformed Church;;Integrate the Reformation by joining the Reformed Church;;;;;;;;;x
+profess_to_baptist;Become Baptist;Become Baptist;Become Baptist;;Become Baptist;;;;;;;;;x
+profess_to_baptist_desc;Integrate the Reformation by joining the Baptist Church;Integrate the Reformation by joining the Baptist Church;Integrate the Reformation by joining the Baptist Church;;Integrate the Reformation by joining the Baptist Church;;;;;;;;;x
 EVTNAMEreformationevents.12;Unitarianism spreads to [Root.province.GetName];;;;;;;;;;;;;x
 EVTDESCreformationeventsR.12;The teachings of Ferenc David have been adopted by the majority of this province's population.;;;;;;;;;;;;;x
 EVTOPTAreformationevents.12;Something must be done about these Heretics!;;;;;;;;;;;;;x
@@ -381,6 +393,20 @@ EVTDESCreformationeventsR.5;The the majority of this province's population follo
 EVTOPTAreformationevents.5;Something must be done about these Heretics!;;;;;;;;;;;;;x
 EVTOPTBreformationevents.5;The Lord's sheep flok to salvation;;;;;;;;;;;;;x
 EVTOPTCreformationevents.5;Rebranding Papism won't save you;;;;;;;;;;;;;x
+EVTNAMEreformationevents.24;Puritanism spreads to [Root.province.GetName];;;;;;;;;;;;;x
+EVTDESCreformationeventsR.24;The the majority of this province's population calls for Puritanism.;;;;;;;;;;;;;x
+EVTOPTAreformationevents.24;Something must be done about these Heretics!;;;;;;;;;;;;;x
+EVTOPTBreformationevents.24;The Lord's sheep flok to salvation;;;;;;;;;;;;;x
+EVTOPTCreformationevents.24;These simpletons can't even read, how are they to opine about Scripture...;;;;;;;;;;;;;x
+EVTNAMEreformationevents.24;Baptism spreads to [Root.province.GetName];;;;;;;;;;;;;x
+EVTDESCreformationeventsR.25;The the majority of this province's population is Baptist.;;;;;;;;;;;;;x
+EVTOPTAreformationevents.25;Something must be done about these Heretics!;;;;;;;;;;;;;x
+EVTOPTBreformationevents.25;The Lord's sheep flok to salvation;;;;;;;;;;;;;x
+EVTOPTCreformationevents.25;These simpletons can't even read, how are they to opine about Scripture...;;;;;;;;;;;;;x
+EVTDESCreformationeventsR.26;The the majority of this province's population has become Quaker.;;;;;;;;;;;;;x
+EVTOPTAreformationevents.26;Something must be done about these Heretics!;;;;;;;;;;;;;x
+EVTOPTBreformationevents.26;The Lord's sheep flok to salvation;;;;;;;;;;;;;x
+EVTOPTCreformationevents.26;Those are some very strange people.;;;;;;;;;;;;;x
 THE_WHORE_BABYLON;The Whore of Babylon;;;;;;;;;;;;;x
 THE_MOTHER_HARLOTS;The Mother of Harlots;;;;;;;;;;;;;x
 BEELZEBUB;Beelzebub;;;;;;;;;;;;;x
@@ -415,8 +441,8 @@ EVTDESCreformationeventsR.9;John Calvin taught human beings have access to the s
 EVTOPTAreformationevents.9;De heretico comburendo?;;;;;;;;;;;;;x
 EVTOPTBreformationevents.9;How is this of concern?;;;;;;;;;;;;;x
 EVTOPTCreformationevents.9;Salvation trough faith alone, God willing.;;;;;;;;;;;;;x
-EVTNAMEreformationevents.10;The Church of England;;;;;;;;;;;;;x
-EVTDESCreformationeventsR.10;Thomas Cranmer, the Archbishop of Canterbury who played a chief role in shaping Anglicanism, sought a middle way between Lutheranism and Calvinism, though he was closer to Calvinism.;;;;;;;;;;;;;x
+EVTNAMEreformationevents.10;English Reformation;;;;;;;;;;;;;x
+EVTDESCreformationeventsR.10;Puritanism was an austere Protestant movement within England that demanded the complete eradication of Catholic rituals from the Church of England. They advocated for a radically simplified form of worship based solely on the Bible and sought to build a society structured around strict moral and religious principles.;;;;;;;;;;;;;x
 EVTOPTAreformationevents.10;De heretico comburendo?;;;;;;;;;;;;;x
 EVTOPTBreformationevents.10;How is this of concern?;;;;;;;;;;;;;x
 EVTOPTCreformationevents.10;Salvation trough faith alone!;;;;;;;;;;;;;x
@@ -425,6 +451,8 @@ EVTDESCreformationeventsR.11;Several groups of protestants were not content with
 EVTOPTAreformationevents.11;De heretico comburendo?;;;;;;;;;;;;;x
 EVTOPTBreformationevents.11;How is this of concern?;;;;;;;;;;;;;x
 EVTOPTCreformationevents.11;These simpletons can't even read, how are they to opine about Scripture...;;;;;;;;;;;;;x
+create_church_of_england;Create The Church of England;;;;;;;;;;;;;x
+create_church_of_england_desc;We may choose to follow a less radical path in the reformation conserving some catholic traditions in our new state religion.;;;;;;;;;;;;;x
 monastic_order_jesuit;The Society of Jesus;The Compagnie de Jésus;The Gesellschaft Jesu;;The Compañía de Jesús;;;;;;;;;x
 monastic_order_jesuit_desc;The Society of Jesus is a very stict missionary order founded by Ignatius of Loyola with the aim of reinvigurating the Catholic faith. The order is organized under a military hiearchy, promotes instruction of Catholics, and goes to any lenght to proselytize and persecute heresy.;;;;;;;;;;;;;;
 monastic_order_jesuit_rank_1_female;Novicius;;;;;;;;;;;;;x

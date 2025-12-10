@@ -98,12 +98,18 @@
 	holder=372915 #Richard Neville, 16th Earl of Warwick
 }
 1471.4.14 = {
+	holder=372857	#Edward IV
+}
+1478.2.18 = {
 	holder=383797 #Edward Plantagenet, 17th Earl of Warwick
 }
 1499.11.28 = {
-	holder=383797 #Edward Plantagenet, 17th Earl of Warwick
+	holder=372758	#Henry VII of England
 }
-1547.1.1={
+1509.4.21 = {
+	holder=372978	#Henry VIII of England
+}
+1547.1.28={
 	holder=384103	#John Dudley, 1st Duke of Northumberland
 }
 1553.8.22={

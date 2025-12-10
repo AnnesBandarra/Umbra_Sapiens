@@ -91,7 +91,7 @@
 		holder=397269 #1600–1608: Antonio Osorio
 }
 1608.1.1={
-		holder=379643 #1608–1624: Diego Gómez de Sandoval
+		holder=397279 #1608–1624: Diego Gómez de Sandoval
 }
 1624.1.1={
 		holder=397280 #1624–1634: Diego de Acuña

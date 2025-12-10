@@ -152,7 +152,7 @@
     holder = 385112 #Danishmendji
 }
 1347.1.1={
-	holder=242120	#Tughlugh Timur
+	holder=385120	#Tughlugh Timur
 	liege=k_zhetysu
 }
 1363.1.1={

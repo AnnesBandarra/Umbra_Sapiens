@@ -4,8 +4,8 @@
 title = c_davenport
 
 # Settlements
-max_settlements = 4
-b_davenport = tribal
+max_settlements = 1
+b_davenport-i = tribal
 
 # Misc
 culture = australian

@@ -19,11 +19,11 @@ b_panama-ii=city
 b_panama-iii=temple
 }
 1550.1.1={
-	panama-iv=castle
+	b_panama-iv=castle
 }
 1590.1.1={
-	panama-v=city
+	b_panama-v=city
 }
 1620.1.1={
-	panama-vi=temple
+	b_panama-vi=temple
 }

@@ -285,11 +285,11 @@
 	religion="tengri_pagan"
 	culture="yakut"
 	father=1019200020
-	1320.1.1={
-		birth="1320.1.1"
+	1330.1.1={
+		birth="1330.1.1"
 	}
-	1380.1.1={
-		death="1380.1.1"
+	1408.1.1={
+		death="1408.1.1"
 	}
 }
 

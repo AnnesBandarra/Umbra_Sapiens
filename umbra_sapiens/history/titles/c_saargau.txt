@@ -56,6 +56,9 @@
 	holder=374460 #John II of Nassau-Saarbrücken
 }
 1472.7.15 = {
+	holder=373920 #mother
+}
+1472.10.20 = {
 	holder=374499	#John Louis, Count of Nassau-Saarbrücken
 }
 1545.6.18 = {

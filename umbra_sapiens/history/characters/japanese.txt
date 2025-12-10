@@ -134,11 +134,14 @@
 	add_trait="naive_appeaser"
 	add_trait="kuge"
 	father=1000075003
-	531.1.1={
-		birth="531.1.1"
+	540.10.12={
+		birth="540.10.12"
 	}
 	552.1.1={
 		add_spouse=1000075117
+	}
+	574.1.1={
+		add_spouse=399738
 	}
 	585.9.5={
 		name="Yomei"
@@ -553,8 +556,8 @@
 	add_trait="naive_appeaser"
 	add_trait="kuge"
 	father=1000075015
-	676.1.1={
-		birth="676.1.1"
+	676.1.28={
+		birth="676.1.28"
 	}
 	735.12.6={
 		death="735.12.6"
@@ -569,7 +572,7 @@
 	culture="japanese"
 	add_trait="naive_appeaser"
 	add_trait="kuge"
-	father=1000075015
+	father=1000075023
 	733.1.1={
 		birth="733.1.1"
 	}
@@ -708,8 +711,14 @@
 	786.12.1={
 		birth="786.12.1"
 	}
+	806.1.1={
+		add_spouse=399886
+	}
 	823.6.9={
 		name = "Junna"
+	}
+	827.1.1={
+		add_spouse=399932
 	}
 	840.6.11={
 		death="840.6.11"
@@ -726,8 +735,8 @@
 	add_trait="kuge"
 	father=1000075029
 	mother=1000075140
-	810.12.1={
-		birth="810.12.1"
+	808.9.27={
+		birth="808.9.27"
 	}
 	826.1.1={
 		add_spouse=1000075157
@@ -868,6 +877,9 @@
 	897.8.14={
 		name = "Daigo"
 	}
+	903.1.1={
+		add_spouse=400691
+	}
 	930.10.23={
 		death="930.10.23"
 	}
@@ -882,6 +894,7 @@
 	add_trait="amateurish_plotter"
 	add_trait="kuge"
 	father=1000075037
+	mother=400691
 	923.9.7={
 		birth="923.9.7"
 	}
@@ -902,6 +915,7 @@
 	add_trait="amateurish_plotter"
 	add_trait="kuge"
 	father=1000075037
+	mother=400691
 	926.7.14={
 		birth="926.7.14"
 	}
@@ -928,6 +942,9 @@
 	967.7.5={
 		name = "Reizei"
 	}
+	973.1.1={
+		add_spouse=400721
+	}
 	1011.11.21={
 		death="1011.11.21"
 	}
@@ -947,6 +964,9 @@
 	}
 	969.11.5={
 		name = "Enyu"
+	}
+	979.1.1={
+		add_spouse=400722
 	}
 	991.3.1={
 		death="991.3.1"
@@ -982,11 +1002,15 @@
 	add_trait="amateurish_plotter"
 	add_trait="kuge"
 	father=1000075041
+	mother=400722
 	980.7.15={
 		birth="980.7.15"
 	}
 	986.7.31={
 		name = "Ichijo"
+	}
+	997.1.1={
+		add_spouse=400730
 	}
 	999.11.1={
 		add_spouse=1000075080 # Fujiwara Akiko
@@ -1005,6 +1029,7 @@
 	add_trait="amateurish_plotter"
 	add_trait="kuge"
 	father=1000075040
+	mother=400721
 	976.2.5={
 		birth="976.2.5"
 	}
@@ -1177,6 +1202,9 @@
 	1107.8.9={
 		name = "Toba"
 	}
+	1134.1.1={
+		add_spouse=400893
+	}
 	1156.7.20={
 		death="1156.7.20"
 	}
@@ -1198,6 +1226,9 @@
 	}
 	1123.2.19={
 		name = "Sutoku"
+	}
+	1130.4.1={
+		add_spouse=400903
 	}
 	1164.9.14={
 		death="1164.9.14"
@@ -1349,6 +1380,9 @@
 	}
 	1183.9.8={
 		name = "Go-Toba"
+	}
+	1190.1.1={
+		add_spouse=401090
 	}
 	1239.3.28={
 		death="1239.3.28"
@@ -1628,7 +1662,7 @@
 	1297.8.14={
 		birth="1297.8.14"
 	}
-	1308.12.28={
+	1308.9.11={
 		name = "Hanazono"
 	}
 	1348.12.2={
@@ -1659,7 +1693,7 @@
 	1288.11.26={
 		birth="1288.11.26"
 	}
-	1318.4.30={
+	1318.3.29={
 		name = "Go-Daigo"
 	}
 	1339.9.19={
@@ -1723,6 +1757,9 @@
 	659.1.1={
 		birth="659.1.1"
 	}
+	695.1.1={
+		add_spouse=400586
+	}
 	720.9.13={
 		death="720.9.13"
 	}
@@ -1751,7 +1788,7 @@
 
 1000075053 = {
 	name="Fusasaki"
-	dynasty=27001
+	dynasty=28509
 	martial=3
 	diplomacy=7
 	intrigue=8
@@ -1771,7 +1808,7 @@
 
 1000075054 = {
 	name="Umakai"
-	dynasty=27001
+	dynasty=28510
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
@@ -1787,12 +1824,13 @@
 
 1000075055 = {
 	name="Maro"
-	dynasty=27001
+	dynasty=28511
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="thrifty_clerk"
 	add_trait="kuge"
 	father=1000075051
+	mother=400586
 	695.1.1={
 		birth="695.1.1"
 	}
@@ -1803,7 +1841,7 @@
 
 1000075056 = {
 	name="Nagate"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -1820,7 +1858,7 @@
 
 1000075057 = {
 	name="Matate"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1837,7 +1875,7 @@
 
 1000075058 = {
 	name="Mitate"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2052,8 +2090,8 @@
 	909.1.11={
 		birth="909.1.11"
 	}
-	943.1.1={
-		death="943.1.1"
+	960.5.31={
+		death="960.5.31"
 	}
 }
 
@@ -2116,8 +2154,8 @@
 	924.1.1={
 		birth="924.1.1"
 	}
-	972.12.14={
-		death="972.12.14"
+	972.12.9={
+		death="972.12.9"
 	}
 }
 
@@ -2148,8 +2186,8 @@
 	929.1.1={
 		birth="929.1.1"
 	}
-	990.7.31={
-		death="990.7.31"
+	990.7.26={
+		death="990.7.26"
 	}
 }
 
@@ -2225,7 +2263,7 @@
 }
 
 1000075080 = {
-	name="Akiko"
+	name="Shoshi"
 	female=yes
 	dynasty=27001
 	religion="nihon_shinto"
@@ -2262,7 +2300,7 @@
 		add_spouse=1000075095 # Takahime
 	}
 	1074.3.2={
-		death="1082.1.3"
+		death="1074.2.3"
 	}
 }
 
@@ -2300,7 +2338,7 @@
 }
 
 1000075084 = {
-	name="Kiyoko"
+	name="Kenshi"
 	female=yes
 	dynasty=27001
 	religion="nihon_shinto"
@@ -2387,7 +2425,7 @@
 }
 
 1000075089 = {
-	name="Hiroko"
+	name="Kanshi"
 	female=yes
 	dynasty=27001
 	religion="nihon_shinto"
@@ -2422,7 +2460,7 @@
 }
 
 1000075091 = {
-	name="Yoshiko"
+	name="Kishi"
 	female=yes
 	dynasty=27001
 	religion="nihon_shinto"
@@ -3460,7 +3498,7 @@
 }
 
 1000075152 = {
-	name="Noritaka"
+	name="Noritaka"	#Kikuchi Noritaka
 	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
@@ -4447,7 +4485,7 @@
 }
 
 1000075211 = {
-	name="Nobuie"
+	name="Michimoto"
 	dynasty=27001
 	religion="nihon_shinto"
 	culture="japanese"
@@ -4618,7 +4656,7 @@
 
 1000075222 = {
 	name="Uona"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"

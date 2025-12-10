@@ -27,6 +27,129 @@
 	holder = 260119
 }
 1340.1.1 = {
+	holder=384651	#Ostafiy Dvoryaninets 	? — 1346 	1340-1341
+}
+1341.1.1={
+	holder=125260	#Fyodor Danilovich 	? — ? 	1342-1344	
+}
+1344.1.1={
+	holder=384651	#Ostafiy Dvoryaninets 	? — 1346 	1344-1345	
+}
+1346.1.1={
+	holder=125260	#Fyodor Danilovich 	? — ? 	1348-1350
+}
+1349.1.1={
+	holder=384652	#Ontsifor Lukinich 	? — ? 	1350-1351
+}
+1352.1.1={
+	holder=384653	#Alexander Dvoryanintsev 	? — ? 	1354-1355
+}
+1355.1.1={
+	holder=384654	#Andriyan Zakharyinich 	? — ? 	to 1360	
+}
+1360.1.1={
+	holder=384655	#Nikita Matfeevich 	? — ? 	1360-1362
+}
+1362.1.1={
+	holder=384656	#Ivan Semyonovich (Moturitsa) 	? — ? 	1370-1371
+}
+1371.1.1={
+	holder=384657	#Yuri Ivanovich 	? — ? 	1371-1372	
+}
+1372.1.1={
+	holder=384658	#Mikhail Danilovich 	? — 1392 	1372-1373	
+}
+1373.1.1={
+	holder=384657	#Yuri Ivanovich 	? — ? 	1373-1374	
+}
+1374.1.1={
+	holder=384658	#Mikhail Danilovich 	? — 1392 	1374-1375	
+}
+1375.1.1={
+	holder=384657	#Yuri Ivanovich 	? — ? 	1375 - 1377
+}
+1377.1.1={
+	holder=384659	#Fyodor Timofeevich 	? — 1421 	1385-1386
+}
+1386.1.1={
+	holder=384660	#Vasily Fyodorovich 	? — 1392 	1387-1388
+}
+1388.1.1={
+	holder=384661	#Vasily Ivanovich 	? — 1405 	1388-1390		
+}
+1390.1.1={
+	holder=384662	#Timofey Yurevich 	? — 1409 	1391-1392		
+}
+1392.1.1={
+	holder=384663	#Esif Zakharyinich 	? — 1409 	1394		
+}
+1394.1.1={
+	holder=384664	#Bogdan (Feodosiy) Obakunovich (Abakumovich) 	? — 1415 	1394 — ?		
+}
+1397.1.1={
+	holder=384662	#Timofey Yurevich 	? — 1409 	1397-1398	
+}
+1398.1.1={
+	holder=384665	#Alexander Fominich (Tsarko) 	? — 1421 	1398-1405	
+}
+1405.1.1={
+	holder=384663	#Esif Zakharyinich 	? — 1409 	1405-1406
+}
+1406.1.1={
+	holder=384666	#Grigory Bogdanovich 	? — ? 	1410-1411
+}
+1411.1.1={
+	holder=384667	#Ivan Alexandrovich 	? — 1417 	1411-1412
+}
+1412.1.1={
+	holder=384668	#Foma Esifovich 	? — until 1415 	1412-1413
+}
+1413.1.1={
+	holder=384667	#Ivan Alexandrovich 	? — 1417 	1413-1415
+}
+1415.1.1={
+	holder=384669	#Andrey Ivanovich 	? — ? 	1415-1416
+}
+1416.1.1={
+	holder=384670	#Ivan Bogdanovich 	? — 1419 	1416-1417
+}
+1417.1.1={
+	holder=384671	#Semyon Vasilievich 	? — ? 	1417-1418
+}
+1418.1.1={
+	holder=384672	#Alexander Ignatievich 	? — ? 	OK. 1418 - 1420
+}
+1420.1.1={
+	holder=384673	#Vasyl Mykytynych (Nykytych) 	? — ? 	1420-1421
+}
+1421.1.1={
+	holder=384674	#Timofey Vasilievich 	? — ? 	1421-1422
+}
+1422.1.1={
+	holder=384673	#Vasyl Mykytynych (Nykytych) 	? — ? 	1422-1423	
+}
+1423.1.1={
+	holder=384675	#Mikhail Ivanovich (Moturitsyn) 	? — ? 	1424-1425
+}
+1425.1.1={
+	holder=384676	#Samson Ivanovich 	? — ? 	1434
+}
+1434.1.1={
+	holder=384669	#Andrey Ivanovich 	? — ? 	1434-1435
+}
+1435.1.1={
+	holder=384677	#Boris Yurevich 	? — ? 	1435-1436
+}
+1436.1.1={
+	holder=384678	#Fyodor Oliseevich (Alekseevich) 	? — ? 	1437
+}
+1437.1.1={
+	holder=384679	#Dmitry Vasilievich (Glukhov) 	? — ? 	1437-1438
+}
+1438.1.1={
+	holder=384680	#Isak Andreevich (Boretsky) 	? — 1460 ​ 	1438-1439 	
+}
+1439.1.1={
 	holder=384681	#Esif Grigorievich (Posakhno) 	? — ? 	1440-1441
 }
 1441.1.1={

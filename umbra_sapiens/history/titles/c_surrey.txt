@@ -59,7 +59,7 @@ liege="d_canterbury"
 	holder=372790 #Henry VI of England
 }
 1451.1.1={
-	holder=383723	#John de Mowbray, 4th Duke of Norfolk
+	holder=384157	#John de Mowbray, 4th Duke of Norfolk
 }
 1476.1.14={
 	holder=370034	#Henry IV of England

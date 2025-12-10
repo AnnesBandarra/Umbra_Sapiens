@@ -50,26 +50,37 @@ title_appointed_regent = {
 		prisoner = no
 		NOT = { trait = incapable }
 		has_regent = no
-		OR = {
-			AND = {
-				OR = {
-						NOR = {
+					OR = {
+						NOT = { 
+						liege= { 	
+							tier = EMPEROR
+							OR={
+							dynasty = 27000
+							dynasty = 28507
+							}
+							}
+							}
+						trait = kuge
+						NOR={
+							dynasty = 27000
+							dynasty = 28507
+						}
+						}
+					OR={
+					NOR = {
 						religion = thangiao
 						religion = ua_dab
 						religion = nugyauq
 						religion = benzhujiao
 						religion = taoist
-						religion = nihon_shinto
 						religion = shingyo
-						government = imperial_japanese_government
-							}
-				trait = military_jinshi
-				trait = military_juren
-				trait = military_gongshi
+					}
+					trait = military_jinshi
+					trait = military_juren
+					trait = military_gongshi
+					}
 				
-				}
 				is_adult = yes
-			}
 			}
 	}
 	
@@ -234,14 +245,11 @@ title_commander = {
 						religion = nugyauq
 						religion = benzhujiao
 						religion = taoist
-						religion = nihon_shinto
 						religion = shingyo
-						government = imperial_japanese_government
 							}
 				trait = military_jinshi
 				trait = military_juren
 				trait = military_gongshi
-				
 				}
 				is_adult = yes
 			}
@@ -362,7 +370,11 @@ title_court_eunuch = {
 		}
 		is_adult = yes
 		trait = eunuch
-		 OR = {		
+			OR = {
+						NOT = { government = imperial_japanese_government }
+						trait = kuge
+					}
+		 OR = {
 				trait = shengyuan
 				trait = jinshi
 				trait = juren
@@ -373,9 +385,7 @@ title_court_eunuch = {
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-				government = imperial_japanese_government
 				}
 				}
 	}
@@ -419,14 +429,12 @@ title_court_dwarf = {
 				trait = juren
 				trait = gongshi
 				NOR = {
-				religion = thangiao
+					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-				government = imperial_japanese_government
 				}
 				}
 		NOT = { 
@@ -690,20 +698,22 @@ title_cupbearer = {
 	is_unique = yes
 	
 	allowed_to_hold = {
+			OR = {
+						NOT = { government = imperial_japanese_government }
+						trait = kuge
+					}
 	      OR = {		
 				trait = shengyuan
 				trait = jinshi
 				trait = juren
 				trait = gongshi
 				NOR = {
-				religion = thangiao
+					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-				government = imperial_japanese_government
 				}
 				}
 		NOT = { 
@@ -2755,6 +2765,10 @@ title_councilmember_king = {
 	
 	allowed_to_hold = {
 	OR = {
+		OR = {
+						NOT = { government = imperial_japanese_government }
+						trait = kuge
+					}
 			AND = {
 				OR = {
 					religion = thangiao
@@ -2762,9 +2776,7 @@ title_councilmember_king = {
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					 liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -2777,7 +2789,6 @@ title_councilmember_king = {
 		can_be_councilmember_king_trigger = yes
 		NOT = { religion = shingyo } 
 		NOT = { religion = taoist }
-		NOR = { liege = { government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -2853,6 +2864,10 @@ title_councilmember_emperor = {
 	
 	allowed_to_hold = {
 	OR = {
+		OR = {
+						NOT = { government = imperial_japanese_government }
+						trait = kuge
+					}
 			AND = {
 				OR = {
 					religion = thangiao
@@ -2860,9 +2875,7 @@ title_councilmember_emperor = {
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					 liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -2875,7 +2888,6 @@ title_councilmember_emperor = {
 		can_be_councilmember_emperor_trigger = yes
 		NOT = { religion = shingyo } 
 		NOT = { religion = taoist }
-		NOR = { liege = { government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -3169,6 +3181,10 @@ title_court_physician = {
 	}
 	
 	allowed_to_hold = {
+		OR = {
+						NOT = { government = imperial_japanese_government }
+						trait = kuge
+					}
 	 OR = {		
 				trait = shengyuan
 				trait = jinshi
@@ -3176,7 +3192,6 @@ title_court_physician = {
 				trait = gongshi
 				NOR = {
 				religion = shingyo
-				government = imperial_japanese_government
 				religion = taoist
 				}
 				}
@@ -3682,11 +3697,7 @@ title_naidaijin = {
 	is_unique = yes
 
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+	trait = kuge
 		NOT = { 
 			primary_title = { temporary = yes } 
 		}
@@ -3717,11 +3728,7 @@ title_sadaijin = {
 	is_unique = yes
 
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		NOT = { 
 			primary_title = { temporary = yes } 
 		}
@@ -3752,11 +3759,7 @@ title_udaijin = {
 	is_unique = yes
 
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+	trait = kuge
 		NOT = { 
 			primary_title = { temporary = yes } 
 		}
@@ -3787,12 +3790,7 @@ title_shonagon = {
 	is_unique = yes
 	is_voter = yes
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			trait = shengyuan
-			}
+	trait = kuge
 		NOT = { 
 			primary_title = { temporary = yes } 
 		}
@@ -3823,12 +3821,7 @@ title_chunagon = {
 	is_unique = yes
 
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			trait = shengyuan
-			}
+	trait = kuge
 		NOT = { 
 			primary_title = { temporary = yes } 
 		}
@@ -3864,11 +3857,7 @@ title_shikibu = {
 	}
 	
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		is_adult = yes
 		NOT = { trait = incapable } 
 		NOT = { 
@@ -3907,11 +3896,7 @@ title_minbu = {
 	}
 	
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		is_adult = yes
 		NOT = { trait = incapable } 
 		NOT = { 
@@ -3950,11 +3935,7 @@ title_dainagon = {
 	}
 	
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		is_adult = yes
 		NOT = { trait = incapable } 
 		NOT = { 
@@ -3993,11 +3974,7 @@ title_nakatsukasa = {
 	}
 	
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		is_adult = yes
 		NOT = { trait = incapable } 
 		NOT = { 
@@ -4075,11 +4052,7 @@ title_kunai = {
 	}
 	
 	allowed_to_hold = {
-	OR = {
-			trait = jinshi
-			trait = juren
-			trait = gongshi
-			}
+		trait = kuge
 		is_adult = yes
 		NOT = { trait = incapable } 
 		NOT = { 

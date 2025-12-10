@@ -8282,6 +8282,7 @@ great_colonial_dispute = {
 			religion_group = christian
 			is_nomadic = no
 			
+			independent = yes
 			NAND = {
 				OR = {
 					has_landed_title = k_teutonic_state
@@ -8833,6 +8834,8 @@ colonial_liberation_war = {
 				region = world_america
 				}
 			is_nomadic = no
+			
+			independent = yes
 			NAND = {
 				OR = {
 					has_landed_title = k_teutonic_state

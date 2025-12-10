@@ -278,6 +278,47 @@
 	holder = 1000075374 #Emperor Hanazono
 }
 
-1318.4.30={
+1318.3.29={
 	holder = 1000075375 #Emperor Go-Daigo
+}
+1339.9.18={
+	holder = 399643	#Emperor Go-Murakami
+}
+
+1368.3.29={
+	holder = 399671	#Emperor Chōkei
+}
+
+1383.1.1={
+	holder = 399672	#Emperor Go-Kameyama
+}
+1392.11.19={
+	holder = 400464	#Emperor Go-Komatsu
+}
+1412.10.5={
+	holder = 400467	#Emperor Shoko
+}
+1428.8.30={
+	holder = 400477	#Emperor Go-Hanazono
+}
+1464.8.21={
+	holder = 400487	#Emperor Go-Tsuchimikado
+}
+1500.10.21={
+	holder = 400490	#Emperor Go-Kashiwabara
+}
+1526.5.18={
+	holder = 400501	#Emperor Go-Nara
+}
+1557.9.27={
+	holder = 400507	#Emperor Ōgimachi
+}
+1586.12.17={
+	holder = 400516	#Emperor Go-Yōzei
+}
+1611.5.9={
+	holder = 400530	#Emperor Go-Mizunoo
+}
+1629.12.22={
+	holder = 400556	#Empress Meisho
 }

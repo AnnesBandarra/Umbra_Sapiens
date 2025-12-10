@@ -2,7 +2,7 @@
 title = c_gunwinggu
 
 # Settlements
-max_settlements = 1
+max_settlements = 2
 b_gunwinggu-i = tribal
 b_gunwinggu-ii = temple
 
