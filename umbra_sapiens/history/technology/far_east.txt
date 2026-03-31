@@ -187,7 +187,6 @@ technology = {
 technology = {
 	titles = {
 		d_kurils
-		d_hokkaido
 		d_sakhalin
 		d_middag
 		d_kilai

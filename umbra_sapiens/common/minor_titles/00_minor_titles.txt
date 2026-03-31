@@ -50,38 +50,36 @@ title_appointed_regent = {
 		prisoner = no
 		NOT = { trait = incapable }
 		has_regent = no
-					OR = {
-						NOT = { 
-						liege= { 	
-							tier = EMPEROR
-							OR={
-							dynasty = 27000
-							dynasty = 28507
-							}
-							}
-							}
-						trait = kuge
-						NOR={
-							dynasty = 27000
-							dynasty = 28507
-						}
-						}
+		OR = {
+			NOT = { 
+				liege = { 	
+					tier = EMPEROR
 					OR={
-					NOR = {
-						religion = thangiao
-						religion = ua_dab
-						religion = nugyauq
-						religion = benzhujiao
-						religion = taoist
-						religion = shingyo
+						dynasty = 27000
+						dynasty = 28507
 					}
-					trait = military_jinshi
-					trait = military_juren
-					trait = military_gongshi
-					}
-				
-				is_adult = yes
+				}
 			}
+			trait = kuge
+			NOR={
+				dynasty = 27000
+				dynasty = 28507
+			}
+		}
+		OR={
+			NOR = {
+				religion = thangiao
+				religion = ua_dab
+				religion = nugyauq
+				religion = benzhujiao
+				religion = taoist
+				religion = shingyo
+			}
+			trait = military_jinshi
+			trait = military_juren
+			trait = military_gongshi
+		}
+		is_adult = yes
 	}
 	
 	allowed_to_grant = {

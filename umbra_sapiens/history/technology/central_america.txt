@@ -102,7 +102,6 @@ technology = {
 
 technology = {
 	titles = {
-		d_zapotec
 		d_yokotan
 	}
 	

@@ -86,12 +86,7 @@ technology = {
 		d_coloneia
 		d_turnovo
 		d_karvuna
-		d_kartli
-		d_derbent
-		d_abkhazia
 		d_abydos
-		d_kakheti
-		d_tao
 	}
 	
 	769 = {
