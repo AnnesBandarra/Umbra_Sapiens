@@ -1,7 +1,235 @@
-1066.1.1 = {
+729.10.1={
+	holder=403980
+	vice_royalty = yes
 	liege="e_japan"
 }
-
-1066.1.1={
-	holder = 1000075176 # Minamoto Yoritoshi
+742.12.7={
+	holder=1000075021	#Returns to emperor
+	vice_royalty = no
+}
+749.8.19={
+	holder = 1000075022 #Empress Koken
+}
+757.7.6={ 
+	holder=403985	#Tomo no Komaro
+	vice_royalty = yes
+}
+757.7.24={
+	holder=1000075022	#Returns to emperor
+	vice_royalty = no
+}
+758.9.7={
+	holder = 1000075024 #Emperor Junnin
+}
+760.1.1={
+	holder=404013	#Fujiwara Asakari
+	vice_royalty = yes
+}
+764.10.17={
+	holder=404023	#Tanaka no Tadamaro
+}
+768.10.18={
+	holder=404030	#Ishikawa no Naotari
+}
+770.10.9={
+	holder=404035	#Sakanoue no Karitamaro
+}
+771.4.20={
+	holder=404076	#Saeki no Mino
+}
+773.8.13={
+	holder=404077	#Tomo no Surugamaro
+}
+776.7.26={
+	holder=1000075026	#Returns to emperor
+	vice_royalty = no
+}
+778.1.1={
+	holder=404080	#Ki no Hirozumi
+	vice_royalty = yes
+}
+782.7.31={
+	holder=404092	#Tomo no Iemochi
+}
+785.10.5={
+	holder=1000075027	#Returns to emperor
+	vice_royalty = no
+}
+787.6.24={
+	holder=404106	#Kudara no Konikishi no Shunchitsu
+	vice_royalty = yes
+}
+788.4.8={
+	holder=404121	#Tajihi Umi
+}
+791.10.23={
+	holder=404106	#Kudara no Konikishi no Shunchitsu
+}
+795.9.24={
+	holder=1000075027	#Returns to emperor
+	vice_royalty = no
+}
+796.11.30={
+	holder=404040	#Sakanoue no Tamuramaro
+	vice_royalty = yes
+}
+808.7.1={
+	holder=404110	#Kudara no Konikishi Kyoshun
+}
+809.2.4={
+	holder=404122	#Saeki no Mimimaro
+}
+812.3.26={
+	holder=404123	#Mononobe no Kusasatatsugi
+}
+819.2.1={
+	holder=404051	#Sakanoue no Kiyono
+}
+834.6.29={
+	holder=404124	#Mononobe no Kusasakumai
+}
+837.5.5={
+	holder=404125	#Mononobe no Kusasasuenomori
+}
+840.3.7={
+	holder=404126	#Miharu no Hamanushi
+}
+846.3.11={
+	holder=404061	#Sakanoue no Masamune
+}
+851.2.15={
+	holder=404127	#Tomo no Mimune
+}
+854.9.12={
+	holder=404129	#Fumiya no Michiyo
+}
+856.3.17={
+	holder=404130	#Ono no Harue
+}
+859.2.22={
+	holder=404063	#Sakanoue no Atamichi
+}
+860.3.10={
+	holder=404130	#Ono no Harue
+}
+865.2.26={
+	holder=404131	#Fumiya no Amaramaro
+}
+868.2.13={
+	holder=404132	#Mihara no Mineno
+}
+876.1.1={
+	holder=404133	#Abe no Hikotaka
+}
+878.7.11={
+	holder=404135	#Ono no Harukaze
+}
+884.4.8={
+	holder=404139	#Abe no Mitora
+}
+886.2.23={
+	holder=404158	#Mihara no Tanemi
+}
+900.1.1={
+	holder=404162	#Fujiwara Tokinaga
+}
+910.6.1={
+	holder=404168	#Fujiwara no Toshihito
+}
+922.1.1={
+	holder=1000075189	#Taira no Kunika
+}
+923.1.1={
+	holder=403210	#Taira no Yoshimasa
+}
+930.1.1={
+	holder=1000075192	#TAIRA no Yoshifumi
+}
+940.6.3={
+	holder=404412	#Fujiwara no Hidesato
+}
+947.3.1={
+	holder=403355	#Taira no Sadamori
+}
+959.10.1={
+	holder=404443	#Minamoto no Nakashu
+}
+965.1.1={
+	holder=404444	#Minamoto no Nakashu
+}
+970.2.23={
+	holder=404420	#Fujiwara no Chikatsune
+}
+974.2.23={
+	holder=404448	#Fujiwara no Suefumi
+}
+979.2.28={
+	holder=404429	#Fujiwara no Chikata
+}
+988.11.14={
+	holder=404428	#Fujiwara no Fuminaga
+}
+998.2.14={
+	holder=404431	#Fujiwara Kanemitsu 
+}
+1014.3.1={
+	holder=403391	#Taira no Koreyoshi
+}
+1015.1.1={
+	holder=404449	#Taira no Nagamori
+}
+1022.3.4={
+	holder=404451	#Fujiwara Yoriyuki
+}
+1023.8.1={
+	holder=1000075178	#Minamoto no Yorinobu
+}
+1048.6.1={
+	holder=1000075179	#Minamoto no Yoriyoshi
+}
+1063.3.29={
+	holder=1000075214	#Kiyohara Takenori
+}
+1069.1.1={
+	holder=1000075218	#Kiyohara no Sadahira
+}
+1083.1.1={
+	holder=1000075182	#Minamoto no Yoshiie
+}
+1100.1.26={
+	holder=404223	#Sanemune Nakamura
+}
+1104.5.27={
+	holder=404602	#Fujiwara no Motoyori
+}
+1113.9.10={
+	holder=404452	#Tachibana no Mototsuna
+}
+1135.1.1={
+	holder=404793	#Fujiwara no Morotsuna
+}
+1143.8.11={
+	holder=404481	#Fujiwara no Motonari
+}
+1157.10.23={
+	holder=404852	#Fujiwara no Masataka
+}
+1163.5.1={
+	holder=404876	#Fujiwara no Nagamitsu
+}
+1170.7.10={
+	holder=404929	#Fujiwara no Hidehira
+}
+1176.5.10={
+	holder=404952	#Fujiwara no Norisue
+}
+1178.10.1={
+	holder=404929	#Fujiwara no Hidehira
+	vice_royalty = no
+}
+1187.11.30={
+	holder=404937	#Fujiwara no Yasuhira
+}
+1189.10.14={
+	holder=0	#Battle of Oshu
 }

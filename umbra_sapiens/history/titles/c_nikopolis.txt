@@ -159,10 +159,14 @@
 	holder=377939	#Bayezid I
 	liege=k_ottoman
 }
-1403.3.8={
-	holder=377952	#Isa Celebi 
+1402.7.20={
+	holder=377951	#Süleyman Çelebi
+	liege="k_thrace"
 }
-1403.5.1={
+1411.2.17={
+	holder=377953	#Musa Çelebi
+}
+1413.7.5={
 	holder=377954	#Mehmed I
 }
 1421.5.26={

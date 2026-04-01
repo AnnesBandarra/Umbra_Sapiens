@@ -123,17 +123,24 @@ holder=467522 #Shishman
 	holder=379477	#Ivanko
 }
 1389.1.1={
-	#Wallachian Invasion
+	holder=377129	#Mircea I the Elder
+	liege="k_wallachia"
 }
 1393.1.1={
     #holder=379477	#Ivanko
-	liege=k_ottoman
+	liege="d_karvuna"
 }
 1406.1.1={
-	#Wallachian Invasion
+	holder=377129	#Mircea I the Elder
+	liege="k_wallachia"
 }
-1411.1.1={
+1411.2.17={
+	holder=377953	#Musa Çelebi
+	liege="k_thrace"
+}
+1413.7.5={
 	holder=377954	#Mehmed I
+	liege="k_ottoman"
 }
 1421.5.26={
 	holder=377966	#Murad II

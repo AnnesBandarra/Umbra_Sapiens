@@ -774,46 +774,57 @@
 1009990255 = {
 	name="Anquimarca"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990256 = {
 	name="Atahualpa"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990257 = {
 	name="Atoc"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990258 = {
 	name="Auqui-Huaman"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990259 = {
 	name="Tucuycuyche"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990260 = {
 	name="Colla-Topa"
 	culture=quechua
+	religion="chavin_pagan"
 }
 1009990261 = {
 	name="Quisquis"
 	culture=aimara
+	religion="tiwanakan_pagan"
 }
 1009990262 = {
 	name="Parinango"
 	culture=aimara
+	religion="tiwanakan_pagan"
 }
 1009990263 = {
 	name="Guaritito"
 	culture=aimara
+	religion="tiwanakan_pagan"
 }
 1009990264 = {
 	name="Huaypalcon"
 	culture=aimara
+	religion="tiwanakan_pagan"
 }
 1009990265 = {
 	name="Maras"
 	culture=aimara
+	religion="tiwanakan_pagan"
 }
 1009990266 = {
 	name="Caca"
@@ -830,10 +841,12 @@
 1009990269 = {
 	name="Guacricaur"
 	culture=chimuan
+	religion="chimuan_pagan"
 }
 1009990270 = {
 	name="Chachapoya"
-	culture=chimuan
+	culture=chachapoyan 
+	religion=chachapoyan_pagan
 }
 1009990271 = {
 	name="Pichiñán"
@@ -910,96 +923,120 @@
 1009990289 = {
 	name="Japoto"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990290 = {
 	name="Xagua"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990291 = {
 	name="Jocay"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990292 = {
 	name="Puna"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990293 = {
 	name="Pillacagua"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990294 = {
 	name="Xipixapa"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990295 = {
 	name="Manta"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990296 = {
 	name="Canelo"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990297 = {
 	name="Tallan"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990298 = {
 	name="Sechura"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990299 = {
 	name="Chono"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990300 = {
 	name="Puruha"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990301 = {
 	name="Quijo"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990302 = {
 	name="Aromo"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990303 = {
 	name="Liguiqui"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990304 = {
 	name="Charapoto"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990305 = {
 	name="Jipijapa"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990306 = {
 	name="Sosote"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990307 = {
 	name="Ayacucho"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990308 = {
 	name="Pajan"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990309 = {
 	name="Salango"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990310 = {
 	name="Santay"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990311 = {
 	name="Yaguachi"
 	culture=caran
+	religion="caran_pagan"
 }
 1009990312 = {
 	name="Daule"
 	culture=caran
+	religion="caran_pagan"
 }

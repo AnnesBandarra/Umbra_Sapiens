@@ -987,45 +987,10 @@ e_japan = {
 						}
 					}
         	}
-	}
-	k_ainumosir = {
-
-	capital = 2011 # Oshima
-	
-	culture = ainu
-	
-	color={ 49 103 69 }
-	color2={ 255 255 255 }
-			d_kurils = {
-			color={ 210 132 90 }
-			color2={ 255 255 255 }
-			capital = 4265
-			c_kurilsk = {
-			color={ 4 15 160 }
-			color2={ 255 255 255 }
-			b_kurilsk = {}
-			b_baykovo = {}
-			}
-			c_urup = {
-			color={ 172	27 162 }
-			color2={ 255 255 255 }
-			b_urup = {}
-			}
-			c_iturup = {
-			color={ 130	24 34 }
-			color2={ 255 255 255 }
-			b_iturup = {}
-			}
-			c_kunashir = {
-			color={ 88 21 161 }
-			color2={ 255 255 255 }
-			b_kunashir = {}
-			b_shikotan = {}
-			}
-			}
-	        d_tohoku = {
+			d_tohoku = {
 				
-				ainu = Emishi
+				ainu="Emishi"
+				emishi="Emishi"
 
 			color={ 205 152 180 }
 			color2={ 255 255 255 }
@@ -1102,6 +1067,43 @@ e_japan = {
 				}
             		}
         	}
+	}
+	k_ainumosir = {
+
+	capital = 2011 # Oshima
+	
+	culture = ainu
+	
+	color={ 49 103 69 }
+	color2={ 255 255 255 }
+			d_kurils = {
+			color={ 210 132 90 }
+			color2={ 255 255 255 }
+			capital = 4265
+			c_kurilsk = {
+			color={ 4 15 160 }
+			color2={ 255 255 255 }
+			b_kurilsk = {}
+			b_baykovo = {}
+			}
+			c_urup = {
+			color={ 172	27 162 }
+			color2={ 255 255 255 }
+			b_urup = {}
+			}
+			c_iturup = {
+			color={ 130	24 34 }
+			color2={ 255 255 255 }
+			b_iturup = {}
+			}
+			c_kunashir = {
+			color={ 88 21 161 }
+			color2={ 255 255 255 }
+			b_kunashir = {}
+			b_shikotan = {}
+			}
+			}
+	        
 
         d_hokkaido = { # capital of this kingdom
 

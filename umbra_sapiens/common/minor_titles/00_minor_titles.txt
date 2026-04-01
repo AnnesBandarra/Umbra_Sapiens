@@ -50,37 +50,30 @@ title_appointed_regent = {
 		prisoner = no
 		NOT = { trait = incapable }
 		has_regent = no
-		OR = {
-			NOT = { 
-				liege = { 	
-					tier = EMPEROR
-					OR={
-						dynasty = 27000
-						dynasty = 28507
+					OR = {
+						NOT = { liege = { government = japanese_imperial_government } }
+						AND = {
+						trait = kuge
+						NOR={
+							dynasty = 27000
+							dynasty = 28507
+						}
+						}
 					}
-				}
+					OR = {
+						NOR = {
+							liege = { government = chinese_imperial_government } 
+							liege = { government = korean_imperial_government } 
+						}
+						OR = {
+							trait = jinshi
+							trait = juren
+							trait = gongshi
+						}
+					}
+				
+				is_adult = yes
 			}
-			trait = kuge
-			NOR={
-				dynasty = 27000
-				dynasty = 28507
-			}
-		}
-		OR={
-			NOR = {
-				religion = thangiao
-				religion = ua_dab
-				religion = nugyauq
-				religion = benzhujiao
-				religion = taoist
-				religion = shingyo
-			}
-			trait = military_jinshi
-			trait = military_juren
-			trait = military_gongshi
-		}
-		is_adult = yes
-	}
 	
 	allowed_to_grant = {
 		has_regent = no
@@ -369,7 +362,7 @@ title_court_eunuch = {
 		is_adult = yes
 		trait = eunuch
 			OR = {
-						NOT = { government = imperial_japanese_government }
+						NOT = { liege= { government = imperial_japanese_government } }
 						trait = kuge
 					}
 		 OR = {
@@ -421,6 +414,10 @@ title_court_dwarf = {
 	monthly_prestige = 0.25
 	
 	allowed_to_hold = {
+	OR = {
+						NOT = { liege= { government = imperial_japanese_government } }
+						trait = kuge
+				}
 	 OR = {		
 				trait = shengyuan
 				trait = jinshi
@@ -697,7 +694,7 @@ title_cupbearer = {
 	
 	allowed_to_hold = {
 			OR = {
-						NOT = { government = imperial_japanese_government }
+						NOT = { liege= { government = imperial_japanese_government } }
 						trait = kuge
 					}
 	      OR = {		
@@ -2764,7 +2761,7 @@ title_councilmember_king = {
 	allowed_to_hold = {
 	OR = {
 		OR = {
-						NOT = { government = imperial_japanese_government }
+						NOT = { liege= { government = imperial_japanese_government } }
 						trait = kuge
 					}
 			AND = {
@@ -2863,7 +2860,7 @@ title_councilmember_emperor = {
 	allowed_to_hold = {
 	OR = {
 		OR = {
-						NOT = { government = imperial_japanese_government }
+						NOT = { liege= { government = imperial_japanese_government } }
 						trait = kuge
 					}
 			AND = {
@@ -3180,7 +3177,7 @@ title_court_physician = {
 	
 	allowed_to_hold = {
 		OR = {
-						NOT = { government = imperial_japanese_government }
+						NOT = { liege= { government = imperial_japanese_government } }
 						trait = kuge
 					}
 	 OR = {		
@@ -3701,6 +3698,10 @@ title_naidaijin = {
 		}
 		is_adult = yes
 		NOT = { trait = incapable } 
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 	
 	allowed_to_grant = {
@@ -3731,7 +3732,11 @@ title_sadaijin = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
-		NOT = { trait = incapable } 
+		NOT = { trait = incapable }
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 	
 	allowed_to_grant = {
@@ -3762,7 +3767,11 @@ title_udaijin = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
-		NOT = { trait = incapable } 
+		NOT = { trait = incapable }
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 	
 	allowed_to_grant = {
@@ -3793,7 +3802,11 @@ title_shonagon = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
-		NOT = { trait = incapable } 
+		NOT = { trait = incapable }
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 	
 	allowed_to_grant = {
@@ -3824,7 +3837,11 @@ title_chunagon = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
-		NOT = { trait = incapable } 
+		NOT = { trait = incapable }
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 	
 	allowed_to_grant = {
@@ -3862,6 +3879,10 @@ title_shikibu = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {
@@ -3901,6 +3922,10 @@ title_minbu = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {
@@ -3940,6 +3965,10 @@ title_dainagon = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {
@@ -3979,6 +4008,10 @@ title_nakatsukasa = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {
@@ -4018,6 +4051,10 @@ title_daijotenno = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {
@@ -4057,6 +4094,10 @@ title_kunai = {
 			primary_title = { temporary = yes } 
 		}
 		is_adult = yes
+		OR = {
+					male_can_hold_minor_title_trigger = yes
+					female_can_hold_minor_commander_title_trigger = yes
+		}
 	}
 
 	revoke_trigger = {

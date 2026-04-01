@@ -120,9 +120,6 @@ holder=476500
 	holder=377939	#Bayezid I
 }
 1403.3.8={
-	holder=377952	#Isa Celebi 
-}
-1403.5.1={
 	holder=377954	#Mehmed I
 }
 1421.5.26={

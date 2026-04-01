@@ -140,6 +140,16 @@
 	holder = 1000075038 #Emperor Suzaku
 }
 
+940.5.12={
+	holder= 403968	#Fujiwara no Sumitomo
+}
+940.12.26={
+	liege="d_shikoku"
+}
+941.5.1={
+	holder = 1000075038 #Emperor Suzaku
+	liege="e_japan"
+}
 946.5.31={
 	holder = 1000075039 #Emperor Murakami
 }
@@ -176,15 +186,7 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-1068.5.22={
-	holder = 1000075048 #Emperor Go-Sanjo
-}
-
-1073.1.18={
-	holder = 1000075049 #Emperor Shirakawa
-}
-
-1086.12.16={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 

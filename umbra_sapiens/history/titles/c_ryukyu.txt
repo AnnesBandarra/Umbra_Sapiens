@@ -75,3 +75,57 @@
 1336.1.1={
 	holder=1000203757 #Seii
 }
+1349.4.30={
+	holder=405942 #Satto Satto
+}
+1395.1.1={
+	holder=405943 #Satto Bunei
+}
+1406.1.1={
+	holder=405944 #Sho Shishō
+}
+1421.1.1={
+	holder=405945 #Sho Hashi
+}
+1439.1.1={
+	holder=405946 #Shō Chū
+}
+1444.1.1={
+	holder=405950 #Shō Shitatsu
+}
+1449.10.29={
+	holder=405947 #Shō Kinpuku
+}
+1453.1.1={
+	holder=405949 #Shō Taikyū
+}
+1460.1.1={
+	holder=405951 #Shō Toku
+}
+1469.1.1={
+	holder=405953 #Shō En
+}
+1476.7.28={
+	holder=405954 #Sho Sen'i
+}
+1477.1.1={
+	holder=405955 #Shō Shin
+}
+1527.1.13={
+	holder=405961 #Shō Sei
+}
+1555.1.1={
+	holder=405965 #Shō Gen
+}
+1572.3.12={
+	holder=405975 #Shō Ei
+}
+1588.1.11={
+	holder=405980 #Shō Nei
+}
+1620.10.14={
+	holder=405982 #Shō Hō
+}
+1640.6.23={
+	holder=405990 #Shō Ken
+}

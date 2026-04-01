@@ -189,14 +189,19 @@ holder=467521 #Ivan Stefan
 	holder=379477	#Ivanko
 }
 1389.1.1={
-	#Wallachian Invasion
+	holder=377129	#Mircea I the Elder
+	liege="k_wallachia"
 }
 1393.1.1={
     #holder=379477	#Ivanko
 	liege=k_ottoman
 }
+1402.7.20={
+	liege="k_thrace"
+}
 1406.1.1={
-	#Wallachian Invasion
+	holder=377129	#Mircea I the Elder
+	liege="k_wallachia"
 }
 1411.1.1={
 	holder=0

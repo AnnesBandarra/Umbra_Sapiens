@@ -63,16 +63,28 @@
 	holder=379227
 }
 1390.1.1={
-	liege=k_ottoman
+	liege="k_ottoman"
 }
 1402.1.1={
 	holder=379228
 }
+1402.7.20={
+	liege="d_abydos"
+}
 1403.1.1={
 	holder=379229
 }
+1403.9.1={
+	liege="k_ottoman"
+}
+1404.4.1={
+	liege="k_thrace"
+}
 1405.1.1={
 	holder=379230
+}
+1410.4.1={
+	liege="k_ottoman"
 }
 1426.1.1={
 	holder=377966	#Murad II

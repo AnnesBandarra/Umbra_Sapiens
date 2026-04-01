@@ -11390,8 +11390,13 @@
 	626.1.1={
 		birth=yes
 	}
-	#643 - sent to Japan as a hostage: founder of Kudara no Konikishi clan in 691
-	700.1.1={
+	661.1.1={
+		dynasty=28444
+		religion="nihon_shinto"
+		culture="japanese"
+		name="Zenko"
+	}
+	693.1.1={
 		death=yes
 	}
 }

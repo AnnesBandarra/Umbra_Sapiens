@@ -168,29 +168,25 @@
 	holder = 1000075045 #Emperor Go-Ichijo
 }
 
-####
-1028.1.3={
-	holder = 1000075087 #Fujiwara Norimichi
-}
-1066.1.1 = {
-	liege="d_sanin"
+1036.5.15={
+	holder = 1000075046 #Emperor Go-Suzaku
 }
 
-####
-
-1075.11.6={
-	liege="e_japan"
-}
-1075.11.6={
-	holder = 1000075049 #Emperor Shirakawa
+1045.2.5={
+	holder = 1000075047 #Emperor Go-Reizei
 }
 
-1086.12.16={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 
-1107.8.9={
+1102.1.1={
+	holder=402145	#Minamoto no Yoshichika
+	liege=0
+}
+1108.3.3={
 	holder = 1000075352 #Emperor Toba
+	liege="e_japan"
 }
 
 1123.2.19={
@@ -202,7 +198,7 @@
 }
 
 1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
+	holder = 403449 #Taira No Kiyomori
 }
 
 1158.9.5={

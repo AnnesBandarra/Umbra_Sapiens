@@ -3253,11 +3253,7 @@ pagan_group = {
 		max_consorts = 3
 		
 		religious_clothing_head = 3
-		religious_clothing_priest = 3
-
-		intermarry = indian_group
-		intermarry = dreamtime_religion
-		intermarry = dreamtime_religion_reformed		
+		religious_clothing_priest = 3	
 		
 		allow_in_ruler_designer = no
 	}
@@ -3324,11 +3320,7 @@ pagan_group = {
 		religious_clothing_priest = 3
 		
 		dislike_tribal_organization = yes
-		can_demand_religious_conversion = no
-		
-		intermarry = indian_group
-		intermarry = dreamtime_religion
-		intermarry = dreamtime_religion_reformed		
+		can_demand_religious_conversion = no	
 	
 	}
 	
@@ -3367,8 +3359,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3437,7 +3427,6 @@ pagan_group = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = indian_group
 	}
 	
 	philippine_religion_reformed = {
@@ -3475,8 +3464,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3545,7 +3532,6 @@ pagan_group = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = indian_group
 	}
 	
 	bornean_religion_reformed = {
@@ -3583,8 +3569,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3653,7 +3637,6 @@ pagan_group = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = indian_group
 	}
 
 	sulawesi_religion_reformed = {
@@ -3691,8 +3674,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3760,8 +3741,7 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
-		
-		intermarry = indian_group
+
 	}
 
 	flores_religion_reformed = {
@@ -3800,7 +3780,6 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3868,8 +3847,7 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
-		
-		intermarry = indian_group
+
 	}
 
 	java_religion_reformed = {
@@ -3907,8 +3885,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -3977,7 +3953,6 @@ pagan_group = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = indian_group
 	}
 
 	sumatran_religion_reformed = {
@@ -4016,7 +3991,6 @@ pagan_group = {
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
 
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -4079,7 +4053,6 @@ pagan_group = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = indian_group
 	}
 
 	malagasy_religion_reformed = {
@@ -4117,8 +4090,6 @@ pagan_group = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = indian_group
 		
 		allow_in_ruler_designer = no
 	}
@@ -4222,18 +4193,6 @@ pagan_group = {
 		max_consorts = 3
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = jurchen_pagan
-		intermarry = jurchen_pagan_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
-		intermarry = chukchi_pantheism
-		intermarry = chukchi_pantheism_reformed
-		intermarry = finnish_pagan
-		intermarry = finnish_pagan_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
 		allow_in_ruler_designer = no
 		
 	}
@@ -4294,18 +4253,6 @@ pagan_group = {
 		reformed = yukaghir_pantheism_reformed
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = jurchen_pagan
-		intermarry = jurchen_pagan_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
-		intermarry = chukchi_pantheism
-		intermarry = chukchi_pantheism_reformed
-		intermarry = finnish_pagan
-		intermarry = finnish_pagan_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
 		
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
@@ -4344,18 +4291,6 @@ pagan_group = {
 		religious_clothing_priest = 3
 
 		allow_in_ruler_designer = no
-		intermarry = jurchen_pagan
-		intermarry = jurchen_pagan_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
-		intermarry = yukaghir_pantheism
-		intermarry = yukaghir_pantheism_reformed
-		intermarry = finnish_pagan
-		intermarry = finnish_pagan_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
 	}
 	chukchi_pantheism = {
 		graphical_culture = mongolgfx
@@ -4416,18 +4351,6 @@ pagan_group = {
 		
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
-		intermarry = jurchen_pagan
-		intermarry = jurchen_pagan_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
-		intermarry = ainu_pantheism
-		intermarry = ainu_pantheism_reformed
-		intermarry = yukaghir_pantheism
-		intermarry = yukaghir_pantheism_reformed
-		intermarry = finnish_pagan
-		intermarry = finnish_pagan_reformed
-		intermarry = tengri_pagan
-		intermarry = tengri_pagan_reformed
 	}
 	ainu_pantheism_reformed = {
 		graphical_culture = mongolgfx	
@@ -4786,27 +4709,6 @@ pagan_group = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan
-		intermarry = plateau_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
 		allow_in_ruler_designer = no
 	}	
 	
@@ -4858,27 +4760,6 @@ pagan_group = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 	}
@@ -4930,27 +4811,6 @@ subartic_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = algic_pagan
-		intermarry = subartic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 	}	
 	subartic_pagan = {
 		graphical_culture = northernnativegfx
@@ -5001,27 +4861,6 @@ subartic_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5072,27 +4911,6 @@ subartic_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		allow_in_ruler_designer = no
 		intermarry = algic_pagan
 	}	
@@ -5145,27 +4963,6 @@ subartic_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5219,27 +5016,6 @@ subartic_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5290,27 +5066,6 @@ subartic_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		allow_in_ruler_designer = no
 	}
 plateau_pagan_reformed = {
@@ -5359,27 +5114,6 @@ plateau_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		allow_in_ruler_designer = no
 	}	
 	plateau_pagan = {
@@ -5431,27 +5165,6 @@ plateau_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5504,27 +5217,6 @@ plateau_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = california_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 	}	
 	california_pagan = {
 		graphical_culture = northernnativegfx
@@ -5575,27 +5267,6 @@ plateau_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5648,27 +5319,6 @@ plateau_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 	}	
 	southeast_pagan = {
 		graphical_culture = northernnativegfx
@@ -5719,27 +5369,6 @@ plateau_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5790,27 +5419,6 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		allow_in_ruler_designer = no
 		intermarry = algic_pagan
 	}	
@@ -5863,27 +5471,6 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -5934,27 +5521,6 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		allow_in_ruler_designer = no
 		intermarry = algic_pagan
 	}	
@@ -6007,27 +5573,6 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 14
 		religious_clothing_priest = 3
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 
@@ -6062,27 +5607,6 @@ southwest_pagan_reformed = {
 
 		religious_clothing_head = 15
 		religious_clothing_priest = 15
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = raven_tales
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 		alternate_start = { always = no }
 	}
 	
@@ -6121,27 +5645,6 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 15
 		religious_clothing_priest = 15
-		intermarry = algic_pagan
-		intermarry = southwest_pagan
-		intermarry = southeast_pagan
-		intermarry = plains_pagan_pagan
-		intermarry = plateau_pagan_pagan
-		intermarry = basin_pagan
-		intermarry = aztec
-		intermarry = subartic_pagan
-		intermarry = california_pagan
-		intermarry = algic_pagan_reformed
-		intermarry = southwest_pagan_reformed
-		intermarry = southeast_pagan_reformed
-		intermarry = plains_pagan_reformed
-		intermarry = plateau_pagan_reformed
-		intermarry = basin_pagan_reformed
-		intermarry = aztec_reformed
-		intermarry = subartic_pagan_reformed
-		intermarry = california_pagan_reformed
-		intermarry = raven_tales_reformed
-		intermarry = inuit_pagan
-		intermarry = inuit_pagan_reformed
 	}
 	dreamtime_religion_reformed = {
 		graphical_culture = africangfx
@@ -6181,12 +5684,8 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = melanesian_religion_reformed
-		intermarry = melanesian_religion
-		
+		intermarry=dreamtime_religion
 		allow_in_ruler_designer = no
-		intermarry = dreamtime_religion
 		aggression = 0.7 # AI aggression factor
 	}
 	
@@ -6251,9 +5750,6 @@ southwest_pagan_reformed = {
 		
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
-		
-		intermarry = melanesian_religion_reformed
-		intermarry = melanesian_religion
 		aggression = 0.7 # AI aggression factor
 	
 	}
@@ -6395,7 +5891,6 @@ southwest_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = south_american
 		aggression = 0.5 # AI aggression factor
 		
 		dislike_tribal_organization = yes
@@ -6472,7 +5967,6 @@ southwest_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = south_american
 		aggression = 0.5 # AI aggression factor
 	}
 
@@ -6546,7 +6040,6 @@ southwest_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = south_american
 		aggression = 0.5 # AI aggression factor
 	}
 	amazonian_pagan = {
@@ -6619,7 +6112,6 @@ southwest_pagan_reformed = {
 		religious_clothing_priest = 3
 		
 		allow_in_ruler_designer = no
-		intermarry = south_american
 		aggression = 0.5 # AI aggression factor
 	}
 	mapuche_pagan = {
@@ -6690,12 +6182,8 @@ southwest_pagan_reformed = {
 		
 		religious_clothing_head = 3
 		religious_clothing_priest = 3
-
-		intermarry = dreamtime_religion_reformed
-		intermarry = dreamtime_religion
 		
 		allow_in_ruler_designer = no
-		intermarry = maori_religion
 		aggression = 2.0 # AI aggression factor
 	}
 	
@@ -6761,8 +6249,6 @@ southwest_pagan_reformed = {
 		dislike_tribal_organization = yes
 		can_demand_religious_conversion = no
 		
-		intermarry = dreamtime_religion_reformed
-		intermarry = dreamtime_religion
 		aggression = 2.0 # AI aggression factor
 	}
 }
@@ -9001,23 +8487,6 @@ indian_group = {
 		piety_name = PIETY_TE
 		ai_convert_same_group = 0
 		ai_convert_other_group = 0	
-		intermarry = buddhist
-		intermarry = manichean
-		intermarry = zun_pagan
-		intermarry = zun_pagan_reformed
-		intermarry = bon
-		intermarry = bon_reformed
-		intermarry = nihon_shinto
-		intermarry = shingyo
-		intermarry = thangiao
-		intermarry = ryukyu_shinto
-		intermarry = nat
-		intermarry = sastsana_phi
-		intermarry = rmagao
-		intermarry = benzhujiao
-		intermarry = bimojiao
-		intermarry = ua_dab
-		intermarry = nugyauq
 	}
 	
 	#Eastern Folk Religions

@@ -1,7 +1,7 @@
 1010020000 = {
 	name="Kallawaya"
-	religion = tiwanakan_pagan
-	culture = tiwanakan
+	culture="kanamari"
+	religion="caribic_pagan"
 }
 1010020001 = {
 	name="Leko"

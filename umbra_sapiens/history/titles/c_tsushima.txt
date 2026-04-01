@@ -206,6 +206,34 @@
 	holder = 1000075356 #Emperor Nijo
 }
 
+1045.2.5={
+	holder = 1000075047 #Emperor Go-Reizei
+}
+
+1097.3.13={
+	holder = 1000075351 #Emperor Horikawa
+}
+
+1107.8.9={
+	holder = 1000075352 #Emperor Toba
+}
+
+1123.2.19={
+	holder = 1000075353 #Emperor Sutoku
+}
+
+1142.1.5={
+	holder = 1000075355 #Emperor Konoe
+}
+
+1155.8.23={
+	holder = 1000075354 #Emperor Go-Shirakawa
+}
+
+1158.9.5={
+	holder = 1000075356 #Emperor Nijo
+}
+
 1165.8.3={
 	holder = 1000075357 #Emperor Rokujo
 }
@@ -246,75 +274,66 @@
 	holder = 1000075367 #Emperor Go-Saga
 }
 
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1246.1.1={
+	holder = 403502 #Shigehisa SOSHIGEHISA
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1260.1.1={
+	holder = 403503 #So Sukekuni
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1274.11.5={
+	holder = 403504 #So Moriaki
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1313.1.1={
+	holder = 403505 #So Morikuni
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1332.1.1={
+	holder = 405922 #So Tsunemochi
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1357.1.1={
+	holder = 405923 #So Sumimochi
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1385.1.1={
+	holder = 405924 #So Yorimochi
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1395.1.1={
+	holder = 405925 #So Sadamochi
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1417.5.4={
+	holder = 405927 #So Sadamori
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1452.6.22={
+	holder = 405929 #So Seishiki
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1467.1.1={
+	holder = 405930 #So Sadakuni
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1494.12.9={
+	holder = 405931 #So Morisada
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1501.1.1={
+	holder = 405932 #So Yoshimori
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1509.1.1={
+	holder = 405933 #So Morinaga
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1518.1.1={
+	holder = 405934 #So Masamori
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1539.1.1={
+	holder = 405935 #So Haruyasu
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1553.1.1={
+	holder = 405936 #So Yoshishige
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1559.1.1={
+	holder = 405937 #So Shigenao
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1566.1.1={
+	holder = 405938 #So Yoshizumi
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1579.1.1={
+	holder = 405939 #So Yoshitomo
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1615.1.31={
+	holder = 405940 #So Yoshishige
 }

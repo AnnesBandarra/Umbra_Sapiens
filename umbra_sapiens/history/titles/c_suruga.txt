@@ -139,6 +139,8 @@
 	holder = 1000075038 #Emperor Suzaku
 }
 
+
+
 946.5.31={
 	holder = 1000075039 #Emperor Murakami
 }
@@ -175,20 +177,7 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-####
-1066.1.1 = {
-	liege="d_hokuriku"
-}
-
-1066.1.1={
-	holder = 1000075103 #Fujiwara Morozane
-}
-####
-
-1101.3.14={
-	liege="e_japan"
-}
-1101.3.14={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 

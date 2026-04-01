@@ -1,5 +1,5 @@
 far_east;Far East;;;;;;;;;;;;;x
-japanese;Japanese;;;;;;;;;;;;;x
+japanese;Yamato;;;;;;;;;;;;;x
 ainu;Ainu;;;;;;;;;;;;;x
 ryukyuan;Ryukyuan;;;;;;;;;;;;;x
 emperor_japanese;Shogun;;;;;;;;;;;;;x
@@ -598,6 +598,14 @@ title_daijotenno;Daijo Tenno;;;;;;;;;;;;;x
 title_daijotenno_desc;The Daijo Tenno is the title for an Emperor of Japan who abdicates the Chrysanthemum Throne in favour of a successor.;;;;;;;;;;;;;x
 yamato;Blood of Jimmu;;;;;;;;;;;;;x
 yamato_desc;The legendary first emperor of Japan, he launched a military expedition from Hyuga near the Seto Inland Sea, captured Yamato, and established this as his center of power.;;;;;;;;;;;;;x
+genji;Blood of Seiwa Genji;;;;;;;;;;;;;x
+genji_desc;The Seiwa Genji is a line of the Japanese Minamoto clan that is descended from Emperor Seiwa, which is the most successful and powerful line of the clan.;;;;;;;;;;;;;x
+fujiwara;Blood of Fujiwara no Kamatari;;;;;;;;;;;;;x
+fujiwara_desc;The Fujiwara clan was a powerful family of imperial regents in Japan. They prospered since ancient times and dominated the imperial court until the Meiji Restoration in 1868.;;;;;;;;;;;;;x
+takamochi;Blood of Taira no Takamochi;;;;;;;;;;;;;x
+takamochi_desc;The Taira clan was one of the four most important clans that dominated Japanese politics. In the twilight of the Heian period, the Taira controlled the boy emperor Antoku and had effectively dominated the Imperial capital of Heian.;;;;;;;;;;;;;x
+tachibana;Blood of Tachibana no Michiyo;;;;;;;;;;;;;x
+tachibana_desc;The Tachibana clan was one of the four most powerful court nobility families in Japan's Nara and early Heian periods.;;;;;;;;;;;;;x
 todaiji_buddhist;Nara;;;;;;;;;;;;;x
 todaiji_buddhist_desc;Nara Buddhism refers to Buddhist scholarship and monasteries in Nara, the first permanent capital of Japan, during the Nara period.;;;;;;;;;;;;;x
 nanzenji_buddhist;Zen;;;;;;;;;;;;;x

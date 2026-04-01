@@ -1,0 +1,9 @@
+1409.6.26={
+	holder=378776	#Antipope Alexander V
+}
+1410.5.3={
+	holder=378777	#Antipope John XXIII
+}
+1415.5.29={
+	holder=0
+}

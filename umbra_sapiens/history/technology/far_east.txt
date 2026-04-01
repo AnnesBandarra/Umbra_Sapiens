@@ -82,7 +82,6 @@ technology = {
 		d_shikoku
 		d_kyushu 
 		d_tohoku
-		d_hokkaido 
 		d_bonin
 	}
 	
@@ -187,21 +186,22 @@ technology = {
 technology = {
 	titles = {
 		d_kurils
+		d_hokkaido
 		d_sakhalin
 		d_middag
 		d_kilai
 	}
 	
 	769 = {
-		military = 0.1
-		economy = 0.1
-		culture = 0.1
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
 	}
 		
 		
 	1640 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
 	}
 }

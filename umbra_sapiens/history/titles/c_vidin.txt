@@ -124,7 +124,7 @@ liege=d_vidin
 	liege=k_hungary
 }
 1396.9.25={
-liege=k_ottoman
+liege="k_thrace"
 holder=374201	#Constantine II of Bulgaria
 }
 1422.9.17={

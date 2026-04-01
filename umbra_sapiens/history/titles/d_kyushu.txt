@@ -1,0 +1,13 @@
+1559.11.1={
+	holder = 401486	#Yoshishige OTOMO
+	liege="e_japan"
+}
+1576.1.1={
+	holder = 401490	#Yoshimune Otomo
+}
+1592.1.1={
+	holder = 401497	#Yoshiori Otomo
+}
+1593.1.1={
+	holder=0
+}

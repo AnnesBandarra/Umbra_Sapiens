@@ -1,0 +1,7 @@
+939.12.1={
+	holder=403554	#Taira no Masakado
+}
+
+940.3.25={
+	holder = 0
+}

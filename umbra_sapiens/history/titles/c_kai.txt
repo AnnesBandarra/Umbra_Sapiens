@@ -1,67 +1,250 @@
 507.3.3={
 	liege="e_japan"
 }
-##Yamashita Dynasty (Placeholders)
-750.1.1={
-	holder=1000076259 #Akisuke
+507.3.3={
+	holder = 1000075000 #Emperor Keitai
 }
-780.1.1={
-	holder=1000076260 #Hirokado
+531.3.10={
+	holder = 1000075001 #Emperor Ankan
 }
-810.1.1={
-	holder=1000076261 #Harutane
+535.12.17={
+	holder = 1000075002 #Emperor Senka
 }
-840.1.1={
-	holder=1000076262 #Hisayasu
+539.3.15={
+	holder = 1000075003 #Emperor Kinmei
 }
-870.1.1={
-	holder=1000076263 #Kazunobu
+571.4.30={
+	holder = 1000075004 #Emperor Bidatsu
 }
-900.1.1={
-	holder=1000076264 #Koremasa
+585.9.5={
+	holder = 1000075005 #Emperor Yomei
 }
-930.1.1={
-	holder=1000076265 #Chikatoki
+587.4.9={
+	holder = 1000075006 #Emperor Sushun
 }
-960.1.1={
-	holder=1000076266 #Akinaga
+
+592.12.12={
+	holder = 1000075007 #Empress Suiko
 }
-990.1.1={
-	holder=1000076267 #Hidenao
+
+628.4.15={
+	holder = 1000075009 #Emperor Jomei
 }
-1020.1.1={
-	holder=1000076268 #Doronosuke
+
+641.11.17={
+	holder = 1000075011 #Empress Kogyoku
 }
-1050.1.1={
-	holder=1000076269 #Kagehiro
+
+645.7.12={
+	holder = 1000075012 #Emperor Kotoku
 }
-1080.1.1={
-	holder=1000076270 #Katahide
+
+654.11.24={
+	holder = 1000075011 #Empress Saimei
 }
-1110.1.1={
-	holder=1000076271 #Kuniuji
+
+661.8.24={
+	holder = 1000075013 #Emperor Tenchi
 }
-1140.1.1={
-	holder=1000076272 #Akinao
+
+672.1.9={
+	holder = 1000075014 #Emperor Kobun
 }
-1170.1.1={
-	holder=1000076273 #Masaie
+
+672.8.21={
+	holder = 1000075015 #Emperor Tenmu
 }
-1200.1.1={
-	holder=1000076274 #Haruzumi
+
+686.10.1={
+	holder = 1000075016 #Empress Jito
 }
-1230.1.1={
-	holder=1000076275 #Eisaburo
+
+697.8.22={
+	holder = 1000075018 #Emperor Monmu
 }
-1260.1.1={
-	holder=1000076276 #Fuyuki
+
+707.7.18={
+	holder = 1000075019 #Empress Genmei
 }
-1290.1.1={
-	holder=1000076277 #Kazuemon
+
+715.10.3={
+	holder = 1000075020 #Empress Gensho
 }
-1320.1.1={
-	holder=1000076278 #Eishi
+
+721.12.29={
+	holder = 1000075021 #Emperor Shomu
 }
-1350.1.1={
-	holder=1000076279 #Genzo
+
+749.8.19={
+	holder = 1000075022 #Empress Koken
+}
+
+758.9.7={
+	holder = 1000075024 #Emperor Junnin
+}
+
+764.11.6={
+	holder = 1000075022 #Empress Shotoku
+}
+
+770.8.28={
+	holder = 1000075026 #Emperor Konin
+}
+
+781.4.30={
+	holder = 1000075027 #Emperor Kanmu
+}
+
+806.4.9={
+	holder = 1000075028 #Emperor Heizei
+}
+
+809.5.8={
+	holder = 1000075029 #Emperor Saga
+}
+
+
+823.6.9={
+	holder = 1000075030 #Emperor Junna
+}
+
+833.3.30={
+	holder = 1000075031 #Emperor Ninmyo
+}
+
+850.5.6={
+	holder = 1000075032 #Emperor Montoku
+}
+
+858.10.7={
+	holder = 1000075033 #Emperor Seiwa
+}
+
+876.12.18={
+	holder = 1000075034 #Emperor Yozei
+}
+
+884.3.23={
+	holder = 1000075035 #Emperor Koko
+}
+
+887.9.17={
+	holder = 1000075036 #Emperor Uda
+}
+
+897.8.14={
+	holder = 1000075037 #Emperor Daigo
+}
+
+930.12.14={
+	holder = 1000075038 #Emperor Suzaku
+}
+
+946.5.31={
+	holder = 1000075039 #Emperor Murakami
+}
+
+967.7.5={
+	holder = 1000075040 #Emperor Reizei
+}
+
+969.11.5={
+	holder = 1000075041 #Emperor Enyu
+}
+
+984.11.5={
+	holder = 1000075042 #Emperor Kazan
+}
+
+986.7.31={
+	holder = 1000075043 #Emperor Ichijo
+}
+
+1011.7.16={
+	holder = 1000075044 #Emperor Sanjo
+}
+
+1016.3.24={
+	holder = 1000075045 #Emperor Go-Ichijo
+}
+
+1036.5.15={
+	holder = 1000075046 #Emperor Go-Suzaku
+}
+
+1045.2.5={
+	holder = 1000075047 #Emperor Go-Reizei
+}
+
+1097.3.13={
+	holder = 1000075351 #Emperor Horikawa
+}
+
+1107.8.9={
+	holder = 1000075352 #Emperor Toba
+}
+
+1123.2.19={
+	holder = 1000075353 #Emperor Sutoku
+}
+
+1131.1.1={
+	holder = 401772	#Minamoto no Yoshikiyo
+}
+1149.8.27={
+	holder = 401883	#Minamoto no Kiyomitsu
+}
+1168.8.12={
+	holder = 401982	#Nobuyoshi no TAKEDA
+}
+1186.3.31={
+	holder = 402005	#Nobumitsu Takeda
+}
+1248.12.21={
+	holder = 402015	#Nobumasa Takeda
+}
+1265.1.24={
+	holder = 402025	#Nobutoki Takeda
+}
+1289.3.2={
+	holder = 402034	#Takeda Tokitsuna
+}
+1307.8.1={
+	holder = 402036	#Nobumune Takeda
+}
+1330.12.19={
+	holder = 402037	#Nobutake Takeda
+}
+1359.8.7={
+	holder = 402038	#Nobunari Takeda
+}
+1394.11.7={
+	holder = 405068	#Nobuharu Takeda
+}
+1413.11.16={
+	holder = 405073	#Nobumitsu Takeda 
+}
+1417.2.22={
+	holder = 405081	#Nobushige Takeda
+}
+1450.12.28={
+	holder = 405089	#Nobumori Takeda
+}
+1455.6.25={
+	holder = 402046	#Nobumasa Takeda
+}
+1505.10.13={
+	holder = 402047	#Nobunawa Takeda
+}
+1507.3.27={
+	holder = 402061	#Nobutora Takeda
+}
+1540.1.1={
+	holder = 402066	#Takeda Shingen
+}
+1573.5.13={
+	holder = 402104	#Takeda Katsuyori
+}
+1582.4.3={
+	holder = 0
 }

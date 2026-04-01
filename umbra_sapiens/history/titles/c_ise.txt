@@ -176,13 +176,7 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-####
-1065.1.1={
-	holder = 1000075197 #Taira Masahira
-}
-####
-
-1102.1.1={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 
@@ -199,7 +193,7 @@
 }
 
 1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
+	holder = 403449 #Taira No Kiyomori
 }
 
 1158.9.5={

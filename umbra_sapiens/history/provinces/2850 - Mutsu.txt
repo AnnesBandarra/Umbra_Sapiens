@@ -5,8 +5,8 @@ title = c_mutsu
 
 # Settlements
 max_settlements = 5
-b_hiraizumi = castle
-b_tosaminato = city
+b_hiraizumi = tribal
+#b_tosaminato = city
 
 #b_hei = temple
 #b_toba = castle
@@ -17,7 +17,7 @@ b_tosaminato = city
 #b_waga = castle
 
 # Misc
-culture = japanese
-religion = nihon_shinto
+culture = emishi
+religion = ainu_pantheism
 
 # History

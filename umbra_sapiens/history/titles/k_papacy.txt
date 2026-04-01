@@ -382,8 +382,7 @@
 {
 	holder=378750	#Urban VI
 }
-1389.11.2=
-{
+1389.11.2={
 	holder=378752	#Boniface IX
 }
 1404.10.1=
@@ -394,9 +393,6 @@
 {
 	holder=378775	#Gregory XII
 }
-1415.7.4={
-	holder=378778 #Martin V
-}
 1412.10.18={
 	set_global_flag = hus_work
 	effect = {
@@ -404,6 +400,9 @@
 	name = major_protestant_reformer
 	}
 	}
+}
+1415.7.4={
+	holder=378778 #Martin V
 }
 1431.2.20={
 	holder=378782 #Eugene IV

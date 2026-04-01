@@ -122,9 +122,17 @@ holder=478501
 {
 	holder=378750	#Urban VI
 }
-1389.11.2=
-{
+1378.9.20={
+	holder=372352	#Clemens VII
+	liege="k_france"
+}
+1394.9.16={
+	holder=378751	#Antipope Benedict XIII
+	liege="k_france"
+}
+1403.3.12={
 	holder=378752	#Boniface IX
+	liege="k_papal_state"
 }
 1404.10.1=
 {

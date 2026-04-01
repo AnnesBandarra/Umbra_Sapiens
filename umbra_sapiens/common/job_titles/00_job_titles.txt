@@ -23,16 +23,19 @@ job_chancellor = {
 	
 	allow = {
 	OR = {
-			AND = {
+		AND = {
+					liege= { government = japanese_imperial_government }
+					trait=kuge
+					can_be_chancellor_trigger = yes
+					}
+		AND = {
 				OR = {
 					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -43,14 +46,13 @@ job_chancellor = {
 		}
 		AND = {
 		can_be_chancellor_trigger = yes
-				NOT = { religion = shingyo } 
 		NOT = { religion = taoist }
 		NOT = { religion = thangiao } 
 		NOT = { religion = ua_dab }
 		NOT = { religion = nugyauq } 
 		NOT = { religion = benzhujiao }
 		NOT = { religion = shingyo } 
-		NOT = { liege = { government = japanese_imperial_government } }
+		NOR = { liege={ government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -145,15 +147,18 @@ job_marshal = {
 	allow = {
 	OR = {
 			AND = {
+					liege= { government = japanese_imperial_government }
+					trait=kuge
+					can_be_marshal_trigger = yes
+					}
+			AND = {
 				OR = {
 					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					 liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -171,7 +176,7 @@ job_marshal = {
 		NOT = { religion = nugyauq } 
 		NOT = { religion = benzhujiao }
 		NOT = { religion = shingyo } 
-		NOR = { liege = { government = japanese_imperial_government } }
+		NOR = { liege={ government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -336,15 +341,18 @@ job_treasurer = {
 	allow = {
 	OR = {
 			AND = {
+					liege= { government = japanese_imperial_government }
+					trait=kuge
+					can_be_treasurer_trigger = yes
+					}
+			AND = {
 				OR = {
 					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					 liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -362,7 +370,7 @@ job_treasurer = {
 		NOT = { religion = nugyauq } 
 		NOT = { religion = benzhujiao }
 		NOT = { religion = shingyo } 
-		NOT = { liege = { government = japanese_imperial_government } }
+		NOT = { liege= { government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -459,15 +467,18 @@ job_spymaster = {
 	allow = {
 	OR = {
 			AND = {
+					liege= { government = japanese_imperial_government }
+					trait=kuge
+					can_be_spymaster_trigger = yes
+					}
+			AND = {
 				OR = {
 					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -485,7 +496,7 @@ job_spymaster = {
 		NOT = { religion = nugyauq } 
 		NOT = { religion = benzhujiao }
 		NOT = { religion = shingyo } 
-		NOT = { liege = { government = japanese_imperial_government } }
+		NOT = { liege= { government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}
@@ -583,15 +594,18 @@ job_spiritual = {
 	allow = {
 	OR = {
 			AND = {
+					liege= { government = japanese_imperial_government }
+					trait=kuge
+					can_be_spiritual_trigger = yes
+					}
+			AND = {
 				OR = {
 					religion = thangiao
 					religion = ua_dab
 					religion = nugyauq
 					religion = benzhujiao
 					religion = taoist
-					religion = nihon_shinto
 					religion = shingyo
-					 liege = { government = japanese_imperial_government }
 					}
 					OR = {
 					trait = jinshi
@@ -609,7 +623,7 @@ job_spiritual = {
 		NOT = { religion = nugyauq } 
 		NOT = { religion = benzhujiao }
 		NOT = { religion = shingyo } 
-		NOT = { liege = { government = japanese_imperial_government } }
+		NOT = { liege= { government = japanese_imperial_government } }
 		NOT = { culture_group = chinese_group }
 		}
 		}

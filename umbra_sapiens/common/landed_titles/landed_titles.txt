@@ -6942,6 +6942,7 @@ e_byzantium = {
 		culture = greek
 
 		roman = "Thracia"
+		turkish = "Rumelia"
 
 		allow = {
 			hidden_tooltip = {

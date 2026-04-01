@@ -68,11 +68,23 @@
 1402.1.1={
 	holder=379232
 }
+1402.7.20={
+	liege="d_abydos"
+}
+1403.9.1={
+	liege="k_ottoman"
+}
 1404.1.1={
 	holder=379231
 }
+1404.4.1={
+	liege="k_thrace"
+}
 1410.1.1={
 	holder=379232
+}
+1410.4.1={
+	liege="k_ottoman"
 }
 1412.1.1={
 	holder=377954	#Mehmed I

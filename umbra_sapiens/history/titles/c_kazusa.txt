@@ -140,6 +140,19 @@
 	holder = 1000075038 #Emperor Suzaku
 }
 
+936.1.1={
+	holder=403554	#Taira no Masakado
+}
+
+939.3.11={
+	liege=0
+}
+
+940.3.25={
+	holder = 1000075038 #Emperor Suzaku
+	liege="e_japan"
+}
+
 946.5.31={
 	holder = 1000075039 #Emperor Murakami
 }
@@ -168,149 +181,91 @@
 	holder = 1000075045 #Emperor Go-Ichijo
 }
 
-####
-1031.6.28={
-	holder = 1000075208 #Taira Tsunemasa
-}
-####
-
-1076.7.6={
-	holder = 1000075049 #Emperor Shirakawa
+1045.2.5={
+	holder = 1000075047 #Emperor Go-Reizei
 }
 
-1086.12.16={
-	holder = 1000075351 #Emperor Horikawa
+1066.9.15={
+	holder = 403243	#Chiba no Tsunekane
 }
-
-1107.8.9={
-	holder = 1000075352 #Emperor Toba
+1126.4.4={
+	holder = 403278	#Chiba no Tsuneshige
 }
-
-1123.2.19={
-	holder = 1000075353 #Emperor Sutoku
+1180.5.28={
+	holder = 403286	#Tsunetane Chiba
 }
-
-1142.1.5={
-	holder = 1000075355 #Emperor Konoe
+1201.4.28={
+	holder = 403293	#Tanemasa Chiba
 }
-
-1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
+1203.8.28={
+	holder = 405207	#Naritane Chiba
 }
-
-1158.9.5={
-	holder = 1000075356 #Emperor Nijo
+1218.5.6={
+	holder = 405209	#Tanetsuna Chiba 
 }
-
-1165.8.3={
-	holder = 1000075357 #Emperor Rokujo
+1228.7.1={
+	holder = 405210	#Tokitane Chiba
 }
-
-1168.3.30={
-	holder = 1000075358 #Emperor Takakura
+1241.10.23={
+	holder = 405212	#Yoritane Chiba
 }
-
-1180.5.18={
-	holder = 1000075359 #Emperor Antoku
+1275.9.7={
+	holder = 405213	#Munetane Chiba
 }
-
-1183.9.8={
-	holder = 1000075360 #Emperor Go-Toba
+1294.2.12={
+	holder = 405214	#Tanemune Chiba
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1312.5.5={
+	holder = 405215	#Sadatane Chiba
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1351.1.28={
+	holder = 405218	#Ujitane Chiba
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1365.9.28={
+	holder = 405219	#Mitsutane Chiba
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1426.7.12={
+	holder = 405223	#Kanetane Chiba
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1430.7.7={
+	holder = 405225	#Tanenao Chiba
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+1455.9.26={
+	holder = 405227	#Tanemasa CHIBA
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1454.7.18={
+	holder = 405228	#Tanenobu CHIBA
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1455.9.23={
+	holder = 405224	#Yasutane MAKUWARI
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1456.11.28={
+	holder = 405233	#Tanemochi MAKUWARI
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1456.7.14={
+	holder = 405232	#Suketane Chiba
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1492.3.13={
+	holder = 405235	#Takatane Chiba
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1521.9.19={
+	holder = 405237	#Katsutane CHIBA
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1509.1.1={
+	holder = 405240	#Masatane Chiba
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1546.2.7={
+	holder = 405241	#Toshitane Chiba
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1547.7.28={
+	holder = 405243	#Chikatane Chiba
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1557.8.30={
+	holder = 405242	#Tanetomi Chiba
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1579.5.29={
+	holder = 405245	#Yoshitane Chiba
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
-}
-1412.10.5={
-	holder = 400467	#Emperor Shoko
-}
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
-}
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
-}
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
-}
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
-}
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
-}
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
-}
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
-}
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1590.1.1={
+	holder=0	#Confiscated after Hojo deafeated
 }

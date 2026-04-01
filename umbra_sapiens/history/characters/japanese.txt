@@ -21,7 +21,7 @@
 		name="Keitai"
 		create_bloodline = {
 		type = yamato
-	}
+		}
 	}
 	531.3.10={
 		death="531.3.10"
@@ -1275,6 +1275,9 @@
 	1142.1.5={
 		name = "Konoe"
 	}
+	1150.7.18={
+		add_spouse=404628
+	}
 	1155.8.22={
 		death="1155.8.22"
 	}
@@ -1337,6 +1340,7 @@
 	1168.3.30={
 		name = "Takakura"
 	}
+	1182.1.1={ add_spouse=403486 }
 	1181.2.6={
 		death="1181.2.6"
 	}
@@ -1351,6 +1355,7 @@
 	add_trait="kuge"
 	add_trait="amateurish_plotter"
 	father=1000075358
+	mother=403486
 	1178.12.22={
 		birth="1178.12.22"
 	}
@@ -1736,6 +1741,9 @@
 	add_trait="kuge"
 	614.1.1={
 		birth="614.1.1"
+		create_bloodline = {
+		type = fujiwara
+		}
 	}
 	669.11.14={
 		death="669.11.14"
@@ -1801,6 +1809,9 @@
 	681.1.1={
 		birth="681.1.1"
 	}
+	714.1.1={
+		add_spouse=403570
+	}
 	737.5.25={
 		death="737.5.25"
 	}
@@ -1847,6 +1858,7 @@
 	add_trait="amateurish_plotter"
 	add_trait="kuge"
 	father=1000075053
+	mother=403570
 	714.1.1={
 		birth="714.1.1"
 		
@@ -1864,6 +1876,7 @@
 	add_trait="kuge"
 	add_trait="charismatic_negotiator"
 	father=1000075053
+	mother=403570
 	715.1.1={
 		birth="715.1.1"
 		
@@ -1881,6 +1894,7 @@
 	add_trait="kuge"
 	add_trait="tough_soldier"
 	father=1000075053
+	mother=403570
 	721.1.1={
 		birth="721.1.1"
 		
@@ -1892,7 +1906,7 @@
 
 1000075059 = {
 	name="Uchimaro"
-	dynasty=27001
+	dynasty=28509
 	martial=4
 	diplomacy=8
 	intrigue=6
@@ -1913,7 +1927,7 @@
 
 1000075060 = {
 	name="Manatsu"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -1929,7 +1943,7 @@
 
 1000075061 = {
 	name="Fuyutsugu"
-	dynasty=27001
+	dynasty=28509
 	martial=4
 	diplomacy=7
 	intrigue=7
@@ -1949,7 +1963,7 @@
 
 1000075062 = {
 	name="Nagara"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -1965,7 +1979,7 @@
 
 1000075063 = {
 	name="Yoshifusa"
-	dynasty=27001
+	dynasty=28509
 	martial=3
 	diplomacy=7
 	intrigue=7
@@ -1985,7 +1999,7 @@
 
 1000075064 = {
 	name="Yoshimi"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2001,7 +2015,7 @@
 
 1000075065 = {
 	name="Mototsune"
-	dynasty=27001
+	dynasty=28509
 	martial=4
 	diplomacy=8
 	intrigue=8
@@ -2021,7 +2035,7 @@
 
 1000075066 = {
 	name="Tokihira"
-	dynasty=27001
+	dynasty=28509
 	martial=3
 	diplomacy=6
 	intrigue=7
@@ -2041,7 +2055,7 @@
 
 1000075067 = {
 	name="Nakahira"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2057,7 +2071,7 @@
 
 1000075068 = {
 	name="Tadahira"
-	dynasty=27001
+	dynasty=28509
 	martial=5
 	diplomacy=8
 	intrigue=6
@@ -2077,7 +2091,7 @@
 
 1000075069 = {
 	name="Morosuke"
-	dynasty=27001
+	dynasty=28509
 	martial=4
 	diplomacy=7
 	intrigue=6
@@ -2097,7 +2111,7 @@
 
 1000075070 = {
 	name="Moroyasu"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
@@ -2113,7 +2127,7 @@
 
 1000075071 = {
 	name="Morouji"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
@@ -2129,7 +2143,7 @@
 
 1000075072 = {
 	name="Morotada"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2177,7 +2191,7 @@
 
 1000075075 = {
 	name="Kaneie"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2193,7 +2207,7 @@
 
 1000075076 = {
 	name="Michitaka"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2209,7 +2223,7 @@
 
 1000075077 = {
 	name="Michikane"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2225,7 +2239,7 @@
 
 1000075078 = {
 	name="Michinaga"
-	dynasty=27001
+	dynasty=28892
 	martial=3
 	diplomacy=9
 	intrigue=8
@@ -2265,7 +2279,7 @@
 1000075080 = {
 	name="Shoshi"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2282,7 +2296,7 @@
 
 1000075081 = {
 	name="Yorimichi"
-	dynasty=27001
+	dynasty=28892
 	martial=4
 	diplomacy=7
 	intrigue=7
@@ -2304,25 +2318,9 @@
 	}
 }
 
-1000075082 = {
-	name="Akiko"
-	female=yes
-	dynasty=27002
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-	965.1.1={
-		birth="965.1.1"
-	}
-	1049.8.23={
-		death="1049.8.23"
-	}
-}
-
 1000075083 = {
 	name="Yorimune"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2340,13 +2338,13 @@
 1000075084 = {
 	name="Kenshi"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="naive_appeaser"
 	father=1000075078
-	mother=1000075079
+	mother=404552
 	994.4.1={
 		birth="994.4.1"
 	}
@@ -2357,7 +2355,7 @@
 
 1000075085 = {
 	name="Akinobu"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2374,13 +2372,13 @@
 
 1000075086 = {
 	name="Yoshinobu"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="amateurish_plotter"
 	father=1000075078
-	mother=1000075082
+	mother=404552
 	995.1.1={
 		birth="995.1.1"
 	}
@@ -2391,13 +2389,13 @@
 
 1000075087 = {
 	name="Norimichi"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="underhanded_rogue"
 	father=1000075078
-	mother=1000075079
+	mother=404552
 	996.7.29={
 		birth="996.7.29"
 	}
@@ -2409,7 +2407,7 @@
 1000075088 = {
 	name="Takeko"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2427,7 +2425,7 @@
 1000075089 = {
 	name="Kanshi"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2444,13 +2442,13 @@
 
 1000075090 = {
 	name="Nagaie"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="naive_appeaser"
 	father=1000075078
-	mother=1000075082
+	mother=404552
 	1005.9.26={
 		birth="1005.9.26"
 	}
@@ -2462,13 +2460,13 @@
 1000075091 = {
 	name="Kishi"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="naive_appeaser"
 	father=1000075078
-	mother=1000075079
+	mother=404552
 	1007.1.26={
 		birth="1007.1.26"
 	}
@@ -2480,13 +2478,13 @@
 1000075092 = {
 	name="Takako"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="naive_appeaser"
 	father=1000075078
-	mother=1000075082
+	mother=404552
 	1003.1.1={
 		birth="1003.1.1"
 	}
@@ -2498,7 +2496,7 @@
 
 1000075093 = {
 	name="Choshin"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2515,13 +2513,13 @@
 1000075094 = {
 	name="Moriko"
 	female=yes
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
 	add_trait="naive_appeaser"
 	father=1000075078
-	mother=1000075082
+	mother=404552
 	1001.1.1={
 		birth="1001.1.1"
 	}
@@ -2549,7 +2547,7 @@
 
 1000075096 = {
 	name="Michifusa"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2585,10 +2583,14 @@
 	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
+	father=403646
 	add_trait="kuge"
 	add_trait="underhanded_rogue"
 	665.1.1={
 		birth="665.1.1"
+		create_bloodline = {
+	 	type = tachibana
+		}
 	}
 	733.2.4={
 		death="733.2.4"
@@ -2597,7 +2599,7 @@
 
 1000075099 = {
 	name="Kakuen"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2617,7 +2619,7 @@
 
 1000075100 = {
 	name="Sadatsuna"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -2637,7 +2639,7 @@
 
 1000075101 = {
 	name="Tadatsuna"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="amateurish_plotter"
@@ -2657,7 +2659,7 @@
 
 1000075102 = {
 	name="Hiroko"
-	dynasty=27001
+	dynasty=28892
 	female=yes
 	religion="nihon_shinto"
 	culture="japanese"
@@ -2675,7 +2677,7 @@
 
 1000075103 = {
 	name="Morozane"
-	dynasty=27001
+	dynasty=28892
 	martial=4
 	diplomacy=5
 	intrigue=6
@@ -2715,7 +2717,7 @@
 
 1000075105 = {
 	name="Moromichi"
-	dynasty=27001
+	dynasty=28892
 	martial=5
 	diplomacy=4
 	intrigue=5
@@ -3230,6 +3232,9 @@
 	mother=1000075098
 	684.1.1={
 		birth="684.1.1"
+		effect = {
+			add_to_bloodline = tachibana
+		}
 	}
 	757.1.30={
 		death="757.1.30"
@@ -3247,6 +3252,9 @@
 	mother=1000075098
 	688.1.1={
 		birth="688.1.1"
+		effect = {
+			add_to_bloodline = tachibana
+		}
 	}
 	737.8.30={
 		death="737.8.30"
@@ -3321,7 +3329,7 @@
 }
 
 1000075141 = {
-	name="Irii"
+	name="Irioi"
 	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
@@ -3334,214 +3342,6 @@
 	}
 	800.3.8={
 		death="800.3.8"
-	}
-}
-
-1000075142 = {
-	name="Saneki"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075138
-	782.1.1={
-		birth="782.1.1"
-	}
-	847.1.1={
-		death="847.1.1"
-	}
-}
-
-1000075143 = {
-	name="Minenori"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075142
-	817.1.1={
-		birth="817.1.1"
-	}
-	864.1.1={
-		death="864.1.1"
-	}
-}
-
-1000075144 = {
-	name="Hiromi"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075143
-	837.1.1={
-		birth="837.1.1"
-	}
-	890.6.10={
-		death="890.6.10"
-	}
-}
-
-1000075145 = {
-	name="Kimiki"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075144
-	871.1.1={
-		birth="871.1.1"
-	}
-	938.1.1={
-		death="938.1.1"
-	}
-}
-
-1000075146 = {
-	name="Yoshiko"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075145
-	907.1.1={
-		birth="907.1.1"
-	}
-	963.1.1={
-		death="963.1.1"
-	}
-}
-
-1000075147 = {
-	name="Toshimasa"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075146
-	933.1.1={
-		birth="933.1.1"
-	}
-	975.1.1={
-		death="975.1.1"
-	}
-}
-
-1000075148 = {
-	name="Norimitsu"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075147
-	965.1.1={
-		birth="965.1.1"
-	}
-	1022.1.1={
-		death="1022.1.1"
-	}
-}
-
-1000075149 = {
-	name="Norinaga"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075148
-	982.1.1={
-		birth="982.1.1"
-	}
-	1034.4.1={
-		death="1034.4.1"
-	}
-}
-
-1000075150 = {
-	name="Norisue"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075149
-	1025.1.1={
-		birth="1025.1.1"
-	}
-	1063.7.26={
-		death="1063.7.26"
-	}
-}
-
-1000075151 = {
-	name="Kiyonobu"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075150
-	1053.1.1={
-		birth="1053.1.1"
-	}
-	1121.1.1={
-		death="1121.1.1"
-	}
-}
-
-1000075152 = {
-	name="Noritaka"	#Kikuchi Noritaka
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075147
-	968.1.1={
-		birth="968.1.1"
-	}
-	1019.1.1={
-		death="1019.1.1"
-	}
-}
-
-1000075153 = {
-	name="Shigeto"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075152
-	997.1.1={
-		birth="997.1.1"
-	}
-	1052.1.1={
-		death="1052.1.1"
-	}
-}
-
-1000075154 = {
-	name="Mochitsuna"
-	dynasty=27004
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
-	father=1000075153
-	1038.1.1={
-		birth="1038.1.1"
-	}
-	1090.1.1={
-		death="1090.1.1"
 	}
 }
 
@@ -3588,7 +3388,7 @@
 1000075157 = {
 	name="Nobuko"
 	female=yes
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3605,7 +3405,7 @@
 1000075158 = {
 	name="Akirakaiko"
 	female=yes
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3622,7 +3422,7 @@
 1000075159 = {
 	name="Takaiko"
 	female=yes
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="kuge"
@@ -3657,20 +3457,19 @@
 1000075161 = {
 	name="Tsunemoto"
 	dynasty=27006
-	martial=7
-	diplomacy=6
-	intrigue=7
-	stewardship=5
+	martial=20
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
-	add_trait="kuge"
 	father=1000075160
 	889.1.1={
 		birth="889.1.1"
+		create_bloodline = {
+		type = genji
+		}
 	}
-	961.12.15={
-		death="961.12.15"
+	961.12.20={
+		death="961.12.20"
 	}
 }
 
@@ -3684,7 +3483,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="intricate_webweaver"
-	add_trait="kuge"
 	father=1000075161
 	912.4.29={
 		birth="912.4.29"
@@ -3704,7 +3502,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
-	add_trait="kuge"
 	father=1000075162
 	948.1.1={
 		birth="948.1.1"
@@ -3717,14 +3514,8 @@
 1000075164 = {
 	name="Yorikuni"
 	dynasty=27006
-	martial=6
-	diplomacy=7
-	intrigue=6
-	stewardship=5
 	religion="nihon_shinto"
 	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
 	father=1000075163
 	982.1.1={
 		birth="982.1.1"
@@ -3740,7 +3531,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075164
 	1009.1.1={
 		birth="1009.1.1"
@@ -3772,13 +3562,12 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075164
 	1015.1.1={
 		birth="1015.1.1"
 	}
-	1044.7.4={
-		death="1044.7.4"
+	1044.6.7={
+		death="1044.6.7"
 	}
 }
 
@@ -3788,7 +3577,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="detached_priest"
-	add_trait="kuge"
 	father=1000075164
 	1017.1.1={
 		birth="1017.1.1"
@@ -3804,7 +3592,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075164
 	1025.1.1={
 		birth="1025.1.1"
@@ -3816,11 +3603,10 @@
 
 1000075170 = {
 	name="Kunifusa"
-	dynasty=27006
+	dynasty=28539
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
-	add_trait="kuge"
 	father=1000075164
 	1036.1.1={
 		birth="1036.1.1"
@@ -3852,7 +3638,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075169
 	1062.1.1={
 		birth="1062.1.1"
@@ -3868,7 +3653,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075169
 	1065.1.1={
 		birth="1065.1.1"
@@ -3884,10 +3668,9 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
-	add_trait="kuge"
 	father=1000075162
-	957.1.1={
-		birth="957.1.1"
+	966.10.29={
+		birth="966.10.29"
 	}
 	1052.1.1={
 		death="1052.1.1"
@@ -3900,7 +3683,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075174
 	992.1.1={
 		birth="992.1.1"
@@ -3916,7 +3698,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
-	add_trait="kuge"
 	father=1000075175
 	1026.1.1={
 		birth="1026.1.1"
@@ -3932,7 +3713,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075176
 	1052.1.1={
 		birth="1052.1.1"
@@ -3948,7 +3728,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075162
 	968.12.21={
 		birth="968.12.21"
@@ -3964,7 +3743,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
-	add_trait="kuge"
 	father=1000075178
 	988.1.1={
 		birth="988.1.1"
@@ -3980,7 +3758,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075178
 	995.1.1={
 		birth="995.1.1"
@@ -3992,11 +3769,10 @@
 
 1000075181 = {
 	name="Yorisue"
-	dynasty=27006
+	dynasty=28325
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
-	add_trait="kuge"
 	father=1000075178
 	999.1.1={
 		birth="999.1.1"
@@ -4015,7 +3791,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="skilled_tactician"
-	add_trait="kuge"
 	father=1000075179
 	1039.1.1={
 		birth="1039.1.1"
@@ -4030,14 +3805,12 @@
 	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
-	add_trait="naive_appeaser"
-	add_trait="kuge"
 	father=1000075179
 	1042.1.1={
 		birth="1042.1.1"
 	}
-	1132.1.1={
-		death="1132.1.1"
+	1134.1.1={
+		death="1134.1.1"
 	}
 }
 
@@ -4047,7 +3820,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="flamboyant_schemer"
-	add_trait="kuge"
 	father=1000075179
 	1045.1.1={
 		birth="1045.1.1"
@@ -4081,10 +3853,12 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="fortune_builder"
-	add_trait="kuge"
 	father=1000075185
 	824.1.1={
 		birth="824.1.1"
+		create_bloodline = {
+		type = takamochi
+		}
 	}
 	848.1.1={
 		add_spouse=1000075188
@@ -4096,7 +3870,7 @@
 
 1000075187 = {
 	name="Yoshikata"
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4113,7 +3887,7 @@
 1000075188 = {
 	name="Yoshiko"
 	female=yes
-	dynasty=27001
+	dynasty=28509
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4133,7 +3907,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="underhanded_rogue"
-	add_trait="kuge"
 	father=1000075186
 	mother=1000075188
 	866.1.1={
@@ -4150,11 +3923,10 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075186
 	mother=1000075188
-	868.1.1={
-		birth="868.1.1"
+	868.1.11={
+		birth="868.1.11"
 	}
 	939.6.1={
 		death="939.6.1"
@@ -4167,11 +3939,10 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075186
 	mother=1000075188
-	872.1.1={
-		birth="872.1.1"
+	873.1.1={
+		birth="873.1.1"
 	}
 	924.1.1={
 		death="924.1.1"
@@ -4184,7 +3955,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075186
 	886.4.29={
 		birth="886.4.29"
@@ -4301,8 +4071,8 @@
 	930.7.16={
 		birth="930.7.16"
 	}
-	1019.12.25={
-		death="1019.12.25"
+	1019.1.25={
+		death="1019.1.25"
 	}
 }
 
@@ -4312,26 +4082,24 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075199
-	972.1.1={
-		birth="972.1.1"
+	990.1.1={
+		birth="990.1.1"
 	}
-	1042.1.1={
-		death="1042.1.1"
+	1057.1.1={
+		death="1057.1.1"
 	}
 }
 
 1000075201 = {
 	name="Takemoto"
-	dynasty=27003
+	dynasty=28798
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075200
-	1002.1.1={
-		birth="1002.1.1"
+	1008.1.1={
+		birth="1008.1.1"
 	}
 	1075.1.1={
 		death="1075.1.1"
@@ -4340,14 +4108,13 @@
 
 1000075202 = {
 	name="Taketsuna"
-	dynasty=27003
+	dynasty=28798
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="tough_soldier"
-	add_trait="kuge"
 	father=1000075201
-	1032.1.1={
-		birth="1032.1.1"
+	1044.1.1={
+		birth="1044.1.1"
 	}
 	1106.1.1={
 		death="1106.1.1"
@@ -4424,7 +4191,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075199
 	975.10.19={
 		birth="975.10.19"
@@ -4440,7 +4206,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075207
 	1010.10.24={
 		birth="1010.10.24"
@@ -4456,7 +4221,6 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="misguided_warrior"
-	add_trait="kuge"
 	father=1000075208
 	1024.12.28={
 		birth="1024.12.28"
@@ -4470,7 +4234,7 @@
 
 1000075210 = {
 	name="Nobuie"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4486,7 +4250,7 @@
 
 1000075211 = {
 	name="Michimoto"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4502,7 +4266,7 @@
 
 1000075212 = {
 	name="Nobunaga"
-	dynasty=27001
+	dynasty=28892
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="naive_appeaser"
@@ -4539,11 +4303,11 @@
 	culture="japanese"
 	add_trait="indulgent_wastrel"
 	father=1000075213
-	1003.1.1={
-		birth="1003.1.1"
+	1006.1.1={
+		birth="1006.1.1"
 	}
-	1064.1.1={
-		death="1064.1.1"
+	1075.1.1={
+		death="1075.1.1"
 	}
 }
 
@@ -4599,8 +4363,8 @@
 	culture="japanese"
 	add_trait="naive_appeaser"
 	father=1000075216
-	1061.1.1={
-		birth="1061.1.1"
+	1055.1.1={
+		birth="1055.1.1"
 	}
 	1083.1.1={
 		death="1083.1.1"
@@ -4621,160 +4385,3 @@
 		death="1087.12.11"
 	}
 }
-
-# High priesters of Kofukuji and Enryakuji
-
-1000075220 = {
-	name="Raishin"
-	dynasty=27008
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="martial_cleric"
-	1010.1.1={
-		birth="1010.1.1"
-	}
-	1076.6.27={
-		death="1076.6.27"
-	}
-}
-
-1000075221 = {
-	name="Myokai"
-	dynasty=27009
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="scholarly_theologian"
-	992.1.1={
-		birth="992.1.1"
-	}
-	1069.1.1={
-		death="1069.1.1"
-	}
-}
-
-# Fujiwara Hidesato line
-
-1000075222 = {
-	name="Uona"
-	dynasty=28509
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-	father=1000075053
-	721.1.1={
-		birth="721.1.1"
-		
-	}
-	783.8.27={
-		death="783.8.27"
-	}
-}
-
-1000075223 = {
-	name="Fujinari"
-	dynasty=27001
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-	father=1000075222
-	776.1.1={
-		birth="776.1.1"
-	}
-	822.1.1={
-		death="822.1.1"
-	}
-}
-
-1000075224 = {
-	name="Takatori"
-	dynasty=27001
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-#	father=1000075223
-	
-	752.1.1={
-		birth="752.1.1"
-	}
-	784.6.2={
-		death="784.6.2"
-	}
-}
-
-1000075225 = {
-	name="Fujinari"
-	dynasty=27001
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-#	father=1000075223
-	
-	776.1.1={
-		birth="776.1.1"
-	}
-	822.1.1={
-		death="822.1.1"
-	}
-}
-
-1000075226 = {
-	name="Toyosawa"
-	dynasty=27001
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-	father=1000075225
-	807.1.1={
-		birth="807.1.1"
-	}
-	871.1.1={
-		death="871.1.1"
-	}
-}
-
-1000075227 = {
-	name="Murao"
-	dynasty=27001
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="kuge"
-	add_trait="amateurish_plotter"
-	father=1000075226
-	843.1.1={
-		birth="843.1.1"
-	}
-	905.1.1={
-		death="905.1.1"
-	}
-}
-
-1000075228 = {
-	name="Hidesato"
-	dynasty=27001
-	martial=9
-	diplomacy=6
-	intrigue=7
-	stewardship=7
-	add_trait="kuge"
-	religion="nihon_shinto"
-	culture="japanese"
-	add_trait="brilliant_strategist"
-	father=1000075227
-	881.1.1={
-		birth="881.1.1"
-	}
-	948.1.1={
-		death="948.1.1"
-	}
-}
-
-# Uda=Genji
-
-# Daigo=Genji
-
-# Murakami=Genji

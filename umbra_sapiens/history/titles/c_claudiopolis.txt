@@ -144,6 +144,14 @@
 1403.5.1={
 	holder=377954	#Mehmed I
 }
+1404.8.1={
+	holder=377951	#Süleyman Çelebi
+	liege="k_thrace"
+}
+1409.11.1={
+	holder=377954	#Mehmed I
+	liege="k_ottoman"
+}
 1421.5.26={
 	holder=377966	#Murad II
 }

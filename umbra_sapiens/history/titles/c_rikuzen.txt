@@ -1,320 +1,248 @@
-507.3.3={
-	liege="e_japan"
+729.10.1={
+	holder=403980
+	liege="d_tohoku"
+	vice_royalty = yes
 }
-507.3.3={
-	holder = 1000075000 #Emperor Keitai
+742.12.7={
+	holder=1000075021	#Returns to emperor
+	vice_royalty = no
 }
-531.3.10={
-	holder = 1000075001 #Emperor Ankan
-}
-535.12.17={
-	holder = 1000075002 #Emperor Senka
-}
-539.3.15={
-	holder = 1000075003 #Emperor Kinmei
-}
-571.4.30={
-	holder = 1000075004 #Emperor Bidatsu
-}
-585.9.5={
-	holder = 1000075005 #Emperor Yomei
-}
-587.4.9={
-	holder = 1000075006 #Emperor Sushun
-}
-
-592.12.12={
-	holder = 1000075007 #Empress Suiko
-}
-
-628.4.15={
-	holder = 1000075009 #Emperor Jomei
-}
-
-641.11.17={
-	holder = 1000075011 #Empress Kogyoku
-}
-
-645.7.12={
-	holder = 1000075012 #Emperor Kotoku
-}
-
-654.11.24={
-	holder = 1000075011 #Empress Saimei
-}
-
-661.8.24={
-	holder = 1000075013 #Emperor Tenchi
-}
-
-672.1.9={
-	holder = 1000075014 #Emperor Kobun
-}
-
-672.8.21={
-	holder = 1000075015 #Emperor Tenmu
-}
-
-686.10.1={
-	holder = 1000075016 #Empress Jito
-}
-
-697.8.22={
-	holder = 1000075018 #Emperor Monmu
-}
-
-707.7.18={
-	holder = 1000075019 #Empress Genmei
-}
-
-715.10.3={
-	holder = 1000075020 #Empress Gensho
-}
-
-721.12.29={
-	holder = 1000075021 #Emperor Shomu
-}
-
 749.8.19={
 	holder = 1000075022 #Empress Koken
 }
-
+757.7.6={ 
+	holder=403985	#Tomo no Komaro
+	vice_royalty = yes
+}
+757.7.24={
+	holder=1000075022	#Returns to emperor
+	vice_royalty = no
+}
 758.9.7={
 	holder = 1000075024 #Emperor Junnin
 }
-
-764.11.6={
-	holder = 1000075022 #Empress Shotoku
+760.1.1={
+	holder=404013	#Fujiwara Asakari
+	vice_royalty = yes
 }
-
-770.8.28={
-	holder = 1000075026 #Emperor Konin
+764.10.17={
+	holder=404023	#Tanaka no Tadamaro
 }
-
-781.4.30={
-	holder = 1000075027 #Emperor Kanmu
+768.10.18={
+	holder=404030	#Ishikawa no Naotari
 }
-
-806.4.9={
-	holder = 1000075028 #Emperor Heizei
+770.10.9={
+	holder=404035	#Sakanoue no Karitamaro
 }
-
-809.5.8={
-	holder = 1000075029 #Emperor Saga
+771.4.20={
+	holder=404076	#Saeki no Mino
 }
-
-
-823.6.9={
-	holder = 1000075030 #Emperor Junna
+773.8.13={
+	holder=404077	#Tomo no Surugamaro
 }
-
-833.3.30={
-	holder = 1000075031 #Emperor Ninmyo
+776.7.26={
+	holder=1000075026	#Returns to emperor
+	vice_royalty = no
 }
-
-850.5.6={
-	holder = 1000075032 #Emperor Montoku
+778.1.1={
+	holder=404080	#Ki no Hirozumi
+	vice_royalty = yes
 }
-
-858.10.7={
-	holder = 1000075033 #Emperor Seiwa
+782.7.31={
+	holder=404092	#Tomo no Iemochi
 }
-
-876.12.18={
-	holder = 1000075034 #Emperor Yozei
+785.10.5={
+	holder=1000075027	#Returns to emperor
+	vice_royalty = no
 }
-
-884.3.23={
-	holder = 1000075035 #Emperor Koko
+787.6.24={
+	holder=404106	#Kudara no Konikishi no Shunchitsu
+	vice_royalty = yes
 }
-
-887.9.17={
-	holder = 1000075036 #Emperor Uda
+788.4.8={
+	holder=404121	#Tajihi Umi
 }
-
-897.8.14={
-	holder = 1000075037 #Emperor Daigo
+791.10.23={
+	holder=404106	#Kudara no Konikishi no Shunchitsu
 }
-
-930.12.14={
-	holder = 1000075038 #Emperor Suzaku
+795.9.24={
+	holder=1000075027	#Returns to emperor
+	vice_royalty = no
 }
-
-946.5.31={
-	holder = 1000075039 #Emperor Murakami
+796.11.30={
+	holder=404040	#Sakanoue no Tamuramaro
+	vice_royalty = yes
 }
-
-967.7.5={
-	holder = 1000075040 #Emperor Reizei
+808.7.1={
+	holder=404110	#Kudara no Konikishi Kyoshun
 }
-
-969.11.5={
-	holder = 1000075041 #Emperor Enyu
+809.2.4={
+	holder=404122	#Saeki no Mimimaro
 }
-
-984.11.5={
-	holder = 1000075042 #Emperor Kazan
+812.3.26={
+	holder=404123	#Mononobe no Kusasatatsugi
 }
-
-986.7.31={
-	holder = 1000075043 #Emperor Ichijo
+819.2.1={
+	holder=404051	#Sakanoue no Kiyono
 }
-
-1011.7.16={
-	holder = 1000075044 #Emperor Sanjo
+834.6.29={
+	holder=404124	#Mononobe no Kusasakumai
 }
-
-1016.3.24={
-	holder = 1000075045 #Emperor Go-Ichijo
+837.5.5={
+	holder=404125	#Mononobe no Kusasasuenomori
 }
-
-1036.5.15={
-	holder = 1000075046 #Emperor Go-Suzaku
+840.3.7={
+	holder=404126	#Miharu no Hamanushi
 }
-
-1045.2.5={
-	holder = 1000075047 #Emperor Go-Reizei
+846.3.11={
+	holder=404061	#Sakanoue no Masamune
 }
-
-####
-1066.1.1={
-	holder = 1000075176 # Minamoto Yoritoshi
+851.2.15={
+	holder=404127	#Tomo no Mimune
 }
-####
-
-1092.1.1={
-	holder = 1000075351 #Emperor Horikawa
+854.9.12={
+	holder=404129	#Fumiya no Michiyo
 }
-
-1107.8.9={
-	holder = 1000075352 #Emperor Toba
+856.3.17={
+	holder=404130	#Ono no Harue
 }
-
-1123.2.19={
-	holder = 1000075353 #Emperor Sutoku
+859.2.22={
+	holder=404063	#Sakanoue no Atamichi
 }
-
-1142.1.5={
-	holder = 1000075355 #Emperor Konoe
+860.3.10={
+	holder=404130	#Ono no Harue
 }
-
-1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
+865.2.26={
+	holder=404131	#Fumiya no Amaramaro
 }
-
-1158.9.5={
-	holder = 1000075356 #Emperor Nijo
+868.2.13={
+	holder=404132	#Mihara no Mineno
 }
-
-1165.8.3={
-	holder = 1000075357 #Emperor Rokujo
+876.1.1={
+	holder=404133	#Abe no Hikotaka
 }
-
-1168.3.30={
-	holder = 1000075358 #Emperor Takakura
+878.7.11={
+	holder=404135	#Ono no Harukaze
 }
-
-1180.5.18={
-	holder = 1000075359 #Emperor Antoku
+884.4.8={
+	holder=404139	#Abe no Mitora
 }
-
-1183.9.8={
-	holder = 1000075360 #Emperor Go-Toba
+886.2.23={
+	holder=404158	#Mihara no Tanemi
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+900.1.1={
+	holder=404162	#Fujiwara Tokinaga
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+910.6.1={
+	holder=404168	#Fujiwara no Toshihito
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+922.1.1={
+	holder=1000075189	#Taira no Kunika
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+923.1.1={
+	holder=403210	#Taira no Yoshimasa
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+930.1.1={
+	holder=1000075192	#TAIRA no Yoshifumi
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+940.6.3={
+	holder=404412	#Fujiwara no Hidesato
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+947.3.1={
+	holder=403355	#Taira no Sadamori
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+959.10.1={
+	holder=404443	#Minamoto no Nakashu
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+965.1.1={
+	holder=404444	#Minamoto no Nakashu
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+970.2.23={
+	holder=404420	#Fujiwara no Chikatsune
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+974.2.23={
+	holder=404448	#Fujiwara no Suefumi
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+979.2.28={
+	holder=404429	#Fujiwara no Chikata
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+988.11.14={
+	holder=404428	#Fujiwara no Fuminaga
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+998.2.14={
+	holder=404431	#Fujiwara Kanemitsu 
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1014.3.1={
+	holder=403391	#Taira no Koreyoshi
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1015.1.1={
+	holder=404449	#Taira no Nagamori
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1022.3.4={
+	holder=404451	#Fujiwara Yoriyuki
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1023.8.1={
+	holder=1000075178	#Minamoto no Yorinobu
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1048.6.1={
+	holder=1000075179	#Minamoto no Yoriyoshi
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1051.1.1={
+	holder=403945	#Abe Yoritoki
+	liege="0"
+	vice_royalty = no
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1057.7.1={
+	holder=403947	#Abe no Sadato
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1062.10.22={
+	holder=1000075179	#Minamoto no Yoriyoshi
+	liege="d_tohoku"
+	vice_royalty = yes
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1063.3.29={
+	holder=1000075214	#Kiyohara Takenori
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1069.1.1={
+	holder=1000075218	#Kiyohara no Sadahira
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1083.1.1={
+	holder=1000075182	#Minamoto no Yoshiie
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1100.1.26={
+	holder=404223	#Sanemune Nakamura
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1104.5.27={
+	holder=404602	#Fujiwara no Motoyori
+}
+1113.9.10={
+	holder=404452	#Tachibana no Mototsuna
+}
+1135.1.1={
+	holder=404793	#Fujiwara no Morotsuna
+}
+1143.8.11={
+	holder=404481	#Fujiwara no Motonari
+}
+1157.10.23={
+	holder=404852	#Fujiwara no Masataka
+}
+1163.5.1={
+	holder=404876	#Fujiwara no Nagamitsu
+}
+1170.7.10={
+	holder=404929	#Fujiwara no Hidehira
+}
+1176.5.10={
+	holder=404952	#Fujiwara no Norisue
+}
+1178.10.1={
+	holder=404929	#Fujiwara no Hidehira
+	vice_royalty = no
+}
+1187.11.30={
+	holder=404937	#Fujiwara no Yasuhira
+}
+1189.10.14={
+	holder=0	#Battle of Oshu
 }

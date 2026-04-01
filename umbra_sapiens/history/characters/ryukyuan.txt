@@ -2,7 +2,7 @@
 
 1000203750 = {
 	name="Shunten"
-	dynasty=1000078074 #Shunten
+	dynasty=78074 #Shunten
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	1166.1.1={
@@ -15,7 +15,7 @@
 
 1000203751 = {
 	name="Shunbajunki"
-	dynasty=1000078074 #Shunten
+	dynasty=78074 #Shunten
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203750
@@ -29,7 +29,7 @@
 
 1000203752 = {
 	name="Gihon"
-	dynasty=1000078074 #Shunten
+	dynasty=78074 #Shunten
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203751
@@ -45,7 +45,7 @@
 
 1000203753 = {
 	name="Eiso"
-	dynasty=1000078075 #Eiso
+	dynasty=78075 #Eiso
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	1229.1.1={
@@ -58,7 +58,7 @@
 
 1000203754 = {
 	name="Taisei"
-	dynasty=1000078075 #Eiso
+	dynasty=78075 #Eiso
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203753
@@ -72,7 +72,7 @@
 
 1000203755 = {
 	name="Eiji"
-	dynasty=1000078075 #Eiso
+	dynasty=78075 #Eiso
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203754
@@ -86,7 +86,7 @@
 
 1000203756 = {
 	name="Tamagusuku"
-	dynasty=1000078075 #Eiso
+	dynasty=78075 #Eiso
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203755
@@ -100,15 +100,15 @@
 
 1000203757 = {
 	name="Seii"
-	dynasty=1000078075 #Eiso
+	dynasty=78075 #Eiso
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203756
 	1326.1.1={
 		birth="1326.1.1"
 	}
-	1349.1.1={
-		death="1349.1.1"
+	1349.4.30={
+		death="1349.4.30"
 	}
 }
 
@@ -116,7 +116,7 @@
 
 1000205185 = {
 	name="Mausa"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	720.1.1={
@@ -129,7 +129,7 @@
 
 1000205186 = {
 	name="Matarukani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205185
@@ -143,7 +143,7 @@
 
 1000205187 = {
 	name="Jamatuu"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205186
@@ -157,7 +157,7 @@
 
 1000203758 = {
 	name="Jamatuu"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205187
@@ -171,7 +171,7 @@
 
 1000203759 = {
 	name="Sanda"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203758
@@ -185,7 +185,7 @@
 
 1000203760 = {
 	name="Shumikani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203759
@@ -199,7 +199,7 @@
 
 1000203761 = {
 	name="Mausa"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203760
@@ -213,7 +213,7 @@
 
 1000203762 = {
 	name="Matarukani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203761
@@ -227,7 +227,7 @@
 
 1000203763 = {
 	name="Masanduu"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203762
@@ -241,7 +241,7 @@
 
 1000203764 = {
 	name="Tarukani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203763
@@ -255,7 +255,7 @@
 
 1000075234 = {
 	name="Masanduu"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203764
@@ -269,7 +269,7 @@
 
 1000203765 = {
 	name="Usa"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000075234
@@ -283,7 +283,7 @@
 
 1000203766 = {
 	name="Mausa"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203765
@@ -297,7 +297,7 @@
 
 1000203767 = {
 	name="Matarukani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203766
@@ -311,7 +311,7 @@
 
 1000203768 = {
 	name="Mashumikani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203767
@@ -325,7 +325,7 @@
 
 1000203769 = {
 	name="Tarukani"
-	dynasty=1000027014 #Uchinaa
+	dynasty=27014 #Uchinaa
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203768
@@ -341,7 +341,7 @@
 
 1000205188 = {
 	name="Sanda"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	720.1.1={
@@ -354,7 +354,7 @@
 
 1000205189 = {
 	name="Matarukani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205188
@@ -368,7 +368,7 @@
 
 1000205190 = {
 	name="Jamatuu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205189
@@ -382,7 +382,7 @@
 
 1000203770 = {
 	name="Maumituku"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205190
@@ -396,7 +396,7 @@
 
 1000203771 = {
 	name="Tarukani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203770
@@ -410,7 +410,7 @@
 
 1000203772 = {
 	name="Mashumikani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203771
@@ -424,7 +424,7 @@
 
 1000203773 = {
 	name="Masanduu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203772
@@ -438,7 +438,7 @@
 
 1000203774 = {
 	name="Masanda"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203773
@@ -452,7 +452,7 @@
 
 1000203775 = {
 	name="Sanda"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203774
@@ -466,7 +466,7 @@
 
 1000203776 = {
 	name="Shumikani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203775
@@ -480,7 +480,7 @@
 
 1000075235 = {
 	name="Jamatuu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203776
@@ -494,7 +494,7 @@
 
 1000203777 = {
 	name="Umituku"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000075235
@@ -508,7 +508,7 @@
 
 1000203778 = {
 	name="Jamatuu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203777
@@ -522,7 +522,7 @@
 
 1000203779 = {
 	name="Mashumikani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203778
@@ -536,7 +536,7 @@
 
 1000203780 = {
 	name="Mausa"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203779
@@ -550,7 +550,7 @@
 
 1000203781 = {
 	name="Matarukani"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203780
@@ -564,7 +564,7 @@
 
 1000203782 = {
 	name="Sanda"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203781
@@ -578,7 +578,7 @@
 
 1000203783 = {
 	name="Masanduu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203782
@@ -592,7 +592,7 @@
 
 1000203784 = {
 	name="Jamatuu"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203783
@@ -606,7 +606,7 @@
 
 1000203785 = {
 	name="Masanda"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203784
@@ -620,7 +620,7 @@
 
 1000203786 = {
 	name="Maumituku"
-	dynasty=1000027015 #Amamikiyo
+	dynasty=27015 #Amamikiyo
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203785
@@ -636,7 +636,7 @@
 
 1000205191 = {
 	name="Usa"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	720.1.1={
@@ -649,7 +649,7 @@
 
 1000205192 = {
 	name="Matarukani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205191
@@ -663,7 +663,7 @@
 
 1000205193 = {
 	name="Jamatuu"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205192
@@ -677,7 +677,7 @@
 
 1000203787 = {
 	name="Umituku"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000205193
@@ -691,7 +691,7 @@
 
 1000203788 = {
 	name="Usa"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203787
@@ -705,7 +705,7 @@
 
 1000203789 = {
 	name="Sanda"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203788
@@ -719,7 +719,7 @@
 
 1000203790 = {
 	name="Maumituku"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203789
@@ -733,7 +733,7 @@
 
 1000203791 = {
 	name="Matarukani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203790
@@ -747,7 +747,7 @@
 
 1000203792 = {
 	name="Mashumikani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203791
@@ -761,7 +761,7 @@
 
 1000203793 = {
 	name="Umituku"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203792
@@ -775,7 +775,7 @@
 
 1000075236 = {
 	name="Tarukani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203793
@@ -789,7 +789,7 @@
 
 1000203794 = {
 	name="Tarukani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000075236
@@ -803,7 +803,7 @@
 
 1000203795 = {
 	name="Jamatuu"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203794
@@ -817,7 +817,7 @@
 
 1000203796 = {
 	name="Mausa"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203795
@@ -831,7 +831,7 @@
 
 1000203797 = {
 	name="Shumikani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203796
@@ -845,7 +845,7 @@
 
 1000203798 = {
 	name="Matarukani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203797
@@ -859,7 +859,7 @@
 
 1000203799 = {
 	name="Mashumikani"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203798
@@ -873,7 +873,7 @@
 
 1000203800 = {
 	name="Usa"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203799
@@ -887,7 +887,7 @@
 
 1000203801 = {
 	name="Umituku"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203800
@@ -901,7 +901,7 @@
 
 1000203802 = {
 	name="Jamatuu"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203801
@@ -915,7 +915,7 @@
 
 1000203803 = {
 	name="Sanda"
-	dynasty=1000027016 #Sachishima
+	dynasty=27016 #Sachishima
 	religion="ryukyu_shinto"
 	culture="ryukyuan"
 	father=1000203802

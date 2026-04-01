@@ -480,14 +480,14 @@ set_tribute_suzerain = {
 1391.2.16={
 	holder=373682	#Manuel II Palaiologos
 }
+1402.7.28={
+	clear_tribute_suzerain = k_ottoman
+}
 1425.7.21={
 	holder=373715	#John VIII Palaiologos
 }
 1448.10.31={
 	holder=373719	#Constantine XI Dragases Palaiologos
-}
-1453.4.6={
-	clear_tribute_suzerain = k_ottoman
 }
 1453.5.29={
 	holder=0	#Fall of Rome 

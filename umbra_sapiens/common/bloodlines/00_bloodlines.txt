@@ -768,10 +768,10 @@ mardavij = {
 #japanese lineages
 yamato = {
 	monthly_character_piety = 0.25
-	nihon_shinto_opinion = 25 #should be nihon_shinto but I can't get it to work
+	nihon_shinto_opinion = 25
 	inheritance = patrilineal
 	matrilineal_override = yes
-	allow_bastards = no
+	allow_bastards = yes
 	picture = GFX_bloodlines_symbol_lion
 	flags = { historical_bloodline }
 	active = {
@@ -779,6 +779,68 @@ yamato = {
 		dynasty = 27000
 		dynasty = 28507
 		}
+		religion = nihon_shinto
+	}
+}
+takamochi = {
+	nihon_shinto_opinion = 10
+	combat_rating = 5
+	martial = 2
+	stewardship = 2
+	global_tax_modifier = 0.075
+	heavy_infantry_morale= 0.025
+	inheritance = patrilineal
+	allow_bastards = yes
+	bloodline_effect_great_heroes_appear = 1
+	picture = GFX_bloodlines_symbol_lion
+	flags = { historical_bloodline }
+	active = {
+		religion = nihon_shinto
+	}
+}
+genji = {
+	nihon_shinto_opinion = 10
+	combat_rating = 5
+	martial = 4
+	heavy_infantry_morale= 0.05
+	inheritance = patrilineal
+	allow_bastards = yes
+	bloodline_effect_great_heroes_appear = 1
+	picture = GFX_bloodlines_symbol_lion
+	flags = { historical_bloodline }
+	active = {
+		religion = nihon_shinto
+	}
+}
+fujiwara = {
+	nihon_shinto_opinion = 10
+	combat_rating = 5
+	intrigue = 2
+	stewardship = 2
+	global_tax_modifier = 0.05
+	plot_power_modifier = 0.05
+	inheritance = patrilineal
+	allow_bastards = yes
+	bloodline_effect_great_heroes_appear = 1
+	picture = GFX_bloodlines_symbol_lion
+	flags = { historical_bloodline }
+	active = {
+		religion = nihon_shinto
+	}
+}
+tachibana = {
+	nihon_shinto_opinion = 10
+	combat_rating = 5
+	intrigue = 2
+	learning = 2
+	plot_power_modifier = 0.05
+	tech_growth_modifier = 0.05
+	inheritance = patrilineal
+	allow_bastards = yes
+	bloodline_effect_great_heroes_appear = 1
+	picture = GFX_bloodlines_symbol_lion
+	flags = { historical_bloodline }
+	active = {
 		religion = nihon_shinto
 	}
 }

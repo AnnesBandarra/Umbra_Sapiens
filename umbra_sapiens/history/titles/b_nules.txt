@@ -1,0 +1,10 @@
+1403.3.12={
+	holder=378751	#Boniface IX
+	liege="c_castellon"
+}
+1423.5.23={
+	holder=378779	#Antipope Clement VIII
+}
+1429.7.26={
+	holder=0
+}

@@ -3,6 +3,7 @@
 	name="Yamato"
 	culture = japanese
 	used_for_random = no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -20,6 +21,7 @@
 	name="Fujiwara"
 	culture = japanese
 	used_for_random = no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -37,6 +39,7 @@
 	name="Minamoto"
 	culture = japanese
 	used_for_random = no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -54,6 +57,7 @@
 	name="Taira"
 	culture = japanese
 	used_for_random = no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -71,6 +75,7 @@
 	name="Tachibana"
 	culture = japanese
 	used_for_random=no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -88,6 +93,7 @@
 	name="Saga=Minamoto"
 	culture = japanese
 	used_for_random=no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -105,6 +111,7 @@
 	name="Seiwa-Minamoto"
 	culture = japanese
 	used_for_random=no
+	religion="nihon_shinto"
 	coat_of_arms = {
 	template = 0
 		layer = {
@@ -121,103 +128,128 @@
 	name="Seiwa-Kiyohara"
 	used_for_random=no
 	culture = japanese
+	religion="nihon_shinto"
 }
 27008 = {
 	name="Kofukuji"
 	culture = japanese
+	religion="nihon_shinto"
 }
 27009 = {
 	name="Enryakuji"
 	culture = japanese
+	religion="nihon_shinto"
 }
 
 27010 = {
 	name="Oshmaushi"
 	culture = ainu
+	religion="ainu_pantheism"
 }
 27011 = {
 	name="Ishkarun"
 	culture = ainu
+	religion="ainu_pantheism"
 }
 27012 = {
 	name="Kushru"
 	culture = ainu
+	religion="ainu_pantheism"
 }
 27013 = {
 	name="Karput"
 	culture = ainu
+	religion="ainu_pantheism"
 }
 78073 = {
 	name="Kuye"
 	culture = ainu
+	religion="ainu_pantheism"
 }
 27014 = {
 	name="Uchinaa"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 27015 = {
 	name="Amamikiyo"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 27016 = {
 	name="Sachishima"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 78074 = {
 	name="Shunten"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 78075 = {
 	name="Eiso"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 
 28266 = {
     name="Fujita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28267 = {
     name="Matsumoto"
     culture= japanese
+    religion="nihon_shinto"
 }
 28268 = {
     name="Yamashita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28269 = {
-    name="Abe"
+    name="Abe no Omi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28270 = {
     name="Aya"
     culture= japanese
+    religion="nihon_shinto"
 }
 28271 = {
     name="Hashiji"
     culture= japanese
+    religion="nihon_shinto"
 }
 28272 = {
     name="Ki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28273 = {
     name="Kusakabe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28274 = {
     name="Mononobe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28275 = {
     name="Nakatomi"
+    religion="nihon_shinto"
 }
 28276 = {
     name="O"
     culture= japanese
+    religion="nihon_shinto"
 }
 28277 = {
     name="Ochi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28278 = {
 	used_for_random=no
@@ -228,171 +260,206 @@
 28279 = {
     name="Otomo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28280 = {
     name="Soga"
     culture= japanese
+    religion="nihon_shinto"
 }
 28281 = {
     name="Sugawara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28282 = {
     name="Takahashi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28283 = {
     name="Adachi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28284 = {
     name="Akamatsu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28285 = {
     name="Akechi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28286 = {
     name="Akita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28287 = {
     name="Akiyama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28288 = {
     name="Akizuki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28289 = {
     name="Amago"
     culture= japanese
+    religion="nihon_shinto"
 }
 28290 = {
     name="Amakusa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28291 = {
     name="Anayama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28292 = {
     name="Ando"
     culture= japanese
+    religion="nihon_shinto"
 }
 28293 = {
     name="Asakura"
     culture= japanese
-}
-28294 = {
-    name="Asano"
-    culture= japanese
+    religion="nihon_shinto"
 }
 28288 = {
     name="Ashikaga"
     culture= japanese
+    religion="nihon_shinto"
 }
 28295 = {
     name="Ashina"
     culture= japanese
+    religion="nihon_shinto"
 }
 28296 = {
     name="Aso"
     culture= japanese
+    religion="nihon_shinto"
 }
 28297 = {
     name="Atagi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28298 = {
     name="Azai"
     culture= japanese
+    religion="nihon_shinto"
 }
 28299 = {
     name="Bito"
     culture= japanese
+    religion="nihon_shinto"
 }
 28300 = {
     name="Chiba"
     culture= japanese
+    religion="nihon_shinto"
 }
 28301 = {
     name="Date"
     culture= japanese
+    religion="nihon_shinto"
 }
 28302 = {
     name="Doi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28288 = {
     name="Fuji"
     culture= japanese
+    religion="nihon_shinto"
 }
 28303 = {
     name="Goto"
     culture= japanese
+    religion="nihon_shinto"
 }
 28304 = {
     name="Hachisuka"
     culture= japanese
+    religion="nihon_shinto"
 }
 28305 = {
     name="Haga"
     culture= japanese
+    religion="nihon_shinto"
 }
 28306 = {
     name="Hashiba"
     culture= japanese
+    religion="nihon_shinto"
 }
 28307 = {
     name="Hatakeyama"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28308 = {
     name="Hatano"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28309 = {
     name="Hayashi"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28310 = {
     name="Hiki"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28311 = {
     name="Hirano"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28312 = {
     name="Hisamatsu"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28313 = {
     name="Hitotsuyanagi"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28314 = {
     name="Hojo"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28315 = {
     name="Honma"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28316 = {
     name="Honda"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28317 = {
@@ -405,76 +472,92 @@
 28318 = {
     name="Hotta"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28319 = {
     name="Ichijo"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28320 = {
     name="Ide"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28321 = {
     name="Ii"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28322 = {
     name="Ikeda"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28323 = {
     name="Imagawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28324 = {
     name="Inaba"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28325 = {
     name="Inoue"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28326 = {
     name="Ishida"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28327 = {
     name="Ishikawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 
 28328 = {
     name="Ishimaki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28329 = {
     name="Ito"
     culture= japanese
+    religion="nihon_shinto"
 }
 28330 = {
     name="Kamiizumi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28331 = {
     name="Kanamaru"
     culture= japanese
+    religion="nihon_shinto"
 }
 28332 = {
     name="Kagawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28333 = {
     name="Kikkawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28334 = {
 	used_for_random=no
@@ -485,46 +568,52 @@
 28335 = {
     name="Kira"
     culture= japanese
+    religion="nihon_shinto"
 }
 28336 = {
     name="Kiso"
     culture= japanese
+    religion="nihon_shinto"
 }
 28337 = {
     name="Kitabatake"
     culture= japanese
+    religion="nihon_shinto"
 }
 28338 = {
     name="Kitajo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28339 = {
     name="Kiyowara"
     culture= japanese
-}
-28340 = {
-    name="Kobayakawa"
-    culture= japanese
+    religion="nihon_shinto"
 }
 28341 = {
     name="Kodama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28342 = {
     name="Koga"
     culture= japanese
+    religion="nihon_shinto"
 }
 28343 = {
     name="Kono"
     culture= japanese
+    religion="nihon_shinto"
 }
 28344 = {
     name="Konoe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28345 = {
     name="Kudo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28346 = {
     name="Kujo"
@@ -534,26 +623,32 @@
 28347 = {
     name="Kuzuyama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28348 = {
     name="Kyōgoku"
     culture= japanese
+    religion="nihon_shinto"
 }
 28349 = {
     name="Maeda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28350 = {
     name="Makino"
     culture= japanese
+    religion="nihon_shinto"
 }
 28351 = {
     name="Manabe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28352 = {
     name="Matsuda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28353 = {
     name="Matsudaira"
@@ -563,66 +658,82 @@
 28354 = {
     name="Matsumae"
     culture= japanese
+    religion="nihon_shinto"
 }
 28355 = {
     name="Matsunaga"
     culture= japanese
+    religion="nihon_shinto"
 }
 28356 = {
     name="Matsuura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28357 = {
     name="Miura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28358 = {
     name="Mikumo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28359 = {
     name="Miyahara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28360 = {
     name="Miyoshi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28361 = {
     name="Mizuryu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28362 = {
     name="Mogami"
     culture= japanese
+    religion="nihon_shinto"
 }
 28363 = {
     name="Mori"
     culture= japanese
+    religion="nihon_shinto"
 }
 28364 = {
     name="Murakami"
     culture= japanese
+    religion="nihon_shinto"
 }
 28365 = {
     name="Nagao"
     culture= japanese
+    religion="nihon_shinto"
 }
 28366 = {
     name="Nabeshima"
     culture= japanese
+    religion="nihon_shinto"
 }
 28367 = {
     name="Niiro"
     culture= japanese
+    religion="nihon_shinto"
 }
 28368 = {
     name="Nakamura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28369 = {
     name="Nanbu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28370 = {
 	used_for_random=no
@@ -633,30 +744,37 @@
 28371 = {
     name="Nitta"
     culture= japanese
+    religion="nihon_shinto"
 }
 28372 = {
     name="Niwa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28373 = {
     name="Oda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28374 = {
     name="Oishi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28375 = {
     name="Okochi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28376 = {
     name="Ota"
     culture= japanese
+    religion="nihon_shinto"
 }
 28377 = {
     name="Ogasawara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28379 = {
 	used_for_random=no
@@ -667,106 +785,127 @@
 28380 = {
     name="Rokkaku"
     culture= japanese
+    religion="nihon_shinto"
 }
 28381 = {
     name="Sagara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28382 = {
     name="Akizuki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28383 = {
     name="Saito"
     culture= japanese
+    religion="nihon_shinto"
 }
 28384 = {
     name="Sakai"
     culture= japanese
+    religion="nihon_shinto"
 }
 28385 = {
     name="Sakuma"
     culture= japanese
+    religion="nihon_shinto"
 }
 28386 = {
     name="Sanjo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28387 = {
     name="Sasaki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28388 = {
     name="Satake"
     culture= japanese
+    religion="nihon_shinto"
 }
 28389 = {
     name="Satomi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28390 = {
     name="Shiba"
     culture= japanese
+    religion="nihon_shinto"
 }
 28391 = {
     name="Shimizu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28392 = {
     name="Shimazu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28393 = {
     name="Shinmen"
     culture= japanese
+    religion="nihon_shinto"
 }
 28394 = {
     name="Shoni"
     culture= japanese
+    religion="nihon_shinto"
 }
 28395 = {
     name="So"
     culture= japanese
+    religion="nihon_shinto"
 }
 28396 = {
     name="Sogo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28397 = {
     name="Soma"
     culture= japanese
+    religion="nihon_shinto"
 }
 28398 = {
     name="Suda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28399 = {
     name="Sue"
     culture= japanese
+    religion="nihon_shinto"
 }
 28400 = {
     name="Sugi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28401 = {
     name="Suwa"
     culture= japanese
-}
-28402 = {
-    name="Tachibana"
-    culture= japanese
+    religion="nihon_shinto"
 }
 28403 = {
     name="Takanashi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28404 = {
     name="Takaoka"
     culture= japanese
+    religion="nihon_shinto"
 }
 28405 = {
     name="Takatsuji"
     culture= japanese
+    religion="nihon_shinto"
 }
 28406 = {
     name="Takatsukasa"
@@ -776,378 +915,467 @@
 28407 = {
     name="Takeda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28408 = {
     name="Takenaka"
     culture= japanese
+    religion="nihon_shinto"
 }
 28409 = {
     name="Takigawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28410 = {
     name="Tanegashima"
     culture= japanese
+    religion="nihon_shinto"
 }
 28411 = {
     name="To"
     culture= japanese
+    religion="nihon_shinto"
 }
 28412 = {
     name="Toda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28413 = {
     name="Todo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28414 = {
     name="Toki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28415 = {
     name="Tokugawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28416 = {
     name="Tomuro"
     culture= japanese
+    religion="nihon_shinto"
 }
 28417 = {
     name="Torii"
     culture= japanese
+    religion="nihon_shinto"
 }
 28418 = {
     name="Toyotomi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28419 = {
     name="Tsugaru"
     culture= japanese
+    religion="nihon_shinto"
 }
 28420 = {
     name="Tsuru"
     culture= japanese
+    religion="nihon_shinto"
 }
 28421 = {
     name="Tsutsui"
     culture= japanese
+    religion="nihon_shinto"
 }
 28422 = {
     name="Uesugi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28423 = {
     name="Ukita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28424 = {
     name="Urakami"
     culture= japanese
+    religion="nihon_shinto"
 }
 28425 = {
     name="Utsunomiya"
     culture= japanese
+    religion="nihon_shinto"
 }
 28426 = {
     name="Wakiya"
     culture= japanese
+    religion="nihon_shinto"
 }
 28427 = {
     name="Watanabe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28428 = {
     name="Yagyu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28429 = {
     name="Yamana"
     culture= japanese
+    religion="nihon_shinto"
 }
 28430 = {
     name="Yamanouchi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28431 = {
     name="Yanagisawa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28432 = {
     name="Yonekura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28433 = {
     name="Yuki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28434 = {
     name="Kamo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28435 = {
     name="Urabe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28436 = {
     name="Asukabe"
     culture= japanese
+    religion="nihon_shinto"
 }
 28437 = {
     name="Fuha"
     culture= japanese
+    religion="nihon_shinto"
 }
 28438 = {
     name="Funa"
     culture= japanese
+    religion="nihon_shinto"
 }
 28439 = {
     name="Hirota"
     culture= japanese
+    religion="nihon_shinto"
 }
 28440 = {
     name="Ka"
     culture= japanese
+    religion="nihon_shinto"
 }
 28441 = {
     name="Kaguyama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28442 = {
     name="Kazurai"
     culture= japanese
+    religion="nihon_shinto"
 }
 28443 = {
     name="Kinunui"
     culture= japanese
+    religion="nihon_shinto"
 }
 28444 = {
     name="Kudara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28445 = {
     name="Sugano"
     culture= japanese
+    religion="nihon_shinto"
 }
 28446 = {
     name="Tsu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28447 = {
     name="Kifumi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28448 = {
     name="Koma"
     culture= japanese
+    religion="nihon_shinto"
 }
 28449 = {
     name="Kuwabara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28450 = {
     name="Sena"
     culture= japanese
+    religion="nihon_shinto"
 }
 28451 = {
     name="Toyohara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28452 = {
     name="Yasaka"
     culture= japanese
+    religion="nihon_shinto"
 }
 28453 = {
     name="Yahamara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28454 = {
     name="Fushimaru"
     culture= japanese
+    religion="nihon_shinto"
 }
 28455 = {
     name="Hine"
     culture= japanese
+    religion="nihon_shinto"
 }
 28456 = {
     name="Itoi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28457 = {
     name="Maki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28458 = {
     name="Tachibanamori"
     culture= japanese
+    religion="nihon_shinto"
 }
 28459 = {
     name="Tajima"
     culture= japanese
+    religion="nihon_shinto"
 }
 28460 = {
     name="Unabara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28461 = {
     name="Arara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28462 = {
     name="Hirata"
     culture= japanese
+    religion="nihon_shinto"
 }
 28463 = {
     name="Karabito"
     culture= japanese
+    religion="nihon_shinto"
 }
 28464 = {
     name="Michita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28465 = {
     name="Tatara"
     culture= japanese
+    religion="nihon_shinto"
 }
 28466 = {
     name="Toyotsu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28467 = {
     name="Hata"
     culture= japanese
+    religion="nihon_shinto"
 }
 28468 = {
     name="Koremune"
     culture= japanese
+    religion="nihon_shinto"
 }
 28469 = {
     name="Takamuko"
     culture= japanese
+    religion="nihon_shinto"
 }
 28470 = {
     name="Choshi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28471 = {
     name="Fujiki"
     culture= japanese
+    religion="nihon_shinto"
 }
 28472 = {
     name="Hakura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28473 = {
     name="Hirata"
     culture= japanese
+    religion="nihon_shinto"
 }
 28474 = {
     name="Kada"
     culture= japanese
+    religion="nihon_shinto"
 }
 28475 = {
     name="Kawakatsu"
     culture= japanese
+    religion="nihon_shinto"
 }
 28476 = {
     name="Matsumuro"
     culture= japanese
+    religion="nihon_shinto"
 }
 28477 = {
     name="Matsuo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28478 = {
     name="Matsushita"
     culture= japanese
+    religion="nihon_shinto"
 }
 28479 = {
     name="Mikami"
     culture= japanese
+    religion="nihon_shinto"
 }
 28480 = {
     name="Minami"
     culture= japanese
+    religion="nihon_shinto"
 }
 28481 = {
     name="Mokusei"
     culture= japanese
+    religion="nihon_shinto"
 }
 28482 = {
     name="Nishioji"
     culture= japanese
+    religion="nihon_shinto"
 }
 28483 = {
     name="Obata"
     culture= japanese
+    religion="nihon_shinto"
 }
 28484 = {
     name="Okura"
     culture= japanese
+    religion="nihon_shinto"
 }
 28485 = {
     name="Onishi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28486 = {
     name="Seo"
     culture= japanese
+    religion="nihon_shinto"
 }
 28487 = {
     name="Togi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28488 = {
     name="Tsuchiyama"
     culture= japanese
+    religion="nihon_shinto"
 }
 28489 = {
     name="Kawachi"
     culture= japanese
+    religion="nihon_shinto"
 }
 28490 = {
     name="Haruda"
     culture= japanese
+    religion="nihon_shinto"
 }
 28491 = {
     name="Sakanoue"
     culture= japanese
+    religion="nihon_shinto"
 }
 28492 = {
     name="Tamura"
     culture= japanese
-}
-28493 = {
-    name="Tamura"
-    culture= japanese
+    religion="nihon_shinto"
 }
 28494 = {
 	name="Eiso"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28495 = {
 	name="Haniji"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28496 = {
 	name="Ozato"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28497 = {
 	name="Satto"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28498 = {
 	name="Sho"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28499 = {
 	name="Minshi Kameya"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28500 = {
 	name="Eiso"
 	culture = ryukyuan
+	religion="ryukyu_shinto"
 }
 28501 = {
 	used_for_random=no
@@ -1272,4 +1500,2721 @@
 	name="Tosa"
 	culture = japanese
 	religion = "nihon_shinto"
+}
+28524 = {
+	used_for_random=no
+	name="Shiga"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28525 = {
+	name="Tahara"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28526 = {
+	name="Takuma"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28527 = {
+	name="Nose"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28528 = {
+	name="Ochiai"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28529 = {
+	name="Yamagata"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28530 = {
+	name="Hidase"
+	culture = japanese
+	religion = "nihon_shinto"
+}
+28531 = {
+	name="Oguni"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28532 = {
+	name="Oguni"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28533 = {
+	name="Yashima"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28534 = {
+	name="Ogawa"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28535 = {
+	name="Ashishiki"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28536 = {
+	name="Iitomi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28537 = {
+	name="Mizokui"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28538 = {
+	name="Fukushima"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28539 = {
+	used_for_random=no
+	name="Mino-Genji"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28540 = {
+	used_for_random=no
+	name="Minamoto-Inoue"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28541 = {
+	used_for_random=no
+	name="Shinano Kawachi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28542 = {
+	name="Mineda"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28543 = {
+	name="Toshima"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28544 = {
+	name="Uno"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28545 = {
+	name="Yabuki"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28546 = {
+	used_for_random=no
+	name="Mutsu Ishikawa"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28547 = {
+	name="Nakabatake"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28548 = {
+	name="Nametsu"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28549 = {
+	name="Akasaka"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28550 = {
+	name="Narita"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28551 = {
+	name="Yoshida"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28552 = {
+	name="Okada"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28553 = {
+	name="Katano"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28554 = {
+	name="Kokubu"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28555 = {
+	name="Fukuroda"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28556 = {
+	name="Kawahijima"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28557 = {
+	name="Inagi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28558 = {
+	name="Matsuyama"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28559 = {
+	name="Hokusuide"
+	culture = japanese
+	religion="nihon_shinto"
+}
+28560 = {
+    name="Minamisuide"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28561 = {
+    name="Nukata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28562 = {
+    name="Masaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28563 = {
+    name="Okabe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28564 = {
+    name="Takabe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28565 = {
+    name="Nagakura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28566 = {
+    name="Nakajo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28567 = {
+    name="Takaku"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28568 = {
+    name="Kose"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28569 = {
+    name="Odano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28570 = {
+    name="Yorikami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28571 = {
+    name="Oba"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28572 = {
+    name="Ishizuka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28573 = {
+    name="Otsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28574 = {
+    name="Oyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28575 = {
+    name="Fujii"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28576 = {
+    name="Hiraga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28577 = {
+    name="Sasage"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28578 = {
+    name="Inugai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28579 = {
+    name="Shiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28580 = {
+    name="Kojiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28581 = {
+    name="Ono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28582 = {
+    name="Kobayakawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28583 = {
+    name="Komatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28584 = {
+    name="Iizumi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28585 = {
+    name="Kusai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28586 = {
+    name="Ryunashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28587 = {
+    name="Funaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28588 = {
+    name="Akagawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28589 = {
+    name="Ouchi Kaja"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28590 = {
+    name="Shiokawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28591 = {
+    name="Yasuda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28592 = {
+    name="Kagami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28593 = {
+    name="Akayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28594 = {
+    name="Nanbu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28595 = {
+    name="Oso"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28596 = {
+    name="Yashiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28597 = {
+    name="Tomono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28598 = {
+    name="Oi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28599 = {
+    name="Fujisaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28600 = {
+    name="Narumi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28601 = {
+    name="Shichiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28602 = {
+    name="Akazawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28603 = {
+    name="Ataka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28604 = {
+    name="Atobe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28605 = {
+    name="Ichinohe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28606 = {
+    name="Shichinohe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28607 = {
+    name="Yonohe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28608 = {
+    name="Kunohe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28609 = {
+    name="Kuji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28610 = {
+    name="Funawara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28611 = {
+    name="Namikii"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28612 = {
+    name="Kochi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28613 = {
+    name="Tai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28614 = {
+    name="Sone"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28615 = {
+    name="Nako"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28616 = {
+    name="Asari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28617 = {
+    name="Toshimi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28618 = {
+    name="Henmi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28619 = {
+    name="Obu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28620 = {
+    name="Fukatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28621 = {
+    name="Itagaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28622 = {
+    name="Fukushi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28623 = {
+    name="Amari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28624 = {
+    name="Ichimiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28625 = {
+    name="Hayakawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28626 = {
+    name="Mabuchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28627 = {
+    name="Marui"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28628 = {
+    name="Komai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28629 = {
+    name="Aki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28630 = {
+    name="Wakasa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28631 = {
+    name="Isawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28632 = {
+    name="Abukawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28633 = {
+    name="Iwate"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28634 = {
+    name="Gendosai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28635 = {
+    name="Katsunuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28636 = {
+    name="Sakurai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28637 = {
+    name="Kawakubo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28638 = {
+    name="Mochizuki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28639 = {
+    name="Unno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28640 = {
+    name="Nishina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28641 = {
+    name="Katsuyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28642 = {
+    name="Yonezawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28643 = {
+    name="Shuzui"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28644 = {
+    name="Irobe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28645 = {
+    name="Ogochi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28646 = {
+    name="Takasugi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28647 = {
+    name="Ishibashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28648 = {
+    name="Takamatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28649 = {
+    name="Wakatsuki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28650 = {
+    name="Ashikaga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28652 = {
+    name="Nukado"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28653 = {
+    name="Shiotani"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28654 = {
+    name="Yokota"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28655 = {
+    name="Kondo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28656 = {
+    name="Ishikawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28657 = {
+    name="Inazawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28658 = {
+    name="Serada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28659 = {
+    name="Eda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28660 = {
+    name="Arai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28661 = {
+    name="Amakasu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28662 = {
+    name="Horiguchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28663 = {
+    name="Hosoya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28664 = {
+    name="Shimohosoya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28665 = {
+    name="Nishiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28666 = {
+    name="Anyoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28667 = {
+    name="Imai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28668 = {
+    name="Nakazawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28669 = {
+    name="Tanaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28670 = {
+    name="Oida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28671 = {
+    name="Torayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28672 = {
+    name="Toyooka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28673 = {
+    name="Kamakura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28674 = {
+    name="Oshida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28675 = {
+    name="Hirosawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28676 = {
+    name="Niki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28677 = {
+    name="Togasaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28678 = {
+    name="Kamiji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28679 = {
+    name="Momoi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28680 = {
+    name="Iwamatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28682 = {
+    name="Oshu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28683 = {
+    name="Kamahara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28684 = {
+    name="Oga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28685 = {
+    name="Shinagawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28686 = {
+    name="Nishio"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28687 = {
+    name="Horikoshi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28688 = {
+    name="Nawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28689 = {
+    name="Ozaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28690 = {
+    name="Tsunokado"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28691 = {
+    name="Sekiguchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28692 = {
+    name="Arakawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28693 = {
+    name="Isshiki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28694 = {
+    name="Okayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28695 = {
+    name="Hashida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28696 = {
+    name="Shibukawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28697 = {
+    name="Ishito"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28698 = {
+    name="Ueno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28699 = {
+    name="Omata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28700 = {
+    name="Kako"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28701 = {
+    name="Asue"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28702 = {
+    name="Hanabusa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28703 = {
+    name="Tsuchiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28704 = {
+    name="Oita"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28705 = {
+    name="Ishibashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28706 = {
+    name="Osaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28707 = {
+    name="Tendo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28708 = {
+    name="Nishimuro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28709 = {
+    name="Kurokawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28710 = {
+    name="Takadama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28711 = {
+    name="Kanisawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28712 = {
+    name="Narisawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28713 = {
+    name="Nakano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28714 = {
+    name="Okubo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28715 = {
+    name="Tateoka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28716 = {
+    name="Sugiyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28717 = {
+    name="Tanichi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28718 = {
+    name="Nagatoro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28719 = {
+    name="Matsune"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28720 = {
+    name="Yamanobe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28721 = {
+    name="Uenoyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28722 = {
+    name="Okuda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28723 = {
+    name="Hori"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28724 = {
+    name="Seiso"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28725 = {
+    name="Kuratani"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28726 = {
+    name="Nishiyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28727 = {
+    name="Nagayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28728 = {
+    name="Yajima"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28729 = {
+    name="Inamura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28730 = {
+    name="Kitsuregawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28731 = {
+    name="Kumagai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28732 = {
+    name="Shimada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28733 = {
+    name="Yokose"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28734 = {
+    name="Horie"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28735 = {
+    name="Tokukawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28736 = {
+    name="Nomi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28737 = {
+    name="Nagasawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28738 = {
+    name="Goi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28739 = {
+    name="Asano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28740 = {
+    name="Ichikawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28741 = {
+    name="Katahara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28742 = {
+    name="Takeya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28743 = {
+    name="Nobunosuke"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28744 = {
+    name="Takiwaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28745 = {
+    name="Miyaishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28746 = {
+    name="Okyu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28747 = {
+    name="Iwatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28748 = {
+    name="Sakurai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28749 = {
+    name="Fukugama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28750 = {
+    name="Ueda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28751 = {
+    name="Fujii"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28752 = {
+    name="Miki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28753 = {
+    name="Mito"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28754 = {
+    name="Okazaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28755 = {
+    name="Akashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28756 = {
+    name="Aizu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28757 = {
+    name="Owari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28758 = {
+    name="Kishu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28759 = {
+    name="Saika"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28760 = {
+    name="Usui"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28761 = {
+    name="Muraoka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28762 = {
+    name="Kamakura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28763 = {
+    name="Saga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28764 = {
+    name="Kamonone"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28765 = {
+    name="Hara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28766 = {
+    name="Murasawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28767 = {
+    name="Anzai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28768 = {
+    name="Osuga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28769 = {
+    name="Tsugiura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28770 = {
+    name="Hanyu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28771 = {
+    name="Toke"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28772 = {
+    name="Isai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28773 = {
+    name="Into"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28774 = {
+    name="Sosa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28775 = {
+    name="Oshii"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28776 = {
+    name="Amaba"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28777 = {
+    name="Kazusa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28778 = {
+    name="Tokida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28779 = {
+    name="Kaneda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28780 = {
+    name="Chonan"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28781 = {
+    name="Nango"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28782 = {
+    name="Ihoku"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28783 = {
+    name="Iminami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28784 = {
+    name="Unakami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28785 = {
+    name="Hemmi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28786 = {
+    name="Omi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28787 = {
+    name="Shiina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28788 = {
+    name="Note"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28789 = {
+    name="Takeishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28790 = {
+    name="Kokubun"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28791 = {
+    name="Higashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28792 = {
+    name="Tabeta"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28793 = {
+    name="Arami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28794 = {
+    name="Nagoya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28795 = {
+    name="Higagai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28796 = {
+    name="Yagi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28797 = {
+    name="Tobari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28798 = {
+    name="Chichibu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28799 = {
+    name="Oyamada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28800 = {
+    name="Kora"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28801 = {
+    name="Kawasaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28802 = {
+    name="Iida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28803 = {
+    name="Kawagoe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28804 = {
+    name="Takayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28805 = {
+    name="Edo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28806 = {
+    name="Kuzunuki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28807 = {
+    name="Yamada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28808 = {
+    name="Morooka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28809 = {
+    name="Kobayashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28810 = {
+    name="Iwaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28811 = {
+    name="Jo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28812 = {
+    name="Isa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28813 = {
+    name="Naka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28814 = {
+    name="Seki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28815 = {
+    name="Isehira"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28816 = {
+    name="Yasuoka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28817 = {
+    name="Nakane"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28818 = {
+    name="Uku"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28819 = {
+    name="Ema"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28820 = {
+    name="Soshigehisa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28821 = {
+    name="So"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28822 = {
+    name="Oda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28823 = {
+    name="Nagasaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28824 = {
+    name="Iinuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28825 = {
+    name="Nobuda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28826 = {
+    name="Nagai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28827 = {
+    name="Tadatoki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28828 = {
+    name="Ozawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28829 = {
+    name="Furukawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28830 = {
+    name="Nishimoku"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28831 = {
+    name="Aizawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28832 = {
+    name="Sagae"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28833 = {
+    name="Shiroiwa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28834 = {
+    name="Takaya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28835 = {
+    name="Mizonobu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28836 = {
+    name="Saka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28837 = {
+    name="Atsumo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28838 = {
+    name="Chuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28839 = {
+    name="Fukuhara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28840 = {
+    name="Kaneshige"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28841 = {
+    name="Nagaya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28842 = {
+    name="Aiai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28843 = {
+    name="Kita"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28844 = {
+    name="Mitsuke"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28845 = {
+    name="Shikina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28846 = {
+    name="Mayahara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28847 = {
+    name="Maebara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28848 = {
+    name="Hoida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28849 = {
+    name="Dewa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28850 = {
+    name="Amano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28851 = {
+    name="Atsuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28852 = {
+    name="Asonuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28853 = {
+    name="Akizato"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28854 = {
+    name="Shigesawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28855 = {
+    name="Kihara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28856 = {
+    name="Akagi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28857 = {
+    name="Miyanosho"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28858 = {
+    name="Abe Kurahai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28859 = {
+    name="Fuse"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28860 = {
+    name="Tsuchimikado"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28861 = {
+    name="Abe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28862 = {
+    name="Komatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28863 = {
+    name="Ando"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28864 = {
+    name="Mutsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28865 = {
+    name="Tomo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28866 = {
+    name="Saeki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28867 = {
+    name="Wako"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28868 = {
+    name="Tajihi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28869 = {
+    name="Miharu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28870 = {
+    name="Fumiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28871 = {
+    name="Tate"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28872 = {
+    name="Teramoto"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28873 = {
+    name="Koori"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28874 = {
+    name="Shiraishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28875 = {
+    name="Segami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28876 = {
+    name="Daijo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28877 = {
+    name="Kakeda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28878 = {
+    name="Koyanagawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28879 = {
+    name="Rusu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28880 = {
+    name="Kasai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28881 = {
+    name="Sato"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28882 = {
+    name="Takagi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28883 = {
+    name="Yanagawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28884 = {
+    name="Murata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28885 = {
+    name="Watari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28886 = {
+    name="Izumida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28887 = {
+    name="Awano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28888 = {
+    name="Sugime"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28889 = {
+    name="Iizaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28890 = {
+    name="Nakajima"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28891 = {
+    name="Onozaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28892 = {
+	used_for_random=no
+    name="Mido"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28893 = {
+    name="In"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28894 = {
+    name="Jimyoin"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28895 = {
+    name="Sono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28896 = {
+    name="Tamenaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28897 = {
+	used_for_random=no
+    name="Nakamikado"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28898 = {
+    name="Katta"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28899 = {
+    name="Hizume"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28900 = {
+    name="Yabu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28901 = {
+    name="Shida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28902 = {
+    name="Shingu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28903 = {
+    name="Matsui"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28904 = {
+    name="Asahi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28905 = {
+    name="Ano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28906 = {
+    name="Aichi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28907 = {
+    name="Yawata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28908 = {
+    name="Kashida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28909 = {
+    name="Yanagibayashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28910 = {
+    name="Kakura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28911 = {
+    name="Nagata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28912 = {
+    name="Medo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28913 = {
+    name="Yoshimi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28914 = {
+    name="Kurihara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28915 = {
+    name="Shimojo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28916 = {
+    name="Ichibe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28917 = {
+    name="Egusa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28918 = {
+    name="Kurashina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28919 = {
+    name="Sase"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28920 = {
+    name="Mariya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28921 = {
+    name="Chonami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28922 = {
+    name="Tsukui"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28923 = {
+    name="Sugimoto"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28924 = {
+    name="Otawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28925 = {
+    name="Sawara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28926 = {
+    name="Inawashiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28927 = {
+    name="Hida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28928 = {
+    name="Fujikura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28929 = {
+    name="Yokosuka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28930 = {
+    name="Deguchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28931 = {
+    name="Wada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28932 = {
+    name="Takai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28933 = {
+    name="Asahina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28934 = {
+    name="Sugiura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28935 = {
+    name="Hirao"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28936 = {
+    name="Awaihara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28937 = {
+    name="Baba"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28938 = {
+    name="Hara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28939 = {
+    name="Makuwari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28940 = {
+    name="Inage"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28941 = {
+    name="Shiizaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28942 = {
+    name="Narito"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28943 = {
+    name="Takagi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28944 = {
+    name="Tomura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28945 = {
+    name="Tenjinbayashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28946 = {
+    name="Utsuno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28947 = {
+    name="Kume"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28948 = {
+    name="Imamiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28949 = {
+    name="Uruno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28950 = {
+    name="Nasu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28951 = {
+    name="Koba"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28952 = {
+    name="Nagasawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28953 = {
+    name="Aiba"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28954 = {
+    name="Takada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28955 = {
+    name="Awa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28956 = {
+    name="Kazage"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28957 = {
+    name="Oki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28958 = {
+    name="Hachiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28959 = {
+    name="Ibi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28960 = {
+    name="Saigo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28961 = {
+    name="Washinosu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28962 = {
+    name="Uemura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28963 = {
+    name="Oguma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28964 = {
+    name="Tokuyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28965 = {
+    name="Fukasaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28966 = {
+    name="Mimasaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28967 = {
+    name="Suganuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28968 = {
+    name="Imamine"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28969 = {
+    name="Toyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28970 = {
+    name="Kitagata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28971 = {
+    name="Ogaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28972 = {
+    name="Hoyasu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28973 = {
+    name="Fuwa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28974 = {
+    name="Ohkuwa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28975 = {
+    name="Saragi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28976 = {
+    name="Kozakai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28977 = {
+    name="Kayatsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28978 = {
+    name="Umedo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28979 = {
+    name="Okami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28980 = {
+    name="Fukae"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28981 = {
+    name="Shisa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28982 = {
+    name="Sechibaru"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28983 = {
+    name="Machida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28984 = {
+    name="Isaku"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28985 = {
+    name="Tsuneyoshi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28986 = {
+    name="Nishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28987 = {
+    name="Izumi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28988 = {
+    name="Sata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28989 = {
+    name="Niino"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28990 = {
+    name="Kabayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28991 = {
+    name="Hokogo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28992 = {
+    name="Ishizaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28993 = {
+    name="Nobe"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28994 = {
+    name="Kawakami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28995 = {
+    name="Ikariyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28996 = {
+    name="Soju"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28997 = {
+    name="Hakushu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28998 = {
+    name="Hirayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+28999 = {
+    name="Kajiki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29000 = {
+    name="Umetani"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29001 = {
+    name="Toyoshu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29002 = {
+    name="Satsuma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29003 = {
+    name="Nishikawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29004 = {
+    name="Mitsuha"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29005 = {
+    name="Iriki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29006 = {
+    name="Shinjo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29007 = {
+    name="Shikine"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29008 = {
+    name="Kitamura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29009 = {
+    name="Fujino"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29010 = {
+    name="Kameyama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29011 = {
+    name="Togo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29012 = {
+    name="Neji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29013 = {
+    name="Kamata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29014 = {
+    name="Ijuin"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29015 = {
+    name="Ise"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29016 = {
+    name="Uchiji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29017 = {
+    name="Ryuzoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29018 = {
+    name="Egami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29019 = {
+    name="Yokodake"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29020 = {
+    name="Tsukushi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29021 = {
+    name="Nakamuta"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29022 = {
+    name="Jindai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29023 = {
+    name="Imari"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29024 = {
+    name="Sano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29025 = {
+    name="Kumashiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29026 = {
+    name="Ogi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29027 = {
+    name="Sassa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29028 = {
+    name="Kato"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29029 = {
+    name="Fujieda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29030 = {
+	name="Sho"
+	culture = ryukyuan
+	religion="ryukyu_shinto"
+}
+29031 = {
+	name="Kano"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29032 = {
+	name="Kawazu"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29033 = {
+	name="Kusumi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29034 = {
+	name="Asaka"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29035 = {
+	name="Inayoshi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29036 = {
+	name="Mituishi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29037 = {
+	name="Kadogawa"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29038 = {
+	name="Kiwaki"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29039 = {
+	name="Tsuchimochi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29040 = {
+	name="Wanishi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29041 = {
+	name="Tokuchi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29042 = {
+	name="Egi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29043 = {
+	name="Suetake"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29044 = {
+	name="Washito"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29045 = {
+	name="Yada"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29046 = {
+	name="Kakinami"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29047 = {
+	name="Yamaguchi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29048 = {
+	name="Tokuta"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29049 = {
+	name="Yoshihiro"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29050 = {
+	name="Takita"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29051 = {
+	name="Totoki"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29052 = {
+	name="Hori"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29053 = {
+	name="Tachibana"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29054 = {
+	name="Kuroda"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29055 = {
+	name="Oinomikado"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29056 = {
+	name="Sakanishi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29057 = {
+	name="Nakagawa"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29058 = {
+	name="Kotaro"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29059 = {
+	name="Akutagawa"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29060 = {
+	name="Bando"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29061 = {
+	name="Noguchi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29062 = {
+	name="Koso"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29063 = {
+	name="Tokuno"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29064 = {
+	name="Gamo"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29065 = {
+	name="Aoki"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29066 = {
+	name="Aochi"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29067 = {
+	name="Kumatsu"
+	culture = japanese
+	religion="nihon_shinto"
 }

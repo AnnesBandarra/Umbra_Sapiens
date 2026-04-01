@@ -90,9 +90,6 @@ holder=379474	#Zayn al-Abidin
 	liege=e_ottomans
 }
 1403.3.8={
-	holder=377952	#Isa Celebi 
-}
-1403.5.1={
 	holder=377954	#Mehmed I
 }
 1421.5.26={

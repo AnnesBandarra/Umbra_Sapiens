@@ -176,15 +176,7 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-1068.5.22={
-	holder = 1000075048 #Emperor Go-Sanjo
-}
-
-1073.1.18={
-	holder = 1000075049 #Emperor Shirakawa
-}
-
-1086.12.16={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 

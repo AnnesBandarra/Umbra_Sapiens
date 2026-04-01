@@ -98,10 +98,10 @@ liege="d_brunswick"
 	holder = 372171	#Henry III, Duke of Brunswick-Grubenhagen
 }
 1464.12.20 = {
-	holder = 372171	#Henry IV, Duke of Brunswick-Grubenhagen
+	holder = 403398	#Henry IV, Duke of Brunswick-Grubenhagen
 }
 1526.12.6 = {
-	holder = 372171	#Philip I, Duke of Brunswick-Grubenhagen
+	holder = 376211	#Philip I, Duke of Brunswick-Grubenhagen
 }
 1551.9.4 = {
 	holder = 376214	#Ernest III, Duke of Brunswick-Grubenhagen

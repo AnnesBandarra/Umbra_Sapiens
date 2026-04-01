@@ -94,11 +94,13 @@ vice_royalty = no
 {
 	holder=377939	#Bayezid I
 }
-1403.3.8={
-	holder=377952	#Isa Celebi 
+1402.7.20={
+	holder=377953	#Musa Çelebi
+	liege=0
 }
 1403.5.1={
 	holder=377954	#Mehmed I
+	liege="k_ottoman"
 }
 1421.5.26={
 	holder=377966	#Murad II

@@ -66,6 +66,14 @@
 	holder=0
 	vice_royalty = no
 }
+1402.7.28={
+	holder=377952	#Isa Celebi
+	liege=0
+}
+1403.9.1={
+	holder=0	#Conquered by Mehmed Çelebi
+	liege="k_ottoman"
+}
 1533.1.1={
 	de_jure_liege="k_ottoman_islands"
 }

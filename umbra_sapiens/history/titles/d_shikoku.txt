@@ -1,0 +1,6 @@
+940.12.26={
+	holder= 403968	#Fujiwara no Sumitomo
+}
+941.5.1={
+	holder = 0
+}

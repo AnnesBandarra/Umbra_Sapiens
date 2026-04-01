@@ -144,6 +144,9 @@ liege=0
 liege=k_ottoman
 holder=374201	#Constantine II of Bulgaria
 }
+1402.7.20={
+	liege="k_thrace"
+}
 1422.9.17={
 	holder=0
 }

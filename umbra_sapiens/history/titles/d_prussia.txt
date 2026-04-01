@@ -2,10 +2,13 @@
 	holder=373965	#Albert of Brandenburg-Ansbach	1510–1525 
 	law = succ_primogeniture
 	law = crown_authority_1
-	liege=e_commonwealth
+	liege="k_poland"
 }
 1568.3.20 = {
 	holder=373986	#Albert Frederick, Duke of Prussia
+}
+1569.7.1={
+	liege=e_commonwealth
 }
 1618.8.18 = {
 	holder=374412	#John Sigismund, Elector of Brandenburg
