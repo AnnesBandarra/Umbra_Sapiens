@@ -267,7 +267,7 @@
 	holder = 406410	#Kono Michinao
 }
 1585.6.18={
-	holder = 0	#Chosokabe invasion
+	holder = 406542	#Chōsokabe Motochika
 }
 1585.8.23={
 	holder = 403794	#Kobayakawa Takakage under Hideyoshi

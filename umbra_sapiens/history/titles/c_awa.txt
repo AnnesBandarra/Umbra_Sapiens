@@ -269,7 +269,7 @@
 	holder= 402327	#Masayuki Hosokawa Chosokabe alied
 }
 1582.8.1={
-	holder=0	#Chosokabe control
+	holder = 406542	#Chōsokabe Motochika
 }
 1585.7.25={	#Dont know date yet
 	holder= 406342	#Hachisuka Masakatsu

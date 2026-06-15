@@ -276,5 +276,11 @@
 	holder = 401487 #Yoshinaga Ouchi
 }
 1557.5.1={
-	holder=0	#Destroyed by the Mori
+	holder= 403791	#Mōri Takamoto
+}
+1563.8.22={
+	holder= 403867	#Mōri Terumoto
+}
+1625.6.2={
+	holder= 403871	#Mōri Hidenari
 }

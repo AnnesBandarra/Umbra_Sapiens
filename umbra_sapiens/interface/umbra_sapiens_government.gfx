@@ -27,4 +27,220 @@ spriteType = {
   name = "GFX_icon_vietnamese_imperial_government"
   texturefile = "gfx\\interface\\government_icon_vietnamese_imperial_government.dds"
 }
+	spriteType = {
+		name = "GFX_charframe_150_japanesefeudalism"
+		texturefile = "gfx\\interface\\charframe_150_merchantrepublic.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_japanesefeudalism"
+		texturefile = "gfx\\interface\\charframe_100_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_japanesefeudalism"
+		texturefile = "gfx\\interface\\charframe_75_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_japanesefeudalism"
+		texturefile = "gfx\\interface\\charframe_50_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_japanesefeudalism"
+		texturefile = "gfx\\interface\\charframe_34_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_mandala"
+		texturefile = "gfx\\interface\\charframe_150.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_mandala"
+		texturefile = "gfx\\interface\\charframe_100.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_mandala"
+		texturefile = "gfx\\interface\\charframe_75.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_mandala"
+		texturefile = "gfx\\interface\\charframe_50.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_mandala"
+		texturefile = "gfx\\interface\\charframe_34.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_japaneseimperialgovernment"
+		texturefile = "gfx\\interface\\charframe_150_republic.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_japaneseimperialgovernment"
+		texturefile = "gfx\\interface\\charframe_100_republic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_japaneseimperialgovernment"
+		texturefile = "gfx\\interface\\charframe_75_republic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_japaneseimperialgovernment"
+		texturefile = "gfx\\interface\\charframe_50_republic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_japaneseimperialgovernment"
+		texturefile = "gfx\\interface\\charframe_34_republic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_warlord_government"
+		texturefile = "gfx\\interface\\charframe_150_merchantrepublic.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_warlord_government"
+		texturefile = "gfx\\interface\\charframe_100_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_warlord_government"
+		texturefile = "gfx\\interface\\charframe_75_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_warlord_government"
+		texturefile = "gfx\\interface\\charframe_50_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_warlord_government"
+		texturefile = "gfx\\interface\\charframe_34_merchantrepublic.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_primitive"
+		texturefile = "gfx\\interface\\charframe_150_tribal.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_primitive"
+		texturefile = "gfx\\interface\\charframe_100_tribal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_primitive"
+		texturefile = "gfx\\interface\\charframe_75_tribal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_primitive"
+		texturefile = "gfx\\interface\\charframe_50_tribal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_primitive"
+		texturefile = "gfx\\interface\\charframe_34_tribal.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_korean_imperial_government"
+		texturefile = "gfx\\interface\\charframe_150_chineseimperial.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_korean_imperial_government"
+		texturefile = "gfx\\interface\\charframe_100_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_korean_imperial_government"
+		texturefile = "gfx\\interface\\charframe_75_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_korean_imperial_government"
+		texturefile = "gfx\\interface\\charframe_50_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_korean_imperial_government"
+		texturefile = "gfx\\interface\\charframe_34_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_charframe_150_vietnameseimperial"
+		texturefile = "gfx\\interface\\charframe_150_chineseimperial.tga" # Replace with your custom frame path if you have one
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_100_vietnameseimperial"
+		texturefile = "gfx\\interface\\charframe_100_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_75_vietnameseimperial"
+		texturefile = "gfx\\interface\\charframe_75_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_50_vietnameseimperial"
+		texturefile = "gfx\\interface\\charframe_50_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_charframe_34_vietnameseimperial"
+		texturefile = "gfx\\interface\\charframe_34_chineseimperial.tga"
+		noOfFrames = 6
+		allwaystransparent = yes
+	}
 }

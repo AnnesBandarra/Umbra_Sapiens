@@ -207,3 +207,6 @@
 1181.3.27={
 	holder= 403484	#Taira no Munemori
 }
+1184.1.1={
+	holder=	#Tōhi Sanehira
+}

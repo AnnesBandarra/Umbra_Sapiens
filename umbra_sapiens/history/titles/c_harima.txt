@@ -282,44 +282,75 @@
 1318.3.29={
 	holder = 1000075375 #Emperor Go-Daigo
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1333.6.1={
+	holder=407588	#Norimura Akamatsu
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1350.2.18={
+	holder=407589	#Norisuke Akamatsu
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1351.5.4={
+	holder=407591	#Norihiro Akamatsu
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1372.1.13={
+	holder=407600	#Akamatsu Yoshinori
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1427.9.21={
+	holder=407718	#Mochisada Akamatsu
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1427.11.12={
+	holder=407611	#Mitsusuke Akamatsu
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1441.9.25={
+	holder=407743	#Mochitoyo Yamana
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1454.1.1={
+	holder=407744	#Noritoyo Yamana
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1458.1.1={
+	holder=407743	#Mochitoyo Yamana
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1467.5.1={
+	holder=407620	#Masanori Akamatsu
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1496.6.6={
+	holder=407795	#Yoshimura Akamatsu
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1521.10.17={
+	holder=407823	#Urakami Muramune
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1531.7.17={
+	holder=407825	#Masamune Urakami
+}
+1564.2.23={
+	holder=407622	#Masahide Akamatsu
+}
+1569.6.1={
+	holder=407844	#Bessho Nagaharu
+}
+1580.2.2={
+	holder=0	#Oda Nobunaga Conquest
+}
+1582.1.1={
+	holder=0	#Toyotomi Hideyoshi Conquest
+}
+1590.1.1={
+	holder=407648	#Ikeda Terumasa
+}
+1613.1.1={
+	holder=407694	#Ikeda Toshitaka
+}
+1616.7.26={
+	holder=407695	#Ikeda Mitsumasa
+}
+1617.1.1={
+	holder=0	#Honda Tadamasa https://en.wikipedia.org/wiki/Honda_Tadamasa
+}
+1631.1.1={
+	holder=0	#Matsudaira Tadatomo
+}
+1638.1.1={
+	holder=0	#Honda Masakatsu 
+}
+1639.1.1={
+	holder=0	#Matsudaira Tadaaki https://en.wikipedia.org/wiki/Matsudaira_Tadaaki
 }
