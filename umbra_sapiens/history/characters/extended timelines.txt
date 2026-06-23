@@ -441742,7 +441742,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402408
-	1262.1.1{
+	1262.1.1={
 		birth="1262.1.1"
 	}
 	1318.1.1={
@@ -441756,7 +441756,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402409
-	1305.1.1{
+	1305.1.1={
 		birth="1305.1.1"
 	}
 	1351.3.18={
@@ -441769,7 +441769,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402409
-	1308.1.1{
+	1308.1.1={
 		birth="1308.1.1"
 	}
 	1369.1.1={
@@ -441783,7 +441783,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402411
-	1335.1.1{
+	1335.1.1={
 		birth="1335.1.1"
 	}
 	1393.1.1={
@@ -441797,7 +441797,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402410
-	1323.1.1{
+	1323.1.1={
 		birth="1323.1.1"
 	}
 	1351.3.18={
@@ -441810,7 +441810,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402410
-	1327.1.1{
+	1327.1.1={
 		birth="1327.1.1"
 	}
 	1351.3.18={
@@ -441824,7 +441824,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402413
-	1342.1.1{
+	1342.1.1={
 		birth="1342.1.1"
 	}
 	1414.1.1={
@@ -441837,7 +441837,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=402413
-	1346.1.1{
+	1346.1.1={
 		birth="1346.1.1"
 	}
 	1410.1.1={
@@ -465910,7 +465910,7 @@
 	925.1.1={
 		birth="925.1.1"
 	}
-	992.1.1{
+	992.1.1={
 		death="992.1.1"
 	}
 }
@@ -465924,7 +465924,7 @@
 	929.1.1={
 		birth="929.1.1"
 	}
-	985.1.1{
+	985.1.1={
 		death="985.1.1"
 	}
 }
@@ -465938,7 +465938,7 @@
 	931.1.1={
 		birth="931.1.1"
 	}
-	993.1.1{
+	993.1.1={
 		death="993.1.1"
 	}
 }
@@ -465953,7 +465953,7 @@
 	934.1.1={
 		birth="934.1.1"
 	}
-	980.2.4{
+	980.2.4={
 		death="980.2.4"
 	}
 }
@@ -510993,7 +510993,6 @@
 		death="1276.1.1"
 	}
 }
-}
 407492 = {
 	name="Engen"
 	dynasty=29107
@@ -514339,7 +514338,6 @@
 	1392.12.1={
 		death="1392.12.1"
 	}
-}
 }
 407732 = {
 	name="Ujishige"	#Ujishige Yamana
