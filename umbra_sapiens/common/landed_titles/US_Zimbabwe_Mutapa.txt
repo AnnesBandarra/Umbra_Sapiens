@@ -242,7 +242,7 @@ e_zimbabwe_mutapa = {
 			color={ 60 199 111 }
 			color2={ 255 255 255 }
 
-			capital = 3379 #
+			capital = 3454 # Ogongo
 
 			c_ogongo = {
 
@@ -320,7 +320,7 @@ e_zimbabwe_mutapa = {
 			color={ 224 175 26 }
 			color2={ 255 255 255 }
 
-			capital = 3388 #
+			capital = 3387 #Kimberly
 
 		c_kimberley = {
 
@@ -563,12 +563,12 @@ e_zimbabwe_mutapa = {
 			}
 		}
 		d_soweto = { #
-
 			color={ 213 147 37 }
 			color2={ 255 255 255 }
 
-			capital = 3390
-		c_soweto = {
+			capital = 3391
+			
+			c_soweto = {
 
 				color={ 213 147 37 }
 				color2={ 255 255 255 }
@@ -687,9 +687,6 @@ e_zimbabwe_mutapa = {
 
 				color={ 233 117 17 }
 				color2={ 255 255 255 }
-
-				holy_site=khoi_san_mythology
-				holy_site=khoi_san_mythology_reformed
 
 				b_johannesburg = {
 				}

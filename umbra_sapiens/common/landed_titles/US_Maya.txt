@@ -17,11 +17,14 @@ e_maya = {
 		tlapanec="Otomi"
 		mixtec="Otomi"
 		zapotek="Otomi"
+		
 		d_huasteca = {
 
 			color={ 255 255 108 }
 			color2={ 220 220 220 }
-			capital = 3769 # Tamaulipas
+			
+			capital = 4855 # Tuxpan
+			
 			c_oxtilipan= {
 			
 				color={ 255 215 77 }
@@ -178,9 +181,12 @@ e_maya = {
 			}
 		
 		}
-k_alamos = {
+	k_alamos = {
 		color={ 133 211 162 }
 		color2={ 0 0 0 }
+		
+		capital = 4498 # Alamos
+		
 		d_tamaulipas = {
 
 			color={ 55 194 22 }
@@ -230,9 +236,9 @@ k_alamos = {
 			color={ 33 33 219 }
 			color2={ 220 220 220 }
 			
-			capital = 4167 #Guasave
+			capital = 4497 #Guasave
 		
-		c_chihuahua = {
+			c_chihuahua = {
 				color={ 82 1 19 }
 				color2={ 220 220 220 }
 				holy_site=tarascan_pagan
@@ -280,7 +286,8 @@ k_alamos = {
 			color={ 0.10 0.42 0.55 }
 			color2={ 220 220 220 }
 			
-			capital = 4084 #Mazatlan
+			capital = 4854 #Cuxtaque
+			
 			c_cuxtaque= {
 
 				color={ 73 223 103 }
@@ -576,8 +583,7 @@ k_alamos = {
 			color={ 49 66 66 }
 			color2={ 220 220 220 }
 			
-			capital = 4168 #Alamos
-		
+			capital = 4498 #Alamos
 		
 		c_alamos = {
 				color={ 42 21 3 }
@@ -638,7 +644,8 @@ k_alamos = {
 			color={ 101 199 123 }
 			color2={ 220 220 220 }
 			
-			capital = 4075 #patzcuaro
+			capital = 4406 #colima
+			
 			c_tingambato = { 
 				color={ 188 51 56 }
 				color2={ 220 220 220 }
@@ -715,7 +722,8 @@ k_alamos = {
 		d_ihuatzio = {
 		color={ 31 221 139 }
 		color2={ 220 220 220 }
-		capital = 4405 #ihuatzio/guzman
+		capital = 4409 #guzman
+		
 		c_zinapecuaro = { 
 				color={ 11 201 79 }
 				color2={ 220 220 220 }
@@ -919,7 +927,8 @@ k_alamos = {
 	k_jalisco = {
 	color={ 84 141 106 }
 	color2={ 220 220 220 }
-	capital = 4077 #Jalisco
+	capital = 4408 #Jalisco
+	
 		d_cosala = {
 
 			color={ 68 99 100 }
@@ -1035,7 +1044,8 @@ k_alamos = {
 			color={ 99 66 55 }
 			color2={ 220 220 220 }
 			
-			capital = 4077 #Jalisco
+			capital = 4408 #Jalisco
+			
 			c_centicpac= {
 				color={ 99 171 19 }
 				color2={ 220 220 220 }

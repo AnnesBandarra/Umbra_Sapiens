@@ -12161,7 +12161,7 @@ e_italy = {
 			}
 		}	
 		d_corsica = {
-			color={ 210 233 278 }
+			color={ 210 233 238 }
 			color2={ 255 255 255 }
 			
 			capital = 324 # Corsica
@@ -23804,7 +23804,7 @@ k_sibir = {
 
 			c_tui = {
 				color={ 210 170 170 }
-				color={ 255 255 255 }
+				color2={ 255 255 255 }
 
 				b_tui = {}
 				b_aksurka = {}
@@ -27235,7 +27235,7 @@ e_persia = {
 		color={ 210 50 50 }
 		color2={ 255 255 255 }
 		
-		capital = 1604 # Qabala
+		capital = 668 # Shirvan
 		
 		culture = dagestani
 
@@ -27473,7 +27473,7 @@ e_persia = {
 			color={ 170 90 90 }
 			color2={ 255 255 255 }
 			
-			capital = 1587 # Khundzia
+			capital = 2088 # Khundzia
 
 			c_didoya = {
 				color={ 160 80 80 }
@@ -27511,7 +27511,6 @@ e_persia = {
 				color2={ 255 255 255 }
 
 				georgian = Khundzeti
-
 				
 				b_khunzakh = {
 				}
@@ -28126,7 +28125,7 @@ e_persia = {
 			color={ 95 180 35 }
 			color2={ 255 255 255 }
 			
-			capital = 700 # Bira
+			capital = 712 # Rahbah
 			
 			c_rahbah = {
 				color={ 41 238 26 }
@@ -28687,11 +28686,9 @@ e_persia = {
 			color={ 112 120 180 }
 			color2={ 255 255 255 }
 			
-			capital = 670 # Azerbaijan
+			capital = 667 # Tabriz
 			
 			culture = persian
-			
-
 			
 			c_tabriz = {
 				color={ 106 115 180 }
@@ -31886,7 +31883,7 @@ e_france = {
 			color={ 170 54 26 }
 			color2={ 255 255 255 }
 			
-			capital = 104 # Penthievre
+			capital = 102 # Penthievre
 			
 			culture = breton
 			

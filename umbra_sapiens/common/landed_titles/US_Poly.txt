@@ -2,7 +2,7 @@ e_poly = {
 	color= { 175 25 25 }
 	color2= { 0 0 0  }
 	
-	capital = 4067 #Hawaii
+	capital = 4397 #Hawaii
 	
 	allow={
 		is_colonial = no
@@ -12,16 +12,16 @@ e_poly = {
 		color={ 32 34 220 }
 		color2={ 0 0 0 }
 		
-		capital = 4067 #Hawaii
-		#creation_requires_capital = no
+		capital = 4397 #Hawaii
 		
+		#creation_requires_capital = no
 		
 		d_hawaii = {
 
 			color={ 200 140 115 }
 			color2={ 220 220 220 }
 			
-			capital = 4067 #Hawaii
+			capital = 4397 #Hawaii
 			
 			c_hawaii = {
 
@@ -138,7 +138,7 @@ e_poly = {
 			color={ 9 160 138 }
 			color2={ 2 4 99 }
 			
-			capital = 4067 #Hawaii
+			capital = 4400 #Honolulu
 			
 			c_honolulu = {
 
@@ -366,9 +366,15 @@ e_poly = {
 	k_poly = {
 	color= { 165 35 35 }
 	color2= { 0 0 0  }
+	
+	capital = 3396
+	
 	  d_micronesia = {
 	  color= { 60 40 30 }
 	  color2= { 0 0 0  }
+	  
+	  capital = 4275 #Micronesia
+	  
 	  c_palau = {
 	  color= { 172	42	37 }
 	  color2= { 0 0 0  }

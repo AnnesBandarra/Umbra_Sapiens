@@ -2644,7 +2644,7 @@ d_free_knights_of_alania = {
 	}
 	
 	# Parent Religion 
-	religion = avar_pagan
+	religion = uatsdin_pagan
 	
 	mercenary = yes
 
@@ -5827,7 +5827,7 @@ d_chinese_flame = {
 	}
 	
 	# Parent Religion 
-	religion = confucian
+	religion = taoist
 	
 	mercenary = yes
 
@@ -5893,7 +5893,7 @@ d_dragon_company = {
 	}
 	
 	# Parent Religion 
-	religion = confucian
+	religion = taoist
 	
 	mercenary = yes
 
@@ -5926,7 +5926,7 @@ d_river_band = {
 	}
 	
 	# Parent Religion 
-	religion = confucian
+	religion = taoist
 	
 	mercenary = yes
 
@@ -5959,7 +5959,7 @@ d_fertile_anger = {
 	}
 	
 	# Parent Religion 
-	religion = confucian
+	religion = taoist
 	
 	mercenary = yes
 
@@ -6025,7 +6025,7 @@ d_ember_company = {
 	}
 	
 	# Parent Religion 
-	religion = confucian
+	religion = shingyo
 	
 	mercenary = yes
 
@@ -7116,7 +7116,7 @@ d_revenge_of_the_kafir = {
 	}
 	
 	# Parent Religion 
-	religion = east_bantu_mythology
+	religion = west_african_pagan
 	
 	mercenary = yes
 
@@ -7281,7 +7281,7 @@ d_hakuna_matata = {
 	}
 	
 	# Parent Religion 
-	religion = east_bantu_mythology
+	religion = west_african_pagan
 	
 	mercenary = yes
 

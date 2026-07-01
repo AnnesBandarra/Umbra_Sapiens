@@ -119,12 +119,10 @@ america_road = {
 		province_id = 3627
 		province_id = 3665
 		province_id = 3637
-		province_id = 3642
 		province_id = 3687
 		province_id = 3679
 		province_id = 3677
 		province_id = 3683
-		province_id = 3845
 		province_id = 4344
 		province_id = 4541
 		province_id = 4498
@@ -149,7 +147,6 @@ america_road = {
 
 	start = {				# Start provinces of trade route
 		3766 #Ecab
-		3989 #Antrogofasta
 		3739 #Zapotec
 		4556 #Ajo
 		4552 #Tombstone

@@ -27,6 +27,5 @@ mande_mine = {
 	# Northern Silk Route
 	path = {	# Jiuquan-Anxi-Dunhuang
                 914 911
-                911 914
 	}
 }

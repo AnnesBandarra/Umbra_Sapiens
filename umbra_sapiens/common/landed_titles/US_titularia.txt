@@ -1100,7 +1100,7 @@ e_united_states = {
 		}
 		male_names = {
 		Thomas Benjamin James John Alexander George Samuel Patrick Richard Henry Lee
-		John Roger Robert Gouverneur Peyton Abraham Martin Andrew William Zachary Millard
+		Roger Robert Gouverneur Peyton Abraham Martin Andrew William Zachary Millard
 		Franklin Ulysses Rutheford Chester Grover Theodore Woodrow Warren Calvin Herbert 
 		Dwight Lyndon Gerald Ronald Barack Donald Joseph
 		}
