@@ -74,7 +74,7 @@
 
 1000080470 = {
 	name="Balaputradeva"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="javanese"
 	father=1000080468
@@ -92,7 +92,7 @@
 
 1000080472 = {
 	name="Bhanudeva"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080470
@@ -106,7 +106,7 @@
 
 1000080473 = {
 	name="Jayadeva"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080472
@@ -120,7 +120,7 @@
 
 1000080474 = {
 	name="Udayadityavarman"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080473
@@ -134,7 +134,7 @@
 
 1000080475 = {
 	name="Haji"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080474
@@ -148,7 +148,7 @@
 
 1000080476 = {
 	name="Culamanivarmadeva"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080475
@@ -162,7 +162,7 @@
 
 1000080477 = {
 	name="Maravijayottunga"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080476
@@ -177,7 +177,7 @@
 1000080480 = {
 	name="Putri-Sriwijaya"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080476
@@ -192,7 +192,7 @@
 1000080481 = {
 	name="Dewi-Sumbrada"
 	female=yes
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080476
@@ -206,7 +206,7 @@
 
 1000080478 = {
 	name="Sumatrabhumi"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080477
@@ -220,7 +220,7 @@
 
 1000080479 = {
 	name="Sangramavijayottunga"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080477
@@ -234,7 +234,7 @@
 
 1000080482 = {
 	name="Sri-Deva"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080479
@@ -248,7 +248,7 @@
 
 1000076193 = {
 	name="Dharmavira"
-	dynasty=1000028301 #Sailendra
+	dynasty=1000028280 #Sailendra
 	religion="buddhist"
 	culture="malay"
 	father=1000080482
@@ -562,7 +562,7 @@
 
 1000203930 = {
 	name="Kechik"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	720.1.1={
@@ -576,7 +576,7 @@
 
 1000203931 = {
 	name="Daud"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000203930
@@ -591,7 +591,7 @@
 
 1000203932 = {
 	name="Bachok"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000203931
@@ -606,7 +606,7 @@
 
 1000080725 = {
 	name="Durbaraja"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000203932
@@ -621,7 +621,7 @@
 
 1000080726 = {
 	name="Deva"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080725
@@ -636,7 +636,7 @@
 
 1000080727 = {
 	name="Mahadeva"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080726
@@ -651,7 +651,7 @@
 
 1000080728 = {
 	name="Mahasura"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080726
@@ -666,7 +666,7 @@
 
 1000080729 = {
 	name="Karnadiraja"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080727
@@ -681,7 +681,7 @@
 
 1000080730 = {
 	name="Karma"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080729
@@ -696,7 +696,7 @@
 
 1000080731 = {
 	name="Deva"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080730
@@ -711,7 +711,7 @@
 
 1000080732 = {
 	name="Dharmaraja"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080731
@@ -727,7 +727,7 @@
 1000076192 = {
 	name="Putra"
 	female=yes
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080731
@@ -742,7 +742,7 @@
 
 1000080733 = {
 	name="Mahajiva"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080732
@@ -757,7 +757,7 @@
 
 1000080734 = {
 	name="Mahakarma"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080732
@@ -772,7 +772,7 @@
 
 1000080735 = {
 	name="Durbaraja"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="hindu"
 	culture="malay"
 	father=1000080733
@@ -791,7 +791,7 @@
 
 1000080736 = {
 	name="Muadzam"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080735
@@ -805,7 +805,7 @@
 
 1000080737 = {
 	name="Muhammad"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080736
@@ -819,7 +819,7 @@
 
 1000080738 = {
 	name="Mudzaffar"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080737
@@ -833,7 +833,7 @@
 
 1000080739 = {
 	name="Mahmud"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080738
@@ -847,7 +847,7 @@
 
 1000080740 = {
 	name="Ibrahim"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080739
@@ -861,7 +861,7 @@
 
 1000080741 = {
 	name="Sulaiman"
-	dynasty=1000028300 #Kedaram
+	dynasty=1000028281 #Kedaram
 	religion="sunni"
 	culture="malay"
 	father=1000080740

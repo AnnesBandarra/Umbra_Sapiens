@@ -27511,6 +27511,7 @@ e_persia = {
 				color2={ 255 255 255 }
 
 				georgian = Khundzeti
+
 				
 				b_khunzakh = {
 				}
@@ -28076,7 +28077,7 @@ e_persia = {
 			color={ 95 180 35 }
 			color2={ 255 255 255 }
 			
-			capital = 700 # Bira
+			capital = 712 # Rahbah
 			
 			c_bira = {
 				color={ 95 186 30 }
@@ -28125,7 +28126,7 @@ e_persia = {
 			color={ 95 180 35 }
 			color2={ 255 255 255 }
 			
-			capital = 712 # Rahbah
+			capital = 700 # Bira
 			
 			c_rahbah = {
 				color={ 41 238 26 }
@@ -28689,6 +28690,8 @@ e_persia = {
 			capital = 667 # Tabriz
 			
 			culture = persian
+			
+
 			
 			c_tabriz = {
 				color={ 106 115 180 }

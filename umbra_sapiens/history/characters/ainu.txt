@@ -2,7 +2,7 @@
 
 1000205170 = {
 	name="Shimano"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	720.1.1={
@@ -15,7 +15,7 @@
 
 1000205171 = {
 	name="Kobul"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205170
@@ -29,7 +29,7 @@
 
 1000205172 = {
 	name="Kimesan"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205171
@@ -43,7 +43,7 @@
 
 1000203665 = {
 	name="Kuchigori"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205172
@@ -57,7 +57,7 @@
 
 1000203666 = {
 	name="Saketata"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203665
@@ -71,7 +71,7 @@
 
 1000203667 = {
 	name="Kutekira"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203666
@@ -85,7 +85,7 @@
 
 1000203668 = {
 	name="Chibie"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203667
@@ -99,7 +99,7 @@
 
 1000203669 = {
 	name="Unata"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203668
@@ -113,7 +113,7 @@
 
 1000203670 = {
 	name="Akishipe"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203669
@@ -127,7 +127,7 @@
 
 1000203671 = {
 	name="Saabuni"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203670
@@ -141,7 +141,7 @@
 
 1000075229 = {
 	name="Usamudare"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203671
@@ -155,7 +155,7 @@
 
 1000203672 = {
 	name="Shimano"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000075229
@@ -169,7 +169,7 @@
 
 1000203673 = {
 	name="Yaitotori"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203672
@@ -183,7 +183,7 @@
 
 1000203674 = {
 	name="Gonpa"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203673
@@ -197,7 +197,7 @@
 
 1000203675 = {
 	name="Ikuhe"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203674
@@ -211,7 +211,7 @@
 
 1000203676 = {
 	name="Komonta"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203675
@@ -225,7 +225,7 @@
 
 1000203677 = {
 	name="Tataru"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203676
@@ -239,7 +239,7 @@
 
 1000203678 = {
 	name="Bekenishi"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203677
@@ -253,7 +253,7 @@
 
 1000203679 = {
 	name="Nukuri"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203678
@@ -267,7 +267,7 @@
 
 1000203680 = {
 	name="Shanri"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203679
@@ -281,7 +281,7 @@
 
 1000203681 = {
 	name="Moima"
-	dynasty=1000027010 #Oshmaushi
+	dynasty=27010 #Oshmaushi
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203680
@@ -297,7 +297,7 @@
 
 1000205173 = {
 	name="Soyaka"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	720.1.1={
@@ -310,7 +310,7 @@
 
 1000205174 = {
 	name="Kobul"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205173
@@ -324,7 +324,7 @@
 
 1000205175 = {
 	name="Kimesan"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205174
@@ -338,7 +338,7 @@
 
 1000203682 = {
 	name="Shiriu"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205175
@@ -352,7 +352,7 @@
 
 1000203683 = {
 	name="Kobui"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203682
@@ -366,7 +366,7 @@
 
 1000203684 = {
 	name="Ihokai"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203683
@@ -380,7 +380,7 @@
 
 1000203685 = {
 	name="Bitaka"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203684
@@ -394,7 +394,7 @@
 
 1000203686 = {
 	name="Tosaranku"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203685
@@ -408,7 +408,7 @@
 
 1000203687 = {
 	name="Netokahe"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203686
@@ -422,7 +422,7 @@
 
 1000203688 = {
 	name="Kuwakaaino"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203687
@@ -436,7 +436,7 @@
 
 1000075230 = {
 	name="Nukuri"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203688
@@ -450,7 +450,7 @@
 
 1000203689 = {
 	name="Atsukuru"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000075230
@@ -464,7 +464,7 @@
 
 1000203690 = {
 	name="Shiranbe"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203689
@@ -478,7 +478,7 @@
 
 1000203691 = {
 	name="Wohiruka"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203690
@@ -492,7 +492,7 @@
 
 1000203692 = {
 	name="Haunte"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203691
@@ -506,7 +506,7 @@
 
 1000203693 = {
 	name="Ikasesu"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203692
@@ -520,7 +520,7 @@
 
 1000203694 = {
 	name="Utarian"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203693
@@ -534,7 +534,7 @@
 
 1000203695 = {
 	name="Kanihi"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203694
@@ -548,7 +548,7 @@
 
 1000203696 = {
 	name="Irusaaino"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203695
@@ -562,7 +562,7 @@
 
 1000203697 = {
 	name="Annen"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203696
@@ -576,7 +576,7 @@
 
 1000203698 = {
 	name="Anteponi"
-	dynasty=1000027011 #Ishkarun
+	dynasty=27011 #Ishkarun
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203697
@@ -592,7 +592,7 @@
 
 1000205176 = {
 	name="Nukuri"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	720.1.1={
@@ -605,7 +605,7 @@
 
 1000205177 = {
 	name="Kobul"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205176
@@ -619,7 +619,7 @@
 
 1000205178 = {
 	name="Kimesan"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205177
@@ -633,7 +633,7 @@
 
 1000203699 = {
 	name="Koton"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205178
@@ -647,7 +647,7 @@
 
 1000203700 = {
 	name="Sokutori"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203699
@@ -661,7 +661,7 @@
 
 1000203701 = {
 	name="Toshiroku"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203700
@@ -675,7 +675,7 @@
 
 1000203702 = {
 	name="Nukuri"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203701
@@ -689,7 +689,7 @@
 
 1000203703 = {
 	name="Kobui"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203702
@@ -703,7 +703,7 @@
 
 1000203704 = {
 	name="Kimurakai"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203703
@@ -717,7 +717,7 @@
 
 1000203705 = {
 	name="Ihokai"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203704
@@ -731,7 +731,7 @@
 
 1000075231 = {
 	name="Utarian"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203705
@@ -745,7 +745,7 @@
 
 1000203706 = {
 	name="Ipetaako"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000075231
@@ -759,7 +759,7 @@
 
 1000203707 = {
 	name="Ainurakkur"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203706
@@ -773,7 +773,7 @@
 
 1000203708 = {
 	name="Nibiri"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203707
@@ -787,7 +787,7 @@
 
 1000203709 = {
 	name="Sentoki"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203708
@@ -801,7 +801,7 @@
 
 1000203710 = {
 	name="Kamokutain"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203709
@@ -815,7 +815,7 @@
 
 1000203711 = {
 	name="Isonashi"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203710
@@ -829,7 +829,7 @@
 
 1000203712 = {
 	name="Ashiriaino"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203711
@@ -843,7 +843,7 @@
 
 1000203713 = {
 	name="Kabu"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203712
@@ -857,7 +857,7 @@
 
 1000203714 = {
 	name="Utarian"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203713
@@ -871,7 +871,7 @@
 
 1000203715 = {
 	name="Ikinunba"
-	dynasty=1000027012 #Kushru
+	dynasty=27012 #Kushru
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203714
@@ -887,7 +887,7 @@
 
 1000205179 = {
 	name="Monshu"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	720.1.1={
@@ -900,7 +900,7 @@
 
 1000205180 = {
 	name="Kobul"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205179
@@ -914,7 +914,7 @@
 
 1000205181 = {
 	name="Kimesan"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205180
@@ -928,7 +928,7 @@
 
 1000203716 = {
 	name="Kanihi"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205181
@@ -942,7 +942,7 @@
 
 1000203717 = {
 	name="Tsukitaaino"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203716
@@ -956,7 +956,7 @@
 
 1000203718 = {
 	name="Chiusaku"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203717
@@ -970,7 +970,7 @@
 
 1000203719 = {
 	name="Tarikona"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203718
@@ -984,7 +984,7 @@
 
 1000203720 = {
 	name="Shiukeri"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203719
@@ -998,7 +998,7 @@
 
 1000203721 = {
 	name="Sakeroku"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203720
@@ -1012,7 +1012,7 @@
 
 1000203722 = {
 	name="Kunne"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203721
@@ -1026,7 +1026,7 @@
 
 1000075233 = {
 	name="Kiriho"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203722
@@ -1040,7 +1040,7 @@
 
 1000203723 = {
 	name="Garugaru"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000075233
@@ -1054,7 +1054,7 @@
 
 1000203724 = {
 	name="Kohechiyahe"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203723
@@ -1068,7 +1068,7 @@
 
 1000203725 = {
 	name="Kimesan"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203724
@@ -1082,7 +1082,7 @@
 
 1000203726 = {
 	name="Ikasmatuk"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203725
@@ -1096,7 +1096,7 @@
 
 1000203727 = {
 	name="Shikahotsute"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203726
@@ -1110,7 +1110,7 @@
 
 1000203728 = {
 	name="Kutekira"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203727
@@ -1124,7 +1124,7 @@
 
 1000203729 = {
 	name="Ufukiri"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203728
@@ -1138,7 +1138,7 @@
 
 1000203730 = {
 	name="Ekashitomu"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203729
@@ -1152,7 +1152,7 @@
 
 1000203731 = {
 	name="Akorukamu"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203730
@@ -1166,7 +1166,7 @@
 
 1000203732 = {
 	name="Kamuikocha"
-	dynasty=1000027013 #Karput
+	dynasty=27013 #Karput
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203731
@@ -1182,7 +1182,7 @@
 
 1000205182 = {
 	name="Roko"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	720.1.1={
@@ -1195,7 +1195,7 @@
 
 1000205183 = {
 	name="Kobul"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205182
@@ -1209,7 +1209,7 @@
 
 1000205184 = {
 	name="Kimesan"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205183
@@ -1223,7 +1223,7 @@
 
 1000203733 = {
 	name="Korappu"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000205184
@@ -1237,7 +1237,7 @@
 
 1000203734 = {
 	name="Shiecaca"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203733
@@ -1251,7 +1251,7 @@
 
 1000203735 = {
 	name="Kuikoro"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203734
@@ -1265,7 +1265,7 @@
 
 1000203736 = {
 	name="Kimesan"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203735
@@ -1279,7 +1279,7 @@
 
 1000203737 = {
 	name="Shianu"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203736
@@ -1293,7 +1293,7 @@
 
 1000203738 = {
 	name="Riken"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203737
@@ -1307,7 +1307,7 @@
 
 1000203739 = {
 	name="Moima"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203738
@@ -1321,7 +1321,7 @@
 
 1000075232 = {
 	name="Reatai"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203739
@@ -1335,7 +1335,7 @@
 
 1000203740 = {
 	name="Wotashi"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000075232
@@ -1349,7 +1349,7 @@
 
 1000203741 = {
 	name="Hausanakuru"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203740
@@ -1363,7 +1363,7 @@
 
 1000203742 = {
 	name="Poroka"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203741
@@ -1377,7 +1377,7 @@
 
 1000203743 = {
 	name="Tsufuri"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203742
@@ -1391,7 +1391,7 @@
 
 1000203744 = {
 	name="Kuchigori"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203743
@@ -1405,7 +1405,7 @@
 
 1000203745 = {
 	name="Shanri"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203744
@@ -1419,7 +1419,7 @@
 
 1000203746 = {
 	name="Sekaya"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203745
@@ -1433,7 +1433,7 @@
 
 1000203747 = {
 	name="Koarofuni"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203746
@@ -1447,7 +1447,7 @@
 
 1000203748 = {
 	name="Abeshiyoshi"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203747
@@ -1461,7 +1461,7 @@
 
 1000203749 = {
 	name="Itakunippu"
-	dynasty=1000078073 #Kuye
+	dynasty=78073 #Kuye
 	religion="ainu_pantheism"
 	culture="ainu"
 	father=1000203748

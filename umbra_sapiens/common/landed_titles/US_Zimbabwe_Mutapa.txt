@@ -315,7 +315,7 @@ e_zimbabwe_mutapa = {
 				}
 			}			
 		}
-		d_namaqualand = { #
+		d_namaqualand = {
 
 			color={ 224 175 26 }
 			color2={ 255 255 255 }
@@ -563,12 +563,12 @@ e_zimbabwe_mutapa = {
 			}
 		}
 		d_soweto = { #
+
 			color={ 213 147 37 }
 			color2={ 255 255 255 }
 
 			capital = 3391
-			
-			c_soweto = {
+		c_soweto = {
 
 				color={ 213 147 37 }
 				color2={ 255 255 255 }

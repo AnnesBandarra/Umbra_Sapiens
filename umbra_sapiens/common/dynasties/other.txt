@@ -1,10 +1,10 @@
 1009990274 = {
 	name="Bezezizon"
-	culture=bermudan
+	culture=caran
 }
 1009990275 = {
 	name="Galtanar"
-	culture="caran"
+	culture=caran
 }
 1009990276 = {
 	name="Tummamna"

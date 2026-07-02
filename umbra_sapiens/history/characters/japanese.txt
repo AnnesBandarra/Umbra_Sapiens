@@ -1202,6 +1202,9 @@
 	1107.8.9={
 		name = "Toba"
 	}
+	1118.1.26={
+		add_spouse=408772
+	}
 	1134.1.1={
 		add_spouse=400893
 	}
@@ -1221,6 +1224,7 @@
 	add_trait="poet"
 	add_trait="envious"
 	father=1000075352
+	mother=408772
 	1119.7.7={
 		birth="1119.7.7"
 	}
@@ -1249,6 +1253,7 @@
 	add_trait="kuge"
 	add_trait="quick"
 	father=1000075352
+	mother=408772
 	1127.8.23={
 		birth="1127.8.23"
 	}
@@ -2583,7 +2588,6 @@
 	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
-	father=403646
 	add_trait="kuge"
 	add_trait="underhanded_rogue"
 	665.1.1={
@@ -3603,7 +3607,7 @@
 
 1000075170 = {
 	name="Kunifusa"
-	dynasty=28539
+	dynasty=27006
 	religion="nihon_shinto"
 	culture="japanese"
 	add_trait="indulgent_wastrel"
@@ -3776,9 +3780,6 @@
 	father=1000075178
 	999.1.1={
 		birth="999.1.1"
-	}
-	1066.1.1={
-		employer=1000075180
 	}
 	1083.1.1={
 		death="1083.1.1"

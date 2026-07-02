@@ -221,99 +221,93 @@
 	holder = 1000075360 #Emperor Go-Toba
 }
 
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1190.1.1={
+	holder=407967	#Morinaga Adachi
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1199.1.1={
+	holder=0
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1225.1.1={
+	holder=408398	#Yoshikiyo Sasaki
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1233.1.1={
+	holder=408401	#Masayoshi Sasaki
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1248.1.1={
+	holder=408402	#Yasukiyo Sasaki
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+1282.8.3={
+	holder=408405	#Yoriyasu Shiogi
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1288.1.1={
+	holder=408443	#Sadakiyo Shioji
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1326.5.1={
+	holder=408687	#Takasada Shioji
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1341.3.29={
+	holder=407722	#Tokiuji Yamana
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1343.1.1={
+	holder=408561	#Takauji Kyogoku
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1349.1.1={
+	holder=407722	#Tokiuji Yamana
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1352.1.1={
+	holder=408561	#Takauji Kyogoku
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1368.1.1={
+	holder=408573	#Takahide Kyogoku
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1379.1.1={
+	holder=407773	#Yoshiyuki Yamana
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1385.1.1={
+	holder=407776	#Mitsuyuki Yamana
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1392.1.1={
+	holder=408576	#Takanori Kyogoku
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1401.10.14={
+	holder=408695	#Takamitsu Kyogoku
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1413.9.14={
+	holder=408701	#Keigoku Mochitaka
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1439.1.29={
+	holder=408696	#Takakazu Kyogoku
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1441.7.12={
+	holder=408703	#Mochikiyo Kyogoku
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1470.8.30={
+	holder=408707	#Kyogoku Magodojimaru
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1471.1.1={
+	holder=408708	#Takakiyo Kyogoku
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1471.10.1={
+	holder=408706	#Kyogoku Masatsune
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1508.11.27={
+	holder=408615	#Tsunehisa Amago
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1537.1.1={
+	holder=408596	#Haruhisa Amago
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1561.1.9={
+	holder=408598	#Yoshihisa Amago
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1566.11.21={
+	holder=403867	#Mōri Terumoto
+}
+1601.10.10={
+	holder=408734	#Horio Yoshiharu
+}
+1611.7.26={
+	holder=408740	#Tadaharu Horio
+}
+1633.10.22={
+	holder=408741	#Yasunaga Horio
 }

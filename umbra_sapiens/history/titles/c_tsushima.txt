@@ -176,13 +176,7 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-####
-1066.1.1={
-	holder = 1000075154 # Tachibana Mochitsuna
-}
-####
-
-1090.1.1={
+1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
 

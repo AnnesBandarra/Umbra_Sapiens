@@ -343,14 +343,14 @@
 	holder=407695	#Ikeda Mitsumasa
 }
 1617.1.1={
-	holder=0	#Honda Tadamasa https://en.wikipedia.org/wiki/Honda_Tadamasa
+	holder=407901	#Honda Tadamasa
 }
-1631.1.1={
-	holder=0	#Matsudaira Tadatomo
+1631.9.6={
+	holder=407909	#Honda Masatomo 
 }
-1638.1.1={
-	holder=0	#Honda Masakatsu 
+1638.12.25={
+	holder=407902	#Honda Masakatsu 
 }
 1639.1.1={
-	holder=0	#Matsudaira Tadaaki https://en.wikipedia.org/wiki/Matsudaira_Tadaaki
+	holder=407938	#Matsudaira Tadaaki
 }

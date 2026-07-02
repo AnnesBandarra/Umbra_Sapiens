@@ -21,7 +21,6 @@ trans_saharan_trade_post_trigger = {
 				#New Trade posts
 			province_id = 3342
 			province_id = 3345
-			province_id = 1735
 			province_id = 808
 			province_id = 1770
 			province_id = 1772
@@ -75,7 +74,6 @@ trans_saharan_trade_post_market_trigger = {
 		province_id = 3334
 			province_id = 3342
 			province_id = 3345
-			province_id = 1735
 			province_id = 808
 			province_id = 1770
 			province_id = 1772

@@ -208,5 +208,119 @@
 	holder= 403484	#Taira no Munemori
 }
 1184.1.1={
-	holder=	#Tōhi Sanehira
+	holder=408010	#Sanehira Dohi
+}
+1191.12.13={
+	holder=408015	#Tohei Dohi
+}
+1223.1.1={
+	holder=403647	#Nagai Tokihiro
+}
+1241.7.8={
+	holder=403702	#Yasuhide Nagai
+}
+1254.12.21={
+	holder=403703	#Yasushige Nagai
+}
+1267.1.1={
+	holder=403707	#Yorishige Nagai
+}
+1294.1.1={
+	holder=403710	#Sadashige Nagai
+}
+1331.2.12={
+	holder=403712	#Sadayori Nagai
+}
+1335.1.1={
+	holder=408024	#Kagetsu Asayama
+}
+1338.1.1={
+	holder=408025	#Yoshinaga Niki
+}
+1339.1.1={
+	holder=402609	#Kazuyoshi Ishibashi
+}
+1340.1.1={
+	holder=402298	#Yoriharu Hosokawa
+}
+1343.1.1={
+	holder=408129	#Koshi Tai
+}
+1349.1.1={
+	holder=402298	#Yoriharu Hosokawa
+}
+1351.1.1={
+	holder=408259	#Shigeki Uesugi
+}
+1351.8.1={
+	holder=408281	#Yoriyasu Iwamatsu
+}
+1356.1.1={
+	holder=402308	#Hosokawa Yoriari
+}
+1365.1.1={
+	holder=402731	#Yoshiyuki Shibukawa
+}
+1371.1.1={
+	holder=402449	#Sadayo Imagawa
+}
+1379.1.1={
+	holder=407729	#Tokiyoshi YAMANA
+}
+1389.5.29={
+	holder=407775	#Yoshihiro Yamana
+}
+1390.1.1={
+	holder=402306	#Hosokawa Yoriyuki
+}
+1392.3.25={
+	holder=402379	#Yorinaga Hosokawa
+}
+1401.1.1={
+	holder=407740	#Yamana Tokihiro
+}
+1435.7.29={
+	holder=407743	#Mochitoyo Yamana
+}
+1454.1.1={
+	holder=407744	#Noritoyo YAMANA
+}
+1462.1.1={
+	holder=407745	#Koretoyo Yamana
+}
+1476.1.1={
+	holder=407747	#Masatoyo YAMANA
+}
+1489.1.1={
+	holder=407751	#Shuntoyo YAMANA
+}
+1497.1.1={
+	holder=407752	#Taitoyo Yamana
+}
+1512.1.1={
+	holder=407753	#Seitoyo Yamana
+}
+1528.14.3={
+	holder=407754	#Yutoyo Yamana
+}
+1552.1.1={
+	holder=408596	#Haruhisa Amago
+}
+1561.1.9={
+	holder=408598	#Amago Yoshihisa
+}
+1562.1.1={
+	holder=403791	#Takamoto Mori
+}
+1563.8.22={
+	holder=403867	#Terumoto Mōri 
+}
+1601.10.10={
+	holder=406624 #Fukushima Masanori
+}
+1619.1.1={
+	holder=408086	#Mizuno Katsunari
+}
+1639.1.1={
+	holder=408098	#Mizuno Katsutoshi
 }

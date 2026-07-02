@@ -200,7 +200,7 @@
 
 1000080497 = {
 	name="Kesari"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	847.1.1={
@@ -214,7 +214,7 @@
 
 1000080498 = {
 	name="Ugrasena"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080497
@@ -229,7 +229,7 @@
 
 1000080499 = {
 	name="Tabanendra"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080498
@@ -244,7 +244,7 @@
 
 1000080500 = {
 	name="Indrajayasinha"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080499
@@ -259,7 +259,7 @@
 
 1000080501 = {
 	name="Janasadhu"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080500
@@ -275,7 +275,7 @@
 1000080502 = {
 	name="Mahadewi"
 	female=yes
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080501
@@ -290,7 +290,7 @@
 
 1000076188 = {
 	name="Udayana"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	mother=1000080502
@@ -309,7 +309,7 @@
 1000080503 = {
 	name="Ajnadewi"
 	female=yes
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076188
@@ -325,7 +325,7 @@
 
 1000076185 = {
 	name="Airlangga"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076188
@@ -344,7 +344,7 @@
 
 1000080504 = {
 	name="Marakatapangkaja"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076188
@@ -360,7 +360,7 @@
 
 1000076189 = {
 	name="Anak-Wungsu"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076188
@@ -377,7 +377,7 @@
 1000080508 = {
 	name="Dewi-Kili-Suci"
 	female=yes
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076185
@@ -392,7 +392,7 @@
 
 1000076186 = {
 	name="Samarawijaya"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076185
@@ -407,7 +407,7 @@
 
 1000076187 = {
 	name="Garasakan"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076185
@@ -422,7 +422,7 @@
 
 1000076190 = {
 	name="Alanjung-Ahyes"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076187
@@ -437,7 +437,7 @@
 
 1000076191 = {
 	name="Samarotsaha"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076185
@@ -452,7 +452,7 @@
 
 1000080505 = {
 	name="Walaprabhu"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076189
@@ -468,7 +468,7 @@
 1000080506 = {
 	name="Wijayottungadewi"
 	female=yes
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080505
@@ -483,7 +483,7 @@
 
 1000080507 = {
 	name="Suradhipa"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	mother=1000080506
@@ -498,7 +498,7 @@
 
 1000080509 = {
 	name="Jayawansa"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000076186
@@ -513,7 +513,7 @@
 
 1000080510 = {
 	name="Bameswara"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080509
@@ -528,7 +528,7 @@
 
 1000080511 = {
 	name="Jayabaya"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080510
@@ -543,7 +543,7 @@
 
 1000080512 = {
 	name="Sarweswara"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080511
@@ -558,7 +558,7 @@
 
 1000080513 = {
 	name="Aryeswara"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080512
@@ -573,7 +573,7 @@
 
 1000080514 = {
 	name="Gandra"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080513
@@ -588,7 +588,7 @@
 
 1000080515 = {
 	name="Kamesywara"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080514
@@ -603,7 +603,7 @@
 
 1000080516 = {
 	name="Kertajaya"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080515
@@ -618,7 +618,7 @@
 
 1000080517 = {
 	name="Jayasabha"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080516
@@ -633,7 +633,7 @@
 
 1000080518 = {
 	name="Sastrajaya"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080517
@@ -648,7 +648,7 @@
 
 1000080519 = {
 	name="Jayakatwang"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080518
@@ -666,7 +666,7 @@
 
 1000080520 = {
 	name="Ardharaja"
-	dynasty=1000028299 #Warmadewa
+	dynasty=1000027279 #Warmadewa
 	religion="hindu"
 	culture="javanese"
 	father=1000080519

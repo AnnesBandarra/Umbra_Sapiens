@@ -9,7 +9,9 @@ e_maya = {
 	k_otomi = {
 		color={ 255 255 128 }
 		color2={ 220 220 220 }
+		
 		capital = 3807 # Metztitlan
+		
 		chorotega="Otomi"
 		matlazincas="Otomi"
 		nonohualcan="Otomi"
@@ -17,14 +19,11 @@ e_maya = {
 		tlapanec="Otomi"
 		mixtec="Otomi"
 		zapotek="Otomi"
-		
 		d_huasteca = {
 
 			color={ 255 255 108 }
 			color2={ 220 220 220 }
-			
 			capital = 4855 # Tuxpan
-			
 			c_oxtilipan= {
 			
 				color={ 255 215 77 }
@@ -193,6 +192,7 @@ e_maya = {
 			color2={ 220 220 220 }
 			
 			capital = 3777 
+			
 			c_tamaulipas = {
 
 				color={ 195 144 119 }
@@ -287,7 +287,6 @@ e_maya = {
 			color2={ 220 220 220 }
 			
 			capital = 4854 #Cuxtaque
-			
 			c_cuxtaque= {
 
 				color={ 73 223 103 }
@@ -585,6 +584,7 @@ e_maya = {
 			
 			capital = 4498 #Alamos
 		
+		
 		c_alamos = {
 				color={ 42 21 3 }
 				color2={ 220 220 220 }
@@ -645,7 +645,6 @@ e_maya = {
 			color2={ 220 220 220 }
 			
 			capital = 4406 #colima
-			
 			c_tingambato = { 
 				color={ 188 51 56 }
 				color2={ 220 220 220 }
@@ -723,7 +722,6 @@ e_maya = {
 		color={ 31 221 139 }
 		color2={ 220 220 220 }
 		capital = 4409 #guzman
-		
 		c_zinapecuaro = { 
 				color={ 11 201 79 }
 				color2={ 220 220 220 }
@@ -928,7 +926,6 @@ e_maya = {
 	color={ 84 141 106 }
 	color2={ 220 220 220 }
 	capital = 4408 #Jalisco
-	
 		d_cosala = {
 
 			color={ 68 99 100 }

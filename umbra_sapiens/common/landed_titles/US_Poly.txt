@@ -378,6 +378,7 @@ e_poly = {
 	  c_palau = {
 	  color= { 172	42	37 }
 	  color2= { 0 0 0  }
+	
 	  b_melekeok = {}
 	  b_koror = {}
 	  b_sonsoral = {}
@@ -386,6 +387,7 @@ e_poly = {
 	  c_micronesia = {
 	  color= { 4 45	165 }
 	  color2= { 0 0 0  }
+	  
 	  b_micronesia = {}
 	  b_mokil = {}
 	  b_pingelap = {}
@@ -399,6 +401,7 @@ e_poly = {
 	  c_marshall = {
 	  color= { 46 48 38 }
 	  color2= { 0 0 0  }
+	  
 	  b_ailinglaplap = {}
 	  b_namu = {}
 	  b_wotje = {}
@@ -412,6 +415,7 @@ e_poly = {
 		c_guam = {
 	  color= { 130 39 164 }
 	  color2= { 0 0 0  }
+	  
 	  b_guam = {}
 	  b_sinapalu = {}
 	  b_saipan = {}

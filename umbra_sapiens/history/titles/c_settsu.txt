@@ -207,10 +207,10 @@
 	holder=0	#Munemasa Naganuma
 }
 1222.1.1={
-	holder=0	#Adachi Kagemori
+	holder=407968	#Adachi Kagemori
 }
 1224.1.1={
-	holder=0	#Nomoto Tokitoki
+	holder=407972	#Nomoto Tokitoki
 }
 1230.1.1={
 	holder=0	#Shogun
@@ -307,5 +307,5 @@
 	holder=407646	#Tsuneoki IKEDA
 }
 1583.1.1={
-	holder=0 #Not shure when but became part of shogunal land
+	holder=0 #Not sure when but became part of shogunal land
 }

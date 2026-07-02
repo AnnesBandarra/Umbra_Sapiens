@@ -285,7 +285,7 @@
 	holder= 406445	#Gamō Tadatomo
 }
 1634.10.9={
-	holder=	#Shogun
+	holder=0	#Shogun
 }
 1635.10.10={
 	holder= 406480	#Matsudaira Sadayuki

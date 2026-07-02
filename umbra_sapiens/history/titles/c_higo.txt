@@ -201,15 +201,15 @@
 	holder= 400818	#Kikuchi Takatsugu
 }
 1232.1.1={
-	holder= 400819	#Kikuchi Yoshitaka
-}
-1227.1.1={
 	holder= 400820	#Kikuchi Takayasu
 }
 1269.1.1={
 	holder= 400823	#Kikuchi Takefusa
 }
 1285.8.27={
+	holder= 400835	#placeholder
+}
+1287.1.1={
 	holder= 400837	#Tokitaka Kikuchi
 }
 1304.1.1={
