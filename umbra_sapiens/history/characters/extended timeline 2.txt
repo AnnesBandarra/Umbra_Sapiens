@@ -39876,7 +39876,7 @@
 #Issue of Tachibana no Moroe 
 403581 = {
 	name="Teruyo"
-	female=Yes
+	female=yes
 	dynasty=27004
 	religion="nihon_shinto"
 	culture="japanese"
@@ -68188,7 +68188,7 @@
 		birth="1579.1.1"
 	}
 	1637.1.1={
-		death="1637.1"
+		death="1637.1.1"
 	}
 }
 405613 = {
@@ -68201,7 +68201,7 @@
 		birth="1585.1.1"
 	}
 	1650.1.1={
-		death="1650.1"
+		death="1650.1.1"
 	}
 }
 #Issue of Mitsuhisa Hokogo
@@ -86414,7 +86414,7 @@
 	1015.1.1={
 		birth="1015.1.1"
 	}
-	1053.1.={
+	1053.1.1={
 		death="1053.1.1"
 	}
 }
@@ -97162,8 +97162,8 @@
 	1471.1.1={
 		birth="1471.1.1"
 	}
-	1528.14.3={
-		death="1528.14.3"
+	1528.3.14={
+		death="1528.3.14"
 	}
 }
 #Issue of Yamana Munetoyo
@@ -98787,7 +98787,7 @@
 	994.1.1={
 		birth="994.1.1"
 	}
-	1020.5.51={
+	1020.5.5={
 		death="1020.5.5"
 	}
 }
@@ -110168,7 +110168,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408721
-	1624.1.1{
+	1624.1.1={
 		birth="1624.1.1"
 	}
 	1650.1.1={
@@ -110181,7 +110181,7 @@
 	dynasty=29179
 	religion="nihon_shinto"
 	culture="japanese"
-	1471.1.1{
+	1471.1.1={
 		birth="1471.1.1"
 	}
 	1539.1.1={
@@ -110194,7 +110194,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408732
-	1517.1.1{
+	1517.1.1={
 		birth="1517.1.1"
 	}
 	1599.12.26={
@@ -110207,7 +110207,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408733
-	1543.1.1{
+	1543.1.1={
 		birth="1543.1.1"
 	}
 	1611.7.26={
@@ -110220,7 +110220,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408733
-	1549.1.1{
+	1549.1.1={
 		birth="1549.1.1"
 	}
 	1604.1.1={
@@ -110233,7 +110233,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408733
-	1553.1.1{
+	1553.1.1={
 		birth="1553.1.1"
 	}
 	1605.1.1={
@@ -110247,7 +110247,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408734
-	1573.1.1{
+	1573.1.1={
 		birth="1573.1.1"
 	}
 	1590.7.13={
@@ -110260,7 +110260,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408734
-	1578.1.1{
+	1578.1.1={
 		birth="1578.1.1"
 	}
 	1604.8.28={
@@ -110273,7 +110273,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=408734
-	1581.1.1{
+	1581.1.1={
 		birth="1581.1.1"
 	}
 	1638.1.1={
