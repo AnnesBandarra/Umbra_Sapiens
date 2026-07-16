@@ -392,6 +392,8 @@ culture = {
 		"slavic_pagan"
 		"animism"
 		"animism_reformed"
+		"kalash_pagan"
+		"kalash_pagan_reformed"
 	}
 	
 	templates = { 

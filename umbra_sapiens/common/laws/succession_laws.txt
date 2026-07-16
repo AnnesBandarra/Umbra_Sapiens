@@ -76,7 +76,64 @@ succession_laws = {
 #			always = no
 #		}			
 #	}
-	
+	succ_polish_elective = {
+		oldest_child_opinion = -30
+		child_opinion = -10
+		dynasty_opinion = -10
+		vassal_opinion = 30
+		vassal_limit = 40
+		potential = {
+			holder_scope = {
+					has_landed_title = e_commonwealth
+				NOT = { religion_group = muslim }
+				is_nomadic = no
+				is_merchant_republic = no
+				is_patrician = no
+			#	OR = {
+			#		culture_group = byzantine
+			#		culture = roman
+			#		religion = orthodox
+			#		religion = hellenic_pagan
+			#		religion = hellenic_pagan_reformed
+			#	}
+			#	OR = {
+			#		independent = yes
+			#		NOT = {
+			#			any_demesne_title = {
+			#				is_vice_royalty = yes
+			#			}
+			#		}
+			#	}
+			}
+			#OR = {
+			#	is_landless_type_title = no
+			#	is_tribal_type_title = yes
+			#	temporary = yes
+			#}
+			#is_primary_type_title = no
+			NOT = { holder_scope = { religion = taoist } }
+			NOT = { holder_scope = { religion = nihon_shinto } }
+			NOT = { holder_scope = { religion = shingyo } }
+			NOT = { holder_scope = { religion = thangiao } }
+		}
+		allow = {
+			custom_tooltip = {
+				text = not_forced_tt
+				hidden_tooltip = {
+					holder_scope = { NOT = { has_character_flag = liege_forced_succ_law } }
+				}
+			}
+		}
+		effect = {
+			succession = {
+				base_type = feudal_elective
+				voting_rules = polish_elective
+			}
+		}
+		revoke_allowed = {
+			always = no
+		}			
+	}
 	succ_netherlands_elective = {
 		oldest_child_opinion = -15
 		child_opinion = -5

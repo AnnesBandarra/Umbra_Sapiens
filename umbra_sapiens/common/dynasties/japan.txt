@@ -4863,3 +4863,123 @@
     culture= japanese
     religion="nihon_shinto"
 }
+29185 = {
+    name="Ogura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29186 = {
+    name="Ogimachi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29187 = {
+    name="Tominokoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29188 = {
+    name="Kawabata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29189 = {
+    name="Hashimoto"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29190 = {
+    name="Imadegawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29191 = {
+    name="Omiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29192 = {
+    name="Kasanin"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29193 = {
+    name="Matsuki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29194 = {
+    name="Nonomiya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29195 = {
+    name="Shigenoi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29196 = {
+    name="Hachijo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29197 = {
+    name="Anegakoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29198 = {
+    name="Ogimachisanjo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29199 = {
+    name="Chisokusanjo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29200 = {
+    name="Sanjonishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29201 = {
+    name="Minase"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29202 = {
+    name="Shichijo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29203 = {
+    name="Saiko"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29204 = {
+    name="Mushanokoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29205 = {
+    name="Itsutsuji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29206 = {
+    name="Ayanokoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29207 = {
+    name="Hamuro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29208 = {
+    name="Naito"
+    culture= japanese
+    religion="nihon_shinto"
+}

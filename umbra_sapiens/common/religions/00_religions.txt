@@ -2672,6 +2672,139 @@ pagan_group = {
 		intermarry = norse_pagan
 	}
 	
+	kalash_pagan_reformed = {
+		graphical_culture = pagangfx
+		alternate_start = { always = no }
+		
+		secondary_event_pictures = slavic_pagan
+
+		icon = 23
+		heresy_icon = 24
+		
+		ai_convert_other_group = 2 # always try to convert
+		
+		color = { 220 40 80 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = DEHAR
+		
+		high_god_name = GOD_IMRA
+		
+		god_names = {
+			GOD_IMRA GOD_WARIN GOD_GRIMUN GOD_MARA GOD_MANDI GOD_PRABA GOD_SAJIGOR GOD_DEZAU GOD_MAHANDEO GOD_BALIMAIN GOD_DEZALIK GOD_INGAW GOD_JESTAK
+		}
+		evil_god_names = {
+			GOD_ESPEREG-ERA GOD_JESTAN
+		}
+		
+	#	unit_modifier = {		 		#Special features are added via reformation. If HF is not installed, default features are applied on reformed religion by event.
+	#		garrison_size = 0.3
+	#		levy_size = 0.1
+	#		
+	#		key = "DEF_RELIGION"
+	#	}
+	#	unit_home_modifier = {
+	#		land_morale = 0.8
+	#		light_infantry_defensive = 0.8
+	#		heavy_infantry_defensive = 0.8
+	#		pikemen_defensive = 0.8
+	#		light_cavalry_defensive = 0.8
+	#		knights_defensive = 0.8
+	#		archers_defensive = 0.8
+	#		horse_archers_defensive = 0.8
+	#		camel_cavalry_defensive = 0.8
+	#		war_elephants_defensive = 0.8
+	#		
+	#		garrison_size = 0.4
+	#		
+	#		key = "DEF_RELIGION_HOME_TERRITORY"
+	#	}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		can_call_crusade = yes
+		join_crusade_if_bordering_hostile = yes
+		allow_looting = yes
+		max_consorts = 3
+		
+		short_reign_opinion_year_mult = 1.5
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 6
+		
+		allow_in_ruler_designer = no
+
+		intermarry = kalash_pagan
+	}		
+	
+	kalash_pagan = {
+		graphical_culture = pagangfx
+		alternate_start = {
+			OR = {
+				year < 1100
+				has_alternate_start_parameter = { key = religion value = full_random }
+			}
+		}
+
+		icon = 22
+		heresy_icon = 24
+		
+		color = { 200 40 80 }
+		crusade_name = GREAT_HOLY_WAR
+		scripture_name = THE_LEGENDS
+		priest_title = DEHAR
+		
+		high_god_name = GOD_IMRA
+		
+		god_names = {
+			GOD_IMRA GOD_WARIN GOD_GRIMUN GOD_MARA GOD_MANDI GOD_PRABA GOD_SAJIGOR GOD_DEZAU GOD_MAHANDEO GOD_BALIMAIN GOD_DEZALIK GOD_INGAW GOD_JESTAK
+		}
+		evil_god_names = {
+			GOD_ESPEREG-ERA GOD_JESTAN
+		}
+		
+		unit_modifier = {		
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION"
+		}
+		unit_home_modifier = {
+			land_morale = 0.8
+			light_infantry_defensive = 0.8
+			heavy_infantry_defensive = 0.8
+			pikemen_defensive = 0.8
+			light_cavalry_defensive = 0.8
+			knights_defensive = 0.8
+			archers_defensive = 0.8
+			horse_archers_defensive = 0.8
+			camel_cavalry_defensive = 0.8
+			war_elephants_defensive = 0.8
+			
+			garrison_size = 0.4
+			
+			key = "DEF_RELIGION_HOME_TERRITORY"
+		}
+		
+		priests_can_marry = yes
+		female_temple_holders = yes
+		defensive_attrition = yes
+		allow_looting = yes
+		max_consorts = 3
+		independence_war_score_bonus = 30 # Overrides define CONTESTED_TITLE_OCCUPIED_WARSCORE_BONUS_INDEP
+		reformed = kalash_pagan_reformed
+		
+		short_reign_opinion_year_mult = 2
+		
+		religious_clothing_head = 14
+		religious_clothing_priest = 6
+		
+		hard_to_convert = yes
+		
+		dislike_tribal_organization = yes
+		can_demand_religious_conversion = no
+		intermarry = kalash_pagan
+	}
+	
 	west_african_pagan_reformed = {
 		graphical_culture = africangfx
 		interface_skin = { zun_interface zoroastrian_interface muslim_interface }

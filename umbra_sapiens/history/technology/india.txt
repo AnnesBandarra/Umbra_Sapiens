@@ -3,6 +3,7 @@
 
 technology = {
 	titles = {
+		d_chitral
 		d_sauvira
 		d_bhakkar
 		d_multan

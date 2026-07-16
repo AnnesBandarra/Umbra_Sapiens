@@ -1,0 +1,16 @@
+# 3412 - Nuristan
+
+# County Title
+title = c_nuristan
+
+# Settlements
+max_settlements = 5
+b_nuristan-i = castle
+b_nuristan-ii = city
+b_nuristan-iii = temple
+
+# Misc
+culture = kalash
+religion = kalash_pagan
+
+# History

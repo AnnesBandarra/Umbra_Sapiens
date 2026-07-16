@@ -3410,7 +3410,7 @@ province;red;green;blue;x;x;
 3409;149;106;96;Charleville;x
 3410;241;243;148;Sydney;x
 3411;44;220;171;Canberra;x
-3412;176;223;66;Melbourne;x
+3412;176;223;66;Nuristan;x
 3413;100;160;227;Tasmania;x
 3414;221;242;247;Dunedin;x
 3415;228;165;183;Christchurch;x
@@ -5162,8 +5162,8 @@ province;red;green;blue;x;x;
 5161;47;147;208;Wadi Wadi;x
 5162;89;150;81;Peramangk;x
 5163;131;153;209;Ganja;x
-5164;173;156;82;;x
-5165;5;159;210;;x
+5164;173;156;82;Chitral;x
+5165;5;159;210;Drosh;x
 5166;47;162;83;;x
 5167;89;165;211;;x
 5168;131;168;84;;x

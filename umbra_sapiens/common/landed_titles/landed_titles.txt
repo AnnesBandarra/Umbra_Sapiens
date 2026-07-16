@@ -20933,7 +20933,10 @@ e_pontic_steppe = {
 			c_oleshye = {
 				color={ 238 198 92 }
 				color2={ 255 255 255 }
-			
+				
+				holy_site = kalash_pagan
+				holy_site = kalash_pagan_reformed
+				
 				b_dnieprkherson = {
 				}
 				b_kamiansk = {
@@ -22893,7 +22896,10 @@ e_tartaria = {
 			c_magnitaya = {
 				color={ 241 188 45 }
 				color2={ 255 255 255 }
-
+				
+				holy_site = kalash_pagan
+				holy_site = kalash_pagan_reformed
+				
 				b_magnitaya = {}
 				b_kyubas = {}
 				b_balkany = {}
@@ -25794,7 +25800,9 @@ e_turkestan = {
 				tocharian = "Kasake"
 				han = "Shule"
 				bodpa = "Su-lig"
-
+				holy_site = kalash_pagan
+				holy_site = kalash_pagan_reformed
+				
 				b_kashgar = {
 					tocharian = "Kasake"
 					han = "Shule"
@@ -27888,6 +27896,73 @@ e_persia = {
 				b_mogholan = {
 				}
 				b_khomri = {
+				}
+			}
+		}
+		d_chitral = {
+			color={ 133 88 17 }
+			color2={ 255 255 255 }
+			
+			capital = 5164 # Chitral
+			
+			c_chitral = {
+				color={ 153 55 33 }
+				color2={ 255 255 255 }
+				
+				holy_site = kalash_pagan
+				holy_site = kalash_pagan_reformed
+				
+				b_chitral-i = {
+				}
+				b_chitral-ii = {
+				}
+				b_chitral-iii = {
+				}
+				b_chitral-iv = {
+				}
+				b_chitral-v = {
+				}
+				b_chitral-vi = {
+				}
+				b_chitral-vii = {
+				}
+			}
+			c_nuristan = {
+				color={ 123 85 39 }
+				color2={ 255 255 255 }
+				
+				b_nuristan-i = {
+				}
+				b_nuristan-ii = {
+				}
+				b_nuristan-iii = {
+				}
+				b_nuristan-iv = {
+				}
+				b_nuristan-v = {
+				}
+				b_nuristan-vi = {
+				}
+				b_nuristan-vii = {
+				}
+			}
+			c_drosh = {
+				color={ 101 89 45 }
+				color2={ 255 255 255 }
+				
+				b_drosh-i = {
+				}
+				b_drosh-ii = {
+				}
+				b_drosh-iii = {
+				}
+				b_drosh-iv = {
+				}
+				b_drosh-v = {
+				}
+				b_drosh-vi = {
+				}
+				b_drosh-vii = {
 				}
 			}
 		}
@@ -47742,6 +47817,9 @@ e_rajastan = {
 			c_mansura = {
 				color={ 230 155 40 }
 				color2={ 255 255 255 }
+				
+				holy_site = kalash_pagan
+				holy_site = kalash_pagan_reformed
 				
 				b_mansura = {
 				}

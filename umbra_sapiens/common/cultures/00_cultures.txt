@@ -4348,6 +4348,60 @@ indo_aryan_group = {
 		mother_name_chance = 0
 		modifier = default_culture_modifier
 	}
+	kalash = { # Indo-Aryan
+		graphical_cultures = { balticgfx ugricgfx norsegfx easterngfx }
+		secondary_event_pictures = baltic
+		
+		color = { 180 40 80 }
+	
+		male_names = {
+			Baraman Ratharie Shurasai "Kan Jannah" Adina Adobok Bangut Danok Demuta Gabaroti Gilasur Goarnment
+			Kanok Latharuk Matawali Matuzal Punjapao Rani Razhuk Sado Shahara Shobo Shurasi Suanshai Tsipak Astambir
+			Bangule Bhangabhangi Changanchai Chumbuk Danishta Drama Dumu Gaa Jalong Pane Puzut Sanduka Sharuta Bahman
+		}
+		female_names = {
+			"Wasiara Aya" Sondi Mayani
+			
+			Amro Anokhi Anup Begum Bhani Dani Gujri Jodhabai Khivi Kishan 
+			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta 
+		}
+		
+		dukes_called_kings = yes
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		castes = yes
+		
+		modifier = default_culture_modifier
+	}
+	
+	kho = { # Indo-Aryan
+		graphical_cultures = { indiangfx muslimgfx }
+		secondary_event_pictures = bedouin_arabic
+		
+		color = { 0.4 0.9 0.2 }
+	
+		male_names = {
+			Sangeen Ali Muhtarram Muhammad Ghulam Alam Shafi Faramurd Afzal Fazil "Nawaz Khan" Khairullah
+			Aman Sher Nizam Amir Shuja Nasir Muzaffar "Saif-ur-Rehman" "Saif-ul-Mulk" "Fateh-ul-Mulk"
+			Akbar "Burhan-ud-Din" Mata Khushwaqt Khush Ahmad Masood Ghufran Siyar Yousaf "Zainul Abideen"
+			Abdul Bibi Fozia Saleem Shahzada Mohiuddin Falak Jafar "Iftikhar Uddin" Gohar Aman Alamgir
+			Zia Us-Salam Musa 
+		}
+		female_names = {
+			Rahemeen Rahima Naz Sana Karishma 
+			Amro Anokhi Anup Begum Bhani Dani Gujri Jodhabai Khivi Kishan 
+			Lachmi Nanaki Nihal Ramo Sabhirai Sahib Sulakhni Sundari Tripta 
+		}
+		
+		dynasty_title_names = yes
+		founder_named_dynasties = yes
+		
+		castes = yes
+		
+		modifier = default_culture_modifier
+	}
 	
 	panjabi = { # Indo-Aryan
 		graphical_cultures = { indiangfx muslimgfx }

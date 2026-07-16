@@ -70,3 +70,158 @@
 	culture = ainu
 	religion = ainu_pantheism
 }
+1010002014 = {
+	name="Changanchainawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002015 = {
+	name="Shurasinawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002016 = {
+	name="Razhuknawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002017 = {
+	name="Shurasinawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002018 = {
+	name="Latharuknawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002019 = {
+	name="Alikshernawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002020 = {
+	name="Punjapaonawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002021 = {
+	name="Razhuknawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002022 = {
+	name="Bangulenawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002023 = {
+	name="Chumbuknawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002024 = {
+	name="Paneinawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002025 = {
+	name="Shurasinawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002026 = {
+	name="Danishtanawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002027 = {
+	name="Paneinawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002028 = {
+	name="Dramanawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002029 = {
+	name="Jalongnawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002030 = {
+	name="Sandukanawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002031 = {
+	name="Sharutanawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002032 = {
+	name="Gaanawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002033 = {
+	name="Dumunawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002034 = {
+	name="Astambirnawau"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002035 = {
+	name="Kohistani"
+	culture = kalash
+	religion = kalash_pagan
+}
+1010002036 = {
+	name="Rais"
+	culture = kho
+	religion = sunni
+}
+1010002037 = {
+	name="Kator"
+	culture = kho
+	religion = sunni
+}
+1010002038 = {
+	name="Fozia"
+	culture = kho
+	religion = sunni
+}
+1010002039 = {
+	name="Naz"
+	culture = kho
+	religion = sunni
+}
+1010002040 = {
+	name="Chitrali"
+	culture = kho
+	religion = sunni
+}
+1010002041 = {
+	name="Siyar"
+	culture = kho
+	religion = sunni
+}
+1010002042 = {
+	name="Ghufran"
+	culture = kho
+	religion = sunni
+}
+1010002043 = {
+	name="Ghizer"
+	culture = kho
+	religion = sunni
+}
+1010002044 = {
+	name="Ghazi"
+	culture = kho
+	religion = sunni
+}

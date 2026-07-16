@@ -402452,6 +402452,7 @@
 	religion="nihon_shinto"
 	culture="japanese"
 	father=1000075375
+	mother=409149
 	1315.1.1={
 		birth="1315.1.1"
 	}
@@ -411833,6 +411834,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075358
+	mother=409240
 	1179.1.1={
 		birth="1179.1.1"
 	}
@@ -412620,6 +412622,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075367
+	mother=409110
 	1247.1.1={
 		birth="1247.1.1"
 	}
@@ -412634,6 +412637,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075367
+	mother=409110
 	1254.1.1={
 		birth="1254.1.1"
 	}
@@ -412648,6 +412652,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075367
+	mother=409110
 	1256.1.1={
 		birth="1256.1.1"
 	}
@@ -412979,6 +412984,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075368
+	mother=409111
 	1262.1.1={
 		birth="1262.1.1"
 	}
@@ -412994,6 +413000,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075368
+	mother=409111
 	1270.10.5={
 		birth="1270.10.5"
 	}
@@ -413094,6 +413101,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075368
+	mother=409487
 	1276.10.19={
 		birth="1276.10.19"
 	}
@@ -413768,6 +413776,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075372
+	mother=409155
 	1315.1.1={
 		birth="1315.1.1"
 	}
@@ -413783,6 +413792,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075372
+	mother=409155
 	1313.1.1={
 		birth="1313.1.1"
 	}
@@ -413797,6 +413807,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075372
+	mother=409155
 	1322.1.11={
 		birth="1322.1.11"
 	}
@@ -413885,6 +413896,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075372
+	mother=409155
 	1328.1.1={
 		birth="1328.1.1"
 	}
@@ -414030,6 +414042,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=1000075373
+	mother=409488
 	1304.1.1={
 		birth="1304.1.1"
 	}
@@ -414290,6 +414303,7 @@
 	}
 	1371.4.9={
 		name="Go-En'yu"
+		add_spouse=409496
 	}
 	1393.6.6={
 		death="1393.6.6"
@@ -414575,6 +414589,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=400444
+	mother=409496
 	1377.8.1={
 		birth="1377.8.1"
 	}
@@ -414593,6 +414608,7 @@
 	culture="japanese"
 	trait="kuge"
 	father=400444
+	mother=409496
 	1381.1.1={
 		birth="1381.1.1"
 	}

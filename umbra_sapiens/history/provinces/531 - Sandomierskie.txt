@@ -25,6 +25,12 @@ religion = slavic_pagan
 	b_radom = city
 	b_kielce = temple
 }
+1282.1.1={
+	b_opatow = city
+}
+1284.1.1={
+	b_opoczno = castle
+}
 1554.1.1={
 	religion="reformed"
 }

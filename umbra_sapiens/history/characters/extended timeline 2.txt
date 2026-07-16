@@ -19737,6 +19737,9 @@
 	1521.12.1={
 		birth="1521.12.1"
 	}
+	1536.1.1={
+		add_spouse=409519
+	}
 	1573.5.13={
 		death="1573.5.13"
 	}
@@ -54511,7 +54514,7 @@
 		death="1176.10.23"
 	}
 }
-#Issue of Fujiwara no Korezane https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E4%BC%8A%E5%AE%9F
+#Issue of Fujiwara no Korezane
 404629 = {
 	name="Kiyomichi"	#Fujiwara no Kiyomichi
 	dynasty=28892
@@ -113368,11 +113371,8552 @@
 		death="1319.1.1"
 	}
 }
-#Issue of Toin Sanekatsu https://ja.wikipedia.org/wiki/%E6%B4%9E%E9%99%A2%E5%AE%9F%E9%9B%84
-#Issue of Ichijo Saneyuki https://ja.wikipedia.org/wiki/%E4%B8%80%E6%9D%A1%E5%AE%9F%E6%9C%89
-#Issue of Saionji Saneuji https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%9C%92%E5%AF%BA%E5%AE%9F%E6%B0%8F
-#Issue of Saionji Saneaki https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%AE%9F%E6%98%8E
-#Issue of Saionji Kimishige https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%85%AC%E9%87%8D_(%E8%97%A4%E5%8E%9F%E9%80%9A%E5%AD%A3%E3%81%AE%E5%AD%90)
-
+#Issue of Toin Sanekatsu
+408946 = {
+	name="Kimmune"	#Toin Kimmune
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1263.4.30={
+		death="1263.4.30"
+	}
+}
+408947 = {
+	name="Kitsushi"	#Toin Kitsushi
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1245.9.2={
+		birth="1245.9.2"
+	}
+	1272.9.2={
+		death="1272.9.2"
+	}
+}
+408948 = {
+	name="Kimimori"	#Toin Kimimori
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1317.8.17={
+		death="1317.8.17"
+	}
+}
+408949 = {
+	name="Kimio"	#Ogura Kimio
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+408950 = {
+	name="Inshi"	#Toin Inshi
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1246.1.1={
+		birth="1246.1.1"
+	}
+	1329.9.30={
+		death="1329.9.30"
+	}
+}
+408951 = {
+	name="Sukeko"	#Tōin Sukeko
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1336.3.26={
+		death="1336.3.26"
+	}
+}
+408952 = {
+	name="Baishi"	#Tōin Baishi
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+408953 = {
+	name="Jijun"	#Tōin Jijun
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	trait=monk
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+408954 = {
+	name="Kinitoshi"	#Tōin Kinitoshi
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1250.1.1={
+		birth="1250.1.1"
+	}
+	1300.1.2={
+		death="1300.1.2"
+	}
+}
+408955 = {
+	name="Kimikata"	#Tōin Kimikata
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+408956 = {
+	name="Kimikaze"	#Tōin Kimikata
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+408957 = {
+	name="Shukei"	#Tōin Shukei
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	trait=monk
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+408958 = {
+	name="Josho"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	trait=monk
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+408959 = {
+	name="Jisshu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	trait=monk
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+408960 = {
+	name="Kiminobu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+408961 = {
+	name="Kimiharu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	1314.1.1={
+		death="1314.1.1"
+	}
+}
+408962 = {
+	name="Saneko"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408920
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1323.1.1={
+		death="1323.1.1"
+	}
+}
+#Issue of Toin Kimmune
+408963 = {
+	name="Eiko"	#Toin Eiko
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408946
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1327.1.1={
+		death="1327.1.1"
+	}
+}
+#Issue of Toin Kimimori https://ja.wikipedia.org/wiki/%E6%B4%9E%E9%99%A2%E5%85%AC%E5%AE%88
+408964 = {
+	name="Saneyasu"	#Toin Saneyasu
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1327.9.1={
+		death="1327.9.1"
+	}
+}
+408965 = {
+	name="Sanemi"	#Ogimachi Sanemi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1351.2.13={
+		death="1351.2.13"
+	}
+}
+408966 = {
+	name="Kensuke"	#Toin Kensuke
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+408967 = {
+	name="Kanshu"	#Toin Kanshu
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	trait=monk
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1331.1.1={
+		death="1331.1.1"
+	}
+}
+408968 = {
+	name="Ryosuke"	#Toin Ryosuke
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	trait=monk
+	1286.1.1={
+		birth="1286.1.1"
+	}
+	1330.1.1={
+		death="1330.1.1"
+	}
+}
+408969 = {
+	name="Seisuke"	#Toin Seisuke
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+408970 = {
+	name="Kongen"	#Toin Kongen
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	trait=monk
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+408971 = {
+	name="Kakushin"	#Toin Kakushin
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	trait=monk
+	1303.1.1={
+		birth="1303.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+408972 = {
+	name="Narizumi"	#Toin Narizumi
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	trait=monk
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1365.1.1={
+		death="1365.1.1"
+	}
+}
+408973 = {
+	name="Narizumi"	#Toin Narizumi
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+408974 = {
+	name="Saisuke"	#Toin Saisuke
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408948
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+#Issue of Toin Saneyasu
+408975 = {
+	name="Kinkata"	#Toin Kinkata
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1291.9.7={
+		birth="1291.9.7"
+	}
+	1360.4.21={
+		death="1360.4.21"
+	}
+}
+408976 = {
+	name="Kimitoshi"	#Toin Kimitoshi
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+408977 = {
+	name="Jigen"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	trait=monk
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+408978 = {
+	name="Sanemori"	#Toin Sanemori
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1372.5.14={
+		death="1372.5.14"
+	}
+}
+408979 = {
+	name="Kenshu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	trait=monk
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+408980 = {
+	name="Masumori"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+408981 = {
+	name="Sumino"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+408982 = {
+	name="Moriko"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1303.1.1={
+		birth="1303.1.1"
+	}
+	1357.1.1={
+		death="1357.1.1"
+	}
+}
+408983 = {
+	name="Kintaka"	#Toin Kintaka
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1364.1.1={
+		death="1364.1.1"
+	}
+}
+408984 = {
+	name="Doju"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	trait=monk
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1361.1.1={
+		death="1361.1.1"
+	}
+}
+408985 = {
+	name="Kankaku"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408964
+	trait=monk
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+#Issue of Toin Kimitoshi
+408986 = {
+	name="Sanekiyo"	#Toin Sanekiyo
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408976
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+408987 = {
+	name="Jippen"	#Toin Jippen
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408976
+	trait=monk
+	1314.1.1={
+		birth="1314.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+408988 = {
+	name="Jisho"	#Toin Jisho
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408976
+	trait=monk
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+408989 = {
+	name="Sonson"	#Toin Sonson
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408976
+	trait=monk
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1374.1.1={
+		death="1374.1.1"
+	}
+}
+408990 = {
+	name="Jikyo"	#Toin Jikyo
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408976
+	trait=monk
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+#Issue of Toin Sanemori
+408991 = {
+	name="Kiminobu"	#Toin Kiminobu
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408978
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+408992 = {
+	name="Kimimasa"	#Toin Kimimasa
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408978
+	1338.1.1={
+		birth="1338.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+#Issue of Toin Kintaka
+408993 = {
+	name="Saneshige"	#Toin Saneshige
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1383.1.1={
+		death="1383.1.1"
+	}
+}
+408994 = {
+	name="Shoei"	#Toin Shoei
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	trait=monk
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1396.1.1={
+		death="1396.1.1"
+	}
+}
+408995 = {
+	name="Jissai"	#Toin Jissai
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	trait=monk
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+408996 = {
+	name="Kensai"	#Toin Kensai
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	trait=monk
+	1339.1.1={
+		birth="1339.1.1"
+	}
+	1414.1.1={
+		death="1414.1.1"
+	}
+}
+408997 = {
+	name="Nijo"	#Toin Nijo
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	1341.1.1={
+		birth="1341.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+408998 = {
+	name="Sadako"	#Toin Sadako
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408983
+	1345.1.1={
+		birth="1345.1.1"
+	}
+	1406.1.1={
+		death="1406.1.1"
+	}
+}
+#Issue of Toin Kinkata
+408999 = {
+	name="Sanenatsu"	#Toin Sanenatsu
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1315.7.2={
+		birth="1315.7.2"
+	}
+	1367.6.28={
+		death="1367.6.28"
+	}
+}
+409000 = {
+	name="Jishu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+409001 = {
+	name="Jitsuen"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+409002 = {
+	name="Rinshi"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1390.1.1={
+		death="1390.1.1"
+	}
+}
+409003 = {
+	name="Kitsushi"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1399.1.1={
+		death="1399.1.1"
+	}
+}
+409004 = {
+	name="Jiso"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1324.1.1={
+		birth="1324.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+409005 = {
+	name="Kannei"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1396.1.1={
+		death="1396.1.1"
+	}
+}
+409006 = {
+	name="Kyoku"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1328.1.1={
+		birth="1328.1.1"
+	}
+	1394.1.1={
+		death="1394.1.1"
+	}
+}
+409007 = {
+	name="Jisho"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1385.1.1={
+		death="1385.1.1"
+	}
+}
+409008 = {
+	name="Eihen"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1340.1.1={
+		birth="1340.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+409009 = {
+	name="Jikyo"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1348.1.1={
+		birth="1348.1.1"
+	}
+	1448.1.1={
+		death="1448.1.1"
+	}
+}
+409010 = {
+	name="Higashi"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+409011 = {
+	name="Riku"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1353.1.1={
+		birth="1353.1.1"
+	}
+	1415.1.1={
+		death="1415.1.1"
+	}
+}
+409012 = {
+	name="Kenjitsu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1342.1.1={
+		birth="1342.1.1"
+	}
+	1422.1.1={
+		death="1422.1.1"
+	}
+}
+409013 = {
+	name="Kantadaka"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1379.1.1={
+		death="1379.1.1"
+	}
+}
+409014 = {
+	name="Shukai"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1405.1.1={
+		death="1405.1.1"
+	}
+}
+409015 = {
+	name="Riyu"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+409016 = {
+	name="Saneyo"	#Toin Saneyo
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1308.1.1={
+		birth="1308.1.1"
+	}
+	1358.9.22={
+		death="1358.9.22"
+	}
+}
+409017 = {
+	name="Michimori"	#Toin Michimori
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1325.1.1={
+		death="1325.1.1"
+	}
+}
+409018 = {
+	name="Shoon"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+409019 = {
+	name="Shinto"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+409020 = {
+	name="Rimyo"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1323.1.1={
+		birth="1323.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+409021 = {
+	name="Erin"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1327.1.1={
+		birth="1327.1.1"
+	}
+	1397.1.1={
+		death="1397.1.1"
+	}
+}
+409022 = {
+	name="Taikaku"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=nun
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+409023 = {
+	name="Koshu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1332.1.1={
+		birth="1332.1.1"
+	}
+	1397.1.1={
+		death="1397.1.1"
+	}
+}
+409024 = {
+	name="Jingen"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408975
+	trait=monk
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1392.1.1={
+		death="1392.1.1"
+	}
+}
+#Issue of Toin Saneyo
+409025 = {
+	name="Kimiyuki"	#Toin Kimiyuki
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409016
+	trait=monk
+	1337.1.1={
+		birth="1337.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+409026 = {
+	name="Songo"	#Toin Songo
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409016
+	trait=nun
+	1339.1.1={
+		birth="1339.1.1"
+	}
+	1417.1.1={
+		death="1417.1.1"
+	}
+}
+409027 = {
+	name="Risai"	#Toin Risai
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409016
+	trait=nun
+	1341.1.1={
+		birth="1341.1.1"
+	}
+	1405.1.1={
+		death="1405.1.1"
+	}
+}
+#Issue of Toin Sanenatsu
+409028 = {
+	name="Kinsada"	#Toin Kinsada
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1340.2.24={
+		birth="1340.2.24"
+	}
+	1399.7.18={
+		death="1399.7.18"
+	}
+}
+409029 = {
+	name="Kinori"	#Toin Kinori
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1350.1.1={
+		birth="1350.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+409030 = {
+	name="Jitsugen"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1352.1.1={
+		birth="1352.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+409031 = {
+	name="Rishin"
+	female=yes
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1355.1.1={
+		birth="1355.1.1"
+	}
+	1418.1.1={
+		death="1418.1.1"
+	}
+}
+409032 = {
+	name="Kinie"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1358.1.1={
+		birth="1358.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+409033 = {
+	name="Kinatsu"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	1360.1.1={
+		birth="1360.1.1"
+	}
+	1418.1.1={
+		death="1418.1.1"
+	}
+}
+409034 = {
+	name="Kensho"
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408999
+	trait=monk
+	1362.1.1={
+		birth="1362.1.1"
+	}
+	1415.1.1={
+		death="1415.1.1"
+	}
+}
+#Issue of Ogimachi Sanemi
+409035 = {
+	name="Kinkage"	#Ogimachi Kinkage
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408965
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1360.11.28={
+		death="1360.11.28"
+	}
+}
+409036 = {
+	name="Kogimon"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408965
+	1299.1.1={
+		birth="1299.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+409037 = {
+	name="Moriko"	#Ogimachi Moriko
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408965
+	1302.1.1={
+		birth="1302.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+409038 = {
+	name="Saneko"	#Ogimachi Saneko
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408965
+	1297.1.1={
+		birth="1297.1.1"
+	}
+	1360.1.1={
+		death="1360.1.1"
+	}
+}
+#Issue of Ogura Kimio
+409039 = {
+	name="Sanenori"	#Sanenori Ogura
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408949
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1349.10.19={
+		death="1349.10.19"
+	}
+}
+409040 = {
+	name="Suiko"	#Ogura Suiko
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408949
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+409041 = {
+	name="Shoki"	#Ogura Shoki
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408949
+	trait=monk
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+409042 = {
+	name="Jikkaku"
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408949
+	trait=monk
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+#Issue of Sanenori Ogura
+409043 = {
+	name="Suetaka"	#Suetaka Ogura
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+409044 = {
+	name="Sueo"	#Sueo Ogura
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1336.10.14={
+		death="1336.10.14"
+	}
+}
+409045 = {
+	name="Kimmichi"	#Tominokoji Kimmichi
+	dynasty=29187
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1337.3.19={
+		death="1337.3.19"
+	}
+}
+409046 = {
+	name="Kimihiro"	#Kimihiro Ogura
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1354.1.1={
+		death="1354.1.1"
+	}
+}
+409047 = {
+	name="Kyoshi"	#Kyoshi Ogura
+	female=yes
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1359.1.1={
+		death="1359.1.1"
+	}
+}
+409048 = {
+	name="Imasan"	#Imasan Ogura
+	female=yes
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409039
+	1296.1.1={
+		birth="1296.1.1"
+	}
+	1367.1.1={
+		death="1367.1.1"
+	}
+}
+#Issue of Sueo Ogura
+409049 = {
+	name="Saneto"	#Saneto Ogura
+	dynasty=29185
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409044
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1382.1.1={
+		death="1382.1.1"
+	}
+}
+#Issue of Tominokoji Kimmichi
+409050 = {
+	name="Sanena"	#Tominokoji Sanena
+	dynasty=29187
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409045
+	1315.1.1={
+		birth="1315.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+409051 = {
+	name="Sanatsu"	#Tominokoji Sanatsu
+	dynasty=29187
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409045
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1373.1.1={
+		death="1373.1.1"
+	}
+}
+409052 = {
+	name="Shoki"	#Tominokoji Shoki
+	dynasty=29187
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409045
+	trait=monk
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+#Issue of Ogimachi Sanemi
+409053 = {
+	name="Jino"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408965
+	trait=monk
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1376.1.1={
+		death="1376.1.1"
+	}
+}
+#Issue of Ogimachi Kinkage
+409054 = {
+	name="Tadamichi"	#Ogimachi Tadamichi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409035
+	1322.1.1={
+		birth="1322.1.1"
+	}
+	1366.4.2={
+		death="1366.4.2"
+	}
+}
+409055 = {
+	name="Sanefumi"	#Ogimachi Sanefumi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409035
+	1325.1.1={
+		birth="1325.1.1"
+	}
+	1369.1.1={
+		death="1369.1.1"
+	}
+}
+409056 = {
+	name="Kiannon-in"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409035
+	1329.1.1={
+		birth="1329.1.1"
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+409057 = {
+	name="Benyo"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409035
+	trait=monk
+	1316.1.1={
+		birth="1316.1.1"
+	}
+	1387.1.1={
+		death="1387.1.1"
+	}
+}
+#Issue of Ogimachi Sanefumi
+409058 = {
+	name="Kiminaka"	#Ogimachi Kiminaka
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409055
+	1358.1.1={
+		birth="1358.1.1"
+	}
+	1403.6.26={
+		death="1403.6.26"
+	}
+}
+#Issue of Ogimachi Kiminaka
+409059 = {
+	name="Sanehide"	#Sanehide Ogimachi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409058
+	1388.1.1={
+		birth="1388.1.1"
+	}
+	1432.6.1={
+		death="1432.6.1"
+	}
+}
+#Issue of Sanehide Ogimachi
+409060 = {
+	name="Mochisue"	#Ogimachi Mochisue
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1472.1.1={
+		death="1472.1.1"
+	}
+}
+409061 = {
+	name="Yoriko"	#Ogimachi Yoriko
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	1417.1.1={
+		birth="1417.1.1"
+	}
+	1448.1.1={
+		death="1448.1.1"
+	}
+}
+409062 = {
+	name="Sanyu"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	trait=monk
+	1418.1.1={
+		birth="1418.1.1"
+	}
+	1470.1.1={
+		death="1470.1.1"
+	}
+}
+409063 = {
+	name="Kinzumi"	#Ogimachi Kinzumi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1470.11.4={
+		death="1470.11.4"
+	}
+}
+409064 = {
+	name="Kogei"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	trait=monk
+	1422.1.1={
+		birth="1422.1.1"
+	}
+	1481.1.1={
+		death="1481.1.1"
+	}
+}
+409065 = {
+	name="Joko-in"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409059
+	1425.1.1={
+		birth="1425.1.1"
+	}
+	1469.1.1={
+		death="1469.1.1"
+	}
+}
+#Issue of Ogimachi Kinzumi
+409066 = {
+	name="Sanezumi"	#Sanezumi Ogimachi
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409064
+	1463.1.1={
+		birth="1463.1.1"
+	}
+	1517.1.1={
+		death="1517.1.1"
+	}
+}
+#Issue of Ogimachi Mochisue
+409067 = {
+	name="Kimikane"	#Ogimachi Kimikane
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409060
+	1453.1.1={
+		birth="1453.1.1"
+	}
+	1525.8.31={
+		death="1525.8.31"
+	}
+}
+409068 = {
+	name="Suetane"	#Ogura Suetane
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409060
+	1456.1.1={
+		birth="1456.1.1"
+	}
+	1529.1.1={
+		death="1529.1.1"
+	}
+}
+409069 = {
+	name="Joro"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409060
+	1459.1.1={
+		birth="1459.1.1"
+	}
+	1524.1.1={
+		death="1524.1.1"
+	}
+}
+409070 = {
+	name="Nyozen"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409060
+	1463.1.1={
+		birth="1463.1.1"
+	}
+	1533.1.1={
+		death="1533.1.1"
+	}
+}
+#Issue of Ogimachi Kimikane
+409071 = {
+	name="Sanetane"	#Ogimachi Sanetane
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409067
+	1490.1.1={
+		birth="1490.1.1"
+	}
+	1566.10.28={
+		death="1566.10.28"
+	}
+}
+409072 = {
+	name="Sanekata"	#Ogimachi Sanekata
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409067
+	1493.1.1={
+		birth="1493.1.1"
+	}
+	1552.1.1={
+		death="1552.1.1"
+	}
+}
+409073 = {
+	name="Terusue"	#Kawabata Terusue
+	dynasty=29188
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409067
+	1496.1.1={
+		birth="1496.1.1"
+	}
+	1559.1.1={
+		death="1559.1.1"
+	}
+}
+#Issue of Ogimachi Sanetane
+409074 = {
+	name="Kinobu"	#Ogimachi Kinobu
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409071
+	1514.9.4={
+		birth="1514.9.4"
+	}
+	1549.8.29={
+		death="1549.8.29"
+	}
+}
+#Issue of Ogimachi Tadamichi
+409075 = {
+	name="Sanenobu"	#Ogimachi Sanenobu
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	1357.1.1={
+		birth="1357.1.1"
+	}
+	1412.1.1={
+		death="1412.1.1"
+	}
+}
+409076 = {
+	name="Dojin"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	trait=monk
+	1359.1.1={
+		birth="1359.1.1"
+	}
+	1421.1.1={
+		death="1421.1.1"
+	}
+}
+409077 = {
+	name="Kakusho"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	trait=monk
+	1362.1.1={
+		birth="1362.1.1"
+	}
+	1433.1.1={
+		death="1433.1.1"
+	}
+}
+409078 = {
+	name="Ninyo"
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	trait=monk
+	1351.1.1={
+		birth="1351.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+409079 = {
+	name="Rikyu"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	trait=nun
+	1353.1.1={
+		birth="1353.1.1"
+	}
+	1420.1.1={
+		death="1420.1.1"
+	}
+}
+409080 = {
+	name="Shoyu"
+	female=yes
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	trait=nun
+	1355.1.1={
+		birth="1355.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+409081 = {
+	name="Sanetsuna"	#Ogimachi Sanetsuna
+	dynasty=29186
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409054
+	1343.1.1={
+		birth="1343.1.1"
+	}
+	1370.2.19={
+		death="1370.2.19"
+	}
+}
+#Issue of Ichijo Saneyuki
+409082 = {
+	name="Kimochi"	#Ichijo Kimochi
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408919
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+409083 = {
+	name="Kimifuji"	#Ichijo Kimifuji
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408919
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1281.6.16={
+		death="1281.6.16"
+	}
+}
+409084 = {
+	name="Koju"
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408919
+	trait=monk
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+#Issue of Ichijo Kimifuji
+409085 = {
+	name="Sanenichi"	#Ichijo Sanenichi
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409083
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1301.1.1={
+		death="1301.1.1"
+	}
+}
+409086 = {
+	name="Sanetsugu"	#Ichijo Sanetsugu
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409083
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+409087 = {
+	name="Sanemasa"	#Ichijo Sanemasa
+	dynasty=29183
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409083
+	trait=monk
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+#Nuristan Kafirs
+409088 = {
+	name="Bahman"
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409083
+	730.1.1={
+		birth="730.1.1"
+	}
+	796.1.1={
+		death="796.1.1"
+	}
+}
+409090 = {
+	name="Pane"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409088
+	770.1.1={
+		birth="770.1.1"
+	}
+	843.1.1={
+		death="843.1.1"
+	}
+}
+409091 = {
+	name="Drama"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409090
+	820.1.1={
+		birth="820.1.1"
+	}
+	887.1.1={
+		death="887.1.1"
+	}
+}
+409092 = {
+	name="Shahara"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409091
+	860.1.1={
+		birth="860.1.1"
+	}
+	917.1.1={
+		death="917.1.1"
+	}
+}
+409093 = {
+	name="Puzut"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409092
+	895.1.1={
+		birth="895.1.1"
+	}
+	967.1.1={
+		death="967.1.1"
+	}
+}
+409094 = {
+	name="Ratharie"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409093
+	945.1.1={
+		birth="945.1.1"
+	}
+	1015.1.1={
+		death="1015.1.1"
+	}
+}
+409095 = {
+	name="Kanok"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409094
+	990.1.1={
+		birth="945.1.1"
+	}
+	1063.1.1={
+		death="1063.1.1"
+	}
+}
+409096 = {
+	name="Danishta"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409095
+	1033.1.1={
+		birth="1033.1.1"
+	}
+	1096.1.1={
+		death="1096.1.1"
+	}
+}
+409097 = {
+	name="Adina"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409096
+	1076.1.1={
+		birth="1076.1.1"
+	}
+	1144.1.1={
+		death="1144.1.1"
+	}
+}
+409098 = {
+	name="Gabaroti"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409097
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1194.1.1={
+		death="1194.1.1"
+	}
+}
+409099 = {
+	name="Chumbuk"	
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409098
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1238.1.1={
+		death="1238.1.1"
+	}
+}
+409100 = {
+	name="Sado"
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409099
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+409101 = {
+	name="Bulasing"	#Bulasing
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409100
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+409102 = {
+	name="Rajawai"	#Rajawai
+	dynasty=29183
+	religion="kalash_pagan"
+	culture="kalash"
+	father=409100
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+409103 = {
+	name="Shah Nadir"	#Shah Nadir Rais
+	dynasty=1010002036
+	religion="sunni"
+	culture="kho"
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1368.1.1={
+		death="1368.1.1"
+	}
+}
+409104 = {
+	name="Muzaffar"
+	dynasty=1010002036
+	religion="sunni"
+	culture="kho"
+	father=409103
+	1346.1.1={
+		birth="1346.1.1"
+	}
+	1408.1.1={
+		death="1408.1.1"
+	}
+}
+409105 = {
+	name="Sher"
+	dynasty=1010002036
+	religion="sunni"
+	culture="kho"
+	father=409104
+	1380.1.1={
+		birth="1380.1.1"
+	}
+	1447.1.1={
+		death="1447.1.1"
+	}
+}
+409106 = {
+	name="Afzal"
+	dynasty=1010002036
+	religion="sunni"
+	culture="kho"
+	father=409105
+	1425.1.1={
+		birth="1425.1.1"
+	}
+	1490.1.1={
+		death="1490.1.1"
+	}
+}
+409107 = {
+	name="Aman"
+	dynasty=1010002036
+	religion="sunni"
+	culture="kho"
+	father=409106
+	1477.1.1={
+		birth="1477.1.1"
+	}
+	1560.1.1={
+		death="1560.1.1"
+	}
+}
+#Kator dynasty
+409108 = {
+	name="Sangeen Ali"
+	dynasty=1010002037
+	religion="sunni"
+	culture="kho"
+	1533.1.1={
+		birth="1533.1.1"
+	}
+	1585.1.1={
+		death="1585.1.1"
+	}
+}
+409109 = {
+	name="Shah Muhtarram Shah"
+	dynasty=1010002037
+	religion="sunni"
+	culture="kho"
+	father=409108
+	1570.1.1={
+		birth="1570.1.1"
+	}
+	1655.1.1={
+		death="1655.1.1"
+	}
+}
+#Issue of Saionji Saneuji
+409110 = {
+	name="Kishi"	#Saionji Kishi
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	1225.1.1={
+		birth="1225.1.1"
+	}
+	1292.10.20={
+		death="1292.10.20"
+	}
+}
+409111 = {
+	name="Kimiko"	#Saionji Kimiko
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	1232.1.1={
+		birth="1232.1.1"
+	}
+	1304.2.27={
+		death="1304.2.27"
+	}
+}
+409112 = {
+	name="Kinmoto"	#Saionji Kinmoto
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	1220.1.1={
+		birth="1220.1.1"
+	}
+	1275.1.12={
+		death="1275.1.12"
+	}
+}
+409113 = {
+	name="Kinmoto"	#Saionji Kinsuke
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1267.10.30={
+		death="1267.10.30"
+	}
+}
+409114 = {
+	name="Dosho"	#Saionji Dosho
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	trait=monk
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1273.1.1={
+		death="1273.1.1"
+	}
+}
+409115 = {
+	name="Doyo"	#Saionji Doyo
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	trait=monk
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+409116 = {
+	name="Shusuke"	#Saionji Shusuke
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	trait=monk
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1285.1.1={
+		death="1285.1.1"
+	}
+}
+409117 = {
+	name="Kyoshi"	#Saionji Kyoshi
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408918
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+#Issue of Saionji Kinmoto
+409119 = {
+	name="Sanetaira"	#Saionji Sanetaira
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	1251.1.1={
+		birth="1251.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+409120 = {
+	name="Sanetsuna"	#Saionji Sanetsuna
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	1253.1.1={
+		birth="1253.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+409121 = {
+	name="Jitsubo"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	trait=monk
+	1256.1.1={
+		birth="1256.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409122 = {
+	name="Kyosuke"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	trait=monk
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+409123 = {
+	name="Jitsusei"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	trait=monk
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+409124 = {
+	name="Shochu"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	trait=monk
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+409125 = {
+	name="Unsho"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409112
+	trait=monk
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+#Issue of Saionji Kinsuke
+409126 = {
+	name="Sanekane"	#Saionji Sanekane
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1322.10.21={
+		death="1322.10.21"
+	}
+}
+409127 = {
+	name="Saneyasu"	#Saionji Saneyasu
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+409128 = {
+	name="Kishi"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1252.1.1={
+		birth="1252.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+409129 = {
+	name="Saneaki"	#Saionji Saneaki
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1254.1.1={
+		birth="1254.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+409130 = {
+	name="Sanetoshi"	#Hashimoto Sanetoshi
+	dynasty=29189
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1260.1.1={
+		birth="1260.1.1"
+	}
+	1341.3.3={
+		death="1341.3.3"
+	}
+}
+409131 = {
+	name="Sonkyo"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	trait=monk
+	1248.1.1={
+		birth="1248.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409132 = {
+	name="Shoke"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	trait=monk
+	1258.1.1={
+		birth="1258.1.1"
+	}
+	1299.1.1={
+		death="1299.1.1"
+	}
+}
+409133 = {
+	name="Sanemori"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+409134 = {
+	name="Aiko"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1300.1.1={
+		death="1300.1.1"
+	}
+}
+409135 = {
+	name="Himegimi"	#Udaijin Himegimi
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409113
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+#Issue of Hashimoto Sanetoshi
+409137 = {
+	name="Suetsune"	#Hashimoto Suetsune
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409130
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+409138 = {
+	name="Toshisue"	#Hashimoto Toshisue
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409130
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+409139 = {
+	name="Yugimon-in"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409130
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+409140 = {
+	name="Shokunmon-in"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409130
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1343.1.1={
+		death="1343.1.1"
+	}
+}
+#Issue of Saionji Sanekane
+409141 = {
+	name="Kimihira"	#Saionji Kimihira
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1315.10.23={
+		death="1315.10.23"
+	}
+}
+409142 = {
+	name="Kakuen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	trait=monk
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1332.1.1={
+		death="1332.1.1"
+	}
+}
+409143 = {
+	name="Kinshi"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+409144 = {
+	name="Eishi"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1336.1.1={
+		death="1336.1.1"
+	}
+}
+409145 = {
+	name="Kinnobu"	#Saionji Kinnobu
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409146 = {
+	name="Kanetsugu"	#Imadegawa Kanetsugu
+	dynasty=29190
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1339.2.25={
+		death="1339.2.25"
+	}
+}
+409147 = {
+	name="Seishu"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	trait=monk
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+409148 = {
+	name="Doi"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	trait=monk
+	1291.1.1={
+		birth="1291.1.1"
+	}
+	1348.1.1={
+		death="1348.1.1"
+	}
+}
+409149 = {
+	name="Sadako"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1333.11.19={
+		death="1333.11.19"
+	}
+}
+409150 = {
+	name="Kimisuke"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409126
+	1294.1.1={
+		birth="1294.1.1"
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+#Issue of Imadegawa Kanetsugu
+409151 = {
+	name="Sanetada"	#Imadegawa Sanetada
+	dynasty=29190
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409146
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1342.9.21={
+		death="1342.9.21"
+	}
+}
+409152 = {
+	name="Myokiku"
+	female=yes
+	dynasty=29190
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409146
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+#Issue of Saionji Kimihira
+409153 = {
+	name="Sanemune"	#Saionji Sanemune
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409141
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1326.12.13={
+		death="1326.12.13"
+	}
+}
+409154 = {
+	name="Suehira"	#Omiya Suehira
+	dynasty=29191
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409141
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1346.6.15={
+		death="1346.6.15"
+	}
+}
+409155 = {
+	name="Yasuko"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409141
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1357.9.6={
+		death="1357.9.6"
+	}
+}
+409156 = {
+	name="Jikai"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409141
+	trait=monk
+	1295.1.1={
+		birth="1295.1.1"
+	}
+	1351.1.1={
+		death="1351.1.1"
+	}
+}
+#Issue of Omiya Suehira
+409157 = {
+	name="Ujihira"	#Ujihira Omiya
+	dynasty=29191
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409154
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+409158 = {
+	name="Kimin"
+	dynasty=29191
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409154
+	1318.1.1={
+		birth="1318.1.1"
+	}
+	1352.1.1={
+		death="1352.1.1"
+	}
+}
+409159 = {
+	name="Hiromi"
+	dynasty=29191
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409154
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+#Issue of Saionji Sanemune
+409160 = {
+	name="Kinshige"	#Saionji Kinshige
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409153
+	1310.1.1={
+		birth="1310.1.1"
+	}
+	1335.8.20={
+		death="1335.8.20"
+	}
+}
+409161 = {
+	name="Kinshige"	#Saionji Kinshige
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409153
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1367.9.27={
+		death="1367.9.27"
+	}
+}
+409162 = {
+	name="Ima"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409153
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+#Issue of Saionji Kinshige
+409163 = {
+	name="Sanetoshi"	#Sanetoshi Saionji
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409160
+	1335.1.1={
+		birth="1335.1.1"
+	}
+	1389.7.6={
+		death="1389.7.6"
+	}
+}
+409164 = {
+	name="Tai"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409160
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1386.1.1={
+		death="1386.1.1"
+	}
+}
+#Issue of Sanetoshi Saionji
+409165 = {
+	name="Kinei"	#Saionji Kinei
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409163
+	1353.1.1={
+		birth="1353.1.1"
+	}
+	1390.8.25={
+		death="1390.8.25"
+	}
+}
+409166 = {
+	name="Kinkane"	#Saisonji Kinkane
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409163
+	1356.1.1={
+		birth="1356.1.1"
+	}
+	1417.1.1={
+		death="1417.1.1"
+	}
+}
+409167 = {
+	name="Dojo"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409163
+	trait=monk
+	1359.1.1={
+		birth="1359.1.1"
+	}
+	1421.1.1={
+		death="1421.1.1"
+	}
+}
+#Issue of Saisonji Kinkane
+409168 = {
+	name="Sangi"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409166
+	trait=monk
+	1374.1.1={
+		birth="1374.1.1"
+	}
+	1433.1.1={
+		death="1433.1.1"
+	}
+}
+409169 = {
+	name="Sanemitsu"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409166
+	1378.1.1={
+		birth="1378.1.1"
+	}
+	1430.1.1={
+		death="1430.1.1"
+	}
+}
+409170 = {
+	name="Ryomo"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409166
+	trait=monk
+	1381.1.1={
+		birth="1381.1.1"
+	}
+	1445.1.1={
+		death="1445.1.1"
+	}
+}
+#Issue of Saionji Kinei
+409171 = {
+	name="Sanenaga"	#Sanenaga Saionji
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409165
+	1377.1.1={
+		birth="1377.1.1"
+	}
+	1431.11.13={
+		death="1431.11.13"
+	}
+}
+#Issue of Sanenaga Saionji
+409172 = {
+	name="Kinmyo"	#Saionji Kinmyo
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409171
+	1410.1.1={
+		birth="1410.1.1"
+	}
+	1468.6.12={
+		death="1468.6.12"
+	}
+}
+#Issue of Saionji Kinmyo
+409173 = {
+	name="Saneto"	#Saneto Saionji
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409172
+	1434.1.1={
+		birth="1434.1.1"
+	}
+	1495.12.11={
+		death="1495.12.11"
+	}
+}
+409174 = {
+	name="Kogen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409172
+	trait=monk
+	1437.1.1={
+		birth="1437.1.1"
+	}
+	1491.1.1={
+		death="1491.1.1"
+	}
+}
+409175 = {
+	name="Kinsho"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409172
+	trait=monk
+	1439.1.1={
+		birth="1439.1.1"
+	}
+	1517.1.1={
+		death="1517.1.1"
+	}
+}
+#Issue of Saneto Saionji
+409176 = {
+	name="Kinto"	#Saionji Kinto
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409173
+	1455.1.1={
+		birth="1455.1.1"
+	}
+	1512.7.31={
+		death="1512.7.31"
+	}
+}
+409177 = {
+	name="Kintsura"	#Toin Kintsura
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409173
+	1461.1.1={
+		birth="1461.1.1"
+	}
+	1506.1.1={
+		death="1506.1.1"
+	}
+}
+#Issue of Saionji Kinto
+409178 = {
+	name="Sanenobu"	#Sanenobu Saionji
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409176
+	1496.1.1={
+		birth="1496.1.1"
+	}
+	1541.10.1={
+		death="1541.10.1"
+	}
+}
+409179 = {
+	name="Sanekata"	#Sanekata Toin
+	dynasty=29184
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409176
+	1499.1.1={
+		birth="1499.1.1"
+	}
+	1556.1.1={
+		death="1556.1.1"
+	}
+}
+#Issue of Sanenobu Saionji
+409180 = {
+	name="Kintomo"	#Saisonji Kintomo
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409178
+	1515.1.1={
+		birth="1515.1.1"
+	}
+	1590.7.23={
+		death="1590.7.23"
+	}
+}
+409181 = {
+	name="Jitsugen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409178
+	trait=monk
+	1517.1.1={
+		birth="1517.1.1"
+	}
+	1585.1.1={
+		death="1585.1.1"
+	}
+}
+409182 = {
+	name="Jitsuo"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409178
+	trait=monk
+	1521.1.1={
+		birth="1521.1.1"
+	}
+	1588.1.1={
+		death="1588.1.1"
+	}
+}
+409183 = {
+	name="Keifuku-in"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409178
+	1525.1.1={
+		birth="1525.1.1"
+	}
+	1575.1.1={
+		death="1575.1.1"
+	}
+}
+#Issue of Saisonji Kintomo
+409184 = {
+	name="Saneyoshi"	#Saneyoshi Saionji
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409180
+	1560.1.1={
+		birth="1560.1.1"
+	}
+	1632.5.1={
+		death="1632.5.1"
+	}
+}
+409185 = {
+	name="Iemasa"	#Kasanin Iemasa
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409180
+	1558.12.21={
+		birth="1558.12.21"
+	}
+	1603.2.8={
+		name="Sadahiro"
+	}
+	1634.12.31={
+		death="1634.12.31"
+	}
+}
+#Issue of Saneyoshi Saionji
+409186 = {
+	name="Kimimasa"	#Saionji Kimimasa
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409184
+	1582.5.12={
+		birth="1582.5.12"
+	}
+	1640.4.8={
+		death="1640.4.8"
+	}
+}
+#Issue of Saionji Kimimasa
+409187 = {
+	name="Suemitsu"	#Suemitsu Omiya
+	dynasty=29191
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409186
+	1603.1.1={
+		birth="1603.1.1"
+	}
+	1684.1.1={
+		death="1684.1.1"
+	}
+}
+409188 = {
+	name="Shōen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409186
+	trait=monk
+	1605.1.1={
+		birth="1605.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409189 = {
+	name="Sanemasa"	#Saionji Sanemasa
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409186
+	1601.1.1={
+		birth="1601.1.1"
+	}
+	1673.2.27={
+		death="1673.2.27"
+	}
+}
+#Issue of Saionji Sanemasa
+409190 = {
+	name="Kimimitsu"	#Saionji Kimimitsu
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409189
+	1622.1.1={
+		birth="1622.1.1"
+	}
+	1651.1.1={
+		death="1651.1.1"
+	}
+}
+409191 = {
+	name="Kiminori"	#Saionji Kiminori
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409189
+	1625.1.1={
+		birth="1625.1.1"
+	}
+	1670.9.28={
+		death="1670.9.28"
+	}
+}
+#Issue of Kasanin Iemasa
+409192 = {
+	name="Sanehisa"	#Tokudaiji Sanehisa
+	dynasty=29098
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1583.10.1={
+		birth="1583.10.1"
+	}
+	1617.1.3={
+		death="1617.1.3"
+	}
+}
+409193 = {
+	name="Sadayoshi"	#Kasanin Sadayoshi
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1599.11.28={
+		birth="1599.11.28"
+	}
+	1673.1.1={
+		death="1673.1.1"
+	}
+}
+409194 = {
+	name="Tadanaga"	#Kasanin Tadanaga
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1588.10.24={
+		birth="1588.10.24"
+	}
+	1662.11.6={
+		death="1662.11.6"
+	}
+}
+409195 = {
+	name="Soho"
+	dynasty=29193
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1590.1.1={
+		birth="1590.1.1"
+	}
+	1660.1.1={
+		death="1660.1.1"
+	}
+}
+409196 = {
+	name="Ryoji"	#Kasanin Ryoji
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	trait=monk
+	1591.1.1={
+		birth="1591.1.1"
+	}
+	1660.1.1={
+		death="1660.1.1"
+	}
+}
+409197 = {
+	name="Seisho-in"
+	female=yes
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1593.1.1={
+		birth="1593.1.1"
+	}
+	1652.1.1={
+		death="1652.1.1"
+	}
+}
+409198 = {
+	name="Chosho-in"
+	female=yes
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1595.1.1={
+		birth="1595.1.1"
+	}
+	1656.1.1={
+		death="1656.1.1"
+	}
+}
+409199 = {
+	name="Shuken"
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	trait=monk
+	1598.1.1={
+		birth="1598.1.1"
+	}
+	1661.1.1={
+		death="1661.1.1"
+	}
+}
+409199 = {
+	name="Kuni"
+	female=yes
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409185
+	1602.1.1={
+		birth="1602.1.1"
+	}
+	1665.1.1={
+		death="1665.1.1"
+	}
+}
+#Issue of Tokudaiji Sanehisa
+409200 = {
+	name="Kinshin"	#Tokudaiji Kinshin
+	dynasty=29098
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409192
+	1606.8.18={
+		birth="1606.8.18"
+	}
+	1684.8.31={
+		death="1684.8.31"
+	}
+}
+#Issue of Tokudaiji Kinshin
+409201 = {
+	name="Sanefusa"	#Tokudaiji Sanefusa
+	dynasty=29098
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409200
+	1636.5.6={
+		birth="1636.5.6"
+	}
+	1682.10.11={
+		death="1682.10.11"
+	}
+}
+409202 = {
+	name="Kinnori"	#Imadegawa Kinnori
+	dynasty=29190
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409200
+	1638.2.25={
+		birth="1638.2.25"
+	}
+	1697.12.8={
+		death="1697.12.8"
+	}
+}
+#Issue of Kasanin Tadanaga
+409203 = {
+	name="Kokai"	#Kasanin Kokai
+	dynasty=29192
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409194
+	trait=monk
+	1608.1.29={
+		birth="1608.1.29"
+	}
+	1695.11.22={
+		death="1695.11.22"
+	}
+}
+409204 = {
+	name="Sadaitsu"	#Nonomiya Sadaitsu 
+	dynasty=29194
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409194
+	1610.1.1={
+		birth="1610.1.1"
+	}
+	1659.1.1={
+		death="1659.1.1"
+	}
+}
+#Issue of Saionji Kinshige
+409205 = {
+	name="Sanenaga"	#Saionji Sanenaga
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409161
+	1334.1.1={
+		birth="1334.1.1"
+	}
+	1355.4.11={
+		death="1355.4.11"
+	}
+}
+409206 = {
+	name="Kimitoshi"	#Saionji Kimitoshi
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409161
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1379.12.15={
+		death="1379.12.15"
+	}
+}
+#Issue of Saionji Sanenaga
+409207 = {
+	name="Kiminaga"	#Saionji Kiminaga
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409205
+	1352.1.1={
+		birth="1352.1.1"
+	}
+	1418.1.1={
+		death="1418.1.1"
+	}
+}
+#Issue of Saionji Kimitoshi
+409208 = {
+	name="Sanefusa"	#Saionji Sanefusa
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409206
+	1359.1.1={
+		birth="1359.1.1"
+	}
+	1417.1.1={
+		death="1417.1.1"
+	}
+}
+#Issue of Saionji Saneaki
+409209 = {
+	name="Kinmasa"	#Saionji Kinmasa
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	1183.1.1={
+		birth="1183.1.1"
+	}
+	1248.3.23={
+		death="1248.3.23"
+	}
+}
+409210 = {
+	name="Kimitsuna"	#Saionji Kimitsuna
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	1186.1.1={
+		birth="1186.1.1"
+	}
+	1241.1.1={
+		death="1241.1.1"
+	}
+}
+409211 = {
+	name="Myosho"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	trait=monk
+	1189.1.1={
+		birth="1189.1.1"
+	}
+	1244.1.1={
+		death="1244.1.1"
+	}
+}
+409212 = {
+	name="Myoben"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	trait=monk
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1240.1.1={
+		death="1240.1.1"
+	}
+}
+409213 = {
+	name="Kohen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	trait=monk
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1248.1.1={
+		death="1248.1.1"
+	}
+}
+409214 = {
+	name="Koen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	trait=monk
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+409215 = {
+	name="Koshin"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408892
+	trait=monk
+	1201.1.1={
+		birth="1201.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+#Issue of Saionji Kinmasa
+409226 = {
+	name="Saneto"	#Fujiwara no Saneto
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409209
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1253.1.1={
+		death="1253.1.1"
+	}
+}
+409227 = {
+	name="Saneyasu"	#Fujiwara no Saneyasu
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409209
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1252.1.1={
+		death="1252.1.1"
+	}
+}
+409228 = {
+	name="Sanesumi"	#FUJIWARA no Sanesumi
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409209
+	1213.1.1={
+		birth="1213.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+409229 = {
+	name="Sanesuke"	#FUJIWARA no Sanesuke
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409209
+	1215.1.1={
+		birth="1215.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+409230 = {
+	name="Sohekimon-in"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409209
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+#Issue of Fujiwara no Saneto
+409231 = {
+	name="Kimina"	#Fujiwara no Kimina
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409226
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+#Issue of Fujiwara no Saneyasu
+409232 = {
+	name="Kimimi"	#Fujiwara no Kimimi
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409227
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1308.1.1={
+		death="1308.1.1"
+	}
+}
+409233 = {
+	name="Kimiyori"	#Fujiwara no Kimiyori
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409227
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+#Issue of Saionji Kimishige
+409234 = {
+	name="Sanenaka"	#Fujiwara no Sanenaka
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1198.1.1={
+		death="1198.1.1"
+	}
+}
+409235 = {
+	name="Kogen"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	trait=monk
+	1139.1.1={
+		birth="1139.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+409236 = {
+	name="Sanonobu"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+409237 = {
+	name="Sanemoto"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	1143.1.1={
+		birth="1143.1.1"
+	}
+	1219.1.1={
+		death="1219.1.1"
+	}
+}
+409238 = {
+	name="Saneshige"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1212.1.1={
+		death="1212.1.1"
+	}
+}
+409239 = {
+	name="Zensho"
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	trait=monk
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+409240 = {
+	name="Sotsu"
+	female=yes
+	dynasty=29180
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408889
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1179.2.18={
+		death="1179.2.18"
+	}
+}
 #Issue of Fujiwara no Sanekane https://ja.wikipedia.org/wiki/%E8%97%A4%E5%8E%9F%E5%AE%9F%E5%85%BC_(%E5%A4%AA%E7%9A%87%E5%A4%AA%E5%90%8E%E5%AE%AE%E4%BA%AE)
-#Issue of Sanjo no Saneyuki https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E5%AE%9F%E8%A1%8C
+409241 = {
+	name="Narikane"	#Fujiwara no Narikane
+	dynasty=28509
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408765
+	1120.1.1={
+		birth="1120.1.1"
+	}
+	1189.1.1={
+		death="1189.1.1"
+	}
+}
+409242 = {
+	name="Suetaka"	#Fujiwara no Suetaka
+	dynasty=28509
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408765
+	1129.1.1={
+		birth="1129.1.1"
+	}
+	1190.5.19={
+		death="1190.5.19"
+	}
+}
+409243 = {
+	name="Kyokaku"
+	dynasty=28509
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408765
+	trait=monk
+	1122.1.1={
+		birth="1122.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+409244 = {
+	name="Akinobu"
+	dynasty=28509
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408765
+	trait=monk
+	1126.1.1={
+		birth="1126.1.1"
+	}
+	1174.1.1={
+		death="1174.1.1"
+	}
+}
+#Issue of Fujiwara no Suetaka
+409245 = {
+	name="Noritaka"	# Fujiwara no Noritaka
+	dynasty=28509
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409242
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1215.1.1={
+		death="1215.1.1"
+	}
+}
+#Issue of Sanjo no Saneyuki
+409246 = {
+	name="Kiminori"	#Sanjo Kiminori
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408764
+	1103.1.1={
+		birth="1103.1.1"
+	}
+	1160.8.12={
+		death="1160.8.12"
+	}
+}
+409247 = {
+	name="Kimiyuki"	#Sanjo Kimiyuki
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408764
+	1105.1.1={
+		birth="1105.1.1"
+	}
+	1148.6.29={
+		death="1148.6.29"
+	}
+}
+409248 = {
+	name="Kimimune"	#Sanjo Kimimune
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=408764
+	1108.1.1={
+		birth="1108.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+#Issue of Sanjo Kimiyuki
+409249 = {
+	name="Sanenaga"	#Sanjo Sanenaga
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1183.1.22={
+		death="1183.1.22"
+	}
+}
+409250 = {
+	name="Yukimasa"	#Sanjo Yukimasa
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	1131.1.1={
+		birth="1131.1.1"
+	}
+	1175.1.1={
+		death="1175.1.1"
+	}
+}
+409251 = {
+	name="Jitsukai"	#Sanjo Jitsukai
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	trait=monk
+	1135.1.1={
+		birth="1135.1.1"
+	}
+	1182.1.1={
+		death="1182.1.1"
+	}
+}
+409252 = {
+	name="Jitsukei"	#Sanjo Jitsukei
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	trait=monk
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+409253 = {
+	name="Jitsugo"	#Sanjo Jitsugo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	trait=monk
+	1138.1.1={
+		birth="1138.1.1"
+	}
+	1205.1.1={
+		death="1205.1.1"
+	}
+}
+409254 = {
+	name="Sonshin"	#Sanjo Sonshin
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409247
+	trait=monk
+	1141.1.1={
+		birth="1141.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+#Issue of Sanjo Sanenaga
+409255 = {
+	name="Kimitoshi"	#Sanjo Kimitoshi
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409249
+	1151.1.1={
+		birth="1151.1.1"
+	}
+	1214.1.1={
+		death="1214.1.1"
+	}
+}
+#Issue of Sanjo Kiminori
+409256 = {
+	name="Sanetsuna"	#Sanjo Sanetsuna
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	1128.1.1={
+		birth="1128.1.1"
+	}
+	1180.1.6={
+		death="1180.1.6"
+	}
+}
+409257 = {
+	name="Sanekuni"	#Shigenoi Sanekuni
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	1140.1.1={
+		birth="1140.1.1"
+	}
+	1183.1.28={
+		death="1183.1.28"
+	}
+}
+409258 = {
+	name="Sanefusa"	#Sanefusa Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	1147.1.1={
+		birth="1147.1.1"
+	}
+	1225.9.20={
+		death="1225.9.20"
+	}
+}
+409259 = {
+	name="Miko"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	1145.1.1={
+		birth="1145.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+409260 = {
+	name="Kinsuke"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	trait=monk
+	1133.1.1={
+		birth="1133.1.1"
+	}
+	1196.1.1={
+		death="1196.1.1"
+	}
+}
+409261 = {
+	name="Jitsuen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409246
+	trait=monk
+	1137.1.1={
+		birth="1137.1.1"
+	}
+	1202.1.1={
+		death="1202.1.1"
+	}
+}
+#Issue of Sanjo Sanetsuna
+409262 = {
+	name="Kiminaka"	#Sanjo Kiminaka
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1146.1.1={
+		birth="1146.1.1"
+	}
+	1180.1.1={
+		death="1180.1.1"
+	}
+}
+409263 = {
+	name="Shichijo-in"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1149.1.1={
+		birth="1149.1.1"
+	}
+	1210.1.1={
+		death="1210.1.1"
+	}
+}
+409264 = {
+	name="Noritsuna"	#Sanjo Noritsuna
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1152.1.1={
+		birth="1152.1.1"
+	}
+	1221.1.1={
+		death="1221.1.1"
+	}
+}
+409265 = {
+	name="Kimikata"	#Sanjo Kimikata
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1155.1.1={
+		birth="1155.1.1"
+	}
+	1218.1.1={
+		death="1218.1.1"
+	}
+}
+409266 = {
+	name="Noriko"	#Sanjo Noriko
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1158.1.1={
+		birth="1158.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+409267 = {
+	name="Shichijō-in"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409256
+	1161.1.1={
+		birth="1161.1.1"
+	}
+	1216.1.1={
+		death="1216.1.1"
+	}
+}
+#Issue of Shigenoi Sanekuni
+409268 = {
+	name="Kimitoki"	#Shigenoi Kimitoki
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409257
+	1157.1.1={
+		birth="1157.1.1"
+	}
+	1220.5.26={
+		death="1220.5.26"
+	}
+}
+409269 = {
+	name="Kimikiyo"	#Shigenoi Kimikiyo
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409257
+	1166.1.1={
+		birth="1166.1.1"
+	}
+	1228.11.9={
+		death="1228.11.9"
+	}
+}
+409270 = {
+	name="Kennin"
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409257
+	trait=monk
+	1168.1.1={
+		birth="1168.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+409271 = {
+	name="Goin"
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409257
+	trait=monk
+	1172.1.1={
+		birth="1172.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+#Issue of Shigenoi Kimikiyo
+409272 = {
+	name="Sanetoshi"	#Hachijo Sanetoshi
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1192.1.1={
+		birth="1192.1.1"
+	}
+	1238.1.5={
+		death="1238.1.5"
+	}
+}
+409273 = {
+	name="Sanetaka"	#Kawabata Sanetaka
+	dynasty=29188
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+409274 = {
+	name="Sanetsugu"	#Shigenoi Sanetsugu
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+409275 = {
+	name="Jitsuyo"	#Shigenoi Jitsuyo
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+409276 = {
+	name="Jitsuhide"	#Shigenoi Jitsuhide
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1210.1.1={
+		birth="1210.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+409277 = {
+	name="Jitsuaki"	#Shigenoi Jitsuaki
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+409278 = {
+	name="Kimiho"	#Shigenoi Kimiho
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	1265.1.1={
+		death="1265.1.1"
+	}
+}
+409279 = {
+	name="Sanmasu"	#Shigenoi Sanmasu
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409269
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+#Issue of Hachijo Sanetoshi
+409280 = {
+	name="Kimio"	#Hachijo no Kimio
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	1226.1.5={
+		birth="1226.1.5"
+	}
+	1301.5.14={
+		death="1301.5.14"
+	}
+}
+409281 = {
+	name="Kimiyu"	#Hachijo no Kimiyu
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	trait=monk
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+409282 = {
+	name="Sanekiyo"	#Hachijo no Sanekiyo
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	1229.1.1={
+		birth="1229.1.1"
+	}
+	1266.1.1={
+		death="1266.1.1"
+	}
+}
+409283 = {
+	name="Kimimoto"	#Hachijo no Kimimoto
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+409284 = {
+	name="Dogen"
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	trait=monk
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+409285 = {
+	name="Kimiaki"
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1278.1.1={
+		death="1278.1.1"
+	}
+}
+409286 = {
+	name="Ryokan"
+	dynasty=29196
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409272
+	trait=monk
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+#Issue of Shigenoi Kintoki
+409287 = {
+	name="Sanenobu"	#Sanenobu Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409268
+	1177.1.1={
+		birth="1177.1.1"
+	}
+	1228.12.20={
+		death="1228.12.20"
+	}
+}
+409288 = {
+	name="Saneaki"	#Saneaki Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409268
+	1180.1.1={
+		birth="1180.1.1"
+	}
+	1239.1.1={
+		death="1239.1.1"
+	}
+}
+409289 = {
+	name="Sanehiro"	#Sanehiro Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409268
+	1184.1.1={
+		birth="1184.1.1"
+	}
+	1233.1.1={
+		death="1233.1.1"
+	}
+}
+#Issue of Sanenobu Shigenoi
+409290 = {
+	name="Hikaru"	#Hikaru Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409287
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1255.12.10={
+		death="1255.12.10"
+	}
+}
+409291 = {
+	name="Kinkata"	#Kinkata Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409287
+	1203.1.1={
+		birth="1203.1.1"
+	}
+	1226.1.1={
+		death="1226.1.1"
+	}
+}
+409292 = {
+	name="Kinkage"	#Kinkage Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409287
+	1206.1.1={
+		birth="1206.1.1"
+	}
+	1225.1.1={
+		death="1225.1.1"
+	}
+}
+409293 = {
+	name="Kimimoto"	#Kimimoto Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409287
+	1208.1.1={
+		birth="1208.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+409294 = {
+	name="Kogen"	#Kogen Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409287
+	trait=monk
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1267.1.1={
+		death="1267.1.1"
+	}
+}
+#Issue of Kinkata Shigenoi
+409295 = {
+	name="Jitsugon"	#Jitsugon Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409291
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+409296 = {
+	name="Nobuko"	#Nobuko Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409291
+	1223.1.1={
+		birth="1223.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+#Issue of Hikaru Shigenoi
+409297 = {
+	name="Minoru"	#Minoru Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409290
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1303.7.12={
+		death="1303.7.12"
+	}
+}
+#Issue of Minoru Shigenoi
+409298 = {
+	name="Fuyuki"	#Shigenoi Fuyuki
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409297
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1302.3.23={
+		death="1302.3.23"
+	}
+}
+409299 = {
+	name="Shokunmon-in"
+	female=yes
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409297
+	1268.1.1={
+		birth="1268.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+#Issue of Shigenoi Fuyuki
+409300 = {
+	name="Sanesaki"	#Shigenoi Sanesaki
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409298
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1327.3.26={
+		death="1327.3.26"
+	}
+}
+409301 = {
+	name="Suenori"	#Shigenoi Suenori
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409298
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+#Issue of Shigenoi Sanesaki
+409302 = {
+	name="Kiminao"	#Kiminao Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409300
+	1305.1.1={
+		birth="1305.1.1"
+	}
+	1344.3.23={
+		death="1344.3.23"
+	}
+}
+#Issue of Kiminao Shigenoi
+409303 = {
+	name="Suenobu"	#Suenobu Shigenoi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409302
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1391.1.1={
+		death="1391.1.1"
+	}
+}
+#Issue of Sanefusa Sanjo
+409304 = {
+	name="Kimifusa"	#Sanjo Kimifusa
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1179.1.1={
+		birth="1179.1.1"
+	}
+	1249.9.23={
+		death="1249.9.23"
+	}
+}
+409305 = {
+	name="Kinnobu"	#Anegakoji Kinnobu
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1181.1.1={
+		birth="1181.1.1"
+	}
+	1225.7.4={
+		death="1225.7.4"
+	}
+}
+409306 = {
+	name="Kinuji"	#Ogimachisanjo Kinuji
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1182.1.1={
+		birth="1182.1.1"
+	}
+	1237.10.5={
+		death="1237.10.5"
+	}
+}
+409307 = {
+	name="Kimitoshi"	#Chisokusanjo Kimitoshi
+	dynasty=29199
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1194.1.1={
+		birth="1194.1.1"
+	}
+	1260.1.1={
+		death="1260.1.1"
+	}
+}
+409308 = {
+	name="Kimikane"	#Sanjo Kimikane
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1196.1.1={
+		birth="1196.1.1"
+	}
+	1255.1.1={
+		death="1255.1.1"
+	}
+}
+409309 = {
+	name="Koen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	trait=monk
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1235.1.1={
+		death="1235.1.1"
+	}
+}
+409310 = {
+	name="Kogo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	trait=monk
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1281.1.1={
+		death="1281.1.1"
+	}
+}
+409311 = {
+	name="Kakujitsu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1163.1.1={
+		birth="1163.1.1"
+	}
+	1232.1.1={
+		death="1232.1.1"
+	}
+}
+409312 = {
+	name="Kakukyo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1167.1.1={
+		birth="1167.1.1"
+	}
+	1242.1.1={
+		death="1242.1.1"
+	}
+}
+409313 = {
+	name="Koyo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1187.1.1={
+		birth="1187.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+409314 = {
+	name="Koe"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1188.1.1={
+		birth="1188.1.1"
+	}
+	1236.1.1={
+		death="1236.1.1"
+	}
+}
+409315 = {
+	name="Koshin"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	trait=monk
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1217.1.1={
+		death="1217.1.1"
+	}
+}
+409316 = {
+	name="Nyogo"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409258
+	1191.1.1={
+		birth="1191.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+#Issue of Sanjo Kimikane https://ja.wikipedia.org/wiki/%E4%B8%89%E6%9D%A1%E5%85%AC%E4%BF%8A
+409317 = {
+	name="Sanekiyo"	#Sanjo Sanekiyo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+409318 = {
+	name="Kinitame"	#Sanjo Kinitame
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1226.1.1={
+		birth="1226.1.1"
+	}
+	1282.1.1={
+		death="1282.1.1"
+	}
+}
+409319 = {
+	name="Sanetame"	#Sanjo Sanetame
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+409320 = {
+	name="Sanenaka"	#Sanjo Sanenaka
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1270.1.1={
+		death="1270.1.1"
+	}
+}
+409321 = {
+	name="Koshu"	#Sanjo Koshu
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	trait=monk
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+409322 = {
+	name="Shunyo"	#Sanjo Shunyo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	trait=monk
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+409323 = {
+	name="Chunagon"	#Sanjo Shunyo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	trait=monk
+	1236.1.1={
+		birth="1236.1.1"
+	}
+	1284.1.1={
+		death="1284.1.1"
+	}
+}
+409324 = {
+	name="Ako"	#Sanjo Ako
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1277.1.1={
+		death="1277.1.1"
+	}
+}
+409325 = {
+	name="Nijo"	#Sanjo Nijo
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409308
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+#Issue of Ogimachisanjo Kinuji
+409326 = {
+	name="Sanekage"	#Ogimachisanjo Sanekage
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409306
+	1199.1.1={
+		birth="1199.1.1"
+	}
+	1241.6.15={
+		death="1241.6.15"
+	}
+}
+409327 = {
+	name="Kyoyo"	#Kyoyo
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409306
+	trait=monk
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+409328 = {
+	name="Jitsui"	#Jitsui
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409306
+	trait=monk
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+409329 = {
+	name="Eicho"	#Eicho
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409306
+	trait=monk
+	1219.1.1={
+		birth="1219.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+#Issue of Ogimachisanjo Sanekage
+409330 = {
+	name="Kinuki"	#Ogimachisanjo Kinuki
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409326
+	1238.1.1={
+		birth="1238.1.1"
+	}
+	1315.4.3={
+		death="1315.4.3"
+	}
+}
+409331 = {
+	name="Kinshu"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409326
+	trait=monk
+	1240.1.1={
+		birth="1240.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409332 = {
+	name="Kimiyuki"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409326
+	trait=monk
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+409333 = {
+	name="Kohen"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409326
+	trait=monk
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+#Issue of Ogimachisanjo Kinuki
+409334 = {
+	name="Sanenaka"	#Ogimachisanjo Sanenaka
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409330
+	1257.1.1={
+		birth="1257.1.1"
+	}
+	1352.4.3={
+		death="1352.4.3"
+	}
+}
+409335 = {
+	name="Sanemi"	#Ogimachisanjo Sanemi
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409330
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1329.1.1={
+		death="1329.1.1"
+	}
+}
+409336 = {
+	name="Kimikatsu"	#Ogimachisanjo Kimikatsu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409330
+	trait=monk
+	1264.1.1={
+		birth="1264.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+409337 = {
+	name="Jitsugyo"	#Ogimachisanjo Jitsugyo
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409330
+	trait=monk
+	1270.1.1={
+		birth="1270.1.1"
+	}
+	1320.1.1={
+		death="1320.1.1"
+	}
+}
+#Issue of Ogimachisanjo Sanemi
+409338 = {
+	name="Kimihide"	#Ogimachisanjo Kimihide
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409335
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1364.9.9={
+		death="1364.9.9"
+	}
+}
+409339 = {
+	name="Ujiko"	#Ogimachisanjo Ujiko
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409335
+	1288.1.1={
+		birth="1288.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+409340 = {
+	name="Miyako"	#Ogimachisanjo Miyako
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409335
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+#Issue of Ogimachisanjo Sanenaka
+409341 = {
+	name="Kimiaki"	#Sanjo Kimiaki
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409334
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1336.10.16={
+		death="1336.10.16"
+	}
+}
+409342 = {
+	name="Kimimichi"	#Ogimachisanjo Kimimichi
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409334
+	1290.1.1={
+		birth="1290.1.1"
+	}
+	1342.5.16={
+		death="1342.5.16"
+	}
+}
+409343 = {
+	name="Sanji"	#Sanjo Sanji
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409334
+	1292.1.1={
+		birth="1292.1.1"
+	}
+	1353.6.18={
+		death="1353.6.18"
+	}
+}
+#Issue of Sanjo Kimiaki
+409344 = {
+	name="Suetada"	#Sanjo Suetada
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409341
+	1306.1.1={
+		birth="1306.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+#Issue of Sanjo Sanji
+409345 = {
+	name="Haruko"	#Ogimachisanjo Haruko
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409343
+	1336.1.1={
+		birth="1336.1.1"
+	}
+	1399.1.17={
+		death="1399.1.17"
+	}
+}
+409346 = {
+	name="Kintatsu"	#Ogimachisanjo Kintatsu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409343
+	1339.1.1={
+		birth="1339.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+#Issue of Ogimachisanjo Kimihide
+409347 = {
+	name="Sanetsugu"	#Ogimachisanjo Sanetsugu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1388.7.27={
+		death="1388.7.27"
+	}
+}
+409348 = {
+	name="Sanoto"	#Ogimachisanjo Sanoto
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1386.3.16={
+		death="1386.3.16"
+	}
+}
+409349 = {
+	name="Sanekazu"	#OgimachisanjO Sanekazu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	1321.1.1={
+		birth="1321.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+409350 = {
+	name="Hideko"	#Ogimachisanjo Hideko
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	1311.1.1={
+		birth="1311.1.1"
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+409351 = {
+	name="Yukan"	#Ogimachisanjo Yukan
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	trait=monk
+	1313.1.1={
+		birth="1313.1.1"
+	}
+	1380.1.1={
+		death="1380.1.1"
+	}
+}
+409352 = {
+	name="Ryoku"	#Ogimachisanjo Ryoku
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409338
+	trait=monk
+	1317.1.1={
+		birth="1317.1.1"
+	}
+	1371.1.1={
+		death="1371.1.1"
+	}
+}
+#Issue of Ogimachisanjo Sanetsugu
+409353 = {
+	name="Kimitoyo"	#Ogimachisanjo Kimitoyo
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	1333.1.1={
+		birth="1333.1.1"
+	}
+	1406.7.9={
+		death="1406.7.9"
+	}
+}
+409354 = {
+	name="Kimitoki"	#Sanjonishi Kimitoki
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	1339.1.1={
+		birth="1339.1.1"
+	}
+	1383.4.14={
+		death="1383.4.14"
+	}
+}
+409355 = {
+	name="Kokai"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1341.1.1={
+		birth="1341.1.1"
+	}
+	1400.1.1={
+		death="1400.1.1"
+	}
+}
+409356 = {
+	name="Doshu"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1343.1.1={
+		birth="1343.1.1"
+	}
+	1411.1.1={
+		death="1411.1.1"
+	}
+}
+409357 = {
+	name="Myoen"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1345.1.1={
+		birth="1345.1.1"
+	}
+	1419.1.1={
+		death="1419.1.1"
+	}
+}
+409358 = {
+	name="Ryokei"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1348.1.1={
+		birth="1348.1.1"
+	}
+	1413.1.1={
+		death="1413.1.1"
+	}
+}
+409359 = {
+	name="Eikyu"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1351.1.1={
+		birth="1351.1.1"
+	}
+	1417.1.1={
+		death="1417.1.1"
+	}
+}
+409360 = {
+	name="Zenkan"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	trait=monk
+	1353.1.1={
+		birth="1353.1.1"
+	}
+	1415.1.1={
+		death="1415.1.1"
+	}
+}
+409361 = {
+	name="Koshi"
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	1355.1.1={
+		birth="1355.1.1"
+	}
+	1411.1.1={
+		death="1411.1.1"
+	}
+}
+409362 = {
+	name="Higashi"
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409347
+	1363.1.1={
+		birth="1363.1.1"
+	}
+	1418.1.1={
+		death="1418.1.1"
+	}
+}
+#Issue of Ogimachisanjo Kimitoyo
+409363 = {
+	name="Sanetoyo"	#Ogimachisanjo Sanetoyo
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409353
+	1357.1.1={
+		birth="1357.1.1"
+	}
+	1404.5.19={
+		death="1404.5.19"
+	}
+}
+409364 = {
+	name="Sanetoyo"	#Sanjonishi Kimiyasu
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409353
+	1398.1.1={
+		birth="1398.1.1"
+	}
+	1460.2.20={
+		death="1460.2.20"
+	}
+}
+409365 = {
+	name="Kansho"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409353
+	trait=monk
+	1401.1.1={
+		birth="1401.1.1"
+	}
+	1453.1.1={
+		death="1453.1.1"
+	}
+}
+#Issue of Sanjonishi Kimiyasu
+409366 = {
+	name="Saneni"	#Sanjonishi Saneni
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409364
+	1442.1.1={
+		birth="1442.1.1"
+	}
+	1458.1.1={
+		death="1458.1.1"
+	}
+}
+409367 = {
+	name="Sanetaka"	#Sanetaka Sanjonishi
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409364
+	1455.5.11={
+		birth="1455.5.11"
+	}
+	1537.11.5={
+		death="1537.11.5"
+	}
+}
+409368 = {
+	name="Kohan"
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409364
+	trait=monk
+	1460.1.1={
+		birth="1460.1.1"
+	}
+	1518.1.1={
+		death="1518.1.1"
+	}
+}
+#Issue of Sanetaka Sanjonishi
+409369 = {
+	name="Yasuko"	#Sanjonishi Yasuko
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1541.1.1={
+		death="1541.1.1"
+	}
+}
+409370 = {
+	name="Kojun"
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	trait=monk
+	1483.1.1={
+		birth="1483.1.1"
+	}
+	1538.1.1={
+		death="1538.1.1"
+	}
+}
+409371 = {
+	name="Kineda"	#Sanjonishi Kineda
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	1487.1.1={
+		birth="1487.1.1"
+	}
+	1563.1.1={
+		death="1563.1.1"
+	}
+}
+409372 = {
+	name="Hoo Keiyo"
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	trait=monk
+	1494.1.1={
+		birth="1494.1.1"
+	}
+	1526.1.1={
+		death="1526.1.1"
+	}
+}
+#Issue of Sanjonishi Kineda
+409371 = {
+	name="Saneki"	#Sanjonishi Saneki
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	1511.8.27={
+		birth="1511.8.27"
+	}
+	1579.2.19={
+		death="1579.2.19"
+	}
+}
+409372 = {
+	name="Kanenari"	#Kanenari Minase
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409367
+	1514.1.1={
+		birth="1514.1.1"
+	}
+	1602.11.1={
+		death="1602.11.1"
+	}
+}
+#Issue of Kanenari Minase
+409373 = {
+	name="Ujinari"	#Ujinari Minase
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409372
+	1571.11.14={
+		birth="1571.11.14"
+	}
+	1644.10.17={
+		death="1644.10.17"
+	}
+}
+#Issue of Ujinari Minase
+409374 = {
+	name="Kanetoshi"	#Kanetoshi Minase
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	1593.1.1={
+		birth="1593.1.1"
+	}
+	1656.1.1={
+		death="1656.1.1"
+	}
+}
+409375 = {
+	name="Takashu"	#Shichijo Takashu
+	dynasty=29202
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	1595.1.1={
+		birth="1595.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409375 = {
+	name="Juno"
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	trait=monk
+	1598.1.1={
+		birth="1598.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409376 = {
+	name="Naishi"
+	female=yes
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	1591.1.1={
+		birth="1591.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409377 = {
+	name="Ujiko"
+	female=yes
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	1607.1.1={
+		birth="1607.1.1"
+	}
+	1672.1.1={
+		death="1672.1.1"
+	}
+}
+409378 = {
+	name="Kozaisho"
+	female=yes
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409373
+	1609.1.1={
+		birth="1609.1.1"
+	}
+	1653.1.1={
+		death="1653.1.1"
+	}
+}
+#Issue of Sanjonishi Saneki
+409379 = {
+	name="Kimiyo"	#Sanjonishi Kimiyo
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409371
+	1537.1.1={
+		birth="1537.1.1"
+	}
+	1544.1.1={
+		death="1544.1.1"
+	}
+}
+409380 = {
+	name="Kimitaka"	#Sanjonishi Kimitaka
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409371
+	1549.1.1={
+		birth="1549.1.1"
+	}
+	1562.1.1={
+		death="1562.1.1"
+	}
+}
+409381 = {
+	name="Sanetsuna"	#Sanjo Sanetsuna
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409371
+	1562.1.1={
+		birth="1562.1.1"
+	}
+	1581.3.11={
+		death="1581.3.11"
+	}
+}
+409382 = {
+	name="Akokono-kata"
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409371
+	1565.1.1={
+		birth="1565.1.1"
+	}
+	1609.1.1={
+		death="1609.1.1"
+	}
+}
+409383 = {
+	name="Kinkuni"	#Sanjonishi Kinkuni
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409371
+	1553.1.1={
+		birth="1553.1.1"
+	}
+	1588.1.7={
+		death="1588.1.7"
+	}
+}
+#Issue of Sanjonishi Kinkuni
+409384 = {
+	name="Sanejo"	#Sanjonishi Sanejo
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409383
+	1575.3.8={
+		birth="1575.3.8"
+	}
+	1640.11.22={
+		death="1640.11.22"
+	}
+}
+409385 = {
+	name="Kinhiro"	#Sanjo Kinhiro
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409383
+	1577.2.21={
+		birth="1577.2.21"
+	}
+	1626.11.25={
+		death="1626.11.25"
+	}
+}
+#Issue of Sanjonishi Sanejo
+409386 = {
+	name="Seigen-in"
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1600.1.1={
+		birth="1600.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409387 = {
+	name="Jitsugo"	#Saiko Jitsugo
+	dynasty=29203
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1602.1.1={
+		birth="1602.1.1"
+	}
+	1662.1.1={
+		death="1662.1.1"
+	}
+}
+409388 = {
+	name="Yasunaga"	#Horio Yasunaga
+	dynasty=29179
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1599.1.1={
+		birth="1599.1.1"
+	}
+	1662.1.1={
+		death="1662.1.1"
+	}
+}
+409389 = {
+	name="Kimikatsu"	#Sanjonishi Kimikatsu
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1597.1.1={
+		birth="1597.1.1"
+	}
+	1626.1.1={
+		death="1626.1.1"
+	}
+}
+409390 = {
+	name="Kimitane"	#Mushanokoji Kimitane
+	dynasty=29204
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1602.1.1={
+		birth="1602.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409391 = {
+	name="Nishikawa"
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	trait=monk
+	1605.1.1={
+		birth="1605.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409392 = {
+	name="Koshin"
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	trait=monk
+	1607.1.1={
+		birth="1607.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409393 = {
+	name="Joshin-in"
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1604.1.1={
+		birth="1604.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409394 = {
+	name="Seiun-in"
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	1608.1.1={
+		birth="1608.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409395 = {
+	name="Keisho-in"
+	female=yes
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409384
+	trait=nun
+	1611.1.1={
+		birth="1611.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Sanjo Kinhiro
+409396 = {
+	name="Sanehide"	#Sanehide Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409385
+	1598.5.17={
+		birth="1598.5.17"
+	}
+	1671.9.27={
+		death="1671.9.27"
+	}
+}
+409397 = {
+	name="Imazato"	#Sanehide Imazato
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409385
+	1601.1.1={
+		birth="1601.1.1"
+	}
+	1681.1.1={
+		death="1681.1.1"
+	}
+}
+409398 = {
+	name="Jakusho-in"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409385
+	1605.1.1={
+		birth="1605.1.1"
+	}
+	1660.1.1={
+		death="1660.1.1"
+	}
+}
+#Issue of Sanehide Sanjo
+409399 = {
+	name="Kintomi"	#Sanjo Kintomi
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409396
+	1620.2.5={
+		birth="1620.2.5"
+	}
+	1677.7.11={
+		death="1677.7.11"
+	}
+}
+409400 = {
+	name="Yoshinari"	#Yoshinari Naito
+	dynasty=29208
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409396
+	1619.10.7={
+		birth="1619.10.7"
+	}
+	1685.10.16={
+		death="1685.10.16"
+	}
+}
+#Issue of Ogimachisanjo Sanetoyo
+409401 = {
+	name="Kinnaka"	#Ogimachisanjo Kinnaka
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409363
+	1384.1.1={
+		birth="1384.1.1"
+	}
+	1427.9.3={
+		death="1427.9.3"
+	}
+}
+#Issue of Ogimachisanjo Kinnaka
+409402 = {
+	name="Sanemasa"	#Ogimachisanjo Sanemasa
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409401
+	1409.1.1={
+		birth="1409.1.1"
+	}
+	1467.10.1={
+		death="1467.10.1"
+	}
+}
+409403 = {
+	name="Sansei"	#Ogimachisanjo Sansei
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409401
+	trait=monk
+	1413.1.1={
+		birth="1413.1.1"
+	}
+	1470.1.1={
+		death="1470.1.1"
+	}
+}
+409404 = {
+	name="Tadako"	#Ogimachisanjo Tadako
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409401
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1469.1.1={
+		death="1469.1.1"
+	}
+}
+409405 = {
+	name="Toyoko"	#Ogimachisanjo Toyoko
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409401
+	1418.1.1={
+		birth="1418.1.1"
+	}
+	1474.1.1={
+		death="1474.1.1"
+	}
+}
+#Issue of Ogimachisanjo Sanemasa
+409406 = {
+	name="Kimitsuna"	#Ogimachisanjo Kimitsuna
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409402
+	1438.1.1={
+		birth="1438.1.1"
+	}
+	1471.1.1={
+		death="1471.1.1"
+	}
+}
+409407 = {
+	name="Kimitsuna"	#Ogimachisanjo Kimitsuna
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409402
+	1441.1.1={
+		birth="1441.1.1"
+	}
+	1495.4.7={
+		death="1495.4.7"
+	}
+}
+409408 = {
+	name="Kinnobu"	#Ogimachisanjo Kinnobu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409402
+	1444.1.1={
+		birth="1444.1.1"
+	}
+	1515.1.1={
+		death="1515.1.1"
+	}
+}
+409409 = {
+	name="Kinfuyu"	#Ogimachisanjo Kinfuyu
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409402
+	1448.1.1={
+		birth="1448.1.1"
+	}
+	1519.1.1={
+		death="1519.1.1"
+	}
+}
+#Issue of Ogimachisanjo Kimitsuna
+409410 = {
+	name="Sanoki"	#Ogimachisanjo Sanoki
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409407
+	1457.1.1={
+		birth="1457.1.1"
+	}
+	1481.1.1={
+		death="1481.1.1"
+	}
+}
+409411 = {
+	name="Sanemochi"	#Ogimachisanjo Sanemochi
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409407
+	1463.1.1={
+		birth="1463.1.1"
+	}
+	1530.1.1={
+		death="1530.1.1"
+	}
+}
+409412 = {
+	name="Sukekuni"	#Shigenoi Sukekuni
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409407
+	1493.1.1={
+		birth="1493.1.1"
+	}
+	1535.7.18={
+		death="1535.7.18"
+	}
+}
+409413 = {
+	name="Sonshin"
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409407
+	trait=monk
+	1468.1.1={
+		birth="1468.1.1"
+	}
+	1517.1.1={
+		death="1517.1.1"
+	}
+}
+#Issue of Shigenoi Sukekuni
+409414 = {
+	name="Kimiko"	#Shigenoi Kimiko
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409412
+	1525.1.1={
+		birth="1525.1.1"
+	}
+	1576.1.1={
+		death="1576.1.1"
+	}
+}
+409415 = {
+	name="Tamenaka"	#Itsutsuji Tamenaka
+	dynasty=29205
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409412
+	1530.1.1={
+		birth="1530.1.1"
+	}
+	1585.7.14={
+		death="1585.7.14"
+	}
+}
+#Issue of Itsutsuji Tamenaka
+409416 = {
+	name="Yukinaka"	#Itsutsuji Yukinaka
+	dynasty=29205
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409415
+	1562.1.1={
+		birth="1562.1.1"
+	}
+	1627.1.12={
+		death="1627.1.12"
+	}
+}
+#Issue of Itsutsuji Yukinaka
+409417 = {
+	name="Sueyoshi"	#Shigenoi Sueyoshi
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409416
+	1586.1.1={
+		birth="1586.1.1"
+	}
+	1656.1.1={
+		death="1656.1.1"
+	}
+}
+409418 = {
+	name="Takami"	#Ayanokoji Takami
+	dynasty=29206
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409416
+	1595.1.25={
+		birth="1595.1.25"
+	}
+	1644.3.3={
+		death="1644.3.3"
+	}
+}
+409419 = {
+	name="Takami"	#Itsutsuji Takami
+	dynasty=29205
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409416
+	1598.1.1={
+		birth="1598.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Shigenoi Sueyoshi
+409420 = {
+	name="Yoritaka"	#Hamuro Yoritaka
+	dynasty=29207
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409417
+	1608.1.1={
+		birth="1608.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409421 = {
+	name="Fuyuharu"	#Shigenoi Fuyuharu
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409417
+	1609.1.1={
+		birth="1609.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409422 = {
+	name="Norihiro"	#Shigenoi Norihiro
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409417
+	1613.1.1={
+		birth="1613.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409423 = {
+	name="Toshinaka"	#Itsutsuji Toshinaka
+	dynasty=29205
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409417
+	1615.1.1={
+		birth="1615.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+409424 = {
+	name="Shinsei"
+	dynasty=29195
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409417
+	trait=monk
+	1617.1.1={
+		birth="1617.1.1"
+	}
+	1650.1.1={
+		death="1650.1.1"
+	}
+}
+#Issue of Ayanokoji Takami
+409425 = {
+	name="Toshikage"	#Ayanokoji Toshikage
+	dynasty=29206
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409418
+	1632.2.21={
+		birth="1595.2.21"
+	}
+	1688.7.14={
+		death="1688.7.14"
+	}
+}
+#Issue of Sanjonishi Kimitoki
+409426 = {
+	name="Sanekiyo"	#Sanekiyo Sanjonishi
+	dynasty=29200
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409354
+	1372.1.1={
+		birth="1372.1.1"
+	}
+	1406.3.6={
+		death="1406.3.6"
+	}
+}
+#Issue of Ogimachisanjo Sanoto
+409427 = {
+	name="Kiminori"	#Ogimachisanjo Kiminori
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409348
+	1349.1.1={
+		birth="1349.1.1"
+	}
+	1409.1.1={
+		death="1409.1.1"
+	}
+}
+409428 = {
+	name="Kimiyori"	#Ogimachisanjo Kimiyori
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409348
+	1352.1.1={
+		birth="1352.1.1"
+	}
+	1429.1.1={
+		death="1429.1.1"
+	}
+}
+409429 = {
+	name="Hoju-an"	
+	female=yes
+	dynasty=29198
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409348
+	1345.1.1={
+		birth="1345.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+#Issue of Anegakoji Kinnobu
+409430 = {
+	name="Saneyo"	#Anegakoji Saneyo
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409305
+	1204.1.1={
+		birth="1204.1.1"
+	}
+	1264.1.1={
+		death="1264.1.1"
+	}
+}
+409431 = {
+	name="Sanefumi"	#Anegakoji Sanefumi
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409305
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+409432 = {
+	name="Sanenao"	#Anegakoji Sanenao
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409305
+	1211.1.1={
+		birth="1211.1.1"
+	}
+	1261.1.1={
+		death="1261.1.1"
+	}
+}
+#Issue of Anegakoji Sanenao
+409433 = {
+	name="Kintomo"	#Anegakoji Kintomo
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409432
+	1244.1.1={
+		birth="1244.1.1"
+	}
+	1317.1.1={
+		death="1317.1.1"
+	}
+}
+409434 = {
+	name="Kinnao"	#Anegakoji Kinnao
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409432
+	1247.1.1={
+		birth="1247.1.1"
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+409435 = {
+	name="Jissho"
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409432
+	trait=monk
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+#Issue of Anegakoji Kintomo
+409436 = {
+	name="Sanotsugu"	#Anegakoji Sanotsugu
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409433
+	1300.1.1={
+		birth="1300.1.1"
+	}
+	1335.1.1={
+		death="1335.1.1"
+	}
+}
+409437 = {
+	name="Sanetomi"	#Anegakoji Sanetomi
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409433
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1353.1.1={
+		death="1353.1.1"
+	}
+}
+#Issue of Anegakoji Sanotsugu
+409438 = {
+	name="Sanotsugu"	#Anegakoji Sanotsugu
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409436
+	1300.8.11={
+		birth="1300.8.11"
+	}
+	1335.8.29={
+		death="1335.8.29"
+	}
+}
+#Issue of Anegakoji Sanotsugu
+409439 = {
+	name="Kinnatsu"	#Anegakoji Kinnatsu
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409438
+	1319.1.1={
+		birth="1319.1.1"
+	}
+	1375.1.1={
+		death="1375.1.1"
+	}
+}
+#Issue of Anegakoji Sanefumi
+409440 = {
+	name="Kintomo"	#Anegakoji Kintomo
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409431
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1296.1.1={
+		death="1296.1.1"
+	}
+}
+#Issue of Anegakoji Saneyo
+409441 = {
+	name="Kintsuna"	#Anegakoji Kintsuna
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409430
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1231.1.1={
+		death="1231.1.1"
+	}
+}
+409442 = {
+	name="Kosho"
+	dynasty=29197
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409430
+	trait=monk
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+#Issue of Sanjo Kimifusa
+409443 = {
+	name="Sanechika"	#Sanechika Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	1195.1.1={
+		birth="1195.1.1"
+	}
+	1263.11.6={
+		death="1263.11.6"
+	}
+}
+409444 = {
+	name="Sanetaira"	#Sanetaira Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	1197.1.1={
+		birth="1197.1.1"
+	}
+	1259.1.1={
+		death="1259.1.1"
+	}
+}
+409445 = {
+	name="Ariko"	#Ariko Sanjo
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	1207.1.1={
+		birth="1207.1.1"
+	}
+	1286.2.6={
+		death="1286.2.6"
+	}
+}
+409446 = {
+	name="Jitsuun"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	trait=monk
+	1209.1.1={
+		birth="1209.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+409447 = {
+	name="Jitsuyo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	trait=monk
+	1212.1.1={
+		birth="1212.1.1"
+	}
+	1269.1.1={
+		death="1269.1.1"
+	}
+}
+409448 = {
+	name="Kyoshin"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	trait=monk
+	1214.1.1={
+		birth="1214.1.1"
+	}
+	1272.1.1={
+		death="1272.1.1"
+	}
+}
+409449 = {
+	name="Mikushige"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	1216.1.1={
+		birth="1216.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+409450 = {
+	name="Zeni"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409304
+	trait=nun
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+#Issue of Sanetaira Sanjo
+409451 = {
+	name="Kinyo"	#Kinyo Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409444
+	trait=monk
+	1218.1.1={
+		birth="1218.1.1"
+	}
+	1268.1.1={
+		death="1268.1.1"
+	}
+}
+409452 = {
+	name="Kinki"	#Kinki Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409444
+	1221.1.1={
+		birth="1221.1.1"
+	}
+	1275.1.1={
+		death="1275.1.1"
+	}
+}
+409453 = {
+	name="Kinsuke"	#Kinsuke Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409444
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1271.1.1={
+		death="1271.1.1"
+	}
+}
+409454 = {
+	name="Fusanosuke"	#Fusanosuke Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409444
+	1228.1.1={
+		birth="1228.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+#Issue of Sanechika Sanjo
+409455 = {
+	name="Kimichika"	#Sanjo Kimichika
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	1222.1.1={
+		birth="1222.1.1"
+	}
+	1288.1.1={
+		death="1288.1.1"
+	}
+}
+409456 = {
+	name="Kimiyasu"	#Sanjo Kimiyasu 
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	1231.1.1={
+		birth="1231.1.1"
+	}
+	1305.1.1={
+		death="1305.1.1"
+	}
+}
+409457 = {
+	name="Kimitomo"	#Sanjo Kimitomo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	1233.1.1={
+		birth="1233.1.1"
+	}
+	1280.1.1={
+		death="1280.1.1"
+	}
+}
+409458 = {
+	name="Kimitaka"	#Sanjo Kimitaka
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	1235.1.1={
+		birth="1235.1.1"
+	}
+	1290.1.1={
+		death="1290.1.1"
+	}
+}
+409459 = {
+	name="Kimisue"	#Sanjo Kimisue
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	1237.1.1={
+		birth="1237.1.1"
+	}
+	1298.1.1={
+		death="1298.1.1"
+	}
+}
+409460 = {
+	name="Kinson"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+409461 = {
+	name="Jitsuen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1241.1.1={
+		birth="1241.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+409462 = {
+	name="Joshin"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+409463 = {
+	name="Chojo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1217.1.1={
+		birth="1217.1.1"
+	}
+	1291.1.1={
+		death="1291.1.1"
+	}
+}
+409464 = {
+	name="Fukasuke"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1224.1.1={
+		birth="1224.1.1"
+	}
+	1279.1.1={
+		death="1279.1.1"
+	}
+}
+409465 = {
+	name="Kyosuke"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1239.1.1={
+		birth="1239.1.1"
+	}
+	1307.1.1={
+		death="1307.1.1"
+	}
+}
+409466 = {
+	name="Kozen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1243.1.1={
+		birth="1243.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+409467 = {
+	name="Enzen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1245.1.1={
+		birth="1245.1.1"
+	}
+	1310.1.1={
+		death="1310.1.1"
+	}
+}
+409468 = {
+	name="Koyu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409443
+	trait=monk
+	1249.1.1={
+		birth="1249.1.1"
+	}
+	1319.1.1={
+		death="1319.1.1"
+	}
+}
+#Issue of Sanjo Kimichika
+409469 = {
+	name="Saneshige"	#Sanjo Saneshige
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1329.7.23={
+		death="1329.7.23"
+	}
+}
+409470 = {
+	name="Sanetsugu"	#Sanjo Sanetsugu
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	1261.1.1={
+		birth="1261.1.1"
+	}
+	1313.1.1={
+		death="1313.1.1"
+	}
+}
+409471 = {
+	name="Jizen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1318.1.1={
+		death="1318.1.1"
+	}
+}
+409472 = {
+	name="Jisho"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1311.1.1={
+		death="1311.1.1"
+	}
+}
+409473 = {
+	name="Jiben"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409474 = {
+	name="Shinen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1315.1.1={
+		death="1315.1.1"
+	}
+}
+409475 = {
+	name="Kyosuke"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1271.1.1={
+		birth="1271.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+409476 = {
+	name="Jitsuyo"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1273.1.1={
+		birth="1273.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+409477 = {
+	name="Jikaku"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1275.1.1={
+		birth="1275.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+409478 = {
+	name="Ryosuke"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+409479 = {
+	name="Dokyu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1279.1.1={
+		birth="1279.1.1"
+	}
+	1345.1.1={
+		death="1345.1.1"
+	}
+}
+409480 = {
+	name="Joku"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+409481 = {
+	name="Sanjun"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1283.1.1={
+		birth="1283.1.1"
+	}
+	1342.1.1={
+		death="1342.1.1"
+	}
+}
+409482 = {
+	name="Jicho"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1285.1.1={
+		birth="1285.1.1"
+	}
+	1322.1.1={
+		death="1322.1.1"
+	}
+}
+409483 = {
+	name="Gien"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1287.1.1={
+		birth="1287.1.1"
+	}
+	1346.1.1={
+		death="1346.1.1"
+	}
+}
+409484 = {
+	name="Gyosan"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1281.1.1={
+		birth="1281.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+409485 = {
+	name="Jiyu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	trait=monk
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1349.1.1={
+		death="1349.1.1"
+	}
+}
+409486 = {
+	name="Fusako"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	1280.1.1={
+		birth="1280.1.1"
+	}
+	1337.1.1={
+		death="1337.1.1"
+	}
+}
+409487 = {
+	name="Onkata"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	1255.1.1={
+		birth="1255.1.1"
+	}
+	1309.1.1={
+		death="1309.1.1"
+	}
+}
+409488 = {
+	name="Mikushige"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409455
+	1278.1.1={
+		birth="1278.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+#Issue of Sanjo Saneshige
+409489 = {
+	name="Kimimochi"	#Kimimochi Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409469
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1324.2.4={
+		death="1324.2.4"
+	}
+}
+409490 = {
+	name="Sanetada"	#Sanetada Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409469
+	1304.1.1={
+		birth="1304.1.1"
+	}
+	1347.2.14={
+		death="1347.2.14"
+	}
+}
+409491 = {
+	name="Kiminobu"	#Kiminobu Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409469
+	1307.1.1={
+		birth="1307.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+409492 = {
+	name="Kimikyu"	#Kimikyu Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409469
+	1309.1.1={
+		birth="1309.1.1"
+	}
+	1377.1.1={
+		death="1377.1.1"
+	}
+}
+#Issue of Sanetada Sanjo
+409493 = {
+	name="Kintada"	#Sanjo Kintada
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409490
+	1324.9.5={
+		birth="1324.9.5"
+	}
+	1384.1.17={
+		death="1384.1.17"
+	}
+}
+409494 = {
+	name="Kimine"	#Sanjo Kimine
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409490
+	trait=monk
+	1326.1.1={
+		birth="1326.1.1"
+	}
+	1381.1.1={
+		death="1381.1.1"
+	}
+}
+#Issue of Sanjo Kintada
+409495 = {
+	name="Saneto"	#Sanjo Saneto
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	1354.11.25={
+		birth="1354.11.25"
+	}
+	1411.12.2={
+		death="1411.12.2"
+	}
+}
+409496 = {
+	name="Yoshiko"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	1351.1.1={
+		birth="1351.1.1"
+	}
+	1407.2.14={
+		death="1407.2.14"
+	}
+}
+409497 = {
+	name="Jitsuen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=monk
+	1356.1.1={
+		birth="1356.1.1"
+	}
+	1417.1.1={
+		death="1417.1.1"
+	}
+}
+409498 = {
+	name="Jizen"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=monk
+	1369.1.1={
+		birth="1369.1.1"
+	}
+	1408.1.1={
+		death="1408.1.1"
+	}
+}
+409499 = {
+	name="Jotsu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=monk
+	1360.1.1={
+		birth="1360.1.1"
+	}
+	1418.1.1={
+		death="1418.1.1"
+	}
+}
+409500 = {
+	name="Gisho"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=monk
+	1364.1.1={
+		birth="1364.1.1"
+	}
+	1411.1.1={
+		death="1411.1.1"
+	}
+}
+409501 = {
+	name="Chiyashamaru"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	1363.1.1={
+		birth="1363.1.1"
+	}
+	1370.1.1={
+		death="1370.1.1"
+	}
+}
+409502 = {
+	name="Sontakemaru"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	1366.1.1={
+		birth="1366.1.1"
+	}
+	1372.1.1={
+		death="1372.1.1"
+	}
+}
+409503 = {
+	name="Zenken"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=monk
+	1373.1.1={
+		birth="1373.1.1"
+	}
+	1440.1.1={
+		death="1440.1.1"
+	}
+}
+409504 = {
+	name="Eishu"
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409493
+	trait=nun
+	1371.1.1={
+		birth="1371.1.1"
+	}
+	1438.1.1={
+		death="1438.1.1"
+	}
+}
+#Issue of Sanjo Saneto
+409505 = {
+	name="Kinnobu"	#Sanjo Kinnobu
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409495
+	1383.1.1={
+		birth="1383.1.1"
+	}
+	1410.1.1={
+		death="1410.1.1"
+	}
+}
+409506 = {
+	name="Kinyu"	#Sanjo Kinyu
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409495
+	1391.1.1={
+		birth="1391.1.1"
+	}
+	1459.5.3={
+		death="1459.5.3"
+	}
+}
+409507 = {
+	name="Kosho"	#Sanjo Kosho
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409495
+	trait=monk
+	1406.1.1={
+		birth="1406.1.1"
+	}
+	1485.5.3={
+		death="1485.5.3"
+	}
+}
+#Issue of Sanjo Kinyu
+409508 = {
+	name="Sanenkazu"	#Sanjo Sanenkazu
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409506
+	1415.1.1={
+		birth="1415.1.1"
+	}
+	1484.1.17={
+		death="1484.1.17"
+	}
+}
+409509 = {
+	name="Suekane"	#Suekane Minase
+	dynasty=29201
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409506
+	1430.1.1={
+		birth="1430.1.1"
+	}
+	1502.1.1={
+		death="1502.1.1"
+	}
+}
+409510 = {
+	name="Goryojin"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409506
+	1420.1.1={
+		birth="1420.1.1"
+	}
+	1475.1.1={
+		death="1475.1.1"
+	}
+}
+409511 = {
+	name="Sanesuke"	#Sanjo Sanesuke
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409506
+	trait=monk
+	1417.1.1={
+		birth="1417.1.1"
+	}
+	1482.1.1={
+		death="1482.1.1"
+	}
+}
+#Issue of Sanjo Sanenkazu
+409512 = {
+	name="Kimiatsu"	#Sanjo Kimiatsu 
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	1439.1.1={
+		birth="1439.1.1"
+	}
+	1507.5.19={
+		death="1507.5.19"
+	}
+}
+409513 = {
+	name="Fuyuko"	#Sanjo Fuyuko
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	1441.1.1={
+		birth="1441.1.1"
+	}
+	1489.1.1={
+		death="1489.1.1"
+	}
+}
+409513 = {
+	name="Nobukazu"	#Oinomikado Nobukazu
+	dynasty=29055
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	1442.1.1={
+		birth="1442.1.1"
+	}
+	1487.8.22={
+		death="1487.8.22"
+	}
+}
+409514 = {
+	name="Kimiaki"	#Sanjo Kimiaki 
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	trait=monk
+	1422.1.1={
+		birth="1422.1.1"
+	}
+	1480.1.1={
+		death="1480.1.1"
+	}
+}
+409515 = {
+	name="Kinsuke"	#Sanjo Kinsuke 
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	trait=monk
+	1465.1.1={
+		birth="1465.1.1"
+	}
+	1534.1.1={
+		death="1534.1.1"
+	}
+}
+409516 = {
+	name="Kakuhen"	#Sanjo Kakuhen 
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409508
+	trait=monk
+	1455.1.1={
+		birth="1455.1.1"
+	}
+	1515.1.1={
+		death="1515.1.1"
+	}
+}
+#Issue of Sanjo Kimiatsu
+409517 = {
+	name="Saneka"	#Saneka Sanjo
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409512
+	1469.1.1={
+		birth="1469.1.1"
+	}
+	1559.4.2={
+		death="1559.4.2"
+	}
+}
+#Issue of Saneka Sanjo
+409518 = {
+	name="Kinyori"	#Sanjo Kinyori
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409517
+	1495.1.1={
+		birth="1495.1.1"
+	}
+	1551.9.30={
+		death="1551.9.30"
+	}
+}
+#Issue of Sanjo Kinyori
+409519 = {
+	name="Kata"	#Sanjo no Kata
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409518
+	1521.1.1={
+		birth="1521.1.1"
+	}
+	1570.8.29={
+		death="1570.8.29"
+	}
+}
+409520 = {
+	name="Nyojun-ni"
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409518
+	1544.1.1={
+		birth="1544.1.1"
+	}
+	1598.2.21={
+		death="1598.2.21"
+	}
+}
+#Issue of Oinomikado Nobukazu
+409521 = {
+	name="Tsunena"	#Oinomikado Tsunena
+	dynasty=29055
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409513
+	1480.1.1={
+		birth="1480.1.1"
+	}
+	1553.5.6={
+		death="1553.5.6"
+	}
+}
+409522 = {
+	name="Kinjoro"	#Oinomikado Kinjoro
+	female=yes
+	dynasty=29055
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409513
+	1475.1.1={
+		birth="1475.1.1"
+	}
+	1537.1.1={
+		death="1537.1.1"
+	}
+}
+#Issue of Sanjo Kimiyasu
+409523 = {
+	name="Sanemori"	#Sanji Sanemori
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	1259.1.1={
+		birth="1259.1.1"
+	}
+	1304.8.23={
+		death="1304.8.23"
+	}
+}
+409524 = {
+	name="Sanenaga"	#Sanjo Sanenaga
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	1262.1.1={
+		birth="1262.1.1"
+	}
+	1312.4.13={
+		death="1312.4.13"
+	}
+}
+409525 = {
+	name="Kimimasa"	#Sanjo Kimimasa
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	1263.1.1={
+		birth="1263.1.1"
+	}
+	1306.1.1={
+		death="1306.1.1"
+	}
+}
+409526= {
+	name="Jitsukai"	#Sanjo Jitsukai
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1265.1.1={
+		birth="1265.1.1"
+	}
+	1312.1.1={
+		death="1312.1.1"
+	}
+}
+409527= {
+	name="Kosho"	#Sanjo Kosho
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1321.1.1={
+		death="1321.1.1"
+	}
+}
+409528= {
+	name="Jitsuson"	#Sanjo Jitsuson
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1269.1.1={
+		birth="1269.1.1"
+	}
+	1333.1.1={
+		death="1333.1.1"
+	}
+}
+409529= {
+	name="Jitsuken"	#Sanjo Jitsuken
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1272.1.1={
+		birth="1272.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+409530= {
+	name="Chukai"	#Sanjo Chukai
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1274.1.1={
+		birth="1274.1.1"
+	}
+	1347.1.1={
+		death="1347.1.1"
+	}
+}
+409531= {
+	name="Gyosan"	#Sanjo Gyosan
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1276.1.1={
+		birth="1276.1.1"
+	}
+	1341.1.1={
+		death="1341.1.1"
+	}
+}
+409532= {
+	name="Joro"	#Sanjo Joro
+	female=yes
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409456
+	trait=monk
+	1267.1.1={
+		birth="1267.1.1"
+	}
+	1338.1.1={
+		death="1338.1.1"
+	}
+}
+#Issue of Sanjo Sanemori
+409533 = {
+	name="Kimihisa"	#Sanjo Kimihisa
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409523
+	1284.1.1={
+		birth="1284.1.1"
+	}
+	1339.1.1={
+		death="1339.1.1"
+	}
+}
+409534 = {
+	name="Kintada"	#Sanjo Kintada
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409523
+	1289.1.1={
+		birth="1289.1.1"
+	}
+	1350.1.1={
+		death="1350.1.1"
+	}
+}
+409535 = {
+	name="Kimisada"	#Sanjo Kimisada
+	dynasty=28386
+	religion="nihon_shinto"
+	culture="japanese"
+	trait="kuge"
+	father=409523
+	1293.1.1={
+		birth="1293.1.1"
+	}
+	1358.1.1={
+		death="1358.1.1"
+	}
+}
+#Issue of Sasaki Suesada https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E7%88%B2%E4%BF%8A 28387

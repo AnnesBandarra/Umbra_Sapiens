@@ -1494,6 +1494,9 @@
 	1221.7.29={
 		name = "Go-Horikawa"
 	}
+	1223.2.25={
+		add_spouse = 409445
+	}
 	1234.8.31={
 		death="1234.8.31"
 	}
@@ -1534,6 +1537,9 @@
 	1242.2.21={
 		name = "Go-Saga"
 	}
+	1242.9.5={
+		add_spouse = 409110
+	}
 	1272.2.17={
 		death="1272.2.17"
 	}
@@ -1548,11 +1554,15 @@
 	add_trait="kuge"
 	add_trait="amateurish_plotter"
 	father=1000075367
+	mother=409110
 	1243.6.10={
 		birth="1243.6.10"
 	}
 	1246.2.16={
 		name = "Go-Fukakusa"
+	}
+	1257.2.14={
+		add_spouse=409111
 	}
 	1304.7.16={
 		death="1304.7.16"
@@ -1568,11 +1578,15 @@
 	add_trait="kuge"
 	add_trait="amateurish_plotter"
 	father=1000075367
+	mother=409110
 	1249.7.9={
 		birth="1249.7.9"
 	}
 	1260.1.9={
 		name = "Kameyama"
+	}
+	1261.8.20={
+		add_spouse = 409128
 	}
 	1305.10.4={
 		death="1305.10.4"
@@ -1634,6 +1648,9 @@
 	}
 	1298.8.30={
 		name = "Go-Fushimi"
+	}
+	1309.1.1={
+		add_spouse = 409155
 	}
 	1336.5.17={
 		death="1336.5.17"
@@ -1706,6 +1723,9 @@
 	1318.3.29={
 		name = "Go-Daigo"
 	}
+	1319.9.21={
+		add_spouse = 409149
+	}
 	1339.9.19={
 		death="1339.9.19"
 	}
@@ -1721,6 +1741,7 @@
 	add_trait="amateurish_plotter"
 	add_trait="poet"
 	father=1000075372
+	mother=409155
 	1313.8.1={
 		birth="1313.8.1"
 	}

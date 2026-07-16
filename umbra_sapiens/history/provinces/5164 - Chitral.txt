@@ -1,0 +1,18 @@
+# 5164 - Chitral
+
+# County Title
+title = c_chitral
+
+# Settlements
+max_settlements = 6
+b_chitral-i = castle
+b_chitral-ii = castle
+b_chitral-iii = castle
+#b_chitral-iv = castle
+#b_chitral-v = castle
+
+# Misc
+culture = kalash
+religion = kalash_pagan
+
+# History

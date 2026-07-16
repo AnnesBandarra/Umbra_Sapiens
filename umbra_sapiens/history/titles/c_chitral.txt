@@ -1,0 +1,61 @@
+740.1.1={
+	liege=d_chitral
+	holder=409088 #Bahman Kohistani
+}
+796.1.1={
+	holder=409090
+}
+843.1.1={
+	holder=409091
+}
+887.1.1={
+	holder=409092
+}
+917.1.1={
+	holder=409093
+}
+967.1.1={
+	holder=409094
+}
+1015.1.1={
+	holder=409095
+}
+1063.1.1={
+	holder=409096
+}
+1096.1.1={
+	holder=409097
+}
+1144.1.1={
+	holder=409098
+}
+1194.1.1={
+	holder=409099
+}
+1238.1.1={
+	holder=409100
+}
+1291.1.1={
+	holder=409101
+}
+1320.1.1={
+	holder = 409103 # Shah Nadir Rais
+}
+1368.1.1={
+	holder = 409104
+}
+1408.1.1={
+	holder = 409105
+}
+1447.1.1={
+	holder = 409106
+}
+1490.1.1={
+	holder = 409107
+}
+1560.1.1={
+	holder = 409108	#Sangeen Ali
+}
+1585.1.1={
+	holder = 409109	#Shah Muhtarram Shah Kator
+}
