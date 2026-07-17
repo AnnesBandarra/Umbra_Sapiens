@@ -22,7 +22,7 @@
 }
 936.1.1 = {
 	holder = 261364
-	liege = d_pechina
+	liege = d_granada
 }
 961.10.15={
 	holder=3202 # al-Hakam II Umayyad

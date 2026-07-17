@@ -1,6 +1,6 @@
 762.1.1={
 	holder=145809
-	liege="d_peloponnese"
+	liege="d_achaia"
 }
 804.1.1 = {
 	liege = "0"

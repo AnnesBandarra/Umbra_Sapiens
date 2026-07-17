@@ -28,7 +28,7 @@
 }
 1360.1.1={
 	holder=395975
-	holder="d_oyotwo"
+	liege="d_oyotwo"
 }
 1367.1.1={
 	holder=395976
