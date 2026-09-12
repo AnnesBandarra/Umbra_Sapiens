@@ -92,6 +92,8 @@ on_yearly_pulse = {
 		colonialevents.11
 		colonialevents.12
 		colonialevents.13
+		colonialevents.57
+		colonialevents.58
 		colonialevents.25
 		colonialevents.26
 		colonialevents.27

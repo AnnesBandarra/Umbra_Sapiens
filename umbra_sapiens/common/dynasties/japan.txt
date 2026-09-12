@@ -322,11 +322,6 @@
     culture= japanese
     religion="nihon_shinto"
 }
-28292 = {
-    name="Ando"
-    culture= japanese
-    religion="nihon_shinto"
-}
 28293 = {
     name="Asakura"
     culture= japanese
@@ -572,11 +567,6 @@
 }
 28336 = {
     name="Kiso"
-    culture= japanese
-    religion="nihon_shinto"
-}
-28337 = {
-    name="Kitabatake"
     culture= japanese
     religion="nihon_shinto"
 }
@@ -2275,7 +2265,7 @@
     religion="nihon_shinto"
 }
 28682 = {
-    name="Oshu"
+    name="Oshu Kira"
     culture= japanese
     religion="nihon_shinto"
 }
@@ -2689,11 +2679,6 @@
     culture= japanese
     religion="nihon_shinto"
 }
-28765 = {
-    name="Hara"
-    culture= japanese
-    religion="nihon_shinto"
-}
 28766 = {
     name="Murasawa"
     culture= japanese
@@ -2971,11 +2956,6 @@
 }
 28821 = {
     name="So"
-    culture= japanese
-    religion="nihon_shinto"
-}
-28822 = {
-    name="Oda"
     culture= japanese
     religion="nihon_shinto"
 }
@@ -4126,11 +4106,6 @@
 	culture = japanese
 	religion="nihon_shinto"
 }
-29052 = {
-	name="Hori"
-	culture = japanese
-	religion="nihon_shinto"
-}
 29053 = {
 	name="Tachibana"
 	culture = japanese
@@ -4287,7 +4262,7 @@
     religion="nihon_shinto"
 }
 29084 = {
-    name="Kitahata"
+    name="Kitabatake"
     culture= japanese
     religion="nihon_shinto"
 }
@@ -4980,6 +4955,506 @@
 }
 29208 = {
     name="Naito"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29209 = {
+    name="Oshu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29210 = {
+    name="Naga"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29211 = {
+    name="Koide"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29212 = {
+    name="Hoshina"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29213 = {
+    name="Ichiyanagi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29214 = {
+    name="Settsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29215 = {
+    name="Tsugawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29216 = {
+    name="Ishigaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29217 = {
+    name="Matsunami"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29218 = {
+    name="Horiuchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29219 = {
+    name="Idaira"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29220 = {
+    name="Lida"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29221 = {
+    name="Awakamo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29222 = {
+    name="Muko"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29223 = {
+    name="Sandanzaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29224 = {
+    name="Ito"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29225 = {
+    name="Shimoma"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29226 = {
+    name="Kanamori"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29227 = {
+    name="Togashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29228 = {
+    name="Yamakawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29229 = {
+    name="Owari Togashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29230 = {
+    name="Dewa Togashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29231 = {
+    name="Tsubouchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29232 = {
+    name="Maeno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29233 = {
+    name="Kaneko"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29234 = {
+    name="Yamashiro"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29235 = {
+    name="Ieaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29236 = {
+    name="Agata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29237 = {
+    name="Oshino Goto"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29238 = {
+    name="Kosugi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29239 = {
+    name="Okuwa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29240 = {
+    name="Sawaki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29241 = {
+    name="Jinbo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29242 = {
+    name="Nakanishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29243 = {
+    name="Suzuki"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29244 = {
+    name="Nozawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29245 = {
+    name="Taneichi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29246 = {
+    name="Ishikawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29247 = {
+    name="Ishikame"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29248 = {
+    name="Kemanai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29249 = {
+    name="Narayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29250 = {
+    name="Hatta"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29251 = {
+    name="Ujiie"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29252 = {
+    name="Shioya"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29253 = {
+    name="Akimoto"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29254 = {
+    name="Mashiko"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29255 = {
+    name="Tako"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29256 = {
+    name="Mumo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29257 = {
+    name="Kamike"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29258 = {
+    name="Shiroi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29259 = {
+    name="Iezuka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29260 = {
+    name="Sakimi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29261 = {
+    name="Kii"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29263 = {
+    name="Matsuno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29264 = {
+    name="Kasama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29265 = {
+    name="Nyohoji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29266 = {
+    name="Ijira"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29267 = {
+    name="Motegi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29268 = {
+    name="Shishido"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29269 = {
+    name="Takano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29270 = {
+    name="Nagae"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29271 = {
+    name="Tano"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29272 = {
+    name="Iono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29273 = {
+    name="Ebara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29274 = {
+    name="Ajioka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29275 = {
+    name="Kawada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29276 = {
+    name="Yata"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29277 = {
+    name="Tsuda"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29278 = {
+    name="Iio"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29279 = {
+    name="Yokoi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29280 = {
+    name="Tsuge"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29281 = {
+    name="Yanada"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29282 = {
+	name="Oda Shima"
+	culture = japanese
+	religion="nihon_shinto"
+}
+29283 = {
+    name="Murai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29284 = {
+    name="Fukawa"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29285 = {
+    name="Banno"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29286 = {
+    name="Yamagishi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29287 = {
+    name="Miyake"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29288 = {
+    name="Shinji"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29289 = {
+    name="Nagasaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29290 = {
+    name="Ohisashi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29291 = {
+    name="Mizoguchi"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29292 = {
+    name="Matsudaira"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29293 = {
+    name="Wakisaka"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29294 = {
+    name="Sagami Miura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29295 = {
+    name="Gohojo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29296 = {
+    name="Katsurayama"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29297 = {
+    name="Utsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29298 = {
+    name="Utsu"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29299 = {
+    name="Hosono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29300 = {
+    name="Shirai"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29301 = {
+    name="Kaiho"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29302 = {
+    name="Tojo"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29303 = {
+    name="Nakazato"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29304 = {
+    name="Komono"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29305 = {
+    name="Hirobue"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29306 = {
+    name="Sakakibara"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29307 = {
+    name="Kanemaru"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29308 = {
+    name="Makimura"
+    culture= japanese
+    religion="nihon_shinto"
+}
+29309 = {
+    name="Osada"
     culture= japanese
     religion="nihon_shinto"
 }

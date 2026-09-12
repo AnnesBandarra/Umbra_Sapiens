@@ -525,6 +525,8 @@ e_japan = {
 				color2={ 255 255 255 }
 				
 					holy_site = nihon_shinto
+					holy_site = ainu_pantheism
+					holy_site = ainu_pantheism_reformed
 
                 		b_kofukuji = { # temple
                 		}
@@ -1119,9 +1121,6 @@ e_japan = {
 
 			color={ 59 153 79 }
 			color2={ 255 255 255 }
-			
-				holy_site = ainu_pantheism
-				holy_site = ainu_pantheism_reformed
 
                 	b_oshima = {
                 	}
@@ -1144,9 +1143,6 @@ e_japan = {
 
 			color={ 39 163 69 }
 			color2={ 255 255 255 }
-			
-				holy_site = ainu_pantheism
-				holy_site = ainu_pantheism_reformed
 
                 	b_ishikari = {
                 	}
@@ -1202,9 +1198,6 @@ e_japan = {
 
 			color={ 59 103 29 }
 			color2={ 255 255 255 }
-			
-					holy_site = ainu_pantheism
-					holy_site = ainu_pantheism_reformed
 
                 	b_tomari = {
                 	}
@@ -1227,6 +1220,8 @@ e_japan = {
 
 			color={ 49 123 19 }
 			color2={ 255 255 255 }
+					holy_site = ainu_pantheism
+					holy_site = ainu_pantheism_reformed
 
                 	b_sakhalin = {
                 	}

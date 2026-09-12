@@ -9206,7 +9206,31 @@ add_ascetic_trait_effect = {
 			add_trait = aryika
 		}
 		if = {
-			limit = { religion = buddhist }
+			limit = {
+				OR={
+		   	religion = buddhist
+			AND={
+			religion = thangiao
+			OR={
+			trait = thien_thai_buddhist
+			trait = hoa_nghiem_buddhist
+			trait = thien_tong_buddhist
+			trait = tinh_do_buddhist
+			}
+			}
+			religion = nihon_shinto
+			religion = shingyo
+			AND={
+			religion = taoist
+			OR={
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+			}
+			}
+			}
 			add_trait = bhikkhuni
 		}
 		if = {
@@ -9225,7 +9249,31 @@ add_ascetic_trait_effect = {
 			add_trait = muni
 		}
 		if = {
-			limit = { religion = buddhist }
+			limit = { 
+			OR={
+		   	religion = buddhist
+			AND={
+			religion = thangiao
+			OR={
+			trait = thien_thai_buddhist
+			trait = hoa_nghiem_buddhist
+			trait = thien_tong_buddhist
+			trait = tinh_do_buddhist
+			}
+			}
+			religion = nihon_shinto
+			religion = shingyo
+			AND={
+			religion = taoist
+			OR={
+			trait = tiantai_buddhist
+			trait = huayan_buddhist
+			trait = jingtuzong_buddhist
+			trait = chan_buddhist
+			}
+			}
+			}
+			}
 			add_trait = bhikkhu
 		}
 		if = {
