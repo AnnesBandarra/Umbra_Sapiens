@@ -4,7 +4,7 @@
 title = c_yamashiro
 
 # Settlements
-max_settlements = 6
+max_settlements = 7
 b_dairi = castle
 b_heiankyo = city
 b_gion = temple
@@ -27,4 +27,16 @@ set_wonder_name = KYOTOUNIVERSITY
 set_wonder_description = KYOTOUNIVERSITYDESC
 build_wonder_upgrade = upgrade_great_seminars
 build_wonder_upgrade = upgrade_wing_of_stewardship
+}
+1333.7.4={
+	b_muromachi=castle
+}
+1333.7.4={
+	capital=b_muromachi
+}
+1336.7.5={
+	b_heiankyo=castle
+}
+1450.1.1={
+	b_fushimi = city
 }

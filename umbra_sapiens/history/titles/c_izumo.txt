@@ -224,8 +224,18 @@
 1190.1.1={
 	holder=407967	#Morinaga Adachi
 }
-1199.1.1={
-	holder=0
+1192.7.12={
+	holder=	405016 #Minamoto no Yoritomo
+	liege="k_japan"
+}
+1199.2.9={
+	holder=	406693 #Tokimasa Hojo
+}
+1205.1.1={
+	holder=	406695 #Yoshitoki Hojo
+}
+1224.6.13={
+	holder=	406781 #Yasutoki Hojo
 }
 1225.1.1={
 	holder=408398	#Yoshikiyo Sasaki
@@ -291,7 +301,7 @@
 	holder=408706	#Kyogoku Masatsune
 }
 1508.11.27={
-	holder=408615	#Tsunehisa Amago
+	holder=408585	#Tsunehisa Amago
 }
 1537.1.1={
 	holder=408596	#Haruhisa Amago
@@ -301,9 +311,16 @@
 }
 1566.11.21={
 	holder=403867	#Mōri Terumoto
+	liege="d_sanyo"
+}
+1583.1.1={
+	liege="d_tokai"
 }
 1601.10.10={
 	holder=408734	#Horio Yoshiharu
+}
+1603.3.24={
+	liege="k_japan"
 }
 1611.7.26={
 	holder=408740	#Tadaharu Horio

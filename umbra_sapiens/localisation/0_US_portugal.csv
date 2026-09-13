@@ -324,6 +324,12 @@ EVTOPTAcolonialevents.13;Caching!;;;;;;;;;;;;;x
 EVTNAMEcolonialevents.14;Income from Australia;;;;;;;;;;;;;x
 EVTDESCcolonialeventsR.14;Australia provides valuable seal skins and whale oil. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
 EVTOPTAcolonialevents.14;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.55;Income from Siberia;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.55;Siberia yields plenty of furs, ivory and rhubarb. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.55;Caching!;;;;;;;;;;;;;x
+EVTNAMEcolonialevents.55;Income from the Eastern Steppe;;;;;;;;;;;;;x
+EVTDESCcolonialeventsR.55;The eastern steppe yields primarly fur seals and sea otter pelts. We have finally finished accounting for this year's profit.;;;;;;;;;;;;;x
+EVTOPTAcolonialevents.55;Caching!;;;;;;;;;;;;;x
 colonialevents.15;Methodist Pioners;;;;;;;;;;;;;x
 EVTDESCcolonialeventsR.15;Methodist Pioners have migrated to the province of [ROOT.GetName].;;;;;;;;;;;;;x
 EVTOPTAcolonialevents.15;Good;;;;;;;;;;;;;x

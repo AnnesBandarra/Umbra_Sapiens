@@ -244,5 +244,70 @@
 	holder=404937	#Fujiwara no Yasuhira
 }
 1189.10.14={
-	holder=0	#Battle of Oshu
+	holder=404240	#Isa Tomomune
+	liege="e_japan"
+}
+1192.7.12={
+	liege="k_japan"
+}
+1199.10.23={
+	holder=404243	#Date no Munemura
+}
+1251.11.17={
+	holder=404252	#Date Yoshihiro
+}
+1256.10.12={
+	holder=404253	#Masayori Date
+}
+1301.8.13={
+	holder=404254	#Munetsuna Date
+}
+1317.3.20={
+	holder=404257	#Date Motomune
+}
+1335.8.28={
+	holder=404260	#Date no Yukimune
+}
+1348.6.6={
+	holder=404261	#Date no Muneto
+}
+1385.6.28={
+	holder=404264	#Date no Masamune
+}
+1405.10.7={
+	holder=404266	#Date no Ujimune
+}
+1412.8.24={
+	holder=404267	#Date no Mochimune
+}
+1469.2.19={
+	holder=404269	#Date Narimune
+}
+1487.10.11={
+	holder=404273	#Date Naomune
+}
+1514.5.28={
+	holder=404275	#Date no Tanemune
+}
+1521.1.1={
+	liege="d_tohoku"
+}
+1548.9.1={
+	holder=404289	#Date no Harumune
+	liege="k_japan"
+}
+1565.1.1={
+	holder=404318	#Terumune Date
+}
+1573.7.1={
+	liege="e_japan"
+}
+1581.10.12={
+	holder=404334	#Masamune Date
+}
+1603.3.24={
+	liege="k_japan"
+}
+1636.6.27={
+	holder=404339	#Date Tadamune
 }

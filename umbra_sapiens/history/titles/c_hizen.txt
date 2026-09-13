@@ -194,6 +194,9 @@
 1175.1.1={
 	holder=	405489	#Matsuura Minehira
 }
+1192.7.12={
+	liege="k_japan"
+}
 1215.1.1={
 	holder=	405490	#Matsuura Sanenobu Made up
 }
@@ -239,6 +242,9 @@
 }
 1584.5.4={
 	holder=	405773	#Masaie Ryuzoji
+}
+1603.3.24={
+	liege="k_japan"
 }
 1607.11.21={
 	holder= 405837	#Nabeshima Naoshige

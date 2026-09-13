@@ -20,3 +20,9 @@ culture = japanese
 religion = nihon_shinto
 
 # History
+1531.1.1={
+	capital = b_hakusan
+}
+1583.6.11={
+	capital = b_kaga
+}

@@ -4,3 +4,13 @@
 941.5.1={
 	holder = 0
 }
+1575.1.1={
+	holder = 406542	#Chōsokabe Motochika
+	liege="e_japan"
+}
+1599.5.19={
+	holder = 406563	#Chosokabe Morichika
+}
+1600.10.21={
+	holder = 0
+}

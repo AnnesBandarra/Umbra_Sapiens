@@ -209,107 +209,104 @@
 	holder = 1000075358 #Emperor Takakura
 }
 
-1180.5.18={
-	holder = 1000075359 #Emperor Antoku
+1180.4.1={
+	holder=	401982 #Nobuyoshi Takeda
 }
-
-1183.9.8={
-	holder = 1000075360 #Emperor Go-Toba
+1184.1.1={
+	holder=	406693 #Tokimasa Hojo
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1192.7.12={
+	liege="k_japan"
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1210.1.1={
+	holder=	406695 #Yoshitoki Hojo
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1224.6.13={
+	holder=	406781 #Yasutoki Hojo
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1242.7.14={
+	holder=	406903 #Hojo Tokiyori
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1256.1.1={
+	holder=	406875 #Hojo Nagatoki
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+1264.1.1={
+	holder=	406785 #Hojo Masamura
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1268.1.1={
+	holder=	406908 #Hojo Tokimune
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1279.1.1={
+	holder=	406869 #Tokimori Hojo
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1292.1.1={
+	holder=	406915 #Sadatoki HOJO
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1311.12.6={
+	holder=	406920 #Takatoki Hojo
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1333.7.4={
+	holder=	410766 #Yoshifusa Ishito
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1338.1.1={
+	holder=	402446 #Norikuni Imagawa
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1353.1.1={
+	holder=	402448 #Nori Imakawa
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1365.5.21={
+	holder=	402452 #Ujiie Imagawa
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1369.1.1={
+	holder=	402453 #Yasunori Imakawa
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1409.11.3={
+	holder=	402454 #Norimasa Imakawa
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1433.6.14={
+	holder=	402458 #Noritada Imakawa
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1461.7.4={
+	holder=	402463 #Imagawa Yoshitada
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1476.3.1={
+	holder=	402464 #Ujichika Imakawa
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1526.8.1={
+	holder=	402466 #Ujiteru Imakawa
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1536.4.7={
+	holder=	402470 #Yoshimoto Imakawa
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1560.6.12={
+	holder=	402474 #Imagawa Ujizane
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1568.1.1={
+	holder = 402066	#Takeda Shingen
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1573.5.13={
+	holder = 402104	#Takeda Katsuyori
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1573.7.1={
+	liege="e_japan"
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1582.4.3={
+	holder = 403142	#Tokugawa Ieyasu
+	liege="d_tokai"
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1590.8.4={
+	holder = 410762	#Nakamura Kazuichi
+}
+1600.10.21={
+	holder = 403142	#Tokugawa Ieyasu
+}
+1603.3.24={
+	liege="k_japan"
+}
+#1605.4.16 Ieyasu retired but keeps province
+1616.6.1={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
 }

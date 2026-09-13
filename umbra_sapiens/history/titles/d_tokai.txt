@@ -1,0 +1,16 @@
+1559.1.1={
+	holder= 410448	#Oda Nobunaga
+	liege="k_japan"
+}
+1573.7.1={
+	liege="e_japan"
+}
+1582.6.21={
+	holder= 411305	#Hideyoshi Toyotomi
+}
+1598.9.18={
+	holder= 403142	#Tokugawa Ieyasu
+}
+1603.3.24={
+	holder = 0	#Becomes Shogun
+}

@@ -4,9 +4,9 @@
 title = c_kusuri
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 b_kusuri = tribal
-b_nemuro = tribal
+b_nemuro = temple
 
 #b_soya = castle
 #b_shari = castle

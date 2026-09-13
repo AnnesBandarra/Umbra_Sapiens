@@ -1,4 +1,4 @@
-740.1.1 = {
+7740.1.1 = {
 	historical_nomad = yes
 	holder = 1020200021
 }

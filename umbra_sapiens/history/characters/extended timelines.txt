@@ -4432,8 +4432,8 @@
 	1448.1.1 = {
 		birth="1448.1.1"
 	}
-	1472.1.1 = {
-		death="1472.1.1"
+	1472.8.1 = {
+		death="1472.8.1"
 	}
 }
 370285 = {
@@ -4446,8 +4446,8 @@
 	1450.1.1 = {
 		birth="1450.1.1"
 	}
-	1484.1.1 = {
-		death="1484.1.1"
+	1484.8.29 = {
+		death="1484.8.29"
 	}
 }
 370286 = {
@@ -4797,8 +4797,8 @@
 	1501.1.1 = {
 		birth="1501.1.1"
 	}
-	1571.1.1 = {
-		death="1571.1.1"
+	1571.8.22 = {
+		death="1571.8.22"
 	}
 }
 370310 = {
@@ -5217,7 +5217,7 @@
 }
 #Issue of Teodósio I, 5th Duke of Braganza
 370338 = {
-	name="João" # D.João I 6th Duke of Braganza
+	name="João" #D.João I 6th Duke of Braganza
 	dynasty=1010043106
 	religion="catholic"
 	culture="portuguese"
@@ -5740,8 +5740,8 @@
 	1568.1.1 = {
 		birth="1568.1.1"
 	}
-	1630.1.1 = {
-		death="1630.1.1"
+	1630.11.29 = {
+		death="1630.11.29"
 	}
 }
 370374 = {
@@ -233717,7 +233717,7 @@
 }
 #Issue of Fernando de Noronha, 2.º Conde de Vila Real
 386656 = {
-	name="Pedro" #D. Pedro de Meneses, 1.º Marquês de Vila Real 
+	name="Pedro" #D. Pedro de Meneses, 1.º Marquês de Vila Real
 	dynasty=1010044673
 	religion="catholic"
 	culture="portuguese"
@@ -412699,6 +412699,9 @@
 	1242.12.15={
 		birth="1242.12.15"
 	}
+	1272.1.1={
+		trait="bhikkhu"
+	}
 	1274.9.2={
 		death="1274.9.2"
 	}
@@ -412855,6 +412858,9 @@
 	father=400334
 	1264.5.26={
 		birth="1264.5.26"
+	}
+	1289.9.29={
+		trait="bhikkhu"
 	}
 	1326.11.25={
 		death="1326.11.25"
@@ -413811,8 +413817,13 @@
 	1322.1.11={
 		birth="1322.1.11"
 	}
-	1336.9.20={
+	1336.7.5={
 		name="Komyo"
+		add_claim="e_japan"
+	}
+	1348.11.18={
+		remove_claim="e_japan"
+		trait="bhikkhu"
 	}
 	1380.7.26={
 		death="1380.7.26"
@@ -414225,6 +414236,11 @@
 	}
 	1348.11.18={
 		name="Suko"
+		add_claim="e_japan"
+	}
+	1351.11.26={
+		remove_claim="e_japan"
+		trait="bhikkhu"
 	}
 	1398.1.31={
 		death="1398.1.31"
@@ -414242,6 +414258,11 @@
 	}
 	1352.9.25={
 		name="Go-Kogon"
+		add_claim="e_japan"
+	}
+	1371.4.9={
+		remove_claim="e_japan"
+		trait="bhikkhu"
 	}
 	1374.3.12={
 		death="1374.3.12"
@@ -414304,6 +414325,11 @@
 	1371.4.9={
 		name="Go-En'yu"
 		add_spouse=409496
+		add_claim="e_japan"
+	}
+	1382.5.24={
+		remove_claim="e_japan"
+		trait="bhikkhu"
 	}
 	1393.6.6={
 		death="1393.6.6"
@@ -414595,6 +414621,10 @@
 	}
 	1382.5.24={
 		name="Go-Komatsu"
+		add_claim="e_japan"
+	}
+	1392.11.19={
+		remove_claim="e_japan"
 	}
 	1433.12.1={
 		death="1433.12.1"

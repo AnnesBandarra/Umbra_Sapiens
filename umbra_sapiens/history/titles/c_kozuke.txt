@@ -201,27 +201,158 @@
 1142.1.5={
 	holder = 1000075355 #Emperor Konoe
 }
-1155.7.27={
-	holder=402153	#Minamoto no Yoshishige
+1155.8.23={
+	holder = 1000075354 #Emperor Go-Shirakawa
 }
-1202.2.8={
-	holder=402159	#Nitta Yoshikane
+
+1158.9.5={
+	holder = 1000075356 #Emperor Nijo
 }
-1206.4.17={
-	holder=402212	#Masayoshi Nitta
+
+1165.8.3={
+	holder = 1000075357 #Emperor Rokujo
 }
-1257.1.1={
-	holder=402215	#Masauji Nitta
+
+1168.3.30={
+	holder = 1000075358 #Emperor Takakura
 }
-1271.3.30={
-	holder=402220	#Motouji Nitta
+
+1180.5.18={
+	holder = 1000075359 #Emperor Antoku
 }
-1314.1.1={
-	holder=402225	#Tomoji Nitta
+
+1183.9.8={
+	holder = 1000075360 #Emperor Go-Toba
 }
-1318.1.21={
-	holder=402229	#Yoshisada NITTA
+1190.1.1={
+	holder=	406616 #Hiki no Yoshikazu
 }
-1338.8.17={
-	holder=0	#Defeat of Yoshisada NITTA
+1192.7.12={
+	liege="k_japan"
+}
+1203.10.8={
+	holder= 407968	#Kagemori Adachi
+}
+1248.6.11={
+	holder= 407990	#Yasumori Adachi
+}
+1285.12.14={
+	holder = 406915	#Hojo Sadatoki
+}
+1301.8.22={
+	holder = 406929	#Hojo Morotoki
+}
+1311.11.3={
+	holder = 406763	#Hojo Munenobu
+}
+1312.7.16={
+	holder = 406851	#Hojo Hirotoki
+}
+1315.8.18={
+	holder = 409617	#Hojo Mototoki
+}
+1316.7.28={
+	holder = 406920	#Hojo Takatoki
+}
+1326.4.19={
+	holder = 406823	#Hojo Sadaaki
+}
+1326.5.29={
+	holder = 406894	#Hojo Moritoki
+}
+1333.6.30={
+	holder = 406833	#Hojo Sadayuki
+}
+1333.7.4={
+	holder = 408226	#Norifusa Uesugi
+}
+1336.3.10={
+	holder = 408230	#Noriaki Uesugi
+}
+1352.1.1={
+	holder= 410280 #Ujitsuna Utsunomiya
+}
+1362.11.6={
+	holder= 408230 #Noriaki Uesugi
+}
+1368.10.31={
+	holder= 408236 #Yoshinori Uesugi
+}
+1371.1.1={
+	holder= 408237 #Noriharu Uesugi
+}
+1379.3.25={
+	holder= 408238 #Norikata Uesugi
+}
+1394.11.17={
+	holder= 408244 #Uesugi Norisada
+}
+1413.1.20={
+	holder= 408279 #Norimoto Uesugi
+}
+1418.2.9={
+	holder= 408262 #Norimi Uesugi
+}
+1439.1.1={
+	holder= 408271 #Noritada UESUGI
+}
+1455.1.15={
+	holder= 408272 #Fusaki UESUGI
+}
+1466.2.26={
+	holder= 410039 #Kensada Uesugi
+}
+1510.7.25={
+	holder= 411047 #Uesugi Akizane
+}
+1512.1.1={
+	holder= 411048 #Norifusa UESUGI 
+}
+1525.1.1={
+	holder= 402872 #Norihiro UESUGI
+}
+1531.1.1={
+	holder= 411049 #Norimasa UESUGI
+}
+1561.1.1={
+	holder= 408299 #Kenshin UESUGI
+}
+1573.7.1={
+	liege="e_japan"
+}
+1578.4.19={
+	holder=	410863 #Uesugi Kagetora
+}
+1579.4.19={
+	holder=	410053 #Uesugi Kagekatsu
+}
+1582.4.3={
+	holder = 411075	#Takigawa Kazumasu
+	liege="d_tokai" #vassal of Oda Nobunaga
+}
+1582.6.19={
+	holder = 410856	#Ujimasa HOJO
+	liege="e_japan"
+}
+1590.8.10={
+	holder = 409739	#Ii Naomasa
+	liege="d_tokai"
+}
+1600.11.6={
+	holder= 410089	#Sakai Ietsugu 
+}
+1603.3.24={
+	liege="k_japan"
+}
+1616.7.6={
+	holder=	410730 #Matsudaira Yasunaga
+}
+1617.1.1={
+	holder=	403096 #Matsudaira Nobuyoshi
+}
+1619.10.1={
+	holder=	411057 #Shigenobu Ando
+}
+1621.8.16={
+	holder=	411111 #Ando Shigenaga
 }

@@ -590,7 +590,7 @@ c_yuzhny_adj;Yuzhny;;;;;;;;;;;;;x
 b_rogachevo;Rogachevo;;;;;;;;;;;;;x
 b_belushy;Belushy;;;;;;;;;;;;;x
 c_varnek;Varnek;;;;;;;;;;;;;x
-c_varnek_adj;Varnek;;;;;;;;;;;;;x
+c_varnek_adj;Vaygach;;;;;;;;;;;;;x
 b_varnek;Varnek;;;;;;;;;;;;;x
 c_amderma;Amderma;;;;;;;;;;;;;x
 c_amderma_adj;Amderma;;;;;;;;;;;;;x
@@ -598,3 +598,43 @@ b_amderma;Amderma;;;;;;;;;;;;;x
 c_utskara;Utskara;;;;;;;;;;;;;x
 c_utskara_adj;Utskara;;;;;;;;;;;;;x
 b_utskara;Utskara;;;;;;;;;;;;;x
+b_atakapa-v;Mermentau;;;;;;;;;;;;;x
+b_atakapa-vi;Egan;;;;;;;;;;;;;x
+b_bermuda;Warwick;;;;;;;;;;;;;x
+b_bermuda-ii;Hamilton;;;;;;;;;;;;;x
+b_bermuda-iii;Paget;;;;;;;;;;;;;x
+b_qusqu-vii;Saylla;;;;;;;;;;;;;x
+b_awankay;Awankay;;;;;;;;;;;;;x
+b_dongolaa;Ghurud;;;;;;;;;;;;;x
+b_oyo;Oyo;;;;;;;;;;;;;x
+b_bauchin;Yakubu;;;;;;;;;;;;;x
+b_adamawa;Djerem;;;;;;;;;;;;;x
+b_borno;Borno;;;;;;;;;;;;;x
+b_ah_canul-iv;Hecelchakan;;;;;;;;;;;;;x
+b_ah_canul-v;Becal;;;;;;;;;;;;;x
+b_ah_canul-vi;Maxcanu;;;;;;;;;;;;;x
+b_ecab-iii;Coba;;;;;;;;;;;;;x
+b_christmas;Silver City;;;;;;;;;;;;;x
+b_christmas-ii;Drumsite;;;;;;;;;;;;;x
+b_christmas-iii;Poon Saan;;;;;;;;;;;;;x
+b_cocos;Home Island;;;;;;;;;;;;;x
+b_cocos-ii;West Island;;;;;;;;;;;;;x
+b_cocos-iii;Direction Island;;;;;;;;;;;;;x
+b_aldabra;Aldabra;;;;;;;;;;;;;x
+b_aldabra-ii;Malabar;;;;;;;;;;;;;x
+b_aldabra-iii;Grande Terre;;;;;;;;;;;;;x
+b_bourbon1;Saint Denis;;;;;;;;;;;;;x
+b_bourbon1-ii;Le Port;;;;;;;;;;;;;x
+b_bourbon1-iii;Saint Louis;;;;;;;;;;;;;x
+b_mauritius;Port Louis;;;;;;;;;;;;;x
+b_mauritius-ii;Black River;;;;;;;;;;;;;x
+b_mauritius-iii;Savanne;;;;;;;;;;;;;x
+b_mahe;Mahe;;;;;;;;;;;;;x
+b_mahe-ii;Takamaka;;;;;;;;;;;;;x
+b_mahe-iii;Victoria;;;;;;;;;;;;;x
+b_diego_garcia;Point Marianne;;;;;;;;;;;;;x
+b_diego_garcia-ii;East Point;;;;;;;;;;;;;x
+b_diego_garcia-iii;Barton Point;;;;;;;;;;;;;x
+b_timbun;Timbun;;;;;;;;;;;;;x
+b_guapore-iv;Dois Lajeados;;;;;;;;;;;;;x
+b_barra-iv;Santiago;;;;;;;;;;;;;x

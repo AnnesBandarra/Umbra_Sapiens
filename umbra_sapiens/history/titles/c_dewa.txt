@@ -224,5 +224,121 @@
 	holder=404937	#Fujiwara no Yasuhira
 }
 1189.10.14={
-	holder=404937	#Fujiwara no Yasuhira
+	holder=405016	#Shogun
+	liege="e_japan"
+}
+1192.7.12={
+	liege="k_japan"
+}
+1199.2.9={
+	holder=	406693 #Tokimasa Hojo
+}
+1205.1.1={
+	holder=	406695 #Yoshitoki Hojo
+}
+1224.6.13={
+	holder=	406781 #Yasutoki Hojo
+}
+1242.7.14={
+	holder=	406902 #Hojo Tsunetoki
+}
+1246.5.17={
+	holder=	406903 #Hojo Tokiyori
+}
+1256.1.1={
+	holder=	406875 #Hojo Nagatoki
+}
+1264.1.1={
+	holder=	406785 #Hojo Masamura
+}
+1268.1.1={
+	holder=	406908 #Hojo Tokimune
+}
+1284.4.4={
+	holder= 406915	#Sadatoki Hojo
+}
+1301.8.22={
+	holder= 406929	#Hojo Moritoki
+}
+1311.9.21={
+	holder= 406763	#Hojo Munenobu
+}
+1312.5.29={
+	holder= 406851	#Hojo Hirotoki
+}
+1315.7.12={
+	holder= 409617	#Mototoki Hojo
+}
+1316.7.9={
+	holder= 406920	#Hojo Takatoki
+}
+1326.2.13={
+	holder= 406823	#Sadaaki Hojo
+}
+1326.3.26={
+	holder= 406894	#Morotoki HOJO
+}
+1333.7.4={
+	holder= 402620	#Iekane Shiba
+}
+1356.1.1={
+	holder= 402622	#Shiba Kaneyori
+}
+1379.7.21={
+	holder= 402630	#Naoie Mogami
+}
+1410.2.9={
+	holder= 402631	#Mitsunao Mogami
+}
+1413.8.25={
+	holder= 402637	#Mitsuie Mogami 
+}
+1424.1.1={
+	holder= 402641	#Yorimune Mogami
+}
+1441.2.26={
+	holder= 402642	#Yoshiharu Mogami
+}
+1471.1.1={
+	holder= 402643	#Yoshiaki Mogami
+}
+1480.12.26={
+	holder= 402646	#Mitsuji Mogami
+}
+1494.8.14={
+	holder= 402647	#Yoshiatsu Mogami
+}
+1504.10.16={
+	holder= 402648	#Yoshisada Mogami
+}
+1514.5.28={
+	set_tribute_suzerain = { who = c_rikuzen type = permanent }
+}
+1520.2.20={
+	holder= 402651	#Mogami Yoshimori
+	clear_tribute_suzerain = c_rikuzen
+}
+1521.1.1={
+	liege="d_tohoku"
+}
+1548.9.1={
+	liege="k_japan"
+}
+1573.7.1={
+	liege="e_japan"
+}
+1590.6.19={
+	holder= 402652	#Yoshimitsu Mogami
+}
+1603.3.24={
+	liege="k_japan"
+}
+1614.2.26={
+	holder= 402663	#Mogami Iechika
+}
+1617.4.11={
+	holder= 402673	#Yoshitoshi Mogami
+}
+1622.8.21={
+	holder= 410094	#Sakai Tadakatsu
 }

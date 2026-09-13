@@ -201,6 +201,9 @@
 1184.1.1={
 	holder= 406510
 }
+1192.7.12={
+	liege="k_japan"
+}
 1205.1.1={
 	holder= 406511
 }
@@ -255,14 +258,22 @@
 1549.5.9={
 	holder = 401327	#Ichijo Kanesada
 }
+1573.7.1={
+	liege="e_japan"
+}
 1575.1.1={
 	holder = 406542	#Chōsokabe Motochika
+	liege="d_shikoku"
 }
 1599.5.19={
 	holder = 406563	#Chosokabe Morichika
 }
 1600.10.21={
 	holder = 406573	#Yamauchi Kazutoyo
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
 }
 1605.9.20={
 	holder = 406577	#Tadayoshi Yamauchi

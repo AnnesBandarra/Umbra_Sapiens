@@ -196,3 +196,124 @@
 1181.3.27={
 	holder= 403484	#Taira no Munemori
 }
+1185.7.19={
+	holder= 409536	#Tokihiro Ono
+}
+1192.7.12={
+	liege="k_japan"
+}
+1197.1.1={
+	holder= 409537	#Chikacho Adachi
+}
+1221.1.1={
+	holder= 409538
+}
+1223.1.1={
+	holder= 409539
+}
+1285.1.1={
+	holder= 409540
+}
+1321.1.1={
+	holder= 409541
+}
+1331.1.1={
+	holder= 409542
+}
+1332.1.1={
+	holder= 409541
+}
+1336.1.1={
+	holder= 402447	#Yorisada Imagawa
+}
+1336.6.1={
+	holder=	409543	#Moriyoshi Momoi
+}
+1338.1.1={
+	holder=	402427	#Sadaie Kira
+}
+1348.1.1={
+	holder= 402447	#Yorisada Imagawa
+}
+1349.1.1={
+	holder=	408233	#Uesugi Tomofusa
+}
+1350.1.1={
+	holder=	409545	#Ueno Yorikane
+}
+1351.1.1={
+	holder= 402447	#Yorisada Imagawa
+}
+1353.1.1={
+	holder=	407722	#Yamana Tokiuji
+}
+1361.1.1={
+	holder=	409544	#Yorikatsu Niki
+}
+1365.1.1={
+	holder=	409546	#Naga
+}
+1372.1.1={
+	holder=	407724	#Moroyoshi Yamana
+}
+1376.3.31={
+	holder=	407729	#Tokiyoshi Yamana
+}
+1389.5.29={
+	holder=	407740	#Tokihiro Yamana
+}
+1390.1.1={
+	holder=	407727	#Ujikiyo YAMANA
+}
+1391.1.1={
+	holder=	407740	#Tokihiro Yamana
+}
+1435.7.29={
+	holder=407743	#Mochitoyo Yamana
+}
+1454.1.1={
+	holder=407744	#Noritoyo YAMANA
+}
+1458.1.1={
+	holder=407743	#Mochitoyo Yamana
+}
+1472.8.1={
+	holder=407747	#Masatoyo Yamana
+}
+1499.1.23={
+	holder=407752	#Taitoyo Yamana
+}
+1497.1.1={
+	holder=407752	#Taitoyo Yamana
+}
+1512.1.1={
+	holder=407753	#Seitoyo Yamana
+}
+1528.3.14={
+	holder=407754	#Yutoyo Yamana
+}
+1573.7.1={
+	liege="e_japan"
+}
+1580.7.2={
+	holder=411305	#Toyotomi Hideyoshi
+	liege="d_tokai"
+}
+1585.1.1={
+	holder=407625	#Akamatsu Hirohide
+}
+1600.12.3={
+	holder=409549	#Koide Yoshimasa
+}
+1603.3.24={
+	liege="k_japan"
+}
+1604.1.1={
+	holder=409556	#Yoshihide Koide
+}
+1613.4.19={
+	holder=409557	#Koide Yoshichika
+}
+1619.1.1={
+	holder=409556	#Yoshihide Koide
+}

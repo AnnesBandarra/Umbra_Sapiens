@@ -203,12 +203,128 @@
 1180.9.18={
 	holder = 405120	#Yoshizumi Miura
 }
-1200.2.9={
-	holder = 405179	#Yoshimura Miura
+1192.7.12={
+	holder=	405016 #Minamoto no Yoritomo
+	liege="k_japan"
 }
-1239.12.31={
-	holder = 405190	#Yasumura Miura
+1199.2.9={
+	holder=	405059 #Minamoto no Yoriie
 }
-1247.7.9={
-	holder = 0	#Destruction of the Miura clan
+1203.9.7={
+	holder=	405062 #Minamoto no Sanetomo
+}
+1219.2.13={
+	holder=	401122 #Fujiwara no Yoritsune
+}
+1245.9.11={
+	holder=	401136 #Fujiwara no Yoritsugu
+}
+1252.3.31={
+	holder=	400334 #Prince Munetaka
+}
+1266.8.22={
+	holder=	400345 #Prince Koreyasu
+}
+1289.9.29={
+	holder=	400362 #Prince Hisaaki
+}
+1308.8.20={
+	holder=	400367 #Prince Morikuni
+}
+1333.7.4={
+	holder = 405143	#Takatsura Miura
+}
+1335.1.1={
+	holder = 405144	#Takatsugu Miura
+}
+1339.5.17={
+	holder = 405145	#Miura no Takamichi
+}
+1352.2.1={
+	holder = 403354	#Kawagoe Naoshige
+}
+1363.1.1={
+	holder = 405145	#Miura no Takamichi
+}
+1367.1.1={
+	holder = 405147	#Miura no Takatsune
+}
+1402.1.1={
+	holder = 405148	#Miura no Takaaki
+}
+1416.1.1={
+	holder = 410895	#Sadayori UESUGI
+}
+1421.1.1={
+	holder = 410897	#Isshiki Tokiya
+}
+1429.1.1={
+	holder = 405149	#Tokitaka Miura
+}
+1442.1.1={
+	holder = 405082	#Nobunaga Takeda
+}
+1443.1.1={
+	holder = 408264	#Kiyokata Uesugi
+}
+1444.1.1={
+	holder = 410779	#Mochitomo UESUGI
+}
+1449.1.1={
+	holder = 410780	#Akifusa UESUGI
+}
+1455.2.10={
+	holder = 410779	#Mochitomo UESUGI
+}
+1467.10.4={
+	holder = 410807	#Masazane Uesugi
+}
+1473.12.13={
+	holder = 410782	#Sadamasa Uesugi
+}
+1494.11.2={
+	holder = 410811	#Uesugi Asayoshi
+}
+1516.7.11={
+	holder = 410825	#Hojo Soun
+}
+1519.9.8={
+	holder = 410828	#Hojo Ujitsuna
+}
+1541.8.10={
+	holder = 410843	#Ujiyasu Hojo
+}
+1571.10.21={
+	holder = 410856	#Ujimasa HOJO
+}
+1573.7.1={
+	liege="e_japan"
+}
+1590.8.4={
+	holder = 410948	#Okubo Tadayo under Tokugawa Ieyasu
+	liege="d_tokai"
+}
+1594.10.28={
+	holder = 410957	#Okubo Tadachika
+}
+1603.3.24={
+	liege="k_japan"
+}
+1614.1.1={
+	holder = 403151	#Tokugawa Hidetada
+}
+1619.1.1={
+	holder = 411005	#Abe Masatsugu
+}
+1623.1.1={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
+}
+1632.1.1={
+	holder = 411024	#Inaba Masakatsu
+}
+1634.2.22={
+	holder = 411031	#Inaba Masanori
 }

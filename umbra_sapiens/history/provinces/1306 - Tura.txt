@@ -19,4 +19,4 @@ religion = tengri_pagan
 
 1060.1.1 = { culture = turkish }
 
-1218.1.1 = { culture = mongol } 
+1218.1.1 = { culture = cuman } 

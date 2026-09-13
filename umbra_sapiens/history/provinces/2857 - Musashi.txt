@@ -4,7 +4,7 @@
 title = c_musashi
 
 # Settlements
-max_settlements = 5
+max_settlements = 7
 b_tama = castle
 b_kawagoe = castle
 b_adachi = castle
@@ -20,3 +20,8 @@ culture = japanese
 religion = nihon_shinto
 
 # History
+1603.3.24={
+	b_chichibu=city
+	b_toshima=temple
+	b_kodama = city
+}

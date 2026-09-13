@@ -74,7 +74,7 @@
 	holder=405980 #Shō Nei
 }
 1609.5.4={
-	liege="e_japan"
+	liege="k_japan"
 	set_tribute_suzerain = { who = c_satsuma type = permanent }
 }
 1620.10.14={

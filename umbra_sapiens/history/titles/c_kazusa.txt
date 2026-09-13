@@ -185,87 +185,139 @@
 	holder = 1000075047 #Emperor Go-Reizei
 }
 
-1066.9.15={
-	holder = 403243	#Chiba no Tsunekane
+1097.3.13={
+	holder = 1000075351 #Emperor Horikawa
 }
-1126.4.4={
-	holder = 403278	#Chiba no Tsuneshige
+
+1107.8.9={
+	holder = 1000075352 #Emperor Toba
 }
-1180.5.28={
-	holder = 403286	#Tsunetane Chiba
+
+1123.2.19={
+	holder = 1000075353 #Emperor Sutoku
 }
-1201.4.28={
-	holder = 403293	#Tanemasa Chiba
+
+1142.1.5={
+	holder = 1000075355 #Emperor Konoe
 }
-1203.8.28={
-	holder = 405207	#Naritane Chiba
+
+1155.8.23={
+	holder = 1000075354 #Emperor Go-Shirakawa
 }
-1218.5.6={
-	holder = 405209	#Tanetsuna Chiba 
+
+1158.9.5={
+	holder = 1000075356 #Emperor Nijo
 }
-1228.7.1={
-	holder = 405210	#Tokitane Chiba
+
+1165.8.3={
+	holder = 1000075357 #Emperor Rokujo
 }
-1241.10.23={
-	holder = 405212	#Yoritane Chiba
+
+1168.3.30={
+	holder = 1000075358 #Emperor Takakura
 }
-1275.9.7={
-	holder = 405213	#Munetane Chiba
+
+1180.1.1={
+	holder=	403262	#Hirotsune Yohachiro
 }
-1294.2.12={
-	holder = 405214	#Tanemune Chiba
+1259.1.1={
+	holder=	402546	#Ashikaga Yoriuji
 }
-1312.5.5={
-	holder = 405215	#Sadatane Chiba
+1262.5.13={
+	holder=	402741	#Ietoki Ashikaga
 }
-1351.1.28={
-	holder = 405218	#Ujitane Chiba
+1284.8.7={
+	holder=	402742	#Sadauji Ashikaga
 }
-1365.9.28={
-	holder = 405219	#Mitsutane Chiba
+1192.7.12={
+	liege="k_japan"
 }
-1426.7.12={
-	holder = 405223	#Kanetane Chiba
+1331.10.7={
+	holder=	402744	#Takauji Ashikaga
 }
-1430.7.7={
-	holder = 405225	#Tanenao Chiba
+1334.1.1={
+	holder=	408128	#Koshi no Moronao
+}
+1351.3.24={
+	holder=	408571	#Hidetsuna Sasaki
+}
+1353.7.14={
+	holder=	405218	#Ujitane Chiba
+}
+1355.1.1={
+	holder=	408561	#Kyogoku Takauji
+}
+1362.1.1={
+	holder=	405218	#Ujitane Chiba
+}
+1364.1.1={
+	holder=	408233	#Tomofusa Uesugi
+}
+1365.1.1={
+	holder=	411150	#Uesugi Tomomune
+}
+1397.1.1={
+	holder=	411151	#Ujinori Uesugi
+}
+1417.1.27={
+	holder=	411154	#Mochitsuna Utsunomiya
+}
+1420.1.1={
+	holder=	410895	#Sadayori Uesugi
+}
+1435.1.1={
+	holder=	410896	#Tomofuji UESUGI
+}
+1448.1.1={
+	holder=	405225	#Tanenao Chiba
 }
 1455.9.26={
-	holder = 405227	#Tanemasa CHIBA
+	holder=	405082	#Nobunaga Takeda
 }
-1454.7.18={
-	holder = 405228	#Tanenobu CHIBA
+1477.4.6={
+	holder=	405094	#Nobutaka Takeda
 }
-1455.9.23={
-	holder = 405224	#Yasutane MAKUWARI
+1480.1.1={
+	holder=	405098	#Takeda no Michinobu
 }
-1456.11.28={
-	holder = 405233	#Tanemochi MAKUWARI
+1481.4.19={
+	holder=	405100	#Munenobu TAKEDA
 }
-1456.7.14={
-	holder = 405232	#Suketane Chiba
+1517.1.1={
+	holder=	411155	#Munenobu TAKEDA
 }
-1492.3.13={
-	holder = 405235	#Takatane Chiba
+1534.1.1={
+	holder=	411184	#Satomi Yoshitaka
 }
-1521.9.19={
-	holder = 405237	#Katsutane CHIBA
+1562.1.1={
+	holder=	411185	#Yoshihiro Satomi
 }
-1509.1.1={
-	holder = 405240	#Masatane Chiba
+1573.7.1={
+	liege="e_japan"
 }
-1546.2.7={
-	holder = 405241	#Toshitane Chiba
+1578.7.5={
+	holder=	411192	#Yoshishige Satomi
 }
-1547.7.28={
-	holder = 405243	#Chikatane Chiba
+1580.1.1={
+	holder=	411189	#Yoshiyori Satomi
+	#had Hojo support
 }
-1557.8.30={
-	holder = 405242	#Tanetomi Chiba
+1587.11.26={
+	holder=	411197	#Yoshiyasu Satomi
 }
-1579.5.29={
-	holder = 405245	#Yoshitane Chiba
+1590.8.4={
+	holder=	411223	#Osuga Tadamasa
+	liege="d_tokai"
 }
-1590.1.1={
-	holder=0	#Confiscated after Hojo deafeated
+1601.1.1={
+	holder=	403142	#Shogun
+}
+1602.1.1={
+	holder=	411241	#Tsuchiya Tadanao
+}
+1603.3.24={
+	liege="k_japan"
+}
+1612.1.1={
+	holder=	411243	#Tsuchiya Toshinao 
 }

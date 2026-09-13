@@ -197,6 +197,9 @@
 1185.1.1={
 	holder= 400817	#Kikuchi Takatada
 }
+1192.7.12={
+	liege="k_japan"
+}
 1210.1.1={
 	holder= 400818	#Kikuchi Takatsugu
 }
@@ -269,6 +272,10 @@
 }
 1588.7.7={
 	holder=405912	#Kato Kiyomasa
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
 }
 1611.8.2={
 	holder=405916	#Tadahiro Kato

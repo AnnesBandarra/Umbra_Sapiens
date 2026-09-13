@@ -215,100 +215,148 @@
 1183.9.8={
 	holder = 1000075360 #Emperor Go-Toba
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1187.1.1={
+	holder = 408394 #Sadatsuna Sasaki
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1192.7.12={
+	liege="k_japan"
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1205.4.29={
+	holder = 408469 #Sasaki Hirotsuna
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1221.7.22={
+	holder = 408472 #Nobutsuna Sasaki
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1242.4.7={
+	holder = 408485 #Yasutsuna Sasaki
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+1276.6.30={
+	holder = 408488 #Yoritsuna Sasaki
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1311.1.22={
+	holder = 408509 #Tokinobu Rokkaku
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1335.1.1={
+	holder = 408510 #Ujiyori Rokkaku
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1336.1.1={
+	holder = 408561 #Kyogoku Takauji
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1338.1.1={
+	holder = 408571 #Sasaki Hidetsuna
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1340.1.1={
+	holder = 408510 #Ujiyori Rokkaku
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1351.1.1={
+	holder = 409704 #Nobuaki Yamauchi
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1351.6.1={
+	holder= 408511 #Naotsuna Rokkaku
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1352.1.1={
+	holder= 408514	#Yoshinobu Rokkaku
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1353.1.1={
+	holder= 408510 #Ujiyori Rokkaku
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1370.6.30={
+	holder= 408576 #Takaakira Kyogoku
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1377.1.1={
+	holder= 408515 #Rokkaku Mitsutaka
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1411.1.1={
+	holder= 409715 #Omotsuki Aoki
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1412.1.1={
+	holder= 408515 #Rokkaku Mitsutaka
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1416.12.6={
+	holder= 408516 #Mitsutsuna Rokkaku
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1441.1.1={
+	holder= 408517 #Rokkaku Mochitsuna
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1445.3.1={
+	holder= 408517 #Hisayori Rokkaku
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1456.11.8={
+	holder= 408522 #Takayori Rokkaku
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1458.1.1={
+	holder= 408521 #Rokkaku Masataka
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1460.1.1={
+	holder= 408522 #Takayori Rokkaku
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1468.1.1={
+	holder= 408521 #Rokkaku Masataka
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1469.1.1={
+	holder= 408703 #Mochikiyo Kyogoku
+}
+1470.8.30={
+	holder= 408707 #Kyogoku Magodojimaru
+}
+1471.1.1={
+	holder= 408521 #Rokkaku Masataka
+}
+1471.12.2={
+	holder= 408706 #Kyogoku Masatsune
+}
+1478.1.1={
+	holder= 408522 #Takayori Rokkaku
+}
+1487.1.1={
+	holder= 409709 #Naotoyo Yuki
+}
+1489.1.1={
+	holder= 408522 #Takayori Rokkaku
+}
+1490.1.1={
+	holder= 402378 #Masamoto Hosokawa
+}
+1492.1.1={
+	holder= 408706 #Kyogoku Masatsune
+}
+1493.1.1={
+	holder= 409714 #Naritsuna Yamauchi
+}
+1494.1.1={
+	holder= 408522 #Takayori Rokkaku
+}
+1507.1.1={
+	holder= 408523 #Rokkaku Ujitsuna
+}
+1508.1.1={
+	holder= 408708 #Takakiyo Kyogoku
+}
+1511.1.1={
+	holder= 408523 #Rokkaku Ujitsuna
+}
+1518.8.25={
+	holder= 408524 #Sadayori ROKKAKU
+}
+1552.1.21={
+	holder= 408532 #Yoshitaka Rokkaku
+}
+1568.9.21={
+	holder= 410448 #Oda Nobunaga Conquest
+	liege="d_tokai"
+}
+1582.6.21={
+	holder= 409720	#Ishida Mitsunari
+}
+1600.11.6={
+	holder= 409739	#Ii Naomasa
+}
+1602.3.24={
+	holder= 409740	#Ii Naokatsu
+}
+1603.3.24={
+	liege="k_japan"
+}
+1615.6.3={
+	holder= 409741	#Ii Naotaka
 }

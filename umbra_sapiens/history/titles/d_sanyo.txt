@@ -1,0 +1,13 @@
+1557.5.1={
+	holder= 403791	#Mōri Takamoto
+	liege="k_japan"
+}
+1563.8.22={
+	holder= 403867	#Mōri Terumoto
+}
+1573.7.1={
+	liege="e_japan"
+}
+1583.1.1={
+	holder= 0
+}

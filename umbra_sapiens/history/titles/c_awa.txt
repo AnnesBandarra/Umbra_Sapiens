@@ -215,9 +215,60 @@
 	holder= 403484	#Taira no Munemori
 }
 1185.7.19={
-	holder= 0	#Taira clan defeated
+	holder= 405016	#Taira clan defeated
 }
-1341.1.1={
+1192.7.12={
+	liege="k_japan"
+}
+1199.2.9={
+	holder=	406693 #Tokimasa Hojo
+}
+1205.1.1={
+	holder=	406695 #Yoshitoki Hojo
+}
+1224.6.13={
+	holder=	406781 #Yasutoki Hojo
+}
+1242.7.14={
+	holder=	406902 #Hojo Tsunetoki
+}
+1246.5.17={
+	holder=	406903 #Hojo Tokiyori
+}
+1256.1.1={
+	holder=	406875 #Hojo Nagatoki
+}
+1264.1.1={
+	holder=	406785 #Hojo Masamura
+}
+1268.1.1={
+	holder=	406908 #Hojo Tokimune
+}
+1284.4.4={
+	holder= 406915	#Sadatoki Hojo
+}
+1301.8.22={
+	holder= 406929	#Hojo Moritoki
+}
+1311.9.21={
+	holder= 406763	#Hojo Munenobu
+}
+1312.5.29={
+	holder= 406851	#Hojo Hirotoki
+}
+1315.7.12={
+	holder= 409617	#Mototoki Hojo
+}
+1316.7.9={
+	holder= 406920	#Hojo Takatoki
+}
+1326.2.13={
+	holder= 406823	#Sadaaki Hojo
+}
+1326.3.26={
+	holder= 406894	#Morotoki HOJO
+}
+1333.7.4={
 	holder= 402298	#Yoriharu Hosokawa
 }
 1352.4.5={
@@ -256,26 +307,38 @@
 1562.4.8={
 	holder= 406312	#Choji Miyoshi
 }
+1573.7.1={
+	liege="e_japan"
+}
 1577.1.15={
 	holder= 406313	#Sogō Masayasu alied Oda
+	liege="d_tokai"
 }
 1577.3.1={
 	holder= 402327	#Masayuki Hosokawa alied Motochika Chosokabe
+	liege="e_japan"
 }
 1578.1.1={
 	holder= 406313	#Sogō Masayasu	alied Oda
+	liege="d_tokai"
 }
 1582.6.2={
 	holder= 402327	#Masayuki Hosokawa Chosokabe alied
+	liege="e_japan"
 }
 1582.8.1={
 	holder = 406542	#Chōsokabe Motochika
+	liege="d_shikoku"
 }
-1585.7.25={	#Dont know date yet
+1585.7.25={
 	holder= 406342	#Hachisuka Masakatsu
+	liege="d_tokai"
 }
 1586.5.22={
 	holder= 406348	#Iemasa Hachisuka
+}
+1603.3.24={
+	liege="k_japan"
 }
 1603.3.25={
 	holder= 406350	#Hachisuka Yoshishige

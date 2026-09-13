@@ -4,9 +4,8 @@
 title = c_oshima
 
 # Settlements
-max_settlements = 5
+max_settlements = 7
 b_oshima = tribal
-b_hiyama = tribal
 
 #b_iburi = castle
 #b_tokapuchi = castle
@@ -19,3 +18,6 @@ culture = ainu
 religion = ainu_pantheism
 
 # History
+1400.1.1={
+	b_hiyama = castle
+}

@@ -20,3 +20,9 @@ culture = japanese
 religion = nihon_shinto
 
 # History
+1574.8.19={
+	capital = b_kehi
+}
+1575.8.18={
+	capital = b_imatachi
+}

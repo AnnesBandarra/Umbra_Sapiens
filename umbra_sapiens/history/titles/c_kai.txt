@@ -200,6 +200,9 @@
 1186.3.31={
 	holder = 402005	#Nobumitsu Takeda
 }
+1192.7.12={
+	liege="k_japan"
+}
 1248.12.21={
 	holder = 402015	#Nobumasa Takeda
 }
@@ -245,6 +248,31 @@
 1573.5.13={
 	holder = 402104	#Takeda Katsuyori
 }
+1573.7.1={
+	liege="e_japan"
+}
 1582.4.3={
-	holder = 0
+	holder = 411043	#Anayama Nobukimi
+	liege="d_tokai"
+}
+1582.6.21={
+	holder= 411046	#Katsuchiyo Anayama
+}
+1587.7.12={
+	holder=	403154	#Nobuyoshi MATSUDAIRA
+}
+1603.3.24={
+	liege="k_japan"
+}
+1603.10.15={
+	holder=	403156	#Tokugawa Yoshinao
+}
+1607.1.1={
+	holder = 403142	#Tokugawa Ieyasu
+}
+1618.1.1={
+	holder= 403182	#Tokugawa Tadanaga 
+}
+1632.10.20={
+	holder = 403181	#Tokugawa Iemitsu
 }

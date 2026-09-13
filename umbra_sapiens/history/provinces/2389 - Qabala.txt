@@ -17,3 +17,6 @@ terrain = hills
 # History
 1220.1.1 = { culture = persian }
 1220.1.1 = { religion = sunni }
+1501.12.1={
+	religion = shiite
+}

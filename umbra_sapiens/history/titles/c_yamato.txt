@@ -303,8 +303,14 @@
 1557.9.27={
 	holder = 400507	#Emperor Ōgimachi
 }
+1573.7.1={
+	liege="e_japan"
+}
 1586.12.17={
 	holder = 400516	#Emperor Go-Yōzei
+}
+1603.3.24={
+	liege="k_japan"
 }
 1611.5.9={
 	holder = 400530	#Emperor Go-Mizunoo

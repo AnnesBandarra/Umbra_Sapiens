@@ -213,6 +213,9 @@
 1191.12.13={
 	holder=408015	#Tohei Dohi
 }
+1192.7.12={
+	liege="k_japan"
+}
 1223.1.1={
 	holder=403647	#Nagai Tokihiro
 }
@@ -300,7 +303,7 @@
 1512.1.1={
 	holder=407753	#Seitoyo Yamana
 }
-1528.14.3={
+1528.3.14={
 	holder=407754	#Yutoyo Yamana
 }
 1552.1.1={
@@ -311,12 +314,19 @@
 }
 1562.1.1={
 	holder=403791	#Takamoto Mori
+	liege="d_sanyo"
 }
 1563.8.22={
 	holder=403867	#Terumoto Mōri 
 }
+1583.1.1={
+	liege="d_tokai"
+}
 1601.10.10={
 	holder=406624 #Fukushima Masanori
+}
+1603.3.24={
+	liege="k_japan"
 }
 1619.1.1={
 	holder=408086	#Mizuno Katsunari

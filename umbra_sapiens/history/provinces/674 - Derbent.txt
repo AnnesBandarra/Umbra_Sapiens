@@ -22,3 +22,6 @@ terrain = hills
 	set_wonder_stage = 4
 }
 950.1.1 = { culture = persian }
+1501.12.1={
+	religion = shiite
+}

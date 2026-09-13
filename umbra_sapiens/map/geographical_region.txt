@@ -209,7 +209,6 @@ world_steppe_east = {
     d_chubraseili d_kharkamverk d_verurbuju d_yakutsk
 	d_egvekinot d_yanrakynnot d_khatyrka d_manily d_neshkan d_valkumey d_chkalov d_chersky d_sokoch d_ustbolsheretsk d_bering d_dolinovka d_tilichiki
 	d_sydybylnew d_krasnoyarsk d_chekurovka d_sobolokh d_magadan d_druzhina d_kekra d_niurba d_zhilinda d_yukta d_chervyanka d_talnakh d_saragash
-	d_sahaliyan_ula d_girin_ula d_sanggyeong d_donggyeong d_buyeo d_jungnyeong d_yemaek
 	}
 }
 world_steppe = {

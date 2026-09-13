@@ -233,3 +233,9 @@
 1189.10.14={
 	holder=0	#Battle of Oshu
 }
+1521.1.1={
+	holder=404275	#Date no Tanemune
+}
+1548.9.1={
+	liege=0 #Date power broken
+}

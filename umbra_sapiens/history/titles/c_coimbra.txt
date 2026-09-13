@@ -92,13 +92,13 @@
 	holder=370013 # John I de Borgonha
 	liege=k_portugal_5
 }
+1415.1.1={
+	holder= 370070	#Pedro de Portugal, 1.º Duque de Coimbra
+}
 1415.8.21={
 	liege=e_portugal_5
 }
-1433.1.1={
-	holder=370069 # Edward I de Borgonha
-}
-1438.9.9={
+1449.5.20 = {
 	holder=370205 # Alphonse V de Borgonha
 }
 1477.11.11={
@@ -111,9 +111,14 @@
 	holder=370292 # D.Manuel
 	liege=e_portugal_7
 }
+1500.5.25={
+	holder=370295	#Jorge de Lancastre
+}
 1521.12.13={
-	holder=370356 # D.João III
 	liege=e_portugal_8
+}
+1550.7.22={
+	holder=370356 # D.João III
 }
 1557.6.11={
 	holder=371944 # D.Sebastião

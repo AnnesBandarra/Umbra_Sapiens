@@ -1,0 +1,21 @@
+1200.2.9={
+	holder = 405179	#Yoshimura Miura
+}
+1239.12.31={
+	holder = 405190	#Yasumura Miura
+}
+1247.7.9={
+	holder = 405138	#Miura Moritoki
+}
+1274.1.1={
+	holder = 405141	#Miura Yorimori
+}
+1302.1.1={
+	holder = 405142	#Miura Tokiaki
+}
+1313.1.1={
+	holder = 405143	#Takatsura Miura
+}
+1333.7.4={
+	holder = 0
+}

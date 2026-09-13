@@ -61,6 +61,7 @@
 }
 1320.1.1={
 	holder=1000203731 #Akorukamu
+	liege=0
 }
 1350.1.1={
 	holder=1000203732 #Kamuikocha

@@ -140,6 +140,19 @@
 	holder = 1000075038 #Emperor Suzaku
 }
 
+935.1.1={
+	holder=403554	#Taira no Masakado
+}
+
+939.3.11={
+	liege=0
+}
+
+940.3.25={
+	holder = 1000075038 #Emperor Suzaku
+	liege="e_japan"
+}
+
 946.5.31={
 	holder = 1000075039 #Emperor Murakami
 }
@@ -175,140 +188,133 @@
 1045.2.5={
 	holder = 1000075047 #Emperor Go-Reizei
 }
-
-1097.3.13={
-	holder = 1000075351 #Emperor Horikawa
+1066.9.15={
+	holder = 403221	#Miura Tamemichi
 }
-
-1107.8.9={
-	holder = 1000075352 #Emperor Toba
+1083.4.3={
+	holder = 403223	#Miura Tametsugu
 }
-
-1123.2.19={
-	holder = 1000075353 #Emperor Sutoku
+1115.1.1={
+	holder = 405110	#Yoshitsugu Miura
 }
-
-1142.1.5={
-	holder = 1000075355 #Emperor Konoe
+1159.3.12={
+	holder = 405111	#Yoshiaki Miura
 }
-
-1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
+1180.9.18={
+	holder = 405120	#Yoshizumi Miura
 }
-
-1158.9.5={
-	holder = 1000075356 #Emperor Nijo
+1192.7.12={
+	liege="k_japan"
 }
-
-1165.8.3={
-	holder = 1000075357 #Emperor Rokujo
+1200.2.9={
+	holder = 405179	#Yoshimura Miura
 }
-
-1168.3.30={
-	holder = 1000075358 #Emperor Takakura
+1239.12.31={
+	holder = 405190	#Yasumura Miura
 }
-
-1180.5.18={
-	holder = 1000075359 #Emperor Antoku
+1247.7.9={
+	holder = 405138	#Miura Moritoki
 }
-
-1183.9.8={
-	holder = 1000075360 #Emperor Go-Toba
+1274.1.1={
+	holder = 405141	#Miura Yorimori
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1302.1.1={
+	holder = 405142	#Miura Tokiaki
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1313.1.1={
+	holder = 405143	#Takatsura Miura
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1335.1.1={
+	holder = 405144	#Takatsugu Miura
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1339.5.17={
+	holder = 405145	#Miura no Takamichi
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1352.2.1={
+	holder = 403354	#Kawagoe Naoshige
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
+1363.1.1={
+	holder = 405145	#Miura no Takamichi
 }
-
-1246.2.16={
-	holder = 1000075368 #Emperor Go-Fukakusa
+1367.1.1={
+	holder = 405147	#Miura no Takatsune
 }
-
-1260.1.9={
-	holder = 1000075369 #Emperor Kameyama
+1402.1.1={
+	holder = 405148	#Miura no Takaaki
 }
-
-1274.3.6={
-	holder = 1000075370 #Emperor Go-Uda
+1416.1.1={
+	holder = 410895	#Sadayori UESUGI
 }
-
-1287.11.27={
-	holder = 1000075371 #Emperor Fushimi
+1421.1.1={
+	holder = 410897	#Isshiki Tokiya
 }
-
-1298.8.30={
-	holder = 1000075372 #Emperor Go-Fushimi
+1429.1.1={
+	holder = 405149	#Tokitaka Miura
 }
-
-1301.3.2={
-	holder = 1000075373 #Emperor Go-Nijo
+1442.1.1={
+	holder = 405082	#Nobunaga Takeda
 }
-
-1308.12.28={
-	holder = 1000075374 #Emperor Hanazono
+1443.1.1={
+	holder = 408264	#Kiyokata Uesugi
 }
-
-1318.3.29={
-	holder = 1000075375 #Emperor Go-Daigo
+1444.1.1={
+	holder = 410779	#Mochitomo UESUGI
 }
-1339.9.18={
-	holder = 399643	#Emperor Go-Murakami
+1449.1.1={
+	holder = 410780	#Akifusa UESUGI
 }
-
-1368.3.29={
-	holder = 399671	#Emperor Chōkei
+1455.2.10={
+	holder = 410779	#Mochitomo UESUGI
 }
-
-1383.1.1={
-	holder = 399672	#Emperor Go-Kameyama
+1467.10.4={
+	holder = 410807	#Masazane Uesugi
 }
-1392.11.19={
-	holder = 400464	#Emperor Go-Komatsu
+1473.12.13={
+	holder = 410782	#Sadamasa Uesugi
 }
-1412.10.5={
-	holder = 400467	#Emperor Shoko
+1494.11.2={
+	holder = 410811	#Uesugi Asayoshi
 }
-1428.8.30={
-	holder = 400477	#Emperor Go-Hanazono
+1516.7.11={
+	holder = 410825	#Hojo Soun
 }
-1464.8.21={
-	holder = 400487	#Emperor Go-Tsuchimikado
+1519.9.8={
+	holder = 410828	#Hojo Ujitsuna
 }
-1500.10.21={
-	holder = 400490	#Emperor Go-Kashiwabara
+1541.8.10={
+	holder = 410843	#Ujiyasu Hojo
 }
-1526.5.18={
-	holder = 400501	#Emperor Go-Nara
+1571.10.21={
+	holder = 410856	#Ujimasa HOJO
 }
-1557.9.27={
-	holder = 400507	#Emperor Ōgimachi
+1573.7.1={
+	liege="e_japan"
 }
-1586.12.17={
-	holder = 400516	#Emperor Go-Yōzei
+1590.8.4={
+	holder = 410948	#Okubo Tadayo under Tokugawa Ieyasu
+	liege="d_tokai"
 }
-1611.5.9={
-	holder = 400530	#Emperor Go-Mizunoo
+1594.10.28={
+	holder = 410957	#Okubo Tadachika
 }
-1629.12.22={
-	holder = 400556	#Empress Meisho
+1603.3.24={
+	liege="k_japan"
+}
+1614.1.1={
+	holder = 403151	#Shogun
+}
+1619.1.1={
+	holder = 411005	#Abe Masatsugu
+}
+1623.1.1={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
+}
+1632.1.1={
+	holder = 411024	#Inaba Masakatsu
+}
+1634.2.22={
+	holder = 411031	#Inaba Masanori
 }

@@ -230,6 +230,9 @@
 1185.4.25={
 	holder = 406096 #Hiromori Ouchi
 }
+1192.7.12={
+	liege="k_japan"
+}
 1217.1.1={
 	holder = 406097 #Mitsumori Ouchi
 }
@@ -277,9 +280,19 @@
 }
 1557.5.1={
 	holder= 403791	#Mōri Takamoto
+	liege="d_sanyo"
 }
 1563.8.22={
 	holder= 403867	#Mōri Terumoto
+}
+1583.1.1={
+	liege="d_tokai"
+}
+1573.7.1={
+	liege="e_japan"
+}
+1603.3.24={
+	liege="k_japan"
 }
 1625.6.2={
 	holder= 403871	#Mōri Hidenari

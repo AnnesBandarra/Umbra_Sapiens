@@ -230,6 +230,9 @@
 1185.4.25={
 	holder= 406616	#Yoshikazu Hiki
 }
+1192.7.12={
+	liege="k_japan"
+}
 1203.10.8={
 	holder= 400805	#Ōe no Hiromoto
 }
@@ -277,12 +280,19 @@
 }
 1557.1.1={
 	holder= 403791	#Mōri Takamoto
+	liege="d_sanyo"
 }
 1563.8.22={
 	holder= 403867	#Mōri Terumoto
 }
+1583.1.1={
+	liege="d_tokai"
+}
 1601.10.10={
 	holder= 406624 #Fukushima Masanori
+}
+1603.3.24={
+	liege="k_japan"
 }
 1619.1.1={
 	holder= 406642	#Asano Nagasō

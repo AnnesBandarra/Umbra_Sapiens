@@ -4,7 +4,7 @@
 title = c_yamato
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 b_kofukuji = temple
 b_todaiji = temple
 b_katsuragi = castle
@@ -20,6 +20,7 @@ culture = japanese
 religion = buddhist
 
 # History
+
 752.1.1 = {
 build_wonder = wonder_temple_buddhist
 set_wonder_stage = 1
@@ -27,4 +28,22 @@ set_wonder_name = NARATEMPLE
 set_wonder_description = NARATEMPLEDESC
 build_wonder_upgrade = upgrade_school_buddhist
 build_wonder_upgrade = upgrade_vihara
+}
+825.1.1={
+	religion="nihon_shinto"
+}
+1192.7.12={
+	b_yoshino = castle
+}
+1192.7.12={
+	capital = b_yoshino
+}
+1250.1.1={
+	b_toichi = castle
+}
+1350.1.1={
+	b_takaichi = castle
+}
+1450.1.1={
+	b_toichi = castle
 }

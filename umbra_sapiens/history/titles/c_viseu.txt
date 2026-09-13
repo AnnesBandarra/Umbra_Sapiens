@@ -100,29 +100,38 @@
 1415.8.21={
 	liege=e_portugal_5
 }
-1433.1.1={
-	holder=370069 # Edward I de Borgonha
+1415.9.2={
+	holder= 370071	#The Navigator
 }
-1438.9.9={
-	holder=370205 # Alphonse V de Borgonha
+1460.11.13 = {
+	holder= 370207	#Duque de Viseu
 }
-1477.11.11={
-	holder=370227 # John II de Borgonha
+1470.9.18 = {
+	holder= 370284	#Duque de Viseu
+}
+1472.8.1 = {
+	holder= 370285	#Diogo, Duque de Viseu
+}
+1484.8.29 = {
+	holder= 370292	#Rei D.Manuel I
 }
 1485.1.1={
 	liege=e_portugal_6
 }
 1495.10.25={
-	holder=370292 # D.Manuel
 	liege=e_portugal_7
 }
+1521.6.18={
+	holder= 370367	#Maria de Portugal, Duquesa de Viseu
+}
 1521.12.13={
-	holder=370356 # D.João III
 	liege=e_portugal_8
 }
 1557.6.11={
-	holder=371944 # D.Sebastião
 	liege=e_portugal_9
+}
+1577.10.10={
+	holder=371944 # D.Sebastião
 }
 1578.8.4={
 	holder=370362 # D.Henrique

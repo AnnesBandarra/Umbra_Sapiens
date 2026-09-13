@@ -196,3 +196,127 @@
 1181.3.27={
 	holder= 403484	#Taira no Munemori
 }
+1185.7.19={
+	holder= 405016	#Shogun
+}
+1192.7.12={
+	liege="k_japan"
+}
+1294.1.1={
+	holder= 403720	#Sadahide Nagai
+}
+1308.3.12={
+	holder= 406929	#Hojo Moritoki
+}
+1336.1.1={
+	holder= 402447	#Yorisada Imagawa
+}
+1337.1.1={
+	holder= 409573	#Arakawa Akiyori
+}
+1337.6.1={
+	holder= 409575	#Tomosada Uesugi
+}
+1339.1.1={
+	holder= 402447	#Yorisada Imagawa
+}
+1341.1.1={
+	holder= 407722	#Tokiuji Yamana
+}
+1350.1.1={
+	holder= 409545	#Ueno Yorikane
+}
+1351.1.1={
+	holder= 409579	#Yoriaki Nikki
+}
+1352.1.1={
+	holder= 408135	#Koshi no Moroaki
+}
+1353.7.13={
+	holder= 409582	#Yorikatsu Niki
+}
+1360.1.1={
+	holder= 409583	#Yoshitada Niki
+}
+1363.1.1={
+	holder= 402748	#Ashikaga Naofuyu
+}
+1364.1.1={
+	holder= 407724	#Moroyoshi Yamana
+}
+1376.3.31={
+	holder=	407773	#Yoshiyuki Yamana
+}
+1385.1.1={
+	holder=	407776	#Mitsuyuki Yamana
+}
+1391.11.1={
+	holder=	402571	#Isshiki Mitsunori
+}
+1409.1.22={
+	holder=	402574	#Isshiki Yoshitsura
+}
+1440.6.14={
+	holder=	402588	#Isshiki Norichika
+}
+1451.12.21={
+	holder=	402592	#Yoshinao Isshiki
+}
+1467.1.1={
+	holder=	409586 #Settsu no Chika
+}
+1469.1.1={
+	holder=	402123 #Nobukata Takeda
+}
+1471.6.20={
+	holder=	409587 #Kuninobu Takeda
+}
+1474.4.1={
+	holder= 402594	#Isshiki Yoshiharu
+}
+1484.9.23={
+	holder= 402592	#Isshiki Yoshinao
+}
+1487.1.1={
+	holder= 402593	#Yoshihide Isshiki
+}
+1498.6.18={
+	holder= 402596	#Yoshiari Isshiki
+}
+1506.1.1={
+	holder=	409589 #Motonobu Takeda
+}
+1509.1.1={
+	holder= 402601 #Isshiki Yoshikiyo
+}
+1519.1.1={
+	holder= 409589 #Motonobu Takeda
+}
+1521.12.31={
+	holder= 409591 #Motomitsu Takeda
+}
+1527.2.13={
+	holder= 402601 #Yoshiyuki Isshiki
+}
+1558.1.1={
+	holder= 402602 #Isshiki Yoshimichi
+}
+1573.7.1={
+	liege="e_japan"
+}
+1579.1.1={
+	holder= 402603 #Isshiki Yoshisada
+}
+1582.9.24={
+	holder= 406235	#Hosokawa Tadaoki
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
+}
+1621.1.1={
+	holder= 406250	#Hosokawa Tadatoshi
+}
+1632.5.22={
+	holder= 408721	#Takahiro Kyogoku
+}

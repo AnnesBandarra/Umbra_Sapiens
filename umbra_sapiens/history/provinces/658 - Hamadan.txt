@@ -30,3 +30,6 @@ religion = zoroastrian
 }
 
 900.1.1 = { religion = sunni }
+1503.1.1={
+	religion = shiite
+}

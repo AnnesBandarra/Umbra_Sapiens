@@ -189,10 +189,6 @@
 1045.2.5={
 	holder = 1000075047 #Emperor Go-Reizei
 }
-
- 
- 
- 
 1075.1.1={
 	holder = 403318	#Taira no Taketsuna
 }
@@ -210,6 +206,9 @@
 }
 1185.12.5={
 	holder = 403347	#Shigetoki Kawagoe
+}
+1192.7.12={
+	liege="k_japan"
 }
 1235.1.1={
 	holder = 403405	#Yasushige Kawagoe 
@@ -230,5 +229,78 @@
 	holder = 403354	#Naoshige Kawagoe
 }
 1368.5.2={
-	holder = 0
+	holder = 408236	#Yoshinori Uesugi
+}
+1378.5.14={
+	holder = 408237	#Noriharu Uesugi
+}
+1379.3.25={
+	holder = 408238	#Norikata Uesugi
+}
+1394.11.17={
+	holder= 408244 #Uesugi Norisada
+}
+1397.1.1={
+	holder= 411150	#Tomomune UESUGI
+}
+1409.1.1={
+	holder= 411151 #Ujinori Uesugi
+}
+1417.1.27={
+	holder= 408262 #Norimi UESUGI
+}
+1439.1.1={
+	holder= 408264 #Kiyokata Uesugi
+}
+1444.1.1={
+	holder= 408271 #Noritada Uesugi
+}
+1455.1.15={
+	holder= 408272 #Fusaki Uesugi
+}
+1466.2.26={
+	holder= 410039 #Kensada Uesugi
+}
+1510.7.25={
+	holder= 411047 #Uesugi Akizane
+}
+1512.1.1={
+	holder= 411048 #Norifusa UESUGI 
+}
+1525.1.1={
+	holder= 402872 #Norihiro UESUGI
+}
+1531.1.1={
+	holder= 411049 #Norimasa UESUGI
+}
+1537.1.1={
+	holder = 410828	#Hojo Ujitsuna
+}
+1541.8.10={
+	holder = 410843	#Ujiyasu Hojo
+}
+1571.10.21={
+	holder = 410856	#Ujimasa HOJO
+}
+1573.7.1={
+	liege="e_japan"
+}
+1590.8.4={
+	holder = 402973	#Matsudaira Ietada
+	liege="d_tokai"
+}
+1592.1.1={
+	holder = 403152	#Matsudaira Tadayoshi
+}
+1600.1.1={
+	holder = 403142	#Shogun
+}
+1603.3.24={
+	liege="k_japan"
+}
+1605.4.16={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
 }

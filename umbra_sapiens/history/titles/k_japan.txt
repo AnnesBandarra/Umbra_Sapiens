@@ -1,0 +1,124 @@
+1192.7.12={
+	holder=	405016 #Minamoto no Yoritomo
+	liege="e_japan"
+	capital = 2858
+	law = law_voting_power_0
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+	law = revoke_title_law_2
+	law = ze_administration_laws_2
+	law = crown_authority_4
+}
+1199.2.9={
+	holder=	405059 #Minamoto no Yoriie
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
+	law = revoke_title_law_0
+	law = crown_authority_0
+}
+1203.9.7={
+	holder=	405062 #Minamoto no Sanetomo
+}
+1219.2.13={
+	holder=	401122 #Fujiwara no Yoritsune
+}
+1245.9.11={
+	holder=	401136 #Fujiwara no Yoritsugu
+}
+1252.3.31={
+	holder=	400334 #Prince Munetaka
+}
+1266.8.22={
+	holder=	400345 #Prince Koreyasu
+}
+1289.9.29={
+	holder=	400362 #Prince Hisaaki
+}
+1308.8.20={
+	holder=	400367 #Prince Morikuni
+}
+1333.7.4={
+	holder=	399647 #Prince Moriyoshi
+	capital= 2004
+}
+1335.8.12={
+	holder=	399642 #Prince Narinaga
+}
+1336.7.5={
+	holder= 402744	#Ashikaga Takauji
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+	law = revoke_title_law_2
+	law = ze_administration_laws_2
+	law = crown_authority_4
+}
+1358.6.7={
+	holder=	402749 #Ashikaga Yoshiakira
+}
+1367.12.28={
+	holder=	402763 #Ashikaga Yoshimitsu
+}
+1395.1.8={
+	holder=	402775 #Ashikaga Yoshimochi
+}
+1423.1.1={
+	holder=	402782 #Ashikaga Yoshikazu
+}
+1425.3.17={
+	holder=	402777 #Ashikaga Yoshinori
+}
+1441.7.12={
+	holder=	402786 #Ashikaga Yoshikatsu
+}
+1443.8.16={
+	holder=	402788 #Ashikaga Yoshimasa
+}
+1473.1.1={
+	holder=	402825 #Ashikaga Yoshihisa
+}
+1489.4.26={
+	holder=	402830 #Ashikaga Yoshitane
+}
+1493.1.1={
+	holder=	402793 #Ashikaga Yoshizumi
+}
+1508.1.1={
+	holder=	402830 #Ashikaga Yoshitane
+}
+1521.5.1={
+	holder=	402795 #Ashikaga Yoshiharu
+}
+1546.1.1={
+	holder=	402797 #Ashikaga Yoshiteru
+}
+1565.6.17={
+	holder=	402819 #Ashikaga Yoshihide
+}
+1568.10.28={
+	holder=	402798 #Ashikaga Yoshiaki
+}
+1573.7.1={
+	holder= 0	#Oda conquers Kyoto
+}
+1603.3.24={
+	holder = 403142	#Tokugawa Ieyasu
+	capital = 2857
+}
+1605.4.16={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
+}

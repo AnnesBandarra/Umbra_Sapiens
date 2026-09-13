@@ -228,6 +228,9 @@
 1191.1.1={
 	holder=405778	#Sukeyori Muto
 }
+1192.7.12={
+	liege="k_japan"
+}
 1228.9.24={
 	holder=405779	#Sukeyoshi Shoni
 }
@@ -274,6 +277,9 @@
 	holder = 401486	#Yoshishige OTOMO
 	liege="d_kyushu"
 }
+1573.7.1={
+	liege="e_japan"
+}
 1576.1.1={
 	holder = 401490	#Yoshimune Otomo
 }
@@ -285,6 +291,9 @@
 }
 1600.10.19={
 	holder=406215	#Kuroda Nagamasa
+}
+1603.3.24={
+	liege="k_japan"
 }
 1623.8.29={
 	holder=406219	#Tadayuki Kuroda

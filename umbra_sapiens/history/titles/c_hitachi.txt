@@ -193,31 +193,28 @@
 1097.3.13={
 	holder = 1000075351 #Emperor Horikawa
 }
-1100.1.1={
-	holder = 401770	#Satake no Yoshinari
+1189.1.1={
+	holder = 410229	#Tomoie Hatta
 }
-1133.4.4={
-	holder = 401778	#Satake no Masayoshi
+1192.7.12={
+	liege="k_japan"
 }
-1147.1.1={
-	holder = 401785	#Takayoshi Satake
+1203.1.1={
+	holder = 410322	#Tomoshige Oda
 }
-1183.6.11={
-	holder = 401793	#Hideyoshi Satake
+1229.1.16={
+	holder = 411267	#Yasutomo Oda
 }
-1226.1.17={
-	holder = 401797	#Yoshishige SATAKE
+1245.6.15={
+	holder = 411272	#Tokitomo Oda
 }
-1252.4.5={
-	holder = 401801	#Nagayoshi Satake
+1301.1.1={
+	holder = 411277	#Tokitomo Oda
 }
-1272.8.21={
-	holder = 401808	#Yoshitane Satake
+1317.1.1={
+	holder = 406983	#Hojo Tokitsuna
 }
-1278.5.15={
-	holder = 401809	#Yukiyoshi Satake
-}
-1305.10.30={
+1333.7.4={
 	holder = 401815	#Sadayoshi Satake
 }
 1352.10.18={
@@ -250,9 +247,19 @@
 1565.11.25={
 	holder = 405302	#Satake Yoshishige
 }
-1612.5.19={
-	holder = 405311	#Satake Yoshinobu
+1573.7.1={
+	liege="e_japan"
 }
-1633.3.5={
-	holder = 405318	#Satake Yoshitaka
+1602.1.1={
+	holder= 403154 #Takeda Nobuyoshi
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
+}
+1603.10.15={
+	holder= 403157 #Tokugawa Yorinobu
+}
+1609.1.1={
+	holder= 403158 #Tokugawa Yorifusa
 }

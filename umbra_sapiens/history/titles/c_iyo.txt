@@ -224,6 +224,9 @@
 1181.1.1={
 	holder = 406361	#Kono Michinobu
 }
+1192.7.12={
+	liege="k_japan"
+}
 1223.6.19={
 	holder = 406366	#Michihisa Kono
 }
@@ -266,26 +269,36 @@
 1568.1.1={
 	holder = 406410	#Kono Michinao
 }
+1573.7.1={
+	liege="e_japan"
+}
 1585.6.18={
 	holder = 406542	#Chōsokabe Motochika
+	liege="d_shikoku"
 }
 1585.8.23={
 	holder = 403794	#Kobayakawa Takakage under Hideyoshi
+	liege="d_tokai"
 }
 1597.7.26={
 	holder = 406413	#Kobayakawa Hideaki
 }
 1600.8.25={
 	holder= 406412	#Kono Restoration attempt
+	liege="e_japan"
 }
 1600.10.5={
 	holder= 406415	#Katō Yoshiaki
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
 }
 1627.1.1={
 	holder= 406445	#Gamō Tadatomo
 }
 1634.10.9={
-	holder=0	#Shogun
+	holder = 403181	#Tokugawa Iemitsu
 }
 1635.10.10={
 	holder= 406480	#Matsudaira Sadayuki

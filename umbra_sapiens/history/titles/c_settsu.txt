@@ -203,8 +203,11 @@
 1184.3.20={
 	holder= 401856 #Ōuchi Koreyoshi
 }
+1192.7.12={
+	liege="k_japan"
+}
 1221.1.1={
-	holder=0	#Munemasa Naganuma
+	holder=407977	#Munemasa Naganuma
 }
 1222.1.1={
 	holder=407968	#Adachi Kagemori
@@ -213,7 +216,16 @@
 	holder=407972	#Nomoto Tokitoki
 }
 1230.1.1={
-	holder=0	#Shogun
+	holder=	406781 #Yasutoki Hojo
+}
+1242.7.14={
+	holder=	406902 #Hojo Tsunetoki
+}
+1246.5.17={
+	holder=	406903 #Hojo Tokiyori
+}
+1256.1.1={
+	holder=	406875 #Hojo Nagatoki
 }
 1263.1.1={
 	holder=406876	#Tokishige Hojo
@@ -228,9 +240,33 @@
 	holder= 406944	#Hojo Kanetoki
 }
 1295.10.27={
-	holder=0	#Shogun
+	holder = 406915	#Hojo Sadatoki
 }
-1333.6.1={
+1301.8.22={
+	holder = 406929	#Hojo Morotoki
+}
+1311.11.3={
+	holder = 406763	#Hojo Munenobu
+}
+1312.7.16={
+	holder = 406851	#Hojo Hirotoki
+}
+1315.8.18={
+	holder = 409617	#Hojo Mototoki
+}
+1316.7.28={
+	holder = 406920	#Hojo Takatoki
+}
+1326.4.19={
+	holder = 406823	#Hojo Sadaaki
+}
+1326.5.29={
+	holder = 406894	#Hojo Moritoki
+}
+1333.6.30={
+	holder = 406833	#Hojo Sadayuki
+}
+1333.7.4={
 	holder=407589	#Norisuke Akamatsu
 }
 1351.5.4={
@@ -302,10 +338,26 @@
 }
 1568.1.1={
 	holder= 407712	#Oda Nobunaga conquest give to Murashige ARAKI
+	liege="d_tokai"
 }
 1579.11.1={
 	holder=407646	#Tsuneoki IKEDA
 }
 1583.1.1={
-	holder=0 #Not sure when but became part of shogunal land
+	holder=411305 #Toyotomi Hideyoshi
+}
+1598.9.18={
+	holder=411308 #Hideyori Toyotomi
+}
+1600.10.21={
+	holder = 403142	#Tokugawa Ieyasu
+}
+1603.3.24={
+	liege="k_japan"
+}
+1605.4.16={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
 }

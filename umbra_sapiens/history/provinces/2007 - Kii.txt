@@ -20,3 +20,7 @@ culture = japanese
 religion = buddhist
 
 # History
+
+825.1.1={
+	religion="nihon_shinto"
+}

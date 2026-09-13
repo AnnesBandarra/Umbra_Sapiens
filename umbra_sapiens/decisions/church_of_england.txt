@@ -126,7 +126,7 @@ decisions = {
 		add_trait = theologian
 		}
 		}
-			set_global_flag=church_of_england
+			set_global_flag = church_of_england
 		}
 		ai_will_do = {
 			factor = 1

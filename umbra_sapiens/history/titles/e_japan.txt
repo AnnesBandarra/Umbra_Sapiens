@@ -63,6 +63,18 @@
 707.7.18={
 	holder = 1000075019 #Empress Genmei
 	law = succ_primogeniture
+	law = law_voting_power_1
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
+	law = vassal_wars_law_2
+	law = revoke_title_law_2
+	law = ze_administration_laws_2
+	law = crown_authority_4
+	law = vice_royalty_2
 }
 
 715.10.3={
@@ -179,6 +191,12 @@
 
 1068.5.22={
 	holder = 1000075048 #Emperor Go-Sanjo
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
 }
 
 1073.1.18={
@@ -224,7 +242,18 @@
 1183.9.8={
 	holder = 1000075360 #Emperor Go-Toba
 }
-
+1192.7.12={
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
+	law = vassal_wars_law_0
+	law = revoke_title_law_0
+	law = crown_authority_0
+	law = vice_royalty_0
+}
 1198.2.18={
 	holder = 1000075361 #Emperor Tsuchimikado
 }
@@ -280,7 +309,22 @@
 1318.3.29={
 	holder = 1000075375 #Emperor Go-Daigo
 }
-
+1333.7.4={
+	law = war_voting_power_0
+	law = revoke_title_voting_power_0
+	law = imprison_voting_power_0
+	law = grant_title_voting_power_0
+	law = banish_voting_power_0
+	law = execution_voting_power_0
+}
+1336.7.5={
+	law = war_voting_power_1
+	law = revoke_title_voting_power_1
+	law = imprison_voting_power_1
+	law = grant_title_voting_power_1
+	law = banish_voting_power_1
+	law = execution_voting_power_1
+}
 1339.9.18={
 	holder = 399643	#Emperor Go-Murakami
 }

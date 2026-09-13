@@ -1,0 +1,42 @@
+1336.7.5={
+	holder= 400411	#Emperor Kōmyō
+}
+1348.11.18={
+	holder= 400439	#Emperor Sukō
+}
+1351.11.26={
+	holder= 400440	#Emperor Go-Kōgon
+}
+1371.4.9={
+	holder= 400444	#Emperor Go-En'yū
+}
+1382.5.24={
+	holder= 400464	#Emperor Go-Komatsu
+}
+1412.10.5={
+	holder = 400467	#Emperor Shoko
+}
+1428.8.30={
+	holder = 400477	#Emperor Go-Hanazono
+}
+1464.8.21={
+	holder = 400487	#Emperor Go-Tsuchimikado
+}
+1500.10.21={
+	holder = 400490	#Emperor Go-Kashiwabara
+}
+1526.5.18={
+	holder = 400501	#Emperor Go-Nara
+}
+1557.9.27={
+	holder = 400507	#Emperor Ōgimachi
+}
+1586.12.17={
+	holder = 400516	#Emperor Go-Yōzei
+}
+1611.5.9={
+	holder = 400530	#Emperor Go-Mizunoo
+}
+1629.12.22={
+	holder = 400556	#Empress Meisho
+}

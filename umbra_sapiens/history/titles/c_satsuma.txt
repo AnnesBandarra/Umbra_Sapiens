@@ -215,7 +215,10 @@
 1183.9.8={
 	holder = 1000075360 #Emperor Go-Toba
 }
-
+1192.7.12={
+	holder=	405016 #Minamoto no Yoritomo
+	liege="k_japan"
+}
 1197.1.1={
 	holder = 405521	#Tadahisa Shimazu
 }
@@ -270,6 +273,12 @@
 1566.1.1={
 	holder = 405736	#Yoshihisa Shimazu
 }
+1573.7.1={
+	liege="e_japan"
+}
 1587.1.1={
 	holder = 405736	#Yoshikata Ito
+}
+1603.3.24={
+	liege="k_japan"
 }

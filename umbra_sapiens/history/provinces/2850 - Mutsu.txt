@@ -8,7 +8,7 @@ max_settlements = 5
 b_hiraizumi = tribal
 #b_tosaminato = city
 
-#b_hei = temple
+b_hei = temple
 #b_toba = castle
 #b_iwate = castle
 #b_tsugaru = castle
@@ -21,3 +21,13 @@ culture = emishi
 religion = ainu_pantheism
 
 # History
+900.1.1={
+	b_hiraizumi = castle
+}
+1000.1.1={
+	b_tosaminato = city
+}
+1100.1.1={
+	culture="japanese"
+	religion="nihon_shinto"
+}

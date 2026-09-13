@@ -1,5 +1,8 @@
 1559.11.1={
 	holder = 401486	#Yoshishige OTOMO
+	liege="k_japan"
+}
+1573.7.1={
 	liege="e_japan"
 }
 1576.1.1={

@@ -219,6 +219,9 @@
 1185.4.25={
 	holder= 406654	#Masuda Kanehisa
 }
+1192.7.12={
+	liege="k_japan"
+}
 1225.1.1={
 	holder= 406655	#Masuda Kanezuki
 }
@@ -261,12 +264,27 @@
 1544.2.12={
 	holder= 406675	#Masuda Tadakane
 }
+1557.4.1={
+	liege="d_sanyo"
+}
 1565.10.6={
 	holder= 406680	#Fujikane Masuda
+}
+1583.1.1={
+	liege="d_tokai"
 }
 1597.1.18={
 	holder= 406682	#Motoso Masuda
 }
 1601.10.10={
-	holder= 0 #Shogunate direct control due to gold mines
+	holder = 403142	#Tokugawa Ieyasu
+}
+1603.3.24={
+	liege="k_japan"
+}
+1605.4.16={
+	holder = 403151	#Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
 }

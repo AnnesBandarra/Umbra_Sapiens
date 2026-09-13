@@ -227,5 +227,90 @@
 	holder=404937	#Fujiwara no Yasuhira
 }
 1189.10.14={
-	holder=404937	#Fujiwara no Yasuhira
+	holder=401893	#Nanbu Mitsuyuki
+	liege="e_japan"
+}
+1192.7.12={
+	liege="k_japan"
+}
+1236.4.25={
+	holder=401952	#Sanemitsu Nanbu
+}
+1255.2.3={
+	holder=401960	#Nanbu Tokimi
+}
+1260.1.1={
+	holder=410127	#Nanbu Masamitsu
+}
+1265.9.3={
+	holder=410128	#Nanbu Munetsune
+}
+1283.6.13={
+	holder=410147	#Nanbu Muneyuki
+}
+1315.1.1={
+	holder=410148	#Nanbu Sukeyuki
+}
+1318.1.1={
+	holder=410152	#Nanbu Motoki
+}
+1333.7.4={
+	holder=410153	#Nanbu Nobunaga
+}
+1340.1.1={
+	holder=410157	#Masayuki Nanbu
+}
+1388.11.17={
+	holder=410158	#Nanbu Moriyuki
+}
+1437.5.13={
+	holder=410159	#Nanbu Yoshimasa
+}
+1440.8.9={
+	holder=410160	#Nanbu Masamori
+}
+1442.1.1={
+	holder=410161	#Nanbu Sukemasa
+}
+1445.1.1={
+	holder=410163	#Nanbu Mitsumasa
+}
+1450.1.1={
+	holder=410164	#Nanbu Tokimasa
+}
+1473.4.2={
+	holder=410165	#Nanbu Michitsugu
+}
+1485.1.1={
+	holder=410167	#Nanbu Nobutoki
+}
+1502.1.11={
+	holder=410168	#Nanbu Nobuyoshi
+}
+1503.6.18={
+	holder=410169	#Masayasu Nanbu
+}
+1507.3.23={
+	holder=410181	#Nanbu Yasunobu
+}
+1541.1.1={
+	holder=410186	#Harumasa Nanbu
+}
+1573.7.1={
+	liege="e_japan"
+}
+1582.1.27={
+	holder=410187	#Harutsugu Nanbu
+}
+1582.2.16={
+	holder=410188	#Nobunao Nanbu
+}
+1599.11.22={
+	holder=410191	#Toshinao Nanbu
+}
+1603.3.24={
+	liege="k_japan"
+}
+1632.10.1={
+	holder=410194	#Nanbu Shigenao
 }

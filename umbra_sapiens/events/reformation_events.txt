@@ -564,7 +564,7 @@ narrative_event = {
 	id = reformationevents.6
 	title = EVTNAMEreformationevents.6
 	desc = EVTDESCreformationeventsR.6
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -637,7 +637,7 @@ narrative_event = {
 	id = reformationevents.7
 	title = EVTNAMEreformationevents.7
 	desc = EVTDESCreformationeventsR.7
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -729,7 +729,7 @@ narrative_event = {
 	id = reformationevents.8
 	title = EVTNAMEreformationevents.8
 	desc = EVTDESCreformationeventsR.8
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1002,7 +1002,7 @@ narrative_event = {
 	id = reformationevents.9
 	title = EVTNAMEreformationevents.9
 	desc = EVTDESCreformationeventsR.9
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1256,7 +1256,7 @@ narrative_event = {
 	id = reformationevents.10
 	title = EVTNAMEreformationevents.10
 	desc = EVTDESCreformationeventsR.10
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1330,7 +1330,7 @@ narrative_event = {
 	id = reformationevents.11
 	title = EVTNAMEreformationevents.11
 	desc = EVTDESCreformationeventsR.11
-	picture = GFX_evt_heretic_monk
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1835,7 +1835,7 @@ narrative_event = {
 	id = reformationevents.14
 	title = EVTNAMEreformationevents.14
 	desc = EVTDESCreformationeventsR.14
-	picture = GFX_evt_courtiers_looking_scandalized
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1908,7 +1908,7 @@ narrative_event = {
 	id = reformationevents.15
 	title = EVTNAMEreformationevents.15
 	desc = EVTDESCreformationeventsR.15
-	picture = GFX_evt_book_carolingian_script_cm
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -1981,7 +1981,7 @@ narrative_event = {
 	id = reformationevents.16
 	title = EVTNAMEreformationevents.16
 	desc = EVTDESCreformationeventsR.16
-	picture = GFX_evt_diplomatic_incident
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes
@@ -2217,7 +2217,7 @@ narrative_event = {
 	id = reformationevents.17
 	title = EVTNAMEreformationevents.17
 	desc = EVTDESCreformationeventsR.17
-	picture = GFX_evt_church_council_cm
+	picture = GFX_evt_beatification
 	border = GFX_event_narrative_frame_religion
 
 	major = yes

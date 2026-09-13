@@ -1,0 +1,9 @@
+1400.1.1={
+	liege = k_japan
+}
+1573.7.1={
+	liege = e_japan
+}
+1603.3.24={
+	liege = k_japan
+}

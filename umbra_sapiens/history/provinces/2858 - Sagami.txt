@@ -4,7 +4,7 @@
 title = c_sagami
 
 # Settlements
-max_settlements = 5
+max_settlements = 6
 b_kamakura = castle
 b_ashigara = castle
 b_aiko = castle
@@ -20,3 +20,7 @@ culture = japanese
 religion = nihon_shinto
 
 # History
+1192.7.12={
+	b_matsuzaki = castle
+	b_oba = castle
+}

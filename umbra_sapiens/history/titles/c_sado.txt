@@ -219,6 +219,9 @@
 1185.4.25={
 	holder= 406598	#Honma Yoshihisa
 }
+1192.7.12={
+	liege="k_japan"
+}
 1200.1.1={
 	holder= 406599
 }
@@ -261,12 +264,25 @@
 1552.1.1={
 	holder= 406612
 }
+1573.7.1={
+	liege="e_japan"
+}
 1587.1.1={
 	holder= 406613
 }
 1589.1.1={
-	holder= 0	#Deposed by Uesugi Kagekatsu
+	holder= 410053	#Uesugi Kagekatsu
 }
 1600.10.21={
-	holder= 0	#Tokugawa Ieyasu direct control
+	holder= 403142	#Tokugawa Ieyasu
+	liege="d_tokai"
+}
+1603.3.24={
+	liege="k_japan"
+}
+1605.4.16={
+	holder= 403151 #Tokugawa Hidetada
+}
+1623.8.23={
+	holder = 403181	#Tokugawa Iemitsu
 }

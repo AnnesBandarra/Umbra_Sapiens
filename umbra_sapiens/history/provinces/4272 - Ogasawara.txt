@@ -10,8 +10,8 @@ b_ogasawara = tribal
 #b_iwojima
 
 # Misc
-culture = japanese
-religion = nihon_shinto
+culture = zealander
+religion = maori_religion
 
 # History
 

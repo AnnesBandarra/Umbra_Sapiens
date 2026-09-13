@@ -216,20 +216,31 @@
 	holder = 1000075360 #Emperor Go-Toba
 }
 
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1187.1.1={
+	holder = 401856	#Koreyoshi Ouchi
 }
-
-1201.1.1={
-	holder = 405339	#Mitsuhira Toki
+1192.7.12={
+	liege="k_japan"
 }
-1206.3.20={
-	holder = 405342	#Mitsuyuki Toki
+1221.1.1={
+	holder = 401874	#Korenobu Ouchi
 }
-1249.10.26={
-	holder = 405356	#Mitsusada Toki
+1252.1.1={
+	holder = 410244	#Yasutsuna Utsunomiya
 }
-1281.9.25={
+1260.11.24={
+	holder = 410247	#Utsunomiya Kagetsuna
+}
+1285.1.1={
+	holder = 406839	#Tokimura Hojo
+}
+1305.5.17={
+	holder = 406851	#Hirotoki Hojo
+}
+1315.8.18={
+	holder = 406854	#Motoki Hojo
+}
+1333.7.4={
 	holder = 405368	#Yorisada Toki
 }
 1339.4.1={
@@ -278,5 +289,30 @@
 	holder = 405452	#Yorikei Toki
 }
 1552.1.1={
-	holder = 0 #Lost Mino
+	holder = 410349 #Dosan Saito
+}
+1556.5.28={
+	holder = 410351 #Yoshitatsu Saito
+}
+1561.6.23={
+	holder = 410360 #Tatsuoki Saito
+}
+1567.9.27={
+	holder = 410448 #Oda Nobunaga
+	liege="d_tokai"
+}
+1582.6.21={
+	holder = 410570 #Akechi Mitsuhide
+}
+1582.6.13={
+	holder = 411305 #Toyotomi Hideyoshi
+}
+1600.1.1={
+	holder = 403142 #Shogun
+}
+1603.3.24={
+	liege="k_japan"
+}
+1635.1.1={
+	holder = 410582 #Toda Ujikan
 }

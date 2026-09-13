@@ -20,3 +20,18 @@ culture = emishi
 religion = ainu_pantheism
 
 # History
+900.1.1={
+	b_taga = castle
+}
+1000.1.1={
+	b_kesen = city
+	b_shirakawa = temple
+	culture="japanese"
+	religion="nihon_shinto"
+}
+1100.1.1={
+	b_iwaki = castle
+}
+1200.1.1={
+	b_aizu = castle
+}

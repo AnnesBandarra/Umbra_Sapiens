@@ -200,34 +200,6 @@
 	holder = 1000075356 #Emperor Nijo
 }
 
-1045.2.5={
-	holder = 1000075047 #Emperor Go-Reizei
-}
-
-1097.3.13={
-	holder = 1000075351 #Emperor Horikawa
-}
-
-1107.8.9={
-	holder = 1000075352 #Emperor Toba
-}
-
-1123.2.19={
-	holder = 1000075353 #Emperor Sutoku
-}
-
-1142.1.5={
-	holder = 1000075355 #Emperor Konoe
-}
-
-1155.8.23={
-	holder = 1000075354 #Emperor Go-Shirakawa
-}
-
-1158.9.5={
-	holder = 1000075356 #Emperor Nijo
-}
-
 1165.8.3={
 	holder = 1000075357 #Emperor Rokujo
 }
@@ -243,31 +215,22 @@
 1183.9.8={
 	holder = 1000075360 #Emperor Go-Toba
 }
-
-1198.2.18={
-	holder = 1000075361 #Emperor Tsuchimikado
+1192.7.12={
+	holder=	405016 #Minamoto no Yoritomo
+	liege="k_japan"
 }
-
-1210.12.12={
-	holder = 1000075362 #Emperor Juntoku
+1199.2.9={
+	holder=	406693 #Tokimasa Hojo
 }
-
-1221.5.13={
-	holder = 1000075363 #Emperor Chukyo
+1205.1.1={
+	holder=	406695 #Yoshitoki Hojo
 }
-
-1221.7.29={
-	holder = 1000075365 #Emperor Go-Horikawa
+1224.6.13={
+	holder=	406781 #Yasutoki Hojo
 }
-
-1232.11.17={
-	holder = 1000075366 #Emperor Shijo
+1242.7.14={
+	holder=	406902 #Hojo Tsunetoki
 }
-
-1242.2.21={
-	holder = 1000075367 #Emperor Go-Saga
-}
-
 1246.1.1={
 	holder = 403502 #Shigehisa SOSHIGEHISA
 }
@@ -325,8 +288,14 @@
 1566.1.1={
 	holder = 405938 #So Yoshizumi
 }
+1573.7.1={
+	liege="e_japan"
+}
 1579.1.1={
 	holder = 405939 #So Yoshitomo
+}
+1603.3.24={
+	liege="k_japan"
 }
 1615.1.31={
 	holder = 405940 #So Yoshishige

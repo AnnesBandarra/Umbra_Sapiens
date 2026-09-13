@@ -120,9 +120,14 @@
 	holder=370292 # D.Manuel
 	liege=e_portugal_7
 }
+1507.6.5={
+	holder=370360	#Infante Ferdinand, Duke of Guarda
+}
 1521.12.13={
-	holder=370356 # D.João III
 	liege=e_portugal_8
+}
+1534.11.7 = {
+	holder=370356 # D.João III
 }
 1557.6.11={
 	holder=371944 # D.Sebastião

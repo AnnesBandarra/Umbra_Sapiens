@@ -2,10 +2,10 @@ far_east;Far East;;;;;;;;;;;;;x
 japanese;Yamato;;;;;;;;;;;;;x
 ainu;Ainu;;;;;;;;;;;;;x
 ryukyuan;Ryukyuan;;;;;;;;;;;;;x
-emperor_japanese;Shogun;;;;;;;;;;;;;x
+emperor_japanese;Tenno;;;;;;;;;;;;;x
 emperor_female_japanese;Kogo;;;;;;;;;;;;;x
-king_japanese;Kokuo;;;;;;;;;;;;;x
-king_female_japanese;Jo'o;;;;;;;;;;;;;x
+king_japanese;Shogun;;;;;;;;;;;;;x
+king_female_japanese;Midaidokoro;;;;;;;;;;;;;x
 duke_japanese;Daimyo;;;;;;;;;;;;;x
 duke_female_japanese;Daimyo;;;;;;;;;;;;;x
 duchy_of_japanese;Circuit of;;;;;;;;;;;;;x
@@ -16,15 +16,15 @@ baron_japanese;Gunji;;;;;;;;;;;;;x
 baron_female_japanese;Gunji;;;;;;;;;;;;;x
 barony_of_japanese;Manor of;;;;;;;;;;;;;x
 title_regent_japanese;Sessho;;;;;;;;;;;;;x
-title_ruler_consort_japanese;Kokuo;;;;;;;;;;;;;x
-title_ruler_consort_female_japanese;Jo'o;;;;;;;;;;;;;x
+title_ruler_consort_japanese;Shogun;;;;;;;;;;;;;x
+title_ruler_consort_female_japanese;Midaidokoro;;;;;;;;;;;;;x
 baron_title_ruler_consort_japanese;Gunji;;;;;;;;;;;;;x
 baron_title_ruler_consort_female_japanese;Kita no Kata;;;;;;;;;;;;;x
 count_title_ruler_consort_japanese;Kami;;;;;;;;;;;;;x
 count_title_ruler_consort_female_japanese;Kita no Kata;;;;;;;;;;;;;x
 duke_title_ruler_consort_japanese;Daimyo;;;;;;;;;;;;;x
 duke_title_ruler_consort_female_japanese;Midaidokoro;;;;;;;;;;;;;x
-emperor_title_ruler_consort_japanese;Shogun;;;;;;;;;;;;;x
+emperor_title_ruler_consort_japanese;Tenno;;;;;;;;;;;;;x
 emperor_title_ruler_consort_female_japanese;Kogo;;;;;;;;;;;;;x
 title_queen_mother_japanese;Kokumo;;;;;;;;;;;;;x
 emperor_title_queen_mother_female_japanese;Kotaigo;;;;;;;;;;;;;x

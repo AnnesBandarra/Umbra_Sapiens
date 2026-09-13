@@ -4,9 +4,8 @@
 title = c_ishikari
 
 # Settlements
-max_settlements = 4
+max_settlements = 7
 b_ishikari = tribal
-b_teshiho = tribal
 
 #b_satporo = castle
 #b_rurumoppe = castle
