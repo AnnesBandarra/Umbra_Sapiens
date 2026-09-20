@@ -84,7 +84,7 @@
 }
 1513.1.1={
 	liege="k_mozambique"
-	clear_tribute_suzerain = e_portugal_10
+	clear_tribute_suzerain = e_portugal_7
 }
 1515.1.1={
 	holder=394796

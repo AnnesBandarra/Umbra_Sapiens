@@ -94,17 +94,14 @@ holder=411482
 holder=411483
 }
 1404.1.25={
-holder=411486
+	holder=411486
 }
 1460.1.1 = {
-	holder=411487
+	holder=411488
 }
-1478.6.24={
-	holder=370193	#Henry IV the Impotent
-	liege="k_cas_and_leon"
-}
-1474.12.11={
+1493.5.3 = {
 	holder=370189	#Isabella I
+	liege="k_cas_and_leon"
 }
 1504.11.26={
 	holder=370344	#Joanna of Castile

@@ -140,5 +140,5 @@
 	holder=375682	#Charles I Gonzaga, Duke of Mantua
 }
 1637.9.22 = {
-	holder=375731	#Charles II de Mantoue
+	holder=375736	#Charles II Gonzaga of Mantua and Montferrat
 }

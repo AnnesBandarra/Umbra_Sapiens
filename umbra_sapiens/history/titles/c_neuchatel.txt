@@ -65,7 +65,46 @@ liege = e_hre
 {
 liege="d_savoie"
 }
-1309.8.29=
+1308.7.10=
 {
 holder=32771
+}
+1339.1.1 = {
+holder=32772
+}
+1378.1.1 = {
+holder=411424
+}
+1384.1.1 = {
+holder=411432
+}
+1408.5.18 = {
+holder=411433
+}
+1456.1.1 = {
+holder=411444	#Alwig X. von Sulz
+}
+1493.1.1 = {
+holder=411446	#Rudolf V. von Sulz
+}
+1535.1.1 = {
+holder=411449	#Johann Ludwig I. von Sulz
+}
+1536.1.1={
+liege=d_swiss
+}
+1547.1.1 = {
+holder=411453	#Alwig von Sulz
+}
+1572.1.4 = {
+holder=411455	#Rudolf IV. von Sulz
+}
+1602.1.1 = {
+holder=411456	#Karl Ludwig zu Sulz
+}
+1616.9.29 = {
+holder=411464	#Alwig von Sulz (1586–1632)
+}
+1628.1.1 = {
+holder=411472	#Karl Ludwig Ernst von Sulz
 }

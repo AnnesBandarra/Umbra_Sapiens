@@ -229,7 +229,7 @@ holder=372978	#Henry VIII of England
 	holder=373114	#Edward VI of England
 }
 1551.1.1={
-	holder=383526	#William Herbert, 1st Earl of Pembroke (died 1570)
+	holder=383544	#William Herbert, 1st Earl of Pembroke (died 1570)
 }
 1570.3.17={
 	holder=383545	#Henry Herbert, 2nd Earl of Pembroke

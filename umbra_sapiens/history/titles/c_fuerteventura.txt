@@ -87,3 +87,40 @@ holder=73656
 {
 holder=73655
 }
+1358.1.1 = {
+	holder=411482
+}
+1393.1.1 = {
+	holder=411483
+}
+1402.7.1={
+	holder=411484
+	liege="k_cas_and_leon"
+}
+1405.1.1={
+	holder=411485
+}
+1418.1.1={
+	holder=370174	#John II
+}
+1454.7.21={
+	holder=370193	#Henry IV the Impotent 
+}
+1474.12.11={
+	holder=370189	#Isabella I
+}
+1504.11.26={
+	holder=370344	#Joanna of Castile
+}
+1516.3.13={
+	holder=370714	#Charles I the Emperor
+}
+1556.1.16={
+	holder=370718 #Philip II
+}
+1598.9.13={
+	holder=371850 #Philip III
+}
+1621.3.31={
+	holder=372606 #Philip IV
+}

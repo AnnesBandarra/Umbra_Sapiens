@@ -885,6 +885,12 @@ bm_fernandine_wars = {
 	desc = "BM_FERNANDINE_WARS_INFO"
 	date = 1369.3.23
 	
+	selectable_character = {
+		id = 370008 # Rei D.Fernando I de Portugal
+	}
+	selectable_character = {
+		id = 457510 # Henry II
+	}
 }
 
 bm_interregno = {
@@ -892,6 +898,12 @@ bm_interregno = {
 	desc = "BM_INTERREGNO_INFO"
 	date = 1383.10.22
 	
+	selectable_character = {
+		id = 370013 # John I de Borgonha
+	}
+	selectable_character = {
+		id = 370145 # John I
+	}
 }
 
 bm_conquest_of_ceuta = {
@@ -899,6 +911,12 @@ bm_conquest_of_ceuta = {
 	desc = "BM_CONQUEST_OF_CEUTA_INFO"
 	date = 1415.8.21
 	
+	selectable_character = {
+		id = 370013 # John I de Borgonha
+	}
+	selectable_character = {
+		id = 378578 #Abu Said Uthman III
+	}
 }
 
 bm_conquest_of_constantinople = {
@@ -906,6 +924,12 @@ bm_conquest_of_constantinople = {
 	desc = "BM_CONQUEST_OF_CONSTANTINOPLE_INFO"
 	date = 1453.5.29
 	
+	selectable_character = {
+		id = 370205 #Alphonse V de Borgonha
+	}
+	selectable_character = {
+		id = 377984 #Mehmed II
+	}
 }
 
 bm_castillian_succession = {
@@ -913,6 +937,15 @@ bm_castillian_succession = {
 	desc = "BM_CASTILLIAN_SUCCESSION_INFO"
 	date = 1475.5.10
 	
+	selectable_character = {
+		id = 370205 #Alphonse V de Borgonha
+	}
+	selectable_character = {
+		id = 370189 #Isabella I
+	}
+	selectable_character = {
+		id = 370184	#John II the Great
+	}
 }
 
 bm_second_trip_columbus = {
@@ -920,26 +953,68 @@ bm_second_trip_columbus = {
 	desc = "BM_SECOND_TRIP_COLUMBUS_INFO"
 	date = 1494.2.6
 	
+	selectable_character = {
+		id = 370227	# John II de Borgonha
+	}
+	selectable_character = {
+		id = 370189	# Isabella I
+	}
+}
+
+bm_conquest_of_goa = {
+	name = "BM_CONQUEST_OF_GOA"
+	desc = "BM_CONQUEST_OF_GOA_INFO"
+	date = 1510.12.10
+	
+	selectable_character = {
+		id = 370292	# D.Manuel
+	}
+}
+
+bm_settling_of_macau = {
+	name = "BM_SETTLING_OF_MACAU"
+	desc = "BM_SETTLING_OF_MACAU_INFO"
+	date = 1557.1.1
+	
+	selectable_character = {
+		id = 370356	# D.João III
+	}
+}
+
+bm_fifth_empire = {
+	name = "BM_FIFTH_EMPIRE"
+	desc = "BM_FIFTH_EMPIRE_INFO"
+	date = 1568.1.20
+	
+	selectable_character = {
+		id = 371944	# D.Sebastião
+	}
 }
 
 bm_acclamation = {
 	name = "BM_ACCLAMATION"
 	desc = "BM_ACCLAMATION_INFO"
 	date = 1580.1.31
-	
+	selectable_character = {
+		id = 373146 # D. António, Prior do Crato
+	}
 }
 
 bm_iberian_union = {
 	name = "BM_IBERIAN_UNION"
 	desc = "BM_IBERIAN_UNION_INFO"
 	date = 1581.4.16
-	
+	selectable_character = {
+		id = 370718 # Filipe I de Portugal
+	}
 }
 
 bm_restauration = {
 	name = "BM_RESTAURATION"
 	desc = "BM_RESTAURATION_INFO"
 	date = 1640.12.1
-	
+	selectable_character = {
+		id = 370381 # John IV de Braganza
+	}
 }
 

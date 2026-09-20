@@ -277,8 +277,14 @@
 	liege="e_japan"
 }
 1587.1.1={
-	holder = 405736	#Yoshikata Ito
+	holder = 406073	#Suketane Ito
 }
 1603.3.24={
 	liege="k_japan"
+}
+1600.11.16={
+	holder = 406077	#Sukenori ITO
+}
+1636.5.8={
+	holder = 406080	#Sukehisa Ito
 }

@@ -4625,41 +4625,101 @@ the_changwei = {
 		}
 		modifier = {
 			has_minor_title = title_neiguanjian
-			has_minor_title = title_yuyongjian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_sishejian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_yumajian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_shengongjian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_shangshanjian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_shangbaojian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_yinshoujian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_zhidianjian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_shangyijian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_duzhijian
-			has_minor_title = title_silijian
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_xixinsi
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_zhonggusi
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_baochaosi
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_huntangsi
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_bingzhangju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_jinmaoju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_zhengongju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_neiranzhiju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_jiukumianju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_siyuanju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_huanyiju
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_yinzuochu
+			factor = 2
+		}
+		modifier = {
 			has_minor_title = title_bingbi
 			factor = 2
 		}
-		per_attribute = {
-			name = intrigue 
-			value = 0.5
-		}
-		has_trait = {
+		modifier = {
 			trait = erudite
 			value = 3
 		}
-		has_trait = {
+		modifier = {
 			trait = scholar
 			value = 3
 		}

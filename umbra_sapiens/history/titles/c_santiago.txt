@@ -222,5 +222,5 @@
 	holder=381156 # José González Villalobos, O.P. (1627-1630)
 }
 1630.1.1={
-	holder=458003 # Agustín Spínola (1630-1645)
+	holder=381157 #Agustín Spinola (1630-1645)
 }

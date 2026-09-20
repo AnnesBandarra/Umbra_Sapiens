@@ -25959,8 +25959,8 @@
 	martial=6 diplomacy=4 stewardship=4 intrigue=4 learning=5
 	add_trait=grey_eminence add_trait=gluttonous add_trait=gregarious add_trait=paranoid add_trait=honest 
 	father=1019915066	#Itigiaq
-	1314.2.2={ birth=yes }
-	1362.8.1={ death=yes }
+	1350.1.1={ birth=yes }
+	1418.1.1={ death=yes }
 }
 1019915069={
 	name=Biisaiyowaq

@@ -13,12 +13,12 @@
 }
 1194.1.1 = {
 	set_tribute_suzerain = {
-		who = k_rus
+		who = d_novgorod
 		type = permanent 
 	}
 }
 1104.1.1 = {
-	clear_tribute_suzerain = k_rus
+	clear_tribute_suzerain = d_novgorod
 	liege = "d_novgorod"
 	holder = 260305
 }

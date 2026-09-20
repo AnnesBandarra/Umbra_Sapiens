@@ -85,7 +85,7 @@
 1505.1.1={
 	holder=386413	#Sancho de Tovar
 	liege="d_sofala"
-	clear_tribute_suzerain = e_portugal_10
+	clear_tribute_suzerain = e_portugal_7
 }
 1505.5.4={
 	holder=394825	#Pêro de Anaia

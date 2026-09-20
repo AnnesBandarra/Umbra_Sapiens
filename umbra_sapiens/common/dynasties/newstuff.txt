@@ -11665,3 +11665,13 @@
 	religion="buddhist"
 	culture="bamar"
 }
+1010045338={
+	name="von Sulz"
+	religion="catholic"
+	culture="german"
+}
+1010045339={
+	name="de Bethencourt"
+	religion="catholic"
+	culture="frankish"
+}

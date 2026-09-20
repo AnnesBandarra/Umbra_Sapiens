@@ -207,6 +207,7 @@ holder=252131
 1329.8.27={
 holder=383080	#Maurice FitzGerald, 1st Earl of Desmond	
 liege=k_england
+clear_tribute_suzerain = c_desmond
 }
 1356.1.25={
 holder=383083	#Maurice FitzGerald, 2nd Earl of Desmond

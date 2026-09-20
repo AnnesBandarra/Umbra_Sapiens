@@ -1,0 +1,22 @@
+# 5165 - Drosh
+
+# County Title
+title = c_drosh
+
+# Settlements
+max_settlements = 5
+b_drosh-i = castle
+b_drosh-ii = castle
+b_drosh-iii = castle
+#b_drosh-iv = castle
+#b_drosh-v = castle
+
+# Misc
+culture = kalash
+religion = kalash_pagan
+
+# History
+1320.1.1={
+	culture=kho
+	religion=sunni
+}

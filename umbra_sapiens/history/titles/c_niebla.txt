@@ -112,3 +112,36 @@
 1309.9.9={
 	holder=458011 # Juan Alfonso de Guzmán
 }
+1351.1.1={
+	holder=380120	#Alonso Pérez de Guzmán (m. 1365)
+}
+1365.5.30={
+	holder=380121	#Juan Alonso Pérez de Guzmán (1342-1396)
+}
+1396.10.5={
+	holder=380122	#Enrique de Guzmán (1391-1436)
+}
+1436.10.31={
+	holder=380128	#Juan Alonso Pérez de Guzmán (1410-1468)
+}
+1468.12.1={
+	holder=380134	#Enrique de Guzmán (1494-1513)
+}
+1492.8.24={
+	holder=380143	#Juan Alonso Pérez de Guzmán (1464-1507)
+}
+1507.7.10={
+	holder=380147	#Enrique de Guzmán (1494-1513)
+}
+1513.1.20={
+	holder=380148	#Alonso Pérez de Guzmán (1500-1549)
+}
+1549.1.1={
+	holder=380149	#Juan Alonso Pérez de Guzmán (1502-1558)
+}
+1558.11.26={
+	holder=380154	#Alonso de Guzmán y Sotomayor, 7th Duke of Medina Sidonia
+}
+1615.1.1={
+	holder=381295	#Alonso Pérez de Guzmán y Gómez de Sandoval
+}

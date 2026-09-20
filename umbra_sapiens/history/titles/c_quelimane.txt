@@ -85,10 +85,17 @@
 1515.1.1={
 	holder=394783
 }
+1521.12.13={
+	clear_tribute_suzerain = e_portugal_7
+	set_tribute_suzerain = { 
+		who = e_portugal_8
+		type = permanent 
+	}
+}
 1544.1.1={
 	holder=394834	#João de Sepúlveda 	1541 	1548
 	liege="d_sofala"
-	clear_tribute_suzerain = e_portugal_10
+	clear_tribute_suzerain = e_portugal_8
 }
 1548.1.1={
 	holder=394835	#Fernão de Sousa de Távora 	1548 	1551

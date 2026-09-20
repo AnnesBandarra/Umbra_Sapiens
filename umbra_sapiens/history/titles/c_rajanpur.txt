@@ -161,5 +161,12 @@
 	holder = 387533 #Jani Beg Tarkhan 1585–1593 AD 
 }
 1593.1.1={
-	holder = 0	#Mughal Conquest
+	holder=385613	#Akbar
+	liege="e_rajastan"
+}
+1605.10.27={
+	holder=385628	#Shahzada Salim/Jahangir
+}
+1627.10.28={
+	holder=385648	#Shah Jahan
 }

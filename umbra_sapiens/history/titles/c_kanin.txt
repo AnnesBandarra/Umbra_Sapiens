@@ -1,43 +1,50 @@
 769.1.1 = {
-	liege = "d_bjarmia"
-	holder = 260302
+	holder = 260266
 }
 867.1.1 = {
-	holder = 260303
+	holder = 260267
 }
 936.1.1 = {
-	holder = 260774
+	holder = 260776
 }
 1066.1.1 = {
-	holder = 260304
+	holder = 260268
 }
-1194.1.1 = {
+1105.1.1 = {
+	holder = 260269
+}
+1118.1.1 = {
 	set_tribute_suzerain = {
-		who = d_novgorod
+		who = k_rus
 		type = permanent 
 	}
 }
-1104.1.1 = {
-	clear_tribute_suzerain = d_novgorod
-	liege = "d_novgorod"
-	holder = 260305
+1128.1.1 = {
+	clear_tribute_suzerain = k_rus
+	liege="d_novgorod"
 }
 1136.1.2 = {
-	liege = "d_bjarmia"
+	liege = "d_samoyed"
 }
-1168.1.1 = {
-	holder = 260306
+1155.1.1 = {
+	holder = 260270
 }
-1205.1.1 = {
-	holder = 260307
+1204.1.1 = {
+	holder = 260271
 }
-1250.1.1 = {
-	holder = 260308
+1261.1.1 = {
+	holder = 260272
 }
-1308.1.1 = {
-	holder = 260309
+1303.1.1 = {
+	holder = 260273
 }
-1351.1.1 = {
+1345.1.1 = {
+	holder=384651	#Ostafiy Dvoryaninets 	? — 1346 	1344-1345	
+}
+1346.1.1={
+	holder=125260	#Fyodor Danilovich 	? — ? 	1348-1350
+}
+1349.1.1={
 	holder=384652	#Ontsifor Lukinich 	? — ? 	1350-1351
 }
 1352.1.1={

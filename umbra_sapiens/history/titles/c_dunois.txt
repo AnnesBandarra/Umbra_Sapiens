@@ -6,8 +6,8 @@
 	liege=k_france
 	holder=163065
 }
-936.1.1 = {
-	holder = 382
+923.1.1={
+	holder = 6444 #Hugues I le Grand
 	liege = d_valois
 }
 1037.11.15 = {
@@ -22,6 +22,7 @@
 1102.5.19={
 	holder=91331 #Guillaume de Blois
 }
+
 1107.1.1 = {
 	holder = 205891 #Thibaut III le Grand
 }
