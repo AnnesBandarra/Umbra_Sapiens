@@ -19,6 +19,6 @@ religion = west_african_pagan
 	b_laspalmas = castle
 	b_maspaiomas = temple
 	b_telde = city
-	culture = castillian
+	culture = castillan
 	religion = catholic
 }

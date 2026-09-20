@@ -27,6 +27,6 @@ religion = west_african_pagan
 1493.5.3 = {
 	b_costaadeje = temple
 	b_lagomera = city
-	culture = castillian
+	culture = castillan
 	religion = catholic
 }

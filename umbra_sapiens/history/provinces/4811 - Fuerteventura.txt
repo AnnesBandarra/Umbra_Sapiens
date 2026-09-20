@@ -19,6 +19,6 @@ religion = west_african_pagan
 	b_grantarajal = castle
 	b_arrecife = temple
 	b_elmatorral = city
-	culture = castillian
+	culture = castillan
 	religion = catholic
 }
