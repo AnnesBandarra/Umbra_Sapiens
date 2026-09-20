@@ -14,3 +14,11 @@ culture = maghreb_arabic
 religion = west_african_pagan
 
 # History
+
+1478.6.24={
+	b_laspalmas = castle
+	b_maspaiomas = temple
+	b_telde = city
+	culture = castillian
+	religion = catholic
+}

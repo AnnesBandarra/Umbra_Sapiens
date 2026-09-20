@@ -14,3 +14,11 @@ culture = maghreb_arabic
 religion = west_african_pagan
 
 # History
+
+1402.7.1={
+	b_grantarajal = castle
+	b_arrecife = temple
+	b_elmatorral = city
+	culture = castillian
+	religion = catholic
+}

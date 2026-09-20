@@ -23,3 +23,10 @@ religion = west_african_pagan
 	b_lanzarote = castle
 }
 1198.1.1 = { trade_post = b_doria }
+
+1493.5.3 = {
+	b_costaadeje = temple
+	b_lagomera = city
+	culture = castillian
+	religion = catholic
+}
